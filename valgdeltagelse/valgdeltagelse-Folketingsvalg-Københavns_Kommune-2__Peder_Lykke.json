@@ -2,7 +2,7 @@
   "Afstemningsområde": "2. Peder Lykke",
   "AfstemningsområdeDagiId": "749401",
   "AfstemningsområdeNummer": 62,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:30:16",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 4566,
       "AntalStemmeberretigedeVælgere": 6632,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5289,
+      "AntalStemmeberretigedeVælgere": 6632,
+      "Tidspunkt": "20:05:00"
     }
   ]
 }
