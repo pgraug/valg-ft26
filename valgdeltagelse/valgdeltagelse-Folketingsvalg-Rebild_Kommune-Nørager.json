@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nørager",
+  "AfstemningsområdeDagiId": "712164",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:17:24",
+  "Kommune": "Rebild",
+  "Kommunekode": 840,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 600,
+      "AntalStemmeberretigedeVælgere": 2117,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
