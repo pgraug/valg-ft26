@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ølgod",
   "AfstemningsområdeDagiId": "710690",
   "AfstemningsområdeNummer": 30,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:19:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:16:20",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 985,
       "AntalStemmeberretigedeVælgere": 4145,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1890,
+      "AntalStemmeberretigedeVælgere": 4145,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

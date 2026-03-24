@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ellevangskolen, Risskov",
   "AfstemningsområdeDagiId": "711392",
   "AfstemningsområdeNummer": 65,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:15:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:16:20",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2483,
       "AntalStemmeberretigedeVælgere": 8022,
       "Tidspunkt": "11:55:00"
+    },
+    {
+      "AfgivneStemmer": 3606,
+      "AntalStemmeberretigedeVælgere": 8022,
+      "Tidspunkt": "14:54:00"
     }
   ]
 }
