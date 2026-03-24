@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 19:43:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:53:30",
   "GyldigeStemmer": 567,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -28,7 +28,7 @@
       "PartiId": "93a1aa01-2897-474b-8604-a1326c9b3948",
       "PartiNavn": "Radikale Venstre",
       "Partistemmer": null,
-      "Stemmer": 20,
+      "Stemmer": 22,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -37,7 +37,7 @@
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
       "Partistemmer": null,
-      "Stemmer": 37,
+      "Stemmer": 59,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -46,7 +46,7 @@
       "PartiId": "2e08413e-1c5b-4029-8bce-eac0ebff6527",
       "PartiNavn": "Det Konservative Folkeparti",
       "Partistemmer": null,
-      "Stemmer": 24,
+      "Stemmer": 35,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -56,15 +56,6 @@
       "PartiNavn": "Liberal Alliance",
       "Partistemmer": null,
       "Stemmer": 62,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "H",
-      "Kandidater": null,
-      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
-      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
-      "Partistemmer": null,
-      "Stemmer": 52,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -119,6 +110,15 @@
       "PartiNavn": "Alternativet",
       "Partistemmer": null,
       "Stemmer": 12,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "H",
+      "Kandidater": null,
+      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
+      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
+      "Partistemmer": null,
+      "Stemmer": 17,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
