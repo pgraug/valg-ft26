@@ -2,7 +2,7 @@
   "Afstemningsområde": "Slagslunde",
   "AfstemningsområdeDagiId": "705194",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:28:31",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 919,
       "AntalStemmeberretigedeVælgere": 1183,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1085,
+      "AntalStemmeberretigedeVælgere": 1183,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

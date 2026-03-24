@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tårnby",
   "AfstemningsområdeDagiId": "709804",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:28:31",
   "Kommune": "Tårnby",
   "Kommunekode": 185,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3304,
       "AntalStemmeberretigedeVælgere": 4756,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3787,
+      "AntalStemmeberretigedeVælgere": 4756,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

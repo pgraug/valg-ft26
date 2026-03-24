@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ganløse",
   "AfstemningsområdeDagiId": "706424",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:28:16",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1932,
       "AntalStemmeberretigedeVælgere": 2590,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2346,
+      "AntalStemmeberretigedeVælgere": 2590,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

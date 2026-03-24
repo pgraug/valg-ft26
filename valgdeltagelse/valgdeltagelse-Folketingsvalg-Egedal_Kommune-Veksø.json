@@ -2,7 +2,7 @@
   "Afstemningsområde": "Veksø",
   "AfstemningsområdeDagiId": "712198",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:28:01",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1014,
       "AntalStemmeberretigedeVælgere": 1396,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1251,
+      "AntalStemmeberretigedeVælgere": 1396,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

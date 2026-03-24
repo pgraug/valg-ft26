@@ -2,7 +2,7 @@
   "Afstemningsområde": "FrydenlundHUSET, Aarhus V",
   "AfstemningsområdeDagiId": "709952",
   "AfstemningsområdeNummer": 63,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:28:16",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 5489,
       "AntalStemmeberretigedeVælgere": 8019,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6361,
+      "AntalStemmeberretigedeVælgere": 8019,
+      "Tidspunkt": "20:07:00"
     }
   ]
 }
