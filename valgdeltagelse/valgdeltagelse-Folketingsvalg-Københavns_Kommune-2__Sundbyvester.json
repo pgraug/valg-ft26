@@ -2,7 +2,7 @@
   "Afstemningsområde": "2. Sundbyvester",
   "AfstemningsområdeDagiId": "711204",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:32:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:42:17",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 6434,
       "AntalStemmeberretigedeVælgere": 9455,
       "Tidspunkt": "18:02:00"
+    },
+    {
+      "AfgivneStemmer": 7430,
+      "AntalStemmeberretigedeVælgere": 9455,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }
