@@ -2,7 +2,7 @@
   "Afstemningsområde": "Andst",
   "AfstemningsområdeDagiId": "704520",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:05:47",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,21 @@
       "AfgivneStemmer": 120,
       "AntalStemmeberretigedeVælgere": 998,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 168,
+      "AntalStemmeberretigedeVælgere": 998,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 211,
+      "AntalStemmeberretigedeVælgere": 998,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 258,
+      "AntalStemmeberretigedeVælgere": 998,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
