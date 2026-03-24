@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bindslev",
   "AfstemningsområdeDagiId": "708788",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:51",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 705,
       "AntalStemmeberretigedeVælgere": 1169,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 891,
+      "AntalStemmeberretigedeVælgere": 1169,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gylling",
   "AfstemningsområdeDagiId": "704968",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:19",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 512,
       "AntalStemmeberretigedeVælgere": 819,
       "Tidspunkt": "17:01:00"
+    },
+    {
+      "AfgivneStemmer": 655,
+      "AntalStemmeberretigedeVælgere": 819,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
