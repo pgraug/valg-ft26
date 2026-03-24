@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nyråd",
   "AfstemningsområdeDagiId": "705084",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:39:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:27:30",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1004,
       "AntalStemmeberretigedeVælgere": 2397,
       "Tidspunkt": "14:01:00"
+    },
+    {
+      "AfgivneStemmer": 1302,
+      "AntalStemmeberretigedeVælgere": 2397,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
