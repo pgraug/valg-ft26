@@ -2,7 +2,7 @@
   "Afstemningsområde": "Malling Skole",
   "AfstemningsområdeDagiId": "711386",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:31:30",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 3575,
       "AntalStemmeberretigedeVælgere": 4616,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4159,
+      "AntalStemmeberretigedeVælgere": 4616,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
