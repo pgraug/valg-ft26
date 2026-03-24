@@ -2,7 +2,7 @@
   "Afstemningsområde": "Randlev - Bjerager",
   "AfstemningsområdeDagiId": "709400",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:35",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 642,
       "AntalStemmeberretigedeVælgere": 980,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 845,
+      "AntalStemmeberretigedeVælgere": 980,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

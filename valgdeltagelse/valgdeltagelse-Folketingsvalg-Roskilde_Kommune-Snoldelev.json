@@ -2,7 +2,7 @@
   "Afstemningsområde": "Snoldelev",
   "AfstemningsområdeDagiId": "707332",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:36",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 485,
       "AntalStemmeberretigedeVælgere": 817,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 684,
+      "AntalStemmeberretigedeVælgere": 817,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

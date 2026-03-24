@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skellerup",
   "AfstemningsområdeDagiId": "703760",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:20",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 315,
       "AntalStemmeberretigedeVælgere": 416,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 342,
+      "AntalStemmeberretigedeVælgere": 416,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

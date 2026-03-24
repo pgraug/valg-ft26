@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ilskov",
   "AfstemningsområdeDagiId": "705024",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:49",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 468,
       "AntalStemmeberretigedeVælgere": 637,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 508,
+      "AntalStemmeberretigedeVælgere": 637,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

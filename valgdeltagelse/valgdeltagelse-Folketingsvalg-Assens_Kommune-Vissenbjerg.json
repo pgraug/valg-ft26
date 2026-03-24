@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vissenbjerg",
   "AfstemningsområdeDagiId": "748070",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:18",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2750,
       "AntalStemmeberretigedeVælgere": 4378,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3558,
+      "AntalStemmeberretigedeVælgere": 4378,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

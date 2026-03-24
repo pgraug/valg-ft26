@@ -2,7 +2,7 @@
   "Afstemningsområde": "Valhøj",
   "AfstemningsområdeDagiId": "707814",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:34",
   "Kommune": "Rødovre",
   "Kommunekode": 175,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 2470,
       "AntalStemmeberretigedeVælgere": 3805,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2698,
+      "AntalStemmeberretigedeVælgere": 3805,
+      "Tidspunkt": "19:02:00"
     }
   ]
 }

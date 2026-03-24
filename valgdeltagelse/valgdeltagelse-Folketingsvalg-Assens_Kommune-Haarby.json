@@ -2,7 +2,7 @@
   "Afstemningsområde": "Haarby",
   "AfstemningsområdeDagiId": "707710",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:33",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1713,
       "AntalStemmeberretigedeVælgere": 2601,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2078,
+      "AntalStemmeberretigedeVælgere": 2601,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

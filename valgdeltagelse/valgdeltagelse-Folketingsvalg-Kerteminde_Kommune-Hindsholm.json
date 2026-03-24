@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hindsholm",
   "AfstemningsområdeDagiId": "712260",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:19",
   "Kommune": "Kerteminde",
   "Kommunekode": 440,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 1163,
       "AntalStemmeberretigedeVælgere": 1515,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1268,
+      "AntalStemmeberretigedeVælgere": 1515,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

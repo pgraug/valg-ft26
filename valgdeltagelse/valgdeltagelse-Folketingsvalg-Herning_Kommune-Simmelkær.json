@@ -2,7 +2,7 @@
   "Afstemningsområde": "Simmelkær",
   "AfstemningsområdeDagiId": "701684",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:03",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,16 @@
       "AfgivneStemmer": 169,
       "AntalStemmeberretigedeVælgere": 308,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 201,
+      "AntalStemmeberretigedeVælgere": 308,
+      "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 228,
+      "AntalStemmeberretigedeVælgere": 308,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
