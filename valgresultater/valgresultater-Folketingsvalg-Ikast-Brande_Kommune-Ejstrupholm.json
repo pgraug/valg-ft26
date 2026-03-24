@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 3,
   "BlankeUgyldigeFremmødteStemmer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:58:31",
-  "GyldigeStemmer": 2153,
+  "FrigivelsesTidspunktUTC": "24-03-2026 23:28:28",
+  "GyldigeStemmer": 2154,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -469,8 +469,8 @@
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 213,
-      "Stemmer": 284,
+      "Partistemmer": 214,
+      "Stemmer": 285,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -686,12 +686,6 @@
       "Paragraf": "7"
     },
     {
-      "Antal": 1,
-      "Id": 5,
-      "Navn": "KrydsIflerePartifelter",
-      "Paragraf": "8"
-    },
-    {
       "Antal": 0,
       "Id": 3,
       "Navn": "HeltEllerDelvistOverstreget",
@@ -756,10 +750,16 @@
       "Id": 10,
       "Navn": "StemmeseddelIkkeFraAfstemningssted",
       "Paragraf": "13"
+    },
+    {
+      "Antal": 0,
+      "Id": 5,
+      "Navn": "KrydsIflerePartifelter",
+      "Paragraf": "8"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 3,
+  "UgyldigeStemmerUdoverBlanke": 2,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
