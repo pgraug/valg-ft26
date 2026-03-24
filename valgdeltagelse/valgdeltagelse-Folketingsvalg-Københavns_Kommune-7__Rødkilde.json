@@ -2,7 +2,7 @@
   "Afstemningsområde": "7. Rødkilde",
   "AfstemningsområdeDagiId": "701626",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:33:27",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:17:30",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 3238,
       "AntalStemmeberretigedeVælgere": 9490,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 5122,
+      "AntalStemmeberretigedeVælgere": 9490,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Roslev",
   "AfstemningsområdeDagiId": "748879",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:09:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:17:15",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 629,
       "AntalStemmeberretigedeVælgere": 1627,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 841,
+      "AntalStemmeberretigedeVælgere": 1627,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

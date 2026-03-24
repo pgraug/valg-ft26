@@ -2,7 +2,7 @@
   "Afstemningsområde": "4. Nordøst",
   "AfstemningsområdeDagiId": "749399",
   "AfstemningsområdeNummer": 65,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:29:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:17:45",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2899,
       "AntalStemmeberretigedeVælgere": 8491,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4712,
+      "AntalStemmeberretigedeVælgere": 8491,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
