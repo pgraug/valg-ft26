@@ -2,7 +2,7 @@
   "Afstemningsområde": "Asminderød",
   "AfstemningsområdeDagiId": "703808",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:33:31",
   "Kommune": "Fredensborg",
   "Kommunekode": 210,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 3329,
       "AntalStemmeberretigedeVælgere": 5027,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3782,
+      "AntalStemmeberretigedeVælgere": 5027,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
