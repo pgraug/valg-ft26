@@ -2,7 +2,7 @@
   "Afstemningsområde": "Horreby",
   "AfstemningsområdeDagiId": "709640",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:29",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1587,
       "AntalStemmeberretigedeVælgere": 2196,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1805,
+      "AntalStemmeberretigedeVælgere": 2196,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

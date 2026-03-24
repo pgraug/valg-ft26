@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fjordager-Hallen",
   "AfstemningsområdeDagiId": "708762",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:45",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2935,
       "AntalStemmeberretigedeVælgere": 4941,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3922,
+      "AntalStemmeberretigedeVælgere": 4941,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

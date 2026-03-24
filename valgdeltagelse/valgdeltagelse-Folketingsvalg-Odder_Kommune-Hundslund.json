@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hundslund",
   "AfstemningsområdeDagiId": "704986",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:04:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:59",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 789,
       "AntalStemmeberretigedeVælgere": 943,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 810,
+      "AntalStemmeberretigedeVælgere": 943,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

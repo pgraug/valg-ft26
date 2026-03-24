@@ -2,7 +2,7 @@
   "Afstemningsområde": "Pilegården",
   "AfstemningsområdeDagiId": "701986",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:58",
   "Kommune": "Tårnby",
   "Kommunekode": 185,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3839,
       "AntalStemmeberretigedeVælgere": 5078,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4533,
+      "AntalStemmeberretigedeVælgere": 5078,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

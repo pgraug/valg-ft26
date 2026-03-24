@@ -2,7 +2,7 @@
   "Afstemningsområde": "Paarup Hallen",
   "AfstemningsområdeDagiId": "702830",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:30",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2557,
       "AntalStemmeberretigedeVælgere": 3974,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3349,
+      "AntalStemmeberretigedeVælgere": 3974,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

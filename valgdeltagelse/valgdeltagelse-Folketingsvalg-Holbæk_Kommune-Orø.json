@@ -2,7 +2,7 @@
   "Afstemningsområde": "Orø",
   "AfstemningsområdeDagiId": "707528",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:31",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 668,
       "AntalStemmeberretigedeVælgere": 833,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 720,
+      "AntalStemmeberretigedeVælgere": 833,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

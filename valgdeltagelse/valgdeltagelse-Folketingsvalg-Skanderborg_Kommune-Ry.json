@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ry",
   "AfstemningsområdeDagiId": "703790",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:13",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 4311,
       "AntalStemmeberretigedeVælgere": 6213,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 5654,
+      "AntalStemmeberretigedeVælgere": 6213,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stjær",
   "AfstemningsområdeDagiId": "706674",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:28",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1015,
       "AntalStemmeberretigedeVælgere": 1627,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1477,
+      "AntalStemmeberretigedeVælgere": 1627,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }
