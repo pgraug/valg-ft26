@@ -2,7 +2,7 @@
   "Afstemningsområde": "Herlufsholmhallen",
   "AfstemningsområdeDagiId": "711136",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:22:55",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 731,
       "AntalStemmeberretigedeVælgere": 5075,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1574,
+      "AntalStemmeberretigedeVælgere": 5075,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
