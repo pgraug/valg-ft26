@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ribe",
+  "AfstemningsområdeDagiId": "703580",
+  "AfstemningsområdeNummer": 28,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:36:32",
+  "Kommune": "Esbjerg",
+  "Kommunekode": 561,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2644,
+      "AntalStemmeberretigedeVælgere": 8625,
+      "Tidspunkt": "11:30:00"
+    }
+  ]
+}
