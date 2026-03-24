@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Horne",
+  "AfstemningsområdeDagiId": "707556",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:59:46",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 150,
+      "AntalStemmeberretigedeVælgere": 711,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

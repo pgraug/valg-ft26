@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bjerreby",
   "AfstemningsområdeDagiId": "748110",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:06:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:00:18",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 107,
       "AntalStemmeberretigedeVælgere": 851,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 190,
+      "AntalStemmeberretigedeVælgere": 851,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }
