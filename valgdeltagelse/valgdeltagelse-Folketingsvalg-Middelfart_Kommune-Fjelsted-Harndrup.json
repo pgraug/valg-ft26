@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Fjelsted/Harndrup",
+  "AfstemningsområdeDagiId": "705434",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:03",
+  "Kommune": "Middelfart",
+  "Kommunekode": 410,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 169,
+      "AntalStemmeberretigedeVælgere": 1167,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

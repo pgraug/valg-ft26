@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Østerild",
+  "AfstemningsområdeDagiId": "748373",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:03",
+  "Kommune": "Thisted",
+  "Kommunekode": 787,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 176,
+      "AntalStemmeberretigedeVælgere": 884,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

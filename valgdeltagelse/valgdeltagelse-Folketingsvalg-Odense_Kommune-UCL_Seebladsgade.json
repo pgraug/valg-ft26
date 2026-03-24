@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "UCL Seebladsgade",
+  "AfstemningsområdeDagiId": "707300",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:48",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2826,
+      "AntalStemmeberretigedeVælgere": 11002,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

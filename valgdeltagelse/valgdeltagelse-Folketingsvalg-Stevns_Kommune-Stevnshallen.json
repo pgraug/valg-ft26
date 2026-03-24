@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Stevnshallen",
+  "AfstemningsområdeDagiId": "703848",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:00",
+  "Kommune": "Stevns",
+  "Kommunekode": 336,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1286,
+      "AntalStemmeberretigedeVælgere": 4737,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

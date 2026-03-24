@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Agerbæk",
+  "AfstemningsområdeDagiId": "704694",
+  "AfstemningsområdeNummer": 23,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:03",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 273,
+      "AntalStemmeberretigedeVælgere": 1126,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

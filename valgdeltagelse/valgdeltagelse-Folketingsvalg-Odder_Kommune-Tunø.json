@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tunø",
+  "AfstemningsområdeDagiId": "710838",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:00",
+  "Kommune": "Odder",
+  "Kommunekode": 727,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 32,
+      "AntalStemmeberretigedeVælgere": 60,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
