@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gørding",
+  "AfstemningsområdeDagiId": "707864",
+  "AfstemningsområdeNummer": 40,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:34:17",
+  "Kommune": "Esbjerg",
+  "Kommunekode": 561,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 571,
+      "AntalStemmeberretigedeVælgere": 2635,
+      "Tidspunkt": "11:30:00"
+    }
+  ]
+}
