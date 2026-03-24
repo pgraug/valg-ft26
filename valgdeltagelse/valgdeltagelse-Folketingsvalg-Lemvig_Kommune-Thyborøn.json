@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thyborøn",
   "AfstemningsområdeDagiId": "706550",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:05:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:25:58",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 488,
       "AntalStemmeberretigedeVælgere": 1370,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 536,
+      "AntalStemmeberretigedeVælgere": 1370,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
