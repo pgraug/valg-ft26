@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vorrevangskolen, Aarhus N",
   "AfstemningsområdeDagiId": "708524",
   "AfstemningsområdeNummer": 68,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:13:34",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 736,
       "AntalStemmeberretigedeVælgere": 2379,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1158,
+      "AntalStemmeberretigedeVælgere": 2379,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

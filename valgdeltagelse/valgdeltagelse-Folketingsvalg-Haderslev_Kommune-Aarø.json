@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aarø",
   "AfstemningsområdeDagiId": "709300",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:13:19",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 25,
       "AntalStemmeberretigedeVælgere": 133,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 72,
+      "AntalStemmeberretigedeVælgere": 133,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

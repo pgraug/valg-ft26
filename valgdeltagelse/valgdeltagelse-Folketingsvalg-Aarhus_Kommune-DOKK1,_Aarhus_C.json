@@ -2,7 +2,7 @@
   "Afstemningsområde": "DOKK1, Aarhus C",
   "AfstemningsområdeDagiId": "708544",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:13:49",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3173,
       "AntalStemmeberretigedeVælgere": 7954,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4523,
+      "AntalStemmeberretigedeVælgere": 7954,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

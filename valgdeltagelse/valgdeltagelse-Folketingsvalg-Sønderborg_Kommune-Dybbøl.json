@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dybbøl",
   "AfstemningsområdeDagiId": "701416",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:14:05",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1172,
       "AntalStemmeberretigedeVælgere": 4453,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2037,
+      "AntalStemmeberretigedeVælgere": 4453,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
