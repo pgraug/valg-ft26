@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hee",
   "AfstemningsområdeDagiId": "712306",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:47",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,21 @@
       "AfgivneStemmer": 230,
       "AntalStemmeberretigedeVælgere": 955,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 269,
+      "AntalStemmeberretigedeVælgere": 955,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 311,
+      "AntalStemmeberretigedeVælgere": 955,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 365,
+      "AntalStemmeberretigedeVælgere": 955,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

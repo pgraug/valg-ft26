@@ -2,7 +2,7 @@
   "Afstemningsområde": "Everdrup",
   "AfstemningsområdeDagiId": "707904",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:20",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 192,
       "AntalStemmeberretigedeVælgere": 779,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 322,
+      "AntalStemmeberretigedeVælgere": 779,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

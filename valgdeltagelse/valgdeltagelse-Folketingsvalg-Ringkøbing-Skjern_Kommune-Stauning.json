@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stauning",
   "AfstemningsområdeDagiId": "709682",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:49",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 230,
       "AntalStemmeberretigedeVælgere": 830,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 361,
+      "AntalStemmeberretigedeVælgere": 830,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

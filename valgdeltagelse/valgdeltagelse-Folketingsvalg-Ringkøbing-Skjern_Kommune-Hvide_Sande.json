@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hvide Sande",
   "AfstemningsområdeDagiId": "712176",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:19",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,21 @@
       "AfgivneStemmer": 770,
       "AntalStemmeberretigedeVælgere": 2226,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 886,
+      "AntalStemmeberretigedeVælgere": 2226,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1005,
+      "AntalStemmeberretigedeVælgere": 2226,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1107,
+      "AntalStemmeberretigedeVælgere": 2226,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

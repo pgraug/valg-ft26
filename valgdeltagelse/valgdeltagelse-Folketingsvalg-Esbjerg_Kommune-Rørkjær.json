@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rørkjær",
   "AfstemningsområdeDagiId": "701204",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:32:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:32",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 881,
       "AntalStemmeberretigedeVælgere": 3655,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 1524,
+      "AntalStemmeberretigedeVælgere": 3655,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Velling",
   "AfstemningsområdeDagiId": "706556",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:34",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,21 @@
       "AfgivneStemmer": 319,
       "AntalStemmeberretigedeVælgere": 1030,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 358,
+      "AntalStemmeberretigedeVælgere": 1030,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 400,
+      "AntalStemmeberretigedeVælgere": 1030,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 476,
+      "AntalStemmeberretigedeVælgere": 1030,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

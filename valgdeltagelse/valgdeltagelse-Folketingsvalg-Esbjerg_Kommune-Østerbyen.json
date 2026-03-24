@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østerbyen",
   "AfstemningsområdeDagiId": "702806",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:34:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:05",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 749,
       "AntalStemmeberretigedeVælgere": 3244,
       "Tidspunkt": "11:26:00"
+    },
+    {
+      "AfgivneStemmer": 1300,
+      "AntalStemmeberretigedeVælgere": 3244,
+      "Tidspunkt": "14:59:00"
     }
   ]
 }

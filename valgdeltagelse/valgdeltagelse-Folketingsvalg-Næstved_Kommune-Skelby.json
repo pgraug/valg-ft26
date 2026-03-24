@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skelby",
   "AfstemningsområdeDagiId": "749297",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:33",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -10,13 +10,18 @@
   "Valgdeltagelse": [
     {
       "AfgivneStemmer": 44,
-      "AntalStemmeberretigedeVælgere": 450,
+      "AntalStemmeberretigedeVælgere": 492,
       "Tidspunkt": "09:00:00"
     },
     {
       "AfgivneStemmer": 122,
-      "AntalStemmeberretigedeVælgere": 450,
+      "AntalStemmeberretigedeVælgere": 492,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 209,
+      "AntalStemmeberretigedeVælgere": 492,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
