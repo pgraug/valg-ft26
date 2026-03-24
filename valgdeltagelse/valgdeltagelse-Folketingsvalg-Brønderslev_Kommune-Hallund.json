@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hallund",
+  "AfstemningsområdeDagiId": "704018",
+  "AfstemningsområdeNummer": 56,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:15:24",
+  "Kommune": "Brønderslev",
+  "Kommunekode": 810,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 90,
+      "AntalStemmeberretigedeVælgere": 464,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
