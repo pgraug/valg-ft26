@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hjerm",
+  "AfstemningsområdeDagiId": "703842",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:16:00",
+  "Kommune": "Struer",
+  "Kommunekode": 671,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 297,
+      "AntalStemmeberretigedeVælgere": 1273,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
