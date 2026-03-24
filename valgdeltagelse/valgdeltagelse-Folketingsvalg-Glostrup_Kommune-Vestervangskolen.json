@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vestervangskolen",
   "AfstemningsområdeDagiId": "700820",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:51",
   "Kommune": "Glostrup",
   "Kommunekode": 161,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 885,
       "AntalStemmeberretigedeVælgere": 3353,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1405,
+      "AntalStemmeberretigedeVælgere": 3353,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

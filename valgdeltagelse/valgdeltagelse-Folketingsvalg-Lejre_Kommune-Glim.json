@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glim",
   "AfstemningsområdeDagiId": "712044",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:06:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:52",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 315,
       "AntalStemmeberretigedeVælgere": 943,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 363,
+      "AntalStemmeberretigedeVælgere": 943,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

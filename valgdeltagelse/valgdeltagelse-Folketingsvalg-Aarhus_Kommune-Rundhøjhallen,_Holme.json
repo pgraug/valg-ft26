@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rundhøjhallen, Holme",
   "AfstemningsområdeDagiId": "706890",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:18",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2168,
       "AntalStemmeberretigedeVælgere": 6250,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3095,
+      "AntalStemmeberretigedeVælgere": 6250,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
