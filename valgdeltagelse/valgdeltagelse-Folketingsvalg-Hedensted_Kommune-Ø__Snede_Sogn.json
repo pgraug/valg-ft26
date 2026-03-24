@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ø. Snede Sogn",
   "AfstemningsområdeDagiId": "702132",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:10",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:52",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 357,
       "AntalStemmeberretigedeVælgere": 1447,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 919,
+      "AntalStemmeberretigedeVælgere": 1447,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

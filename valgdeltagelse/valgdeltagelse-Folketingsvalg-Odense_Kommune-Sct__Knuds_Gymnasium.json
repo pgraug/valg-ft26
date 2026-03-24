@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sct. Knuds Gymnasium",
   "AfstemningsområdeDagiId": "705876",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:14:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:05",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1107,
       "AntalStemmeberretigedeVælgere": 4128,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2730,
+      "AntalStemmeberretigedeVælgere": 4128,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

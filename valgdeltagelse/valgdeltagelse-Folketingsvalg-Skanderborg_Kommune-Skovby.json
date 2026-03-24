@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovby",
   "AfstemningsområdeDagiId": "708370",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:06",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1003,
       "AntalStemmeberretigedeVælgere": 3623,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2316,
+      "AntalStemmeberretigedeVælgere": 3623,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

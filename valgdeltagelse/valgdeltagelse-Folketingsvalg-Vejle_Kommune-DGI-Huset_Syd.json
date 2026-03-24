@@ -2,7 +2,7 @@
   "Afstemningsområde": "DGI-Huset Syd",
   "AfstemningsområdeDagiId": "708618",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:36",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2572,
       "AntalStemmeberretigedeVælgere": 11204,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 6258,
+      "AntalStemmeberretigedeVælgere": 11204,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

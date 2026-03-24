@@ -2,7 +2,7 @@
   "Afstemningsområde": "Multihuset Højen Syd",
   "AfstemningsområdeDagiId": "710128",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:52",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 177,
       "AntalStemmeberretigedeVælgere": 940,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 557,
+      "AntalStemmeberretigedeVælgere": 940,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

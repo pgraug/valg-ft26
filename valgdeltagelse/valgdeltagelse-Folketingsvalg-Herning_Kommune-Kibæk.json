@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kibæk",
   "AfstemningsområdeDagiId": "703462",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:12:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:37",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1230,
       "AntalStemmeberretigedeVælgere": 2428,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1529,
+      "AntalStemmeberretigedeVælgere": 2428,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

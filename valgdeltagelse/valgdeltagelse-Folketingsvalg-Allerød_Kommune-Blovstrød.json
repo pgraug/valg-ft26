@@ -2,7 +2,7 @@
   "Afstemningsområde": "Blovstrød",
   "AfstemningsområdeDagiId": "711248",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:26:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:22",
   "Kommune": "Allerød",
   "Kommunekode": 201,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1389,
       "AntalStemmeberretigedeVælgere": 2523,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1658,
+      "AntalStemmeberretigedeVælgere": 2523,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

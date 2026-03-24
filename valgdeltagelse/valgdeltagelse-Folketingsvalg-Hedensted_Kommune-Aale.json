@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aale",
   "AfstemningsområdeDagiId": "709918",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:11:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:07",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 157,
       "AntalStemmeberretigedeVælgere": 643,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 421,
+      "AntalStemmeberretigedeVælgere": 643,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
