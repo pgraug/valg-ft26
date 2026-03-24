@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bjergby-Mygdal",
   "AfstemningsområdeDagiId": "710488",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:03:16",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 270,
       "AntalStemmeberretigedeVælgere": 1233,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 404,
+      "AntalStemmeberretigedeVælgere": 1233,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
