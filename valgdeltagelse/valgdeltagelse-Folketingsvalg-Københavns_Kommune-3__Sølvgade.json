@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "3. Sølvgade",
+  "AfstemningsområdeDagiId": "749404",
+  "AfstemningsområdeNummer": 64,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:27:11",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1830,
+      "AntalStemmeberretigedeVælgere": 4960,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

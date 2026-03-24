@@ -2,7 +2,7 @@
   "Afstemningsområde": "Karlebo",
   "AfstemningsområdeDagiId": "700760",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:26:56",
   "Kommune": "Fredensborg",
   "Kommunekode": 210,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 210,
       "AntalStemmeberretigedeVælgere": 950,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 250,
+      "AntalStemmeberretigedeVælgere": 950,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
