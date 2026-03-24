@@ -2,7 +2,7 @@
   "Afstemningsområde": "Eskilstrup",
   "AfstemningsområdeDagiId": "712156",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:40",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 509,
       "AntalStemmeberretigedeVælgere": 1981,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 712,
+      "AntalStemmeberretigedeVælgere": 1981,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

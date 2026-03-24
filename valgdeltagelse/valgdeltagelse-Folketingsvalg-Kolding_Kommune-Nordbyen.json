@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordbyen",
   "AfstemningsområdeDagiId": "701938",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:08:10",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 621,
       "AntalStemmeberretigedeVælgere": 3217,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1008,
+      "AntalStemmeberretigedeVælgere": 3217,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

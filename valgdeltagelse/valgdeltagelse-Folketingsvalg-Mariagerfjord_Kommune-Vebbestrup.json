@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vebbestrup",
   "AfstemningsområdeDagiId": "701046",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:26",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 431,
       "AntalStemmeberretigedeVælgere": 1669,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 556,
+      "AntalStemmeberretigedeVælgere": 1669,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tinglev",
   "AfstemningsområdeDagiId": "711228",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:56",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 708,
       "AntalStemmeberretigedeVælgere": 2256,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 902,
+      "AntalStemmeberretigedeVælgere": 2256,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
