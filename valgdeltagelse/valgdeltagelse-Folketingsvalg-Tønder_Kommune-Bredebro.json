@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bredebro",
   "AfstemningsområdeDagiId": "712106",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:03:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:51:50",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 129,
       "AntalStemmeberretigedeVælgere": 1285,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 374,
+      "AntalStemmeberretigedeVælgere": 1285,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }
