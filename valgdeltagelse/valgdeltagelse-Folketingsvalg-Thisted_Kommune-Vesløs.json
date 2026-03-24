@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vesløs",
   "AfstemningsområdeDagiId": "709112",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:51",
   "Kommune": "Thisted",
   "Kommunekode": 787,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 172,
       "AntalStemmeberretigedeVælgere": 825,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 486,
+      "AntalStemmeberretigedeVælgere": 825,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

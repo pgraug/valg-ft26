@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vestervig",
   "AfstemningsområdeDagiId": "705906",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:07",
   "Kommune": "Thisted",
   "Kommunekode": 787,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 345,
       "AntalStemmeberretigedeVælgere": 1346,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 870,
+      "AntalStemmeberretigedeVælgere": 1346,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

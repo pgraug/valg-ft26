@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hårlevhallen",
   "AfstemningsområdeDagiId": "706800",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:06",
   "Kommune": "Stevns",
   "Kommunekode": 336,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1724,
       "AntalStemmeberretigedeVælgere": 4490,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2853,
+      "AntalStemmeberretigedeVælgere": 4490,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

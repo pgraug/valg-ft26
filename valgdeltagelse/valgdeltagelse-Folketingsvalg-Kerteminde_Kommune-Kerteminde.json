@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kerteminde",
   "AfstemningsområdeDagiId": "706574",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:05",
   "Kommune": "Kerteminde",
   "Kommunekode": 440,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 3240,
       "AntalStemmeberretigedeVælgere": 5414,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3763,
+      "AntalStemmeberretigedeVælgere": 5414,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gårslev Syd",
   "AfstemningsområdeDagiId": "700976",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:08",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 415,
       "AntalStemmeberretigedeVælgere": 1746,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1177,
+      "AntalStemmeberretigedeVælgere": 1746,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

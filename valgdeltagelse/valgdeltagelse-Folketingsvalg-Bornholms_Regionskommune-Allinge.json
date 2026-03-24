@@ -2,7 +2,7 @@
   "Afstemningsområde": "Allinge",
   "AfstemningsområdeDagiId": "703208",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:10:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:36",
   "Kommune": "Bornholm",
   "Kommunekode": 400,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 715,
       "AntalStemmeberretigedeVælgere": 2434,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1633,
+      "AntalStemmeberretigedeVælgere": 2434,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
