@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hjarnø",
+  "AfstemningsområdeDagiId": "749381",
+  "AfstemningsområdeNummer": 16,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:14:41",
+  "Kommune": "Hedensted",
+  "Kommunekode": 766,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 25,
+      "AntalStemmeberretigedeVælgere": 84,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
