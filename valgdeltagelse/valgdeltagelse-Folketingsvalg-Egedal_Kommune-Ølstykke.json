@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ølstykke",
   "AfstemningsområdeDagiId": "703648",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:15:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:18:46",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2943,
       "AntalStemmeberretigedeVælgere": 5559,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 4120,
+      "AntalStemmeberretigedeVælgere": 5559,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
