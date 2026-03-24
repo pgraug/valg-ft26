@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aakjær",
   "AfstemningsområdeDagiId": "748880",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:00",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 4061,
       "AntalStemmeberretigedeVælgere": 5945,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4610,
+      "AntalStemmeberretigedeVælgere": 5945,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

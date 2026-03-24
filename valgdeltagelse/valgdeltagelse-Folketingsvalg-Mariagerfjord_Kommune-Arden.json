@@ -2,7 +2,7 @@
   "Afstemningsområde": "Arden",
   "AfstemningsområdeDagiId": "707018",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:44",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2078,
       "AntalStemmeberretigedeVælgere": 2886,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2397,
+      "AntalStemmeberretigedeVælgere": 2886,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

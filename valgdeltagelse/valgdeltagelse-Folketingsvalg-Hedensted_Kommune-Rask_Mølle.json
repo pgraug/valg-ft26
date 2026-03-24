@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rask Mølle",
   "AfstemningsområdeDagiId": "703900",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:45",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 696,
       "AntalStemmeberretigedeVælgere": 1099,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 945,
+      "AntalStemmeberretigedeVælgere": 1099,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Risingskolen",
   "AfstemningsområdeDagiId": "705850",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:58",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1617,
       "AntalStemmeberretigedeVælgere": 2800,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2239,
+      "AntalStemmeberretigedeVælgere": 2800,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

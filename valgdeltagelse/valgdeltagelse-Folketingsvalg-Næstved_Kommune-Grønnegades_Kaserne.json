@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grønnegades Kaserne",
   "AfstemningsområdeDagiId": "703654",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:44",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2363,
       "AntalStemmeberretigedeVælgere": 3465,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2699,
+      "AntalStemmeberretigedeVælgere": 3465,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hyllehøj",
   "AfstemningsområdeDagiId": "705440",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:45",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,16 @@
       "AfgivneStemmer": 1597,
       "AntalStemmeberretigedeVælgere": 2541,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2049,
+      "AntalStemmeberretigedeVælgere": 2541,
+      "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2153,
+      "AntalStemmeberretigedeVælgere": 2541,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
