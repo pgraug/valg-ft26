@@ -2,7 +2,7 @@
   "Afstemningsområde": "Øster Højst",
   "AfstemningsområdeDagiId": "709676",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:56:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:37:39",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 100,
       "AntalStemmeberretigedeVælgere": 561,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 194,
+      "AntalStemmeberretigedeVælgere": 561,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
