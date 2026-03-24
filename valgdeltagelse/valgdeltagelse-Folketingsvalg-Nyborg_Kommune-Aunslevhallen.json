@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aunslevhallen",
   "AfstemningsområdeDagiId": "705368",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:06:19",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 930,
       "AntalStemmeberretigedeVælgere": 1232,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1013,
+      "AntalStemmeberretigedeVælgere": 1232,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Avedøre Skole",
   "AfstemningsområdeDagiId": "702080",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:06:19",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 3817,
       "AntalStemmeberretigedeVælgere": 5606,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4248,
+      "AntalStemmeberretigedeVælgere": 5606,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

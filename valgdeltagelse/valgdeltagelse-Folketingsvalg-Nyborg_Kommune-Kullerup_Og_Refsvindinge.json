@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kullerup Og Refsvindinge",
   "AfstemningsområdeDagiId": "706642",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:05:49",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 659,
       "AntalStemmeberretigedeVælgere": 858,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 732,
+      "AntalStemmeberretigedeVælgere": 858,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
