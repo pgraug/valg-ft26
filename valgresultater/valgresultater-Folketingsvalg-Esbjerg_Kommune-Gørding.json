@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 3,
   "BlankeUgyldigeFremmødteStemmer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:59:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 21:30:12",
   "GyldigeStemmer": 2145,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -151,12 +151,6 @@
     },
     {
       "Antal": 0,
-      "Id": 26,
-      "Navn": "ModstridBogstavPartiNavn",
-      "Paragraf": "24,25"
-    },
-    {
-      "Antal": 0,
       "Id": 30,
       "Navn": "KonvolutMedPåskrift",
       "Paragraf": "29"
@@ -202,6 +196,12 @@
       "Id": 32,
       "Navn": "UdfyldtPåBagsidenEllerAndet",
       "Paragraf": "31"
+    },
+    {
+      "Antal": 0,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
