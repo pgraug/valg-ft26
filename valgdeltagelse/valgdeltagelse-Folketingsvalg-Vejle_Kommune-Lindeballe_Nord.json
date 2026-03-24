@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lindeballe Nord",
   "AfstemningsområdeDagiId": "702264",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:33:10",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 74,
       "AntalStemmeberretigedeVælgere": 353,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 220,
+      "AntalStemmeberretigedeVælgere": 353,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
