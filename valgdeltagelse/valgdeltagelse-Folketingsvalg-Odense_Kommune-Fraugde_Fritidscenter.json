@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fraugde Fritidscenter",
   "AfstemningsområdeDagiId": "710386",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:13",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1607,
       "AntalStemmeberretigedeVælgere": 2593,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2138,
+      "AntalStemmeberretigedeVælgere": 2593,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

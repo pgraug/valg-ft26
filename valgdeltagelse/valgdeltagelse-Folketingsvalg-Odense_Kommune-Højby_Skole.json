@@ -2,7 +2,7 @@
   "Afstemningsområde": "Højby Skole",
   "AfstemningsområdeDagiId": "711704",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:00",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2466,
       "AntalStemmeberretigedeVælgere": 3920,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3343,
+      "AntalStemmeberretigedeVælgere": 3920,
+      "Tidspunkt": "20:03:00"
     }
   ]
 }

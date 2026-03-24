@@ -2,7 +2,7 @@
   "Afstemningsområde": "Buskelund",
   "AfstemningsområdeDagiId": "706686",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:13",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:43",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1800,
       "AntalStemmeberretigedeVælgere": 3850,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3511,
+      "AntalStemmeberretigedeVælgere": 3850,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

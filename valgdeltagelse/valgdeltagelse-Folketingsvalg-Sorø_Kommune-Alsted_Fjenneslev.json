@@ -2,7 +2,7 @@
   "Afstemningsområde": "Alsted Fjenneslev",
   "AfstemningsområdeDagiId": "711404",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:46:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:30",
   "Kommune": "Sorø",
   "Kommunekode": 340,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 649,
       "AntalStemmeberretigedeVælgere": 1347,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1144,
+      "AntalStemmeberretigedeVælgere": 1347,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

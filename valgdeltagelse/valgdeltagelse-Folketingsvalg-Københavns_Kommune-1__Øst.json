@@ -2,7 +2,7 @@
   "Afstemningsområde": "1. Øst",
   "AfstemningsområdeDagiId": "725338",
   "AfstemningsområdeNummer": 56,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:30",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 6126,
       "AntalStemmeberretigedeVælgere": 7646,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6936,
+      "AntalStemmeberretigedeVælgere": 7646,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

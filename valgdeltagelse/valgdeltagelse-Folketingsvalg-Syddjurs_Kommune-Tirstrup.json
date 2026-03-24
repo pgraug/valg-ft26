@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tirstrup",
   "AfstemningsområdeDagiId": "703380",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:15",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 1310,
       "AntalStemmeberretigedeVælgere": 1609,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1352,
+      "AntalStemmeberretigedeVælgere": 1609,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

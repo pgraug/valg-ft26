@@ -2,7 +2,7 @@
   "Afstemningsområde": "Veddum-Skelund",
   "AfstemningsområdeDagiId": "702360",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:45",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 567,
       "AntalStemmeberretigedeVælgere": 803,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 655,
+      "AntalStemmeberretigedeVælgere": 803,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

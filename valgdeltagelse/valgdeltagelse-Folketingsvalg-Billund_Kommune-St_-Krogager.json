@@ -2,7 +2,7 @@
   "Afstemningsområde": "St./Krogager",
   "AfstemningsområdeDagiId": "710594",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:13",
   "Kommune": "Billund",
   "Kommunekode": 530,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,26 @@
       "AfgivneStemmer": 333,
       "AntalStemmeberretigedeVælgere": 648,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 412,
+      "AntalStemmeberretigedeVælgere": 648,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 474,
+      "AntalStemmeberretigedeVælgere": 648,
+      "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 529,
+      "AntalStemmeberretigedeVælgere": 648,
+      "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 549,
+      "AntalStemmeberretigedeVælgere": 648,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stensved",
   "AfstemningsområdeDagiId": "706330",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:59",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1117,
       "AntalStemmeberretigedeVælgere": 1503,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1288,
+      "AntalStemmeberretigedeVælgere": 1503,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

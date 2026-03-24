@@ -2,7 +2,7 @@
   "Afstemningsområde": "1. Nordhavn",
   "AfstemningsområdeDagiId": "749398",
   "AfstemningsområdeNummer": 60,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:13:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:45",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 5929,
       "AntalStemmeberretigedeVælgere": 7522,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6751,
+      "AntalStemmeberretigedeVælgere": 7522,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

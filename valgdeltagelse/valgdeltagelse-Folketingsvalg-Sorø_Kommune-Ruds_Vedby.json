@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ruds Vedby",
   "AfstemningsområdeDagiId": "705564",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:46:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:12:16",
   "Kommune": "Sorø",
   "Kommunekode": 340,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 699,
       "AntalStemmeberretigedeVælgere": 1493,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1182,
+      "AntalStemmeberretigedeVælgere": 1493,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
