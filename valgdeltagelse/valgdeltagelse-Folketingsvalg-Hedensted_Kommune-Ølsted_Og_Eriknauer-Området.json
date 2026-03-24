@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Ølsted Og Eriknauer-Området",
+  "AfstemningsområdeDagiId": "711322",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:10:57",
+  "Kommune": "Hedensted",
+  "Kommunekode": 766,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 50,
+      "AntalStemmeberretigedeVælgere": 905,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 91,
+      "AntalStemmeberretigedeVælgere": 905,
+      "Tidspunkt": "09:01:00"
+    },
+    {
+      "AfgivneStemmer": 232,
+      "AntalStemmeberretigedeVælgere": 905,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

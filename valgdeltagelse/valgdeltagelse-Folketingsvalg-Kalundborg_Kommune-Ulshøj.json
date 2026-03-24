@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ulshøj",
   "AfstemningsområdeDagiId": "702328",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:11:41",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 542,
       "AntalStemmeberretigedeVælgere": 3030,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1241,
+      "AntalStemmeberretigedeVælgere": 3030,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kokkedal",
   "AfstemningsområdeDagiId": "709818",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:09:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:11:26",
   "Kommune": "Fredensborg",
   "Kommunekode": 210,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2341,
       "AntalStemmeberretigedeVælgere": 6509,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2666,
+      "AntalStemmeberretigedeVælgere": 6509,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
