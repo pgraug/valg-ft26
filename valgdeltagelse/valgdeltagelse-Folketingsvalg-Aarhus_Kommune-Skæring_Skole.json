@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skæring Skole",
   "AfstemningsområdeDagiId": "708574",
   "AfstemningsområdeNummer": 50,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:16:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:25:15",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3725,
       "AntalStemmeberretigedeVælgere": 4844,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4349,
+      "AntalStemmeberretigedeVælgere": 4844,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

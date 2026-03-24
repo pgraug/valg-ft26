@@ -2,7 +2,7 @@
   "Afstemningsområde": "UngOdense (Tidl.Bækholmskolen)",
   "AfstemningsområdeDagiId": "705862",
   "AfstemningsområdeNummer": 36,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:25:00",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2049,
       "AntalStemmeberretigedeVælgere": 3463,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2713,
+      "AntalStemmeberretigedeVælgere": 3463,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
