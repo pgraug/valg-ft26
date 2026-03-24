@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Hjortsvang",
+  "AfstemningsområdeDagiId": "749378",
+  "AfstemningsområdeNummer": 25,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:10:10",
+  "Kommune": "Hedensted",
+  "Kommunekode": 766,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 35,
+      "AntalStemmeberretigedeVælgere": 335,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 77,
+      "AntalStemmeberretigedeVælgere": 335,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

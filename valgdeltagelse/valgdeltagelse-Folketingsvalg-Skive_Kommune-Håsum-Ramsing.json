@@ -2,7 +2,7 @@
   "Afstemningsområde": "Håsum-Ramsing",
   "AfstemningsområdeDagiId": "748887",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:26:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:10:26",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 138,
       "AntalStemmeberretigedeVælgere": 514,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 214,
+      "AntalStemmeberretigedeVælgere": 514,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

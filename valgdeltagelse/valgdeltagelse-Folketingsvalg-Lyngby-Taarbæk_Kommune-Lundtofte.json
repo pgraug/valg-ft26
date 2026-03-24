@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lundtofte",
   "AfstemningsområdeDagiId": "710194",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:18:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:10:25",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1643,
       "AntalStemmeberretigedeVælgere": 4407,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1847,
+      "AntalStemmeberretigedeVælgere": 4407,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
