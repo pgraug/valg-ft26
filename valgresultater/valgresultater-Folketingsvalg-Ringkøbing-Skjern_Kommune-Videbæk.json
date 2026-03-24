@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 6,
   "BlankeUgyldigeFremmødteStemmer": 37,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:23:33",
-  "GyldigeStemmer": 3125,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:47:06",
+  "GyldigeStemmer": 3124,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -50,57 +50,12 @@
       "StemmerDifferenceFraForrigeValg": null
     },
     {
-      "Bogstavbetegnelse": "H",
-      "Kandidater": null,
-      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
-      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
-      "Partistemmer": null,
-      "Stemmer": 75,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "I",
-      "Kandidater": null,
-      "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
-      "PartiNavn": "Liberal Alliance",
-      "Partistemmer": null,
-      "Stemmer": 247,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "V",
-      "Kandidater": null,
-      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
-      "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": null,
-      "Stemmer": 646,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "M",
-      "Kandidater": null,
-      "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
-      "PartiNavn": "Moderaterne",
-      "Partistemmer": null,
-      "Stemmer": 161,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
       "Bogstavbetegnelse": "Ø",
       "Kandidater": null,
       "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
       "PartiNavn": "Enhedslisten - De Rød-Grønne",
       "Partistemmer": null,
       "Stemmer": 30,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "A",
-      "Kandidater": null,
-      "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
-      "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": null,
-      "Stemmer": 543,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -113,12 +68,57 @@
       "StemmerDifferenceFraForrigeValg": null
     },
     {
+      "Bogstavbetegnelse": "M",
+      "Kandidater": null,
+      "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
+      "PartiNavn": "Moderaterne",
+      "Partistemmer": null,
+      "Stemmer": 161,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "A",
+      "Kandidater": null,
+      "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
+      "PartiNavn": "Socialdemokratiet",
+      "Partistemmer": null,
+      "Stemmer": 556,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "H",
+      "Kandidater": null,
+      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
+      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
+      "Partistemmer": null,
+      "Stemmer": 76,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "I",
+      "Kandidater": null,
+      "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
+      "PartiNavn": "Liberal Alliance",
+      "Partistemmer": null,
+      "Stemmer": 254,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
       "Bogstavbetegnelse": "Æ",
       "Kandidater": null,
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
       "Partistemmer": null,
-      "Stemmer": 737,
+      "Stemmer": 721,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": null,
+      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
+      "PartiNavn": "Venstre, Danmarks Liberale Parti",
+      "Partistemmer": null,
+      "Stemmer": 640,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
@@ -137,12 +137,6 @@
     }
   ],
   "UgyldigeBrevstemmerÅrsager": [
-    {
-      "Antal": 2,
-      "Id": 26,
-      "Navn": "ModstridBogstavPartiNavn",
-      "Paragraf": "24,25"
-    },
     {
       "Antal": 0,
       "Id": 31,
@@ -208,6 +202,12 @@
       "Id": 24,
       "Navn": "KunUofficelBogstavPåFlereBogstaver",
       "Paragraf": "22"
+    },
+    {
+      "Antal": 3,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
@@ -297,7 +297,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 4,
+  "UgyldigeStemmerUdoverBlanke": 5,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
