@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vordingborg",
   "AfstemningsområdeDagiId": "711010",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:44:14",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:39:46",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2370,
       "AntalStemmeberretigedeVælgere": 7511,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3167,
+      "AntalStemmeberretigedeVælgere": 7511,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
