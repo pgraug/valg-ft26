@@ -2,7 +2,7 @@
   "Afstemningsområde": "S Bjert/S Stenderup/Vejstrup",
   "AfstemningsområdeDagiId": "705308",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:10",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 785,
       "AntalStemmeberretigedeVælgere": 3477,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1305,
+      "AntalStemmeberretigedeVælgere": 3477,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

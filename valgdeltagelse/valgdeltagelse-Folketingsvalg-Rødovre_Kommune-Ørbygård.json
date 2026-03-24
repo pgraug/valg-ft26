@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ørbygård",
   "AfstemningsområdeDagiId": "707822",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:02:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:41",
   "Kommune": "Rødovre",
   "Kommunekode": 175,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 959,
       "AntalStemmeberretigedeVælgere": 3085,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1086,
+      "AntalStemmeberretigedeVælgere": 3085,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hammerum",
   "AfstemningsområdeDagiId": "703468",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:01:56",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1392,
       "AntalStemmeberretigedeVælgere": 6231,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2304,
+      "AntalStemmeberretigedeVælgere": 6231,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
