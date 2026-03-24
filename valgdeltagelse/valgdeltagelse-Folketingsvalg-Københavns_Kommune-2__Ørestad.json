@@ -2,7 +2,7 @@
   "Afstemningsområde": "2. Ørestad",
   "AfstemningsområdeDagiId": "706562",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:22:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:14:45",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3277,
       "AntalStemmeberretigedeVælgere": 6418,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 4133,
+      "AntalStemmeberretigedeVælgere": 6418,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

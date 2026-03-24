@@ -2,7 +2,7 @@
   "Afstemningsområde": "Samsøgades Skole, Aarhus C",
   "AfstemningsområdeDagiId": "711398",
   "AfstemningsområdeNummer": 41,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:14:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:00",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3690,
       "AntalStemmeberretigedeVælgere": 7076,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 5763,
+      "AntalStemmeberretigedeVælgere": 7076,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "2. Kalvebod Fælled",
   "AfstemningsområdeDagiId": "749400",
   "AfstemningsområdeNummer": 61,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:12:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:15",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3195,
       "AntalStemmeberretigedeVælgere": 6578,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 4423,
+      "AntalStemmeberretigedeVælgere": 6578,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jerslev",
   "AfstemningsområdeDagiId": "711454",
   "AfstemningsområdeNummer": 70,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:13:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:00",
   "Kommune": "Brønderslev",
   "Kommunekode": 810,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 739,
       "AntalStemmeberretigedeVælgere": 1705,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1139,
+      "AntalStemmeberretigedeVælgere": 1705,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

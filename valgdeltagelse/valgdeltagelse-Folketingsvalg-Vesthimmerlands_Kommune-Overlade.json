@@ -2,7 +2,7 @@
   "Afstemningsområde": "Overlade",
   "AfstemningsområdeDagiId": "700908",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:14:45",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 189,
       "AntalStemmeberretigedeVælgere": 678,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 474,
+      "AntalStemmeberretigedeVælgere": 678,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

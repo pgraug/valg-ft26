@@ -2,7 +2,7 @@
   "Afstemningsområde": "Generationernes Hus, Aarhus Ø",
   "AfstemningsområdeDagiId": "748351",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:14:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:14:15",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2306,
       "AntalStemmeberretigedeVælgere": 5013,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 3874,
+      "AntalStemmeberretigedeVælgere": 5013,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
