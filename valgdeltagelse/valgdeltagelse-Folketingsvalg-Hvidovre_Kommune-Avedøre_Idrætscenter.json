@@ -2,7 +2,7 @@
   "Afstemningsområde": "Avedøre Idrætscenter",
   "AfstemningsområdeDagiId": "706740",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:09:01",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 875,
       "AntalStemmeberretigedeVælgere": 4577,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1285,
+      "AntalStemmeberretigedeVælgere": 4577,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

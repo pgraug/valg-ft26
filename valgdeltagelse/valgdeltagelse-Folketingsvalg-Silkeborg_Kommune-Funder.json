@@ -2,7 +2,7 @@
   "Afstemningsområde": "Funder",
   "AfstemningsområdeDagiId": "700814",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:09:31",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 658,
       "AntalStemmeberretigedeVælgere": 2913,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 896,
+      "AntalStemmeberretigedeVælgere": 2913,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
