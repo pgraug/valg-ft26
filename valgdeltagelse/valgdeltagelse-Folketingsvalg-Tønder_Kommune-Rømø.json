@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rømø",
   "AfstemningsområdeDagiId": "705128",
   "AfstemningsområdeNummer": 51,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:59:21",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 54,
       "AntalStemmeberretigedeVælgere": 385,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 147,
+      "AntalStemmeberretigedeVælgere": 385,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }

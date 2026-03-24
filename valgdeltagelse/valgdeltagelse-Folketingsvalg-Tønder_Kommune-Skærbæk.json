@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skærbæk",
   "AfstemningsområdeDagiId": "709602",
   "AfstemningsområdeNummer": 61,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:59:36",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 278,
       "AntalStemmeberretigedeVælgere": 2757,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 785,
+      "AntalStemmeberretigedeVælgere": 2757,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }
