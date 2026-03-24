@@ -9,19 +9,10 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:19:48",
-  "GyldigeStemmer": 743,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:56:07",
+  "GyldigeStemmer": 744,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
-    {
-      "Bogstavbetegnelse": "V",
-      "Kandidater": null,
-      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
-      "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": null,
-      "Stemmer": 125,
-      "StemmerDifferenceFraForrigeValg": null
-    },
     {
       "Bogstavbetegnelse": "C",
       "Kandidater": null,
@@ -120,6 +111,15 @@
       "Partistemmer": null,
       "Stemmer": 68,
       "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": null,
+      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
+      "PartiNavn": "Venstre, Danmarks Liberale Parti",
+      "Partistemmer": null,
+      "Stemmer": 126,
+      "StemmerDifferenceFraForrigeValg": null
     }
   ],
   "Kommune": "Nyborg",
@@ -147,7 +147,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 3,
+  "UgyldigeStemmerUdoverBlanke": 2,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
