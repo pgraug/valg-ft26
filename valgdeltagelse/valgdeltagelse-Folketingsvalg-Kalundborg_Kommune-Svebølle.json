@@ -2,7 +2,7 @@
   "Afstemningsområde": "Svebølle",
   "AfstemningsområdeDagiId": "701040",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:06:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:12:26",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 555,
       "AntalStemmeberretigedeVælgere": 3317,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1315,
+      "AntalStemmeberretigedeVælgere": 3317,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

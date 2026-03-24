@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Uldum",
+  "AfstemningsområdeDagiId": "706840",
+  "AfstemningsområdeNummer": 22,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:12:11",
+  "Kommune": "Hedensted",
+  "Kommunekode": 766,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 269,
+      "AntalStemmeberretigedeVælgere": 1165,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

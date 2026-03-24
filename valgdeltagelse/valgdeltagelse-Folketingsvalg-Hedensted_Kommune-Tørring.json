@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Tørring",
+  "AfstemningsområdeDagiId": "703894",
+  "AfstemningsområdeNummer": 21,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:12:41",
+  "Kommune": "Hedensted",
+  "Kommunekode": 766,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 236,
+      "AntalStemmeberretigedeVælgere": 2430,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 660,
+      "AntalStemmeberretigedeVælgere": 2430,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

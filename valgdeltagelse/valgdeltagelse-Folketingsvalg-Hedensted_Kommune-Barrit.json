@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Barrit",
+  "AfstemningsområdeDagiId": "706828",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:11:56",
+  "Kommune": "Hedensted",
+  "Kommunekode": 766,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 104,
+      "AntalStemmeberretigedeVælgere": 1220,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 291,
+      "AntalStemmeberretigedeVælgere": 1219,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
