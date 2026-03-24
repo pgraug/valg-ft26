@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Galten",
+  "AfstemningsområdeDagiId": "702022",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:30:41",
+  "Kommune": "Skanderborg",
+  "Kommunekode": 746,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1591,
+      "AntalStemmeberretigedeVælgere": 4910,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

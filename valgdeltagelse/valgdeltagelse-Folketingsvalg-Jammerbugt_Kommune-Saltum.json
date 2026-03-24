@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Saltum",
+  "AfstemningsområdeDagiId": "703310",
+  "AfstemningsområdeNummer": 21,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:30:26",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 328,
+      "AntalStemmeberretigedeVælgere": 979,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

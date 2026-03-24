@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "5. Nord",
+  "AfstemningsområdeDagiId": "706184",
+  "AfstemningsområdeNummer": 21,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:30:26",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 3465,
+      "AntalStemmeberretigedeVælgere": 9944,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

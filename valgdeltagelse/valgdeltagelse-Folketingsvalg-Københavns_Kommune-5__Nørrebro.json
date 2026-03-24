@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "5. Nørrebro",
+  "AfstemningsområdeDagiId": "706196",
+  "AfstemningsområdeNummer": 20,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:30:11",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2294,
+      "AntalStemmeberretigedeVælgere": 6304,
+      "Tidspunkt": "12:14:00"
+    }
+  ]
+}
