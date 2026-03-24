@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jebjerg-Lyby",
   "AfstemningsområdeDagiId": "748875",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:31:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:22:00",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 814,
       "AntalStemmeberretigedeVælgere": 1172,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 939,
+      "AntalStemmeberretigedeVælgere": 1172,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

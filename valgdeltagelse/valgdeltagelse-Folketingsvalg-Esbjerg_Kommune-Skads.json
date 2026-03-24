@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skads",
   "AfstemningsområdeDagiId": "705174",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:21:45",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1146,
       "AntalStemmeberretigedeVælgere": 1518,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1329,
+      "AntalStemmeberretigedeVælgere": 1518,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

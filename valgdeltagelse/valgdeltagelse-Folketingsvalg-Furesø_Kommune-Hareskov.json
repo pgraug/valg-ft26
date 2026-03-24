@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hareskov",
   "AfstemningsområdeDagiId": "710110",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:21:45",
   "Kommune": "Furesø",
   "Kommunekode": 190,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2287,
       "AntalStemmeberretigedeVælgere": 2584,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2439,
+      "AntalStemmeberretigedeVælgere": 2584,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

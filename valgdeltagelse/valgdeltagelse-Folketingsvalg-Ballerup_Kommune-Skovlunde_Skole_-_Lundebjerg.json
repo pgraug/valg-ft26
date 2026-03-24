@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovlunde Skole - Lundebjerg",
   "AfstemningsområdeDagiId": "704024",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:09:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:21:00",
   "Kommune": "Ballerup",
   "Kommunekode": 151,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 4315,
       "AntalStemmeberretigedeVælgere": 5834,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 4554,
+      "AntalStemmeberretigedeVælgere": 5834,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
