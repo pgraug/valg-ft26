@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gjessø",
   "AfstemningsområdeDagiId": "706692",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:02:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:00:59",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 267,
       "AntalStemmeberretigedeVælgere": 955,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 459,
+      "AntalStemmeberretigedeVælgere": 955,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

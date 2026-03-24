@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thorshøj",
   "AfstemningsområdeDagiId": "705142",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:13",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 176,
       "AntalStemmeberretigedeVælgere": 519,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 247,
+      "AntalStemmeberretigedeVælgere": 519,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

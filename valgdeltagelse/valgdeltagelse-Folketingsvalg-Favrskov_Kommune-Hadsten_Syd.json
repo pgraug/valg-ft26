@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hadsten Syd",
   "AfstemningsområdeDagiId": "711042",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:14",
   "Kommune": "Favrskov",
   "Kommunekode": 710,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1016,
       "AntalStemmeberretigedeVælgere": 3048,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1675,
+      "AntalStemmeberretigedeVælgere": 3048,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grauballe",
   "AfstemningsområdeDagiId": "711288",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:15",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 310,
       "AntalStemmeberretigedeVælgere": 1152,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 542,
+      "AntalStemmeberretigedeVælgere": 1152,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
