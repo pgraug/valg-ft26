@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ullerød",
   "AfstemningsområdeDagiId": "701196",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:15:45",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1119,
       "AntalStemmeberretigedeVælgere": 4957,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1387,
+      "AntalStemmeberretigedeVælgere": 4957,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

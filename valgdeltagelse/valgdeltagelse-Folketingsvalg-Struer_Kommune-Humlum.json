@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Humlum",
+  "AfstemningsområdeDagiId": "700832",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:15:45",
+  "Kommune": "Struer",
+  "Kommunekode": 671,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 316,
+      "AntalStemmeberretigedeVælgere": 1312,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
