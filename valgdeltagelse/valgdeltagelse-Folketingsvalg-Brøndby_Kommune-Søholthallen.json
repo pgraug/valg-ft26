@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Søholthallen",
+  "AfstemningsområdeDagiId": "748690",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:10:34",
+  "Kommune": "Brøndby",
+  "Kommunekode": 153,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 839,
+      "AntalStemmeberretigedeVælgere": 3570,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1295,
+      "AntalStemmeberretigedeVælgere": 3570,
+      "Tidspunkt": "15:00:00"
+    }
+  ]
+}

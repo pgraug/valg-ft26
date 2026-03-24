@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovgård",
   "AfstemningsområdeDagiId": "708814",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:10:49",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2222,
       "AntalStemmeberretigedeVælgere": 4718,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2446,
+      "AntalStemmeberretigedeVælgere": 4718,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

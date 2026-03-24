@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Kulturhuset Brønden",
+  "AfstemningsområdeDagiId": "702448",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:10:20",
+  "Kommune": "Brøndby",
+  "Kommunekode": 153,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 991,
+      "AntalStemmeberretigedeVælgere": 4142,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1620,
+      "AntalStemmeberretigedeVælgere": 4142,
+      "Tidspunkt": "15:00:00"
+    }
+  ]
+}
