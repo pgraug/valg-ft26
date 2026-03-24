@@ -2,7 +2,7 @@
   "Afstemningsområde": "Idrætshallen (tidl. UCC-hallen) - Rosenlund",
   "AfstemningsområdeDagiId": "705652",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:30:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:49",
   "Kommune": "Ballerup",
   "Kommunekode": 151,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,16 @@
       "AfgivneStemmer": 2035,
       "AntalStemmeberretigedeVælgere": 3743,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2457,
+      "AntalStemmeberretigedeVælgere": 3743,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3177,
+      "AntalStemmeberretigedeVælgere": 3743,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

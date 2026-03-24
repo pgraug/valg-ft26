@@ -2,7 +2,7 @@
   "Afstemningsområde": "Løkken",
   "AfstemningsområdeDagiId": "702848",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:49",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1557,
       "AntalStemmeberretigedeVælgere": 2330,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1881,
+      "AntalStemmeberretigedeVælgere": 2330,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
