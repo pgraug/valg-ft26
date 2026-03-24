@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søndervangskolen, Viby J",
   "AfstemningsområdeDagiId": "711416",
   "AfstemningsområdeNummer": 62,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:11:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:08",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 232,
       "AntalStemmeberretigedeVælgere": 2598,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 497,
+      "AntalStemmeberretigedeVælgere": 2598,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

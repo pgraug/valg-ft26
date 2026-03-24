@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gammelgaardsskolen, Åbyhøj",
   "AfstemningsområdeDagiId": "700890",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:13:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:40",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 636,
       "AntalStemmeberretigedeVælgere": 3138,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1046,
+      "AntalStemmeberretigedeVælgere": 3138,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

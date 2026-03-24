@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gedsted",
+  "AfstemningsområdeDagiId": "710008",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:08",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 367,
+      "AntalStemmeberretigedeVælgere": 1326,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

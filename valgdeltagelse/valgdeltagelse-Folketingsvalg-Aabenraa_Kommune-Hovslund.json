@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hovslund",
   "AfstemningsområdeDagiId": "705386",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:09",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 90,
       "AntalStemmeberretigedeVælgere": 584,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 157,
+      "AntalStemmeberretigedeVælgere": 584,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

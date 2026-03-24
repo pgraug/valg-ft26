@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Stengård",
+  "AfstemningsområdeDagiId": "700934",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:38",
+  "Kommune": "Gladsaxe",
+  "Kommunekode": 159,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2194,
+      "AntalStemmeberretigedeVælgere": 6054,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

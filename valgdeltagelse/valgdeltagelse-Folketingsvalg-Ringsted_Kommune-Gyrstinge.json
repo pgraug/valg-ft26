@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gyrstinge",
   "AfstemningsområdeDagiId": "710656",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:07:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:39",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 62,
       "AntalStemmeberretigedeVælgere": 583,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 148,
+      "AntalStemmeberretigedeVælgere": 583,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

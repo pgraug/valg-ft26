@@ -2,7 +2,7 @@
   "Afstemningsområde": "Esbønderup",
   "AfstemningsområdeDagiId": "701158",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:26:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:38",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 396,
       "AntalStemmeberretigedeVælgere": 2497,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 819,
+      "AntalStemmeberretigedeVælgere": 2497,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
