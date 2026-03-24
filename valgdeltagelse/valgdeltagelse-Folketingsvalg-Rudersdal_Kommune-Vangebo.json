@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vangebo",
   "AfstemningsområdeDagiId": "708708",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:34:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:13:22",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 1763,
       "AntalStemmeberretigedeVælgere": 3017,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2030,
+      "AntalStemmeberretigedeVælgere": 3017,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

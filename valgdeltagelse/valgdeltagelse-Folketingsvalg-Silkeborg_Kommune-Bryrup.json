@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Bryrup",
+  "AfstemningsområdeDagiId": "700802",
+  "AfstemningsområdeNummer": 22,
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:12:37",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 331,
+      "AntalStemmeberretigedeVælgere": 1676,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 491,
+      "AntalStemmeberretigedeVælgere": 1676,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 828,
+      "AntalStemmeberretigedeVælgere": 1676,
+      "Tidspunkt": "16:00:00"
+    }
+  ]
+}
