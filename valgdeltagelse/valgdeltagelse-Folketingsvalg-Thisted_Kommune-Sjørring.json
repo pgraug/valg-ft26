@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sjørring",
   "AfstemningsområdeDagiId": "702944",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:22",
   "Kommune": "Thisted",
   "Kommunekode": 787,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 487,
       "AntalStemmeberretigedeVælgere": 2152,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1361,
+      "AntalStemmeberretigedeVælgere": 2152,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

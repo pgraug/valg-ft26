@@ -2,7 +2,7 @@
   "Afstemningsområde": "Oure",
   "AfstemningsområdeDagiId": "707982",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:52",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 674,
       "AntalStemmeberretigedeVælgere": 1394,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 939,
+      "AntalStemmeberretigedeVælgere": 1394,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

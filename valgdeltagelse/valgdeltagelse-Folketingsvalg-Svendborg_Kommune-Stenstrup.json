@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stenstrup",
   "AfstemningsområdeDagiId": "701964",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:22",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 890,
       "AntalStemmeberretigedeVælgere": 1959,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1233,
+      "AntalStemmeberretigedeVælgere": 1959,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

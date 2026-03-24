@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thurø",
   "AfstemningsområdeDagiId": "709768",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:36",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1462,
       "AntalStemmeberretigedeVælgere": 2806,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2018,
+      "AntalStemmeberretigedeVælgere": 2806,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

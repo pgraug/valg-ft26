@@ -2,7 +2,7 @@
   "Afstemningsområde": "Klemensker",
   "AfstemningsområdeDagiId": "712002",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:24",
   "Kommune": "Bornholm",
   "Kommunekode": 400,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,16 @@
       "AfgivneStemmer": 452,
       "AntalStemmeberretigedeVælgere": 1869,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 726,
+      "AntalStemmeberretigedeVælgere": 1869,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1158,
+      "AntalStemmeberretigedeVælgere": 1869,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

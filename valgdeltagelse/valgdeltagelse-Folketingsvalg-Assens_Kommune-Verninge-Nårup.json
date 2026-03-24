@@ -2,7 +2,7 @@
   "Afstemningsområde": "Verninge/Nårup",
   "AfstemningsområdeDagiId": "707704",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:01:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:37",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 392,
       "AntalStemmeberretigedeVælgere": 1179,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 741,
+      "AntalStemmeberretigedeVælgere": 1179,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

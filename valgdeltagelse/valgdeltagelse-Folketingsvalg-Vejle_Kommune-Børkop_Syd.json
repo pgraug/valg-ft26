@@ -2,7 +2,7 @@
   "Afstemningsområde": "Børkop Syd",
   "AfstemningsområdeDagiId": "711442",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:24",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1185,
       "AntalStemmeberretigedeVælgere": 5357,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 3184,
+      "AntalStemmeberretigedeVælgere": 5357,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
