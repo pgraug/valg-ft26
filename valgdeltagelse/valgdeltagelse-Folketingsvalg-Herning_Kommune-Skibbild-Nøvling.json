@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skibbild/Nøvling",
   "AfstemningsområdeDagiId": "703474",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:19:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:47",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 59,
       "AntalStemmeberretigedeVælgere": 674,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 142,
+      "AntalStemmeberretigedeVælgere": 674,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

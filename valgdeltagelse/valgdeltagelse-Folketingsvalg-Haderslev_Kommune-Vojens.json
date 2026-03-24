@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vojens",
+  "AfstemningsområdeDagiId": "707620",
+  "AfstemningsområdeNummer": 17,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:32",
+  "Kommune": "Haderslev",
+  "Kommunekode": 510,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1470,
+      "AntalStemmeberretigedeVælgere": 5394,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nyborghallen",
   "AfstemningsområdeDagiId": "703754",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:16:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:45",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1730,
       "AntalStemmeberretigedeVælgere": 7567,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 2104,
+      "AntalStemmeberretigedeVælgere": 7567,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

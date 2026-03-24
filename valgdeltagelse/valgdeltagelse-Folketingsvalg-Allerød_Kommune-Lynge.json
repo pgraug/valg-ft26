@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Lynge",
+  "AfstemningsområdeDagiId": "705404",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:31",
+  "Kommune": "Allerød",
+  "Kommunekode": 201,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 625,
+      "AntalStemmeberretigedeVælgere": 3980,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 830,
+      "AntalStemmeberretigedeVælgere": 3980,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1060,
+      "AntalStemmeberretigedeVælgere": 3980,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
