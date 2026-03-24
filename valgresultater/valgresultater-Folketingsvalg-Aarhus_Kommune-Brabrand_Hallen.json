@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 5540,
+  "AfgivneStemmer": 5539,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Brabrand Hallen",
   "AfstemningsområdeDagiId": 706938,
@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 4,
   "BlankeUgyldigeFremmødteStemmer": 34,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:35:12",
+  "FrigivelsesTidspunktUTC": "24-03-2026 21:46:44",
   "GyldigeStemmer": 5491,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -153,7 +153,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 11,
+  "UgyldigeStemmerUdoverBlanke": 10,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
