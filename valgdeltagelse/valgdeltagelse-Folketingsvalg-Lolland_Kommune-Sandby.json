@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sandby",
   "AfstemningsområdeDagiId": "706762",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:58",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 220,
       "AntalStemmeberretigedeVælgere": 686,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 283,
+      "AntalStemmeberretigedeVælgere": 686,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

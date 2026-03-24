@@ -2,7 +2,7 @@
   "Afstemningsområde": "Reersø",
   "AfstemningsområdeDagiId": "702334",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:21:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:41",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 87,
       "AntalStemmeberretigedeVælgere": 519,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 226,
+      "AntalStemmeberretigedeVælgere": 519,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

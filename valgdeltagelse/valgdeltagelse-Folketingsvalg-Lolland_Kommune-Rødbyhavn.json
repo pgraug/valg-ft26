@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rødbyhavn",
   "AfstemningsområdeDagiId": "703882",
   "AfstemningsområdeNummer": 37,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:05:25",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 361,
       "AntalStemmeberretigedeVælgere": 1101,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 443,
+      "AntalStemmeberretigedeVælgere": 1101,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
