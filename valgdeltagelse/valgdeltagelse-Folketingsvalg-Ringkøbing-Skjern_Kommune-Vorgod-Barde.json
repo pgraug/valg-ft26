@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vorgod-Barde",
   "AfstemningsområdeDagiId": "711210",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:07:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:51",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,21 @@
       "AfgivneStemmer": 169,
       "AntalStemmeberretigedeVælgere": 1718,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 270,
+      "AntalStemmeberretigedeVælgere": 1718,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 347,
+      "AntalStemmeberretigedeVælgere": 1718,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 423,
+      "AntalStemmeberretigedeVælgere": 1718,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

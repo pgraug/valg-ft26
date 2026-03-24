@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hammer - Vester Egesborg",
   "AfstemningsområdeDagiId": "711128",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:02:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:53",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 137,
       "AntalStemmeberretigedeVælgere": 1249,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 331,
+      "AntalStemmeberretigedeVælgere": 1249,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

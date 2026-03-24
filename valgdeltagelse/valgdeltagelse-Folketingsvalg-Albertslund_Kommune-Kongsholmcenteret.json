@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kongsholmcenteret",
   "AfstemningsområdeDagiId": "709130",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:21:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:21",
   "Kommune": "Albertslund",
   "Kommunekode": 165,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 708,
       "AntalStemmeberretigedeVælgere": 3598,
       "Tidspunkt": "10:09:00"
+    },
+    {
+      "AfgivneStemmer": 1036,
+      "AntalStemmeberretigedeVælgere": 3598,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

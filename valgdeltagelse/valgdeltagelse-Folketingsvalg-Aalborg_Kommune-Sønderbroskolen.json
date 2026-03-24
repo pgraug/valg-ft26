@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sønderbroskolen",
+  "AfstemningsområdeDagiId": "708938",
+  "AfstemningsområdeNummer": 27,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:51",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1587,
+      "AntalStemmeberretigedeVælgere": 6374,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

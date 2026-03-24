@@ -2,7 +2,7 @@
   "Afstemningsområde": "Voerså",
   "AfstemningsområdeDagiId": "748393",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:03:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:36",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 228,
       "AntalStemmeberretigedeVælgere": 1350,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 378,
+      "AntalStemmeberretigedeVælgere": 1350,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

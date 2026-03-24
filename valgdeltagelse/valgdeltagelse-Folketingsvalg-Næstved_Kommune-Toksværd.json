@@ -2,7 +2,7 @@
   "Afstemningsområde": "Toksværd",
   "AfstemningsområdeDagiId": "712222",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:06",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 154,
       "AntalStemmeberretigedeVælgere": 1229,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 349,
+      "AntalStemmeberretigedeVælgere": 1229,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

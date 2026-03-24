@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rye",
   "AfstemningsområdeDagiId": "707756",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:52",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 480,
       "AntalStemmeberretigedeVælgere": 2002,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 634,
+      "AntalStemmeberretigedeVælgere": 2002,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
