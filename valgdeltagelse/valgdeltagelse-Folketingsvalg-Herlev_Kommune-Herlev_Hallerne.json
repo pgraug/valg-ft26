@@ -2,7 +2,7 @@
   "Afstemningsområde": "Herlev Hallerne",
   "AfstemningsområdeDagiId": "710346",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:03",
   "Kommune": "Herlev",
   "Kommunekode": 163,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 4122,
       "AntalStemmeberretigedeVælgere": 6293,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 4745,
+      "AntalStemmeberretigedeVælgere": 6293,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

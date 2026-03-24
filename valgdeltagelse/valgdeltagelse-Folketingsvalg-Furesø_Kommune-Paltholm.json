@@ -2,7 +2,7 @@
   "Afstemningsområde": "Paltholm",
   "AfstemningsområdeDagiId": "706956",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:24:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:16",
   "Kommune": "Furesø",
   "Kommunekode": 190,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,21 @@
       "AfgivneStemmer": 1056,
       "AntalStemmeberretigedeVælgere": 3529,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1421,
+      "AntalStemmeberretigedeVælgere": 3529,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1858,
+      "AntalStemmeberretigedeVælgere": 3529,
+      "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2364,
+      "AntalStemmeberretigedeVælgere": 3529,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

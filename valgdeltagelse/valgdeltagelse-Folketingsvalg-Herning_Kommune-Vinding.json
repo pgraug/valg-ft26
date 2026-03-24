@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vinding",
   "AfstemningsområdeDagiId": "701690",
   "AfstemningsområdeNummer": 29,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:33",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 708,
       "AntalStemmeberretigedeVælgere": 1185,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 855,
+      "AntalStemmeberretigedeVælgere": 1185,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

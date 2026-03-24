@@ -2,7 +2,7 @@
   "Afstemningsområde": "Frederiksværk",
   "AfstemningsområdeDagiId": "707698",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:02",
   "Kommune": "Halsnæs",
   "Kommunekode": 260,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3129,
       "AntalStemmeberretigedeVælgere": 7570,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 5235,
+      "AntalStemmeberretigedeVælgere": 7570,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

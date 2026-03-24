@@ -2,7 +2,7 @@
   "Afstemningsområde": "Svallerup",
   "AfstemningsområdeDagiId": "707004",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:05:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:16",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 436,
       "AntalStemmeberretigedeVælgere": 952,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 707,
+      "AntalStemmeberretigedeVælgere": 952,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

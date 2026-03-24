@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kelstrup",
   "AfstemningsområdeDagiId": "711872",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:34",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,16 @@
       "AfgivneStemmer": 517,
       "AntalStemmeberretigedeVælgere": 1162,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 719,
+      "AntalStemmeberretigedeVælgere": 1162,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 854,
+      "AntalStemmeberretigedeVælgere": 1162,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kulturhuset Langå",
   "AfstemningsområdeDagiId": "704314",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:47",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 1593,
       "AntalStemmeberretigedeVælgere": 2450,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1808,
+      "AntalStemmeberretigedeVælgere": 2450,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

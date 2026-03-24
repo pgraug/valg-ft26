@@ -2,7 +2,7 @@
   "Afstemningsområde": "Farsø",
   "AfstemningsområdeDagiId": "705538",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:20",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1104,
       "AntalStemmeberretigedeVælgere": 3476,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2466,
+      "AntalStemmeberretigedeVælgere": 3476,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

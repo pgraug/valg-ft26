@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ravsted",
   "AfstemningsområdeDagiId": "706648",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:07:14",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:19",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 255,
       "AntalStemmeberretigedeVælgere": 570,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 387,
+      "AntalStemmeberretigedeVælgere": 570,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

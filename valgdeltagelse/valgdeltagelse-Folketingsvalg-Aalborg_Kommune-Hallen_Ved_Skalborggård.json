@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hallen Ved Skalborggård",
   "AfstemningsområdeDagiId": "704462",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:06",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1369,
       "AntalStemmeberretigedeVælgere": 4859,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3389,
+      "AntalStemmeberretigedeVælgere": 4859,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

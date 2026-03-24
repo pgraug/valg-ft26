@@ -2,7 +2,7 @@
   "Afstemningsområde": "Øster Hornum",
   "AfstemningsområdeDagiId": "701822",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:19:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:20",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 444,
       "AntalStemmeberretigedeVælgere": 1481,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1125,
+      "AntalStemmeberretigedeVælgere": 1481,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

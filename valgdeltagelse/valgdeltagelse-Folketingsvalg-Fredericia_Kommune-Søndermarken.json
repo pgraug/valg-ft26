@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søndermarken",
   "AfstemningsområdeDagiId": "707944",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:14:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:50",
   "Kommune": "Fredericia",
   "Kommunekode": 607,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2436,
       "AntalStemmeberretigedeVælgere": 7979,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 5489,
+      "AntalStemmeberretigedeVælgere": 7979,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

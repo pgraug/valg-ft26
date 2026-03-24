@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gistrup Skoles Idrætshal",
   "AfstemningsområdeDagiId": "702950",
   "AfstemningsområdeNummer": 35,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:31",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1415,
       "AntalStemmeberretigedeVælgere": 4435,
       "Tidspunkt": "12:01:00"
+    },
+    {
+      "AfgivneStemmer": 3381,
+      "AntalStemmeberretigedeVælgere": 4435,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

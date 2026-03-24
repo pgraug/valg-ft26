@@ -2,7 +2,7 @@
   "Afstemningsområde": "Torsted",
   "AfstemningsområdeDagiId": "707750",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:48",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2598,
       "AntalStemmeberretigedeVælgere": 4186,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3037,
+      "AntalStemmeberretigedeVælgere": 4186,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

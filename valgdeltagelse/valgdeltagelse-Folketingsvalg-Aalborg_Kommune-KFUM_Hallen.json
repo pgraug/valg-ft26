@@ -2,7 +2,7 @@
   "Afstemningsområde": "KFUM Hallen",
   "AfstemningsområdeDagiId": "701344",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:31",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2388,
       "AntalStemmeberretigedeVælgere": 6291,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4793,
+      "AntalStemmeberretigedeVælgere": 6291,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

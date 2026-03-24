@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skipperens Idrætshus",
   "AfstemningsområdeDagiId": "710526",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:50",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1915,
       "AntalStemmeberretigedeVælgere": 6120,
       "Tidspunkt": "11:59:00"
+    },
+    {
+      "AfgivneStemmer": 4413,
+      "AntalStemmeberretigedeVælgere": 6120,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

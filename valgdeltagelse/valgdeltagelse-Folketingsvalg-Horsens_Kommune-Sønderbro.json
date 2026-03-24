@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sønderbro",
   "AfstemningsområdeDagiId": "710898",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:19",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2651,
       "AntalStemmeberretigedeVælgere": 4309,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2967,
+      "AntalStemmeberretigedeVælgere": 4309,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

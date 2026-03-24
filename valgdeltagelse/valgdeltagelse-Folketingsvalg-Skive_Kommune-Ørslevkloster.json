@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ørslevkloster",
   "AfstemningsområdeDagiId": "748877",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:59",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:02",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 544,
       "AntalStemmeberretigedeVælgere": 994,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 766,
+      "AntalStemmeberretigedeVælgere": 994,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

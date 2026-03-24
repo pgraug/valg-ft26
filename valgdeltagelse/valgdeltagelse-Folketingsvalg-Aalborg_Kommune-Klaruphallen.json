@@ -2,7 +2,7 @@
   "Afstemningsområde": "Klaruphallen",
   "AfstemningsområdeDagiId": "701338",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:04",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1240,
       "AntalStemmeberretigedeVælgere": 4032,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3040,
+      "AntalStemmeberretigedeVælgere": 4032,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

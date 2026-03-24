@@ -2,7 +2,7 @@
   "Afstemningsområde": "Starup",
   "AfstemningsområdeDagiId": "710846",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:14:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:18",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1043,
       "AntalStemmeberretigedeVælgere": 2151,
       "Tidspunkt": "15:10:00"
+    },
+    {
+      "AfgivneStemmer": 1626,
+      "AntalStemmeberretigedeVælgere": 2151,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

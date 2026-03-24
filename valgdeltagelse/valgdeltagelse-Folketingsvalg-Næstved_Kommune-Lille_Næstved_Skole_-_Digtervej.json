@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lille Næstved Skole - Digtervej",
   "AfstemningsområdeDagiId": "701870",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:35",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1834,
       "AntalStemmeberretigedeVælgere": 3847,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2724,
+      "AntalStemmeberretigedeVælgere": 3847,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

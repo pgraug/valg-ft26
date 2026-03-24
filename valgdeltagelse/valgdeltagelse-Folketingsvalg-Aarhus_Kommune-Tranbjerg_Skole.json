@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tranbjerg Skole",
   "AfstemningsområdeDagiId": "702228",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:16",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3462,
       "AntalStemmeberretigedeVælgere": 7202,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 5492,
+      "AntalStemmeberretigedeVælgere": 7202,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
