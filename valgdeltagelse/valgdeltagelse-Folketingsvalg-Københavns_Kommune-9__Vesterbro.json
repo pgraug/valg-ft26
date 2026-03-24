@@ -2,7 +2,7 @@
   "Afstemningsområde": "9. Vesterbro",
   "AfstemningsområdeDagiId": "709384",
   "AfstemningsområdeNummer": 49,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:38:13",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:09:00",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2675,
       "AntalStemmeberretigedeVælgere": 7133,
       "Tidspunkt": "12:01:00"
+    },
+    {
+      "AfgivneStemmer": 4399,
+      "AntalStemmeberretigedeVælgere": 7133,
+      "Tidspunkt": "16:03:00"
     }
   ]
 }

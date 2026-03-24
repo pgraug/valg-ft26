@@ -2,7 +2,7 @@
   "Afstemningsområde": "Uvelse",
   "AfstemningsområdeDagiId": "749325",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:08:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:08:45",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 459,
       "AntalStemmeberretigedeVælgere": 1037,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 562,
+      "AntalStemmeberretigedeVælgere": 1037,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

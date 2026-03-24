@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hvidbjerg",
   "AfstemningsområdeDagiId": "709888",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:15:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:08:44",
   "Kommune": "Struer",
   "Kommunekode": 671,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 498,
       "AntalStemmeberretigedeVælgere": 2214,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1140,
+      "AntalStemmeberretigedeVælgere": 2214,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
