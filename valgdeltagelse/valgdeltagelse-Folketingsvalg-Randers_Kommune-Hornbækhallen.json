@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hornbækhallen",
   "AfstemningsområdeDagiId": "707188",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:15:32",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1176,
       "AntalStemmeberretigedeVælgere": 3303,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1351,
+      "AntalStemmeberretigedeVælgere": 3303,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
