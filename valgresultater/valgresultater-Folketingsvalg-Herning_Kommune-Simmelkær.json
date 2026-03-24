@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 19:36:31",
-  "GyldigeStemmer": 242,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:42:20",
+  "GyldigeStemmer": 241,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -38,15 +38,6 @@
       "PartiNavn": "Det Konservative Folkeparti",
       "Partistemmer": null,
       "Stemmer": 4,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "H",
-      "Kandidater": null,
-      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
-      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
-      "Partistemmer": null,
-      "Stemmer": 17,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -119,6 +110,15 @@
       "PartiNavn": "Alternativet",
       "Partistemmer": null,
       "Stemmer": 4,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "H",
+      "Kandidater": null,
+      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
+      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
+      "Partistemmer": null,
+      "Stemmer": 16,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
@@ -290,14 +290,14 @@
       "Paragraf": "16"
     },
     {
-      "Antal": 0,
+      "Antal": 1,
       "Id": 12,
       "Navn": "AnførtFlereEndTreKryds",
       "Paragraf": "15"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 0,
+  "UgyldigeStemmerUdoverBlanke": 1,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
