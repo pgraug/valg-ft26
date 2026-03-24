@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gigantium",
+  "AfstemningsområdeDagiId": "704506",
+  "AfstemningsområdeNummer": 29,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:23",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2244,
+      "AntalStemmeberretigedeVælgere": 7989,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

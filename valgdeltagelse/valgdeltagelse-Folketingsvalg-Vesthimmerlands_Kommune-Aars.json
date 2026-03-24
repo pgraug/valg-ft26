@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Aars",
+  "AfstemningsområdeDagiId": "700858",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:55",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2119,
+      "AntalStemmeberretigedeVælgere": 7188,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

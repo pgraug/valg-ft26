@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sandby",
   "AfstemningsområdeDagiId": "707930",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:05:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:52",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 25,
       "AntalStemmeberretigedeVælgere": 399,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 80,
+      "AntalStemmeberretigedeVælgere": 399,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

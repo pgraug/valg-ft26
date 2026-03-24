@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fladså Hallen",
   "AfstemningsområdeDagiId": "707910",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:39",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 264,
       "AntalStemmeberretigedeVælgere": 2065,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 643,
+      "AntalStemmeberretigedeVælgere": 2065,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vemmelev - Vemmelevhallen",
+  "AfstemningsområdeDagiId": "711606",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:40",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 743,
+      "AntalStemmeberretigedeVælgere": 2673,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Salling",
+  "AfstemningsområdeDagiId": "706876",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:24",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 228,
+      "AntalStemmeberretigedeVælgere": 922,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

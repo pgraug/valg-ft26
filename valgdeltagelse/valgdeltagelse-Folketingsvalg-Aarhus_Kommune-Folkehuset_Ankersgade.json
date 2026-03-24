@@ -2,7 +2,7 @@
   "Afstemningsområde": "Folkehuset Ankersgade",
   "AfstemningsområdeDagiId": "706884",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:02:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:24",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1064,
       "AntalStemmeberretigedeVælgere": 6412,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2170,
+      "AntalStemmeberretigedeVælgere": 6412,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

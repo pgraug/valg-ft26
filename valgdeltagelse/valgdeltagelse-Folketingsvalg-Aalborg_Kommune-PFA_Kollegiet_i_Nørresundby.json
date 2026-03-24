@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "PFA Kollegiet i Nørresundby",
+  "AfstemningsområdeDagiId": "748032",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:24",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1043,
+      "AntalStemmeberretigedeVælgere": 3191,
+      "Tidspunkt": "11:56:00"
+    }
+  ]
+}
