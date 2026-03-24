@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jordløse",
   "AfstemningsområdeDagiId": "711908",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:33",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 315,
       "AntalStemmeberretigedeVælgere": 511,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 396,
+      "AntalStemmeberretigedeVælgere": 511,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

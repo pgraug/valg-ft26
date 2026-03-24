@@ -2,7 +2,7 @@
   "Afstemningsområde": "Horne",
   "AfstemningsområdeDagiId": "702860",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:34",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 817,
       "AntalStemmeberretigedeVælgere": 1264,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1020,
+      "AntalStemmeberretigedeVælgere": 1264,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

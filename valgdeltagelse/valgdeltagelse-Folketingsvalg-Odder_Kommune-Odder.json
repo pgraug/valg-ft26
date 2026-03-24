@@ -2,7 +2,7 @@
   "Afstemningsområde": "Odder",
   "AfstemningsområdeDagiId": "709406",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:48",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 7430,
       "AntalStemmeberretigedeVælgere": 10669,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 8841,
+      "AntalStemmeberretigedeVælgere": 10669,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kirkeby",
   "AfstemningsområdeDagiId": "709774",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:33",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 647,
       "AntalStemmeberretigedeVælgere": 1015,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 837,
+      "AntalStemmeberretigedeVælgere": 1015,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

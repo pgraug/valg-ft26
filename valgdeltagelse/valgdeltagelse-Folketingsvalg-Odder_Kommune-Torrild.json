@@ -2,7 +2,7 @@
   "Afstemningsområde": "Torrild",
   "AfstemningsområdeDagiId": "701640",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:18",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 197,
       "AntalStemmeberretigedeVælgere": 342,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 286,
+      "AntalStemmeberretigedeVælgere": 342,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
