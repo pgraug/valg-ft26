@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lendum",
   "AfstemningsområdeDagiId": "701242",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:13:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:11:50",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 615,
       "AntalStemmeberretigedeVælgere": 1081,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 807,
+      "AntalStemmeberretigedeVælgere": 1081,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
