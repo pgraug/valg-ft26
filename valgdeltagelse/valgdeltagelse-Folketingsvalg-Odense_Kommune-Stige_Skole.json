@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stige Skole",
   "AfstemningsområdeDagiId": "702824",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:10:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:05",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1336,
       "AntalStemmeberretigedeVælgere": 4942,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 3181,
+      "AntalStemmeberretigedeVælgere": 4942,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

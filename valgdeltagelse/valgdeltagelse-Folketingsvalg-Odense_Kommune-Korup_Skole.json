@@ -2,7 +2,7 @@
   "Afstemningsområde": "Korup Skole",
   "AfstemningsområdeDagiId": "710430",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:38",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 860,
       "AntalStemmeberretigedeVælgere": 3465,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2282,
+      "AntalStemmeberretigedeVælgere": 3465,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

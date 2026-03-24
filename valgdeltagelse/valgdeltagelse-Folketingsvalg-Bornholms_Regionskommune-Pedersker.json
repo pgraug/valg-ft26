@@ -2,7 +2,7 @@
   "Afstemningsområde": "Pedersker",
   "AfstemningsområdeDagiId": "709262",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:21",
   "Kommune": "Bornholm",
   "Kommunekode": 400,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 365,
       "AntalStemmeberretigedeVælgere": 1239,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 866,
+      "AntalStemmeberretigedeVælgere": 1239,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

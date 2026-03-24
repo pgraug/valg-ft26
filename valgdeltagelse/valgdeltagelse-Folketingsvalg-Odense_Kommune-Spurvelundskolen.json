@@ -2,7 +2,7 @@
   "Afstemningsområde": "Spurvelundskolen",
   "AfstemningsområdeDagiId": "701218",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:07",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 868,
       "AntalStemmeberretigedeVælgere": 3090,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1978,
+      "AntalStemmeberretigedeVælgere": 3090,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

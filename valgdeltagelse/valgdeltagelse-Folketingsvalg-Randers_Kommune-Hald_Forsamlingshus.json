@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hald Forsamlingshus",
   "AfstemningsområdeDagiId": "702710",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:08",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 573,
       "AntalStemmeberretigedeVælgere": 1142,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 725,
+      "AntalStemmeberretigedeVælgere": 1142,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Løsning Sogn",
   "AfstemningsområdeDagiId": "706834",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:06:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:35",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 806,
       "AntalStemmeberretigedeVælgere": 2974,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1829,
+      "AntalStemmeberretigedeVælgere": 2974,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

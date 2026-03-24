@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sydvestmors",
   "AfstemningsområdeDagiId": "711514",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:39:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:08",
   "Kommune": "Morsø",
   "Kommunekode": 773,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 282,
       "AntalStemmeberretigedeVælgere": 1360,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 818,
+      "AntalStemmeberretigedeVælgere": 1360,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

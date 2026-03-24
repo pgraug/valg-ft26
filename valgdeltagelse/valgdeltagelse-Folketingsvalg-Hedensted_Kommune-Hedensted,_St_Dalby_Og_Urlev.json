@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hedensted, St.Dalby Og Urlev",
   "AfstemningsområdeDagiId": "702112",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:05",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2306,
       "AntalStemmeberretigedeVælgere": 7680,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4791,
+      "AntalStemmeberretigedeVælgere": 7676,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

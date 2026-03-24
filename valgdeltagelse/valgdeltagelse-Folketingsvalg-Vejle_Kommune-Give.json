@@ -2,7 +2,7 @@
   "Afstemningsområde": "Give",
   "AfstemningsområdeDagiId": "711436",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:50",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1088,
       "AntalStemmeberretigedeVælgere": 4691,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2952,
+      "AntalStemmeberretigedeVælgere": 4691,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

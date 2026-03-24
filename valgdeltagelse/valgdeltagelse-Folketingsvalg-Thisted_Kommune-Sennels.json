@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sennels",
   "AfstemningsområdeDagiId": "748377",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:07",
   "Kommune": "Thisted",
   "Kommunekode": 787,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 247,
       "AntalStemmeberretigedeVælgere": 992,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 673,
+      "AntalStemmeberretigedeVælgere": 992,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
