@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kalvehave",
   "AfstemningsområdeDagiId": "705054",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:41:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:29:30",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 684,
       "AntalStemmeberretigedeVælgere": 1629,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 889,
+      "AntalStemmeberretigedeVælgere": 1629,
+      "Tidspunkt": "16:01:00"
     }
   ]
 }
