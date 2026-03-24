@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lem-Vejby",
   "AfstemningsområdeDagiId": "748888",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:18:45",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 457,
       "AntalStemmeberretigedeVælgere": 631,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 521,
+      "AntalStemmeberretigedeVælgere": 631,
+      "Tidspunkt": "20:16:00"
     }
   ]
 }

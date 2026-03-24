@@ -2,7 +2,7 @@
   "Afstemningsområde": "8. Vest",
   "AfstemningsområdeDagiId": "711890",
   "AfstemningsområdeNummer": 46,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:22:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:19:00",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 4240,
       "AntalStemmeberretigedeVælgere": 6352,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5039,
+      "AntalStemmeberretigedeVælgere": 6352,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

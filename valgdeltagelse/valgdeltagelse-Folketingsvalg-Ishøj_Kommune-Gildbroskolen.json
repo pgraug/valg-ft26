@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gildbroskolen",
   "AfstemningsområdeDagiId": "700870",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:19:00",
   "Kommune": "Ishøj",
   "Kommunekode": 183,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2040,
       "AntalStemmeberretigedeVælgere": 3297,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2360,
+      "AntalStemmeberretigedeVælgere": 3297,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

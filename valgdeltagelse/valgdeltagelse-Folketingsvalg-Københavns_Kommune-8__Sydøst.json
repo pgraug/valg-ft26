@@ -2,7 +2,7 @@
   "Afstemningsområde": "8. Sydøst",
   "AfstemningsområdeDagiId": "701520",
   "AfstemningsområdeNummer": 47,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:22:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:19:01",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,16 @@
       "AfgivneStemmer": 3294,
       "AntalStemmeberretigedeVælgere": 4812,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3835,
+      "AntalStemmeberretigedeVælgere": 4812,
+      "Tidspunkt": "20:00:00"
+    },
+    {
+      "AfgivneStemmer": 3837,
+      "AntalStemmeberretigedeVælgere": 4812,
+      "Tidspunkt": "20:03:00"
     }
   ]
 }
