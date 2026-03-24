@@ -2,7 +2,7 @@
   "Afstemningsområde": "Køng",
   "AfstemningsområdeDagiId": "748072",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:59:48",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 464,
       "AntalStemmeberretigedeVælgere": 703,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 594,
+      "AntalStemmeberretigedeVælgere": 703,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

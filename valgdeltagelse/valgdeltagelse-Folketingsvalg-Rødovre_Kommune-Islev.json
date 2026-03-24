@@ -2,7 +2,7 @@
   "Afstemningsområde": "Islev",
   "AfstemningsområdeDagiId": "706324",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:18",
   "Kommune": "Rødovre",
   "Kommunekode": 175,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2884,
       "AntalStemmeberretigedeVælgere": 4321,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3289,
+      "AntalStemmeberretigedeVælgere": 4321,
+      "Tidspunkt": "19:02:00"
     }
   ]
 }

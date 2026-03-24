@@ -2,7 +2,7 @@
   "Afstemningsområde": "Orte/Ørsted",
   "AfstemningsområdeDagiId": "710796",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:18",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 586,
       "AntalStemmeberretigedeVælgere": 943,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 773,
+      "AntalStemmeberretigedeVælgere": 943,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
