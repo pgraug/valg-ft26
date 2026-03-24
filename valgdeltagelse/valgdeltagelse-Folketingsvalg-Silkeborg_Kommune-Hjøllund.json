@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hjøllund",
   "AfstemningsområdeDagiId": "702052",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:13:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:43:32",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 192,
       "AntalStemmeberretigedeVælgere": 340,
       "Tidspunkt": "16:02:00"
+    },
+    {
+      "AfgivneStemmer": 283,
+      "AntalStemmeberretigedeVælgere": 340,
+      "Tidspunkt": "20:42:00"
     }
   ]
 }

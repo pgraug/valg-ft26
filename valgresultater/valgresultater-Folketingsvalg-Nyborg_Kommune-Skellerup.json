@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 19:29:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:43:17",
   "GyldigeStemmer": 359,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -55,7 +55,7 @@
       "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
       "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
       "Partistemmer": null,
-      "Stemmer": 26,
+      "Stemmer": 27,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -64,7 +64,7 @@
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
       "Partistemmer": null,
-      "Stemmer": 45,
+      "Stemmer": 44,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
