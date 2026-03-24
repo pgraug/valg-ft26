@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søvind",
   "AfstemningsområdeDagiId": "712020",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:05",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 941,
       "AntalStemmeberretigedeVælgere": 1438,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1075,
+      "AntalStemmeberretigedeVælgere": 1438,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

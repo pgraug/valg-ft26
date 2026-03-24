@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stenum",
   "AfstemningsområdeDagiId": "702304",
   "AfstemningsområdeNummer": 34,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:11:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:16",
   "Kommune": "Brønderslev",
   "Kommunekode": 810,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 231,
       "AntalStemmeberretigedeVælgere": 462,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 347,
+      "AntalStemmeberretigedeVælgere": 462,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

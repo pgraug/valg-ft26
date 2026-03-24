@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aalborghallen",
   "AfstemningsområdeDagiId": "711774",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:06",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2144,
       "AntalStemmeberretigedeVælgere": 7703,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 5267,
+      "AntalStemmeberretigedeVælgere": 7703,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

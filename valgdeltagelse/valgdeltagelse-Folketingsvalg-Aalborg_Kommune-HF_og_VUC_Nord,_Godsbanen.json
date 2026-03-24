@@ -2,7 +2,7 @@
   "Afstemningsområde": "HF og VUC Nord, Godsbanen",
   "AfstemningsområdeDagiId": "748033",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:18",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1077,
       "AntalStemmeberretigedeVælgere": 4262,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3063,
+      "AntalStemmeberretigedeVælgere": 4262,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hørby",
   "AfstemningsområdeDagiId": "708660",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:07:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:34",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1336,
       "AntalStemmeberretigedeVælgere": 2676,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1940,
+      "AntalStemmeberretigedeVælgere": 2676,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordkraft",
   "AfstemningsområdeDagiId": "748030",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:48",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1861,
       "AntalStemmeberretigedeVælgere": 6667,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4702,
+      "AntalStemmeberretigedeVælgere": 6667,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

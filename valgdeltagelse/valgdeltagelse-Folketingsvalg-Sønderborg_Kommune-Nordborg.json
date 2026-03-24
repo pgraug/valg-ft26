@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordborg",
   "AfstemningsområdeDagiId": "703038",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:46",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1808,
       "AntalStemmeberretigedeVælgere": 3911,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2777,
+      "AntalStemmeberretigedeVælgere": 3911,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

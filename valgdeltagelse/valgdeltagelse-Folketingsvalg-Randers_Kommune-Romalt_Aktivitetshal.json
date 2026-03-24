@@ -2,7 +2,7 @@
   "Afstemningsområde": "Romalt Aktivitetshal",
   "AfstemningsområdeDagiId": "702716",
   "AfstemningsområdeNummer": 34,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:01",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 1870,
       "AntalStemmeberretigedeVælgere": 2879,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2224,
+      "AntalStemmeberretigedeVælgere": 2879,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

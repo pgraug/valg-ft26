@@ -2,7 +2,7 @@
   "Afstemningsområde": "Erritsø",
   "AfstemningsområdeDagiId": "701876",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:17:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:03",
   "Kommune": "Fredericia",
   "Kommunekode": 607,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2445,
       "AntalStemmeberretigedeVælgere": 7288,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 5568,
+      "AntalStemmeberretigedeVælgere": 7288,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

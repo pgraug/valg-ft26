@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ørbæk",
   "AfstemningsområdeDagiId": "708346",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:04",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 887,
       "AntalStemmeberretigedeVælgere": 1496,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1072,
+      "AntalStemmeberretigedeVælgere": 1496,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

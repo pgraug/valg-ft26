@@ -2,7 +2,7 @@
   "Afstemningsområde": "Uggelhuse Forsamlingshus",
   "AfstemningsområdeDagiId": "707204",
   "AfstemningsområdeNummer": 37,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:17",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 463,
       "AntalStemmeberretigedeVælgere": 735,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 546,
+      "AntalStemmeberretigedeVælgere": 735,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
