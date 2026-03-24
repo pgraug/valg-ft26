@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hyllinge-Lyndby",
   "AfstemningsområdeDagiId": "703440",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:03:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:21",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 449,
       "AntalStemmeberretigedeVælgere": 3403,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1101,
+      "AntalStemmeberretigedeVælgere": 3403,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

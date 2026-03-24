@@ -2,7 +2,7 @@
   "Afstemningsområde": "Korsvejen",
   "AfstemningsområdeDagiId": "708328",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:00:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:00:51",
   "Kommune": "Tårnby",
   "Kommunekode": 185,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 947,
       "AntalStemmeberretigedeVælgere": 4091,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1339,
+      "AntalStemmeberretigedeVælgere": 4091,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
