@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ørting-Falling",
   "AfstemningsområdeDagiId": "706210",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:51",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 635,
       "AntalStemmeberretigedeVælgere": 985,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 819,
+      "AntalStemmeberretigedeVælgere": 985,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

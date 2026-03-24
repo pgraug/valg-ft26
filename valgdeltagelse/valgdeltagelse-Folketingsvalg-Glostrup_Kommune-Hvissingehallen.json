@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hvissingehallen",
   "AfstemningsområdeDagiId": "700826",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:49",
   "Kommune": "Glostrup",
   "Kommunekode": 161,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,16 @@
       "AfgivneStemmer": 1221,
       "AntalStemmeberretigedeVælgere": 3005,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2106,
+      "AntalStemmeberretigedeVælgere": 3005,
+      "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2346,
+      "AntalStemmeberretigedeVælgere": 3005,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

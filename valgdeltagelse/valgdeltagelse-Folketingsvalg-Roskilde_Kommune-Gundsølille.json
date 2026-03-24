@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gundsølille",
   "AfstemningsområdeDagiId": "704320",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:04:36",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1822,
       "AntalStemmeberretigedeVælgere": 2684,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2240,
+      "AntalStemmeberretigedeVælgere": 2684,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

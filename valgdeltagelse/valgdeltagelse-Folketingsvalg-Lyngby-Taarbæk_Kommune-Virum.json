@@ -2,7 +2,7 @@
   "Afstemningsområde": "Virum",
   "AfstemningsområdeDagiId": "704050",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:04:18",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 3736,
       "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4215,
+      "AntalStemmeberretigedeVælgere": 4823,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
