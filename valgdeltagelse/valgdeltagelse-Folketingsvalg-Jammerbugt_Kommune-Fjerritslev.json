@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Fjerritslev",
+  "AfstemningsområdeDagiId": "707632",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:41:58",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 925,
+      "AntalStemmeberretigedeVælgere": 3267,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
