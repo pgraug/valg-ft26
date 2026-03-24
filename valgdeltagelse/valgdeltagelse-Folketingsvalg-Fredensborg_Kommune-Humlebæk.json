@@ -2,7 +2,7 @@
   "Afstemningsområde": "Humlebæk",
   "AfstemningsområdeDagiId": "703766",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:11:11",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:34",
   "Kommune": "Fredensborg",
   "Kommunekode": 210,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1506,
       "AntalStemmeberretigedeVælgere": 3475,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1663,
+      "AntalStemmeberretigedeVælgere": 3475,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

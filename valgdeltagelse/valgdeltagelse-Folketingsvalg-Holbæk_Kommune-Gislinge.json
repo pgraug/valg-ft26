@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gislinge",
   "AfstemningsområdeDagiId": "710502",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:38:57",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:13:04",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 463,
       "AntalStemmeberretigedeVælgere": 2615,
       "Tidspunkt": "10:30:00"
+    },
+    {
+      "AfgivneStemmer": 1086,
+      "AntalStemmeberretigedeVælgere": 2615,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

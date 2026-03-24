@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jyderup",
   "AfstemningsområdeDagiId": "704450",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:37:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:34",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 745,
       "AntalStemmeberretigedeVælgere": 3850,
       "Tidspunkt": "10:30:00"
+    },
+    {
+      "AfgivneStemmer": 1649,
+      "AntalStemmeberretigedeVælgere": 3850,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

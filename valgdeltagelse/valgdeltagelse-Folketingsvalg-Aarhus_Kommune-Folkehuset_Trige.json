@@ -2,7 +2,7 @@
   "Afstemningsområde": "Folkehuset Trige",
   "AfstemningsområdeDagiId": "705514",
   "AfstemningsområdeNummer": 53,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:11:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:34",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 683,
       "AntalStemmeberretigedeVælgere": 2654,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1087,
+      "AntalStemmeberretigedeVælgere": 2654,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
