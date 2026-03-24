@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "3. Indre By",
+  "AfstemningsområdeDagiId": "711926",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:26:11",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 3731,
+      "AntalStemmeberretigedeVælgere": 10733,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
