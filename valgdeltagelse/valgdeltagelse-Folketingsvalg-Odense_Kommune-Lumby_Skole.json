@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Lumby Skole",
+  "AfstemningsområdeDagiId": "702812",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:10:15",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 164,
+      "AntalStemmeberretigedeVælgere": 885,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
