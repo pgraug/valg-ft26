@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ringsted Dagmarskolen",
   "AfstemningsområdeDagiId": "704618",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:38:01",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1189,
       "AntalStemmeberretigedeVælgere": 4234,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2077,
+      "AntalStemmeberretigedeVælgere": 4234,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

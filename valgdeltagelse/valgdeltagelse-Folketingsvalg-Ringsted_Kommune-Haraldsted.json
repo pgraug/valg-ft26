@@ -2,7 +2,7 @@
   "Afstemningsområde": "Haraldsted",
   "AfstemningsområdeDagiId": "711816",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:37:46",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,16 @@
       "AfgivneStemmer": 111,
       "AntalStemmeberretigedeVælgere": 989,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 261,
+      "AntalStemmeberretigedeVælgere": 989,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 490,
+      "AntalStemmeberretigedeVælgere": 989,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
