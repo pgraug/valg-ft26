@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bryndum",
   "AfstemningsområdeDagiId": "701840",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:59",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1750,
       "AntalStemmeberretigedeVælgere": 2402,
       "Tidspunkt": "18:01:00"
+    },
+    {
+      "AfgivneStemmer": 1957,
+      "AntalStemmeberretigedeVælgere": 2402,
+      "Tidspunkt": "20:08:00"
     }
   ]
 }

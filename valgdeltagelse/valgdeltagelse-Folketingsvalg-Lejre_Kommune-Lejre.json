@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lejre",
   "AfstemningsområdeDagiId": "710890",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:44",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1479,
       "AntalStemmeberretigedeVælgere": 2542,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2361,
+      "AntalStemmeberretigedeVælgere": 2542,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

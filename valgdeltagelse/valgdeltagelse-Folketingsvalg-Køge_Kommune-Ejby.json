@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ejby",
   "AfstemningsområdeDagiId": "700864",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:15:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:15",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1619,
       "AntalStemmeberretigedeVælgere": 3157,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2750,
+      "AntalStemmeberretigedeVælgere": 3157,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

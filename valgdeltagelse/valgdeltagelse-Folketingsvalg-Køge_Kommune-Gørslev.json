@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gørslev",
   "AfstemningsområdeDagiId": "702164",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:15:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:30",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 466,
       "AntalStemmeberretigedeVælgere": 965,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 824,
+      "AntalStemmeberretigedeVælgere": 965,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Indre By",
   "AfstemningsområdeDagiId": "712216",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:45",
   "Kommune": "Fredericia",
   "Kommunekode": 607,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3499,
       "AntalStemmeberretigedeVælgere": 5249,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3942,
+      "AntalStemmeberretigedeVælgere": 5249,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

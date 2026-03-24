@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hellerup",
   "AfstemningsområdeDagiId": "701254",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:14:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:45",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 4633,
       "AntalStemmeberretigedeVælgere": 5378,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 4816,
+      "AntalStemmeberretigedeVælgere": 5378,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

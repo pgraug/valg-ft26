@@ -2,7 +2,7 @@
   "Afstemningsområde": "Guldager",
   "AfstemningsområdeDagiId": "709664",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:16",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 835,
       "AntalStemmeberretigedeVælgere": 1142,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 999,
+      "AntalStemmeberretigedeVælgere": 1142,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
