@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Snedsted",
+  "AfstemningsområdeDagiId": "748371",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:02",
+  "Kommune": "Thisted",
+  "Kommunekode": 787,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 617,
+      "AntalStemmeberretigedeVælgere": 2543,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

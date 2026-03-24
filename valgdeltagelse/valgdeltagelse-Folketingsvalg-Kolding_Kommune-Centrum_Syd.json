@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Centrum Syd",
+  "AfstemningsområdeDagiId": "701902",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:34",
+  "Kommune": "Kolding",
+  "Kommunekode": 621,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1057,
+      "AntalStemmeberretigedeVælgere": 4552,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

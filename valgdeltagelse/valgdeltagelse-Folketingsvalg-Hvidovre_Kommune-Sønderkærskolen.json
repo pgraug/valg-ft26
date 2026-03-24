@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sønderkærskolen",
+  "AfstemningsområdeDagiId": "702088",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:32",
+  "Kommune": "Hvidovre",
+  "Kommunekode": 167,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 989,
+      "AntalStemmeberretigedeVælgere": 4039,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

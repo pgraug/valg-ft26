@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vrejlev-Hæstrup",
   "AfstemningsområdeDagiId": "710436",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:18",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 87,
       "AntalStemmeberretigedeVælgere": 1245,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 195,
+      "AntalStemmeberretigedeVælgere": 1245,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }
