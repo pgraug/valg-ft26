@@ -2,7 +2,7 @@
   "Afstemningsområde": "Odden",
   "AfstemningsområdeDagiId": "708906",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:49:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:24:03",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 365,
       "AntalStemmeberretigedeVælgere": 978,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 422,
+      "AntalStemmeberretigedeVælgere": 978,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
