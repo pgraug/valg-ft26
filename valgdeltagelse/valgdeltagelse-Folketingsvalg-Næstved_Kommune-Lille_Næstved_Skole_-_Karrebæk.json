@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lille Næstved Skole - Karrebæk",
   "AfstemningsområdeDagiId": "703592",
   "AfstemningsområdeNummer": 32,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:11",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:50",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 854,
       "AntalStemmeberretigedeVælgere": 2202,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1279,
+      "AntalStemmeberretigedeVælgere": 2202,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

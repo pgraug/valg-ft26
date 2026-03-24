@@ -2,16 +2,21 @@
   "Afstemningsområde": "Gilleleje",
   "AfstemningsområdeDagiId": "711598",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:51",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026",
   "Valgdeltagelse": [
     {
-      "AfgivneStemmer": 1222,
-      "AntalStemmeberretigedeVælgere": 5531,
-      "Tidspunkt": "09:00:00"
+      "AfgivneStemmer": 2298,
+      "AntalStemmeberretigedeVælgere": 5513,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3178,
+      "AntalStemmeberretigedeVælgere": 5513,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

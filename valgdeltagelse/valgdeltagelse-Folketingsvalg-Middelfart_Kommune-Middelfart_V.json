@@ -2,7 +2,7 @@
   "Afstemningsområde": "Middelfart V",
   "AfstemningsområdeDagiId": "706714",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:07:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:03",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2257,
       "AntalStemmeberretigedeVælgere": 5790,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2913,
+      "AntalStemmeberretigedeVælgere": 5790,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

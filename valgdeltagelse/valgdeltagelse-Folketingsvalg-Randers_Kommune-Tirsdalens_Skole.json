@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tirsdalens Skole",
   "AfstemningsområdeDagiId": "711638",
   "AfstemningsområdeNummer": 32,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:18",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1135,
       "AntalStemmeberretigedeVælgere": 3172,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1305,
+      "AntalStemmeberretigedeVælgere": 3172,
+      "Tidspunkt": "15:01:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ellinge",
   "AfstemningsområdeDagiId": "701998",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:48",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 99,
       "AntalStemmeberretigedeVælgere": 359,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 120,
+      "AntalStemmeberretigedeVælgere": 359,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

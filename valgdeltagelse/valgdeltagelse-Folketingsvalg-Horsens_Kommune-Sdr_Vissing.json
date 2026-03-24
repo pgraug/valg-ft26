@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sdr.Vissing",
   "AfstemningsområdeDagiId": "706298",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:22:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:05",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 317,
       "AntalStemmeberretigedeVælgere": 834,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 365,
+      "AntalStemmeberretigedeVælgere": 834,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
