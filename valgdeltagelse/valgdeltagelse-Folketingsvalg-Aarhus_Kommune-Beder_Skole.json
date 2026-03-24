@@ -2,7 +2,7 @@
   "Afstemningsområde": "Beder Skole",
   "AfstemningsområdeDagiId": "709990",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:12:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:53",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 543,
       "AntalStemmeberretigedeVælgere": 3403,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1100,
+      "AntalStemmeberretigedeVælgere": 3403,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

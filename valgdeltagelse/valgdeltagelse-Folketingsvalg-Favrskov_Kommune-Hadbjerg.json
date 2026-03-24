@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hadbjerg",
+  "AfstemningsområdeDagiId": "709610",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:10",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 377,
+      "AntalStemmeberretigedeVælgere": 1633,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

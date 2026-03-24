@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hadsten Nord",
+  "AfstemningsområdeDagiId": "712100",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:53",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1227,
+      "AntalStemmeberretigedeVælgere": 4059,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

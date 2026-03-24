@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skibby",
   "AfstemningsområdeDagiId": "702366",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:54",
   "Kommune": "Frederikssund",
   "Kommunekode": 250,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1449,
       "AntalStemmeberretigedeVælgere": 6560,
       "Tidspunkt": "10:03:00"
+    },
+    {
+      "AfgivneStemmer": 2255,
+      "AntalStemmeberretigedeVælgere": 6560,
+      "Tidspunkt": "12:03:00"
     }
   ]
 }

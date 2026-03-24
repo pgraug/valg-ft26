@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vodskov Kultur og Idrætscenter, Sal",
+  "AfstemningsområdeDagiId": "708960",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:37",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1826,
+      "AntalStemmeberretigedeVælgere": 5605,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Omø - Omø Forsamlingshus",
+  "AfstemningsområdeDagiId": "705790",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:22",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 53,
+      "AntalStemmeberretigedeVælgere": 125,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

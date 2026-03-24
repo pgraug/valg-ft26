@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Aalborghus Gymnasium",
+  "AfstemningsområdeDagiId": "748034",
+  "AfstemningsområdeNummer": 36,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:22",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1268,
+      "AntalStemmeberretigedeVælgere": 4482,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

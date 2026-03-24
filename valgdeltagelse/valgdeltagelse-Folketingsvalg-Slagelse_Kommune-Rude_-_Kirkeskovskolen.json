@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Rude - Kirkeskovskolen",
+  "AfstemningsområdeDagiId": "702758",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:38",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 370,
+      "AntalStemmeberretigedeVælgere": 1300,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

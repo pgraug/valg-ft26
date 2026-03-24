@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Agersø - Agersøhallen",
+  "AfstemningsområdeDagiId": "701108",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:09",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 54,
+      "AntalStemmeberretigedeVælgere": 146,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
