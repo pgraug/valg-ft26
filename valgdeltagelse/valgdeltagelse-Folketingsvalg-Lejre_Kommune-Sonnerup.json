@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sonnerup",
   "AfstemningsområdeDagiId": "706260",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:06:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:47",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 203,
       "AntalStemmeberretigedeVælgere": 1072,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 270,
+      "AntalStemmeberretigedeVælgere": 1072,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

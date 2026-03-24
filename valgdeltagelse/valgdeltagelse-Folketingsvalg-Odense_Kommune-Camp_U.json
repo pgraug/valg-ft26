@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Camp U",
+  "AfstemningsområdeDagiId": "711662",
+  "AfstemningsområdeNummer": 35,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:32",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 897,
+      "AntalStemmeberretigedeVælgere": 4515,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

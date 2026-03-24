@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Grønbjerg Nord",
+  "AfstemningsområdeDagiId": "706962",
+  "AfstemningsområdeNummer": 21,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:33",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 150,
+      "AntalStemmeberretigedeVælgere": 685,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

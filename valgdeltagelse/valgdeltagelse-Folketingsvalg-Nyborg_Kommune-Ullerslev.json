@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ullerslev",
   "AfstemningsområdeDagiId": "708334",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:06:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:17",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 384,
       "AntalStemmeberretigedeVælgere": 2306,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 520,
+      "AntalStemmeberretigedeVælgere": 2306,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

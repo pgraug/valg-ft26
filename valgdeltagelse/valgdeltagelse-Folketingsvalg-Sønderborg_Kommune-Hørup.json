@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hørup",
+  "AfstemningsområdeDagiId": "707448",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:32",
+  "Kommune": "Sønderborg",
+  "Kommunekode": 540,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 681,
+      "AntalStemmeberretigedeVælgere": 2486,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nustrup",
+  "AfstemningsområdeDagiId": "710748",
+  "AfstemningsområdeNummer": 19,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:31",
+  "Kommune": "Haderslev",
+  "Kommunekode": 510,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 155,
+      "AntalStemmeberretigedeVælgere": 758,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

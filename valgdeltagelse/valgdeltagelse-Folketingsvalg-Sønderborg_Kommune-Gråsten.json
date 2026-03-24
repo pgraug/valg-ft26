@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gråsten",
+  "AfstemningsområdeDagiId": "704566",
+  "AfstemningsområdeNummer": 16,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:17",
+  "Kommune": "Sønderborg",
+  "Kommunekode": 540,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1477,
+      "AntalStemmeberretigedeVælgere": 5731,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

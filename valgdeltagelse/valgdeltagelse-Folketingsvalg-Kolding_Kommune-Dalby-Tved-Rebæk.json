@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dalby/Tved/Rebæk",
   "AfstemningsområdeDagiId": "701908",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:01",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 864,
       "AntalStemmeberretigedeVælgere": 2713,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 864,
+      "AntalStemmeberretigedeVælgere": 3713,
+      "Tidspunkt": "11:01:00"
     }
   ]
 }
