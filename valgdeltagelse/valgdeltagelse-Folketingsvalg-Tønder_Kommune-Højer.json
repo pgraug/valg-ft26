@@ -2,7 +2,7 @@
   "Afstemningsområde": "Højer",
   "AfstemningsområdeDagiId": "706374",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:53:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:34:38",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 291,
       "AntalStemmeberretigedeVælgere": 1079,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 467,
+      "AntalStemmeberretigedeVælgere": 1079,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
