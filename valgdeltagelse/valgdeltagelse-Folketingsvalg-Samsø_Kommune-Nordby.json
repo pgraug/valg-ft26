@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordby",
   "AfstemningsområdeDagiId": "704790",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:29:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:23:00",
   "Kommune": "Samsø",
   "Kommunekode": 741,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 154,
       "AntalStemmeberretigedeVælgere": 312,
       "Tidspunkt": "14:15:00"
+    },
+    {
+      "AfgivneStemmer": 198,
+      "AntalStemmeberretigedeVælgere": 312,
+      "Tidspunkt": "16:15:00"
     }
   ]
 }
