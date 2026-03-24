@@ -2,7 +2,7 @@
   "Afstemningsområde": "Torstorp Skole",
   "AfstemningsområdeDagiId": "703634",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:19",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 379,
       "AntalStemmeberretigedeVælgere": 3148,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 640,
+      "AntalStemmeberretigedeVælgere": 3148,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

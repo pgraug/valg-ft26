@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ejerslykkeskolen",
+  "AfstemningsområdeDagiId": "707294",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:02",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1274,
+      "AntalStemmeberretigedeVælgere": 5696,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

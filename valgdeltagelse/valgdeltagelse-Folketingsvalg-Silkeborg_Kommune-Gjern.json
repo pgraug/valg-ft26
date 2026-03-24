@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gjern",
+  "AfstemningsområdeDagiId": "709876",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:47",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 325,
+      "AntalStemmeberretigedeVælgere": 1576,
+      "Tidspunkt": "11:01:00"
+    }
+  ]
+}

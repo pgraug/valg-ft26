@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Christiansø",
+  "AfstemningsområdeDagiId": "702974",
+  "AfstemningsområdeNummer": 0,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:03",
+  "Kommune": "Bornholm",
+  "Kommunekode": 400,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 33,
+      "AntalStemmeberretigedeVælgere": 58,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

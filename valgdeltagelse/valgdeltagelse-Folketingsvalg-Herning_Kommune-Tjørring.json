@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tjørring",
   "AfstemningsområdeDagiId": "709528",
   "AfstemningsområdeNummer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:20:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:04",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 591,
       "AntalStemmeberretigedeVælgere": 4962,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1146,
+      "AntalStemmeberretigedeVælgere": 4962,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }
