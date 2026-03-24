@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vinderslev",
   "AfstemningsområdeDagiId": "708382",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:00:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:00:30",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 166,
       "AntalStemmeberretigedeVælgere": 949,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 233,
+      "AntalStemmeberretigedeVælgere": 949,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

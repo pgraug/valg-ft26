@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jysk Arena",
   "AfstemningsområdeDagiId": "706680",
   "AfstemningsområdeNummer": 29,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:00",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1218,
       "AntalStemmeberretigedeVælgere": 5304,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1853,
+      "AntalStemmeberretigedeVælgere": 5304,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
