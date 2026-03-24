@@ -2,7 +2,7 @@
   "Afstemningsområde": "Slangerup",
   "AfstemningsområdeDagiId": "707024",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:06",
   "Kommune": "Frederikssund",
   "Kommunekode": 250,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 3367,
       "AntalStemmeberretigedeVælgere": 6198,
       "Tidspunkt": "16:01:00"
+    },
+    {
+      "AfgivneStemmer": 4042,
+      "AntalStemmeberretigedeVælgere": 6198,
+      "Tidspunkt": "17:06:00"
     }
   ]
 }

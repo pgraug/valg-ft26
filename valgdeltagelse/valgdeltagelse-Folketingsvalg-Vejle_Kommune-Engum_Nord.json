@@ -2,7 +2,7 @@
   "Afstemningsområde": "Engum Nord",
   "AfstemningsområdeDagiId": "703960",
   "AfstemningsområdeNummer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:37",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 558,
       "AntalStemmeberretigedeVælgere": 2222,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1396,
+      "AntalStemmeberretigedeVælgere": 2222,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

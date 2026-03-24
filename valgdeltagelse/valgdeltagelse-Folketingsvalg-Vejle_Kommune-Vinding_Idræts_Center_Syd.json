@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vinding Idræts Center Syd",
   "AfstemningsområdeDagiId": "703992",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:22",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1016,
       "AntalStemmeberretigedeVælgere": 3769,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2486,
+      "AntalStemmeberretigedeVælgere": 3769,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
