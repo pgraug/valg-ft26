@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kometen",
   "AfstemningsområdeDagiId": "706734",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:03:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:18",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1588,
       "AntalStemmeberretigedeVælgere": 4499,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1989,
+      "AntalStemmeberretigedeVælgere": 4499,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

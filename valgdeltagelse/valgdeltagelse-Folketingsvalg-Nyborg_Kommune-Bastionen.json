@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bastionen",
   "AfstemningsområdeDagiId": "706634",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:50",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 2564,
       "AntalStemmeberretigedeVælgere": 5314,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2840,
+      "AntalStemmeberretigedeVælgere": 5314,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Frederiksbjerghallerne",
   "AfstemningsområdeDagiId": "702188",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:20",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 5207,
       "AntalStemmeberretigedeVælgere": 14586,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 7608,
+      "AntalStemmeberretigedeVælgere": 14586,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lille Næstved Skole - Herlufsholmvej",
   "AfstemningsområdeDagiId": "712204",
   "AfstemningsområdeNummer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:05",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 955,
       "AntalStemmeberretigedeVælgere": 2914,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1382,
+      "AntalStemmeberretigedeVælgere": 2914,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

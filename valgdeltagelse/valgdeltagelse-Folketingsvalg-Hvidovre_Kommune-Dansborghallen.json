@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dansborghallen",
   "AfstemningsområdeDagiId": "702094",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:03:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:48",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1662,
       "AntalStemmeberretigedeVælgere": 4897,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2096,
+      "AntalStemmeberretigedeVælgere": 4897,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

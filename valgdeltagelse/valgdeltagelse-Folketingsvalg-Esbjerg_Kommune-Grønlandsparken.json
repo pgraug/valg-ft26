@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grønlandsparken",
   "AfstemningsområdeDagiId": "710398",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:33:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:33",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 787,
       "AntalStemmeberretigedeVælgere": 3017,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 1309,
+      "AntalStemmeberretigedeVælgere": 3017,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
