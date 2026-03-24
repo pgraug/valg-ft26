@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Strøby Idrætscenter",
+  "AfstemningsområdeDagiId": "706794",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:31",
+  "Kommune": "Stevns",
+  "Kommunekode": 336,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1625,
+      "AntalStemmeberretigedeVælgere": 5931,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

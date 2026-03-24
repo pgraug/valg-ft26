@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Frøstrup",
+  "AfstemningsområdeDagiId": "708884",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:00",
+  "Kommune": "Thisted",
+  "Kommunekode": 787,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 223,
+      "AntalStemmeberretigedeVælgere": 992,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
