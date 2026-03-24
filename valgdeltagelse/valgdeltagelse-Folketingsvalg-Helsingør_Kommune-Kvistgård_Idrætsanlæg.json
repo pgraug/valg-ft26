@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kvistgård Idrætsanlæg",
   "AfstemningsområdeDagiId": "705746",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:54:00",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 586,
       "AntalStemmeberretigedeVælgere": 863,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 714,
+      "AntalStemmeberretigedeVælgere": 863,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
