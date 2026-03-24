@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nordmors",
+  "AfstemningsområdeDagiId": "705682",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:13:56",
+  "Kommune": "Morsø",
+  "Kommunekode": 773,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 242,
+      "AntalStemmeberretigedeVælgere": 984,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lille Lyngby",
   "AfstemningsområdeDagiId": "749326",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:14:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:14:11",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 476,
       "AntalStemmeberretigedeVælgere": 1477,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 545,
+      "AntalStemmeberretigedeVælgere": 1477,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
