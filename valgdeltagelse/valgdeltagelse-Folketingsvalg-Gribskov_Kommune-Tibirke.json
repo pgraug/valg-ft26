@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tibirke",
   "AfstemningsområdeDagiId": "701184",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:16:05",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 751,
       "AntalStemmeberretigedeVælgere": 1417,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1190,
+      "AntalStemmeberretigedeVælgere": 1417,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
