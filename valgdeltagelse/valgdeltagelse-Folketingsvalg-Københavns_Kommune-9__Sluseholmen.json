@@ -1,0 +1,32 @@
+{
+  "Afstemningsområde": "9. Sluseholmen",
+  "AfstemningsområdeDagiId": "749403",
+  "AfstemningsområdeNummer": 66,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:39:28",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1029,
+      "AntalStemmeberretigedeVælgere": 4539,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1200,
+      "AntalStemmeberretigedeVælgere": 4539,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1395,
+      "AntalStemmeberretigedeVælgere": 4539,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1603,
+      "AntalStemmeberretigedeVælgere": 4539,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
