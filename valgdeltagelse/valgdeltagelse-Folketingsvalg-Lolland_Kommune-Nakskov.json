@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nakskov",
   "AfstemningsområdeDagiId": "705458",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:05:55",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3181,
       "AntalStemmeberretigedeVælgere": 9774,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4095,
+      "AntalStemmeberretigedeVælgere": 9774,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

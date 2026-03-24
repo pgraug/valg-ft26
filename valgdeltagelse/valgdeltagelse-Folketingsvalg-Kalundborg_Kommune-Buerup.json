@@ -2,7 +2,7 @@
   "Afstemningsområde": "Buerup",
   "AfstemningsområdeDagiId": "701026",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:05:55",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 244,
       "AntalStemmeberretigedeVælgere": 1373,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 505,
+      "AntalStemmeberretigedeVælgere": 1373,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

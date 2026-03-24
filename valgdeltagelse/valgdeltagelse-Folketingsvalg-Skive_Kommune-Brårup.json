@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brårup",
   "AfstemningsområdeDagiId": "748874",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:23:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:05:56",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1153,
       "AntalStemmeberretigedeVælgere": 5171,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1985,
+      "AntalStemmeberretigedeVælgere": 5171,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
