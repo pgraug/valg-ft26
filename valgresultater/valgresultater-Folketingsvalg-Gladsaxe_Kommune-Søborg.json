@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 3351,
+  "AfgivneStemmer": 3353,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Søborg",
   "AfstemningsområdeDagiId": 706974,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:46:21",
-  "GyldigeStemmer": 3314,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:49:06",
+  "GyldigeStemmer": 3316,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -41,15 +41,6 @@
       "StemmerDifferenceFraForrigeValg": null
     },
     {
-      "Bogstavbetegnelse": "Ø",
-      "Kandidater": null,
-      "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
-      "PartiNavn": "Enhedslisten - De Rød-Grønne",
-      "Partistemmer": null,
-      "Stemmer": 293,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
       "Bogstavbetegnelse": "B",
       "Kandidater": null,
       "PartiId": "93a1aa01-2897-474b-8604-a1326c9b3948",
@@ -74,15 +65,6 @@
       "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
       "Partistemmer": null,
       "Stemmer": 23,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "F",
-      "Kandidater": null,
-      "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
-      "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": null,
-      "Stemmer": 545,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -119,6 +101,24 @@
       "PartiNavn": "Alternativet",
       "Partistemmer": null,
       "Stemmer": 132,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "F",
+      "Kandidater": null,
+      "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
+      "PartiNavn": "SF - Socialistisk Folkeparti",
+      "Partistemmer": null,
+      "Stemmer": 546,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "Ø",
+      "Kandidater": null,
+      "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
+      "PartiNavn": "Enhedslisten - De Rød-Grønne",
+      "Partistemmer": null,
+      "Stemmer": 294,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],

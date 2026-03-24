@@ -8,8 +8,8 @@
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
-  "BlankeUgyldigeFremmødteStemmer": 0,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:34:05",
+  "BlankeUgyldigeFremmødteStemmer": 19,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:49:21",
   "GyldigeStemmer": 1336,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -140,14 +140,14 @@
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
     {
-      "Antal": 0,
+      "Antal": 19,
       "Id": 1,
       "Navn": "Blanke",
       "Paragraf": "4"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 20,
+  "UgyldigeStemmerUdoverBlanke": 1,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
