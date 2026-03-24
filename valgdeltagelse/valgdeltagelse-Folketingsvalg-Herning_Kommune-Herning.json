@@ -2,7 +2,7 @@
   "Afstemningsområde": "Herning",
   "AfstemningsområdeDagiId": "712062",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:10:04",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 11283,
       "AntalStemmeberretigedeVælgere": 18963,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 14319,
+      "AntalStemmeberretigedeVælgere": 18963,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
