@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fårevejle",
   "AfstemningsområdeDagiId": "704442",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:14",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:51",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1642,
       "AntalStemmeberretigedeVælgere": 2922,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1923,
+      "AntalStemmeberretigedeVælgere": 2922,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
