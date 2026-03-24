@@ -2,7 +2,7 @@
   "Afstemningsområde": "Marstrup",
   "AfstemningsområdeDagiId": "703422",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:35",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 272,
       "AntalStemmeberretigedeVælgere": 700,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 512,
+      "AntalStemmeberretigedeVælgere": 700,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

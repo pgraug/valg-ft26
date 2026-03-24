@@ -2,7 +2,7 @@
   "Afstemningsområde": "Huset Tværs",
   "AfstemningsområdeDagiId": "707212",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:48",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2817,
       "AntalStemmeberretigedeVælgere": 4692,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3132,
+      "AntalStemmeberretigedeVælgere": 4692,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tornhøjhallen",
   "AfstemningsområdeDagiId": "704494",
   "AfstemningsområdeNummer": 40,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:02",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1513,
       "AntalStemmeberretigedeVælgere": 6074,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3795,
+      "AntalStemmeberretigedeVælgere": 6074,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lund",
   "AfstemningsområdeDagiId": "710912",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:02",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2139,
       "AntalStemmeberretigedeVælgere": 3456,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2488,
+      "AntalStemmeberretigedeVælgere": 3456,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

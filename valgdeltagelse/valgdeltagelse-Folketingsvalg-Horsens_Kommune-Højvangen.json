@@ -2,7 +2,7 @@
   "Afstemningsområde": "Højvangen",
   "AfstemningsområdeDagiId": "709464",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:18",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 1865,
       "AntalStemmeberretigedeVælgere": 2989,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2225,
+      "AntalStemmeberretigedeVælgere": 2989,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

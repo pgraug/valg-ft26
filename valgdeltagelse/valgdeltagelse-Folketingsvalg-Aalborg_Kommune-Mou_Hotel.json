@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mou Hotel",
   "AfstemningsområdeDagiId": "702918",
   "AfstemningsområdeNummer": 58,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:35",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 578,
       "AntalStemmeberretigedeVælgere": 1956,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1464,
+      "AntalStemmeberretigedeVælgere": 1956,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

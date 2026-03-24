@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dragør Skole",
   "AfstemningsområdeDagiId": "706596",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:34",
   "Kommune": "Dragør",
   "Kommunekode": 155,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2534,
       "AntalStemmeberretigedeVælgere": 3921,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2908,
+      "AntalStemmeberretigedeVælgere": 3921,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

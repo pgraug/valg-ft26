@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rønbjerg",
   "AfstemningsområdeDagiId": "748876",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:11:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:21",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 265,
       "AntalStemmeberretigedeVælgere": 581,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 398,
+      "AntalStemmeberretigedeVælgere": 581,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

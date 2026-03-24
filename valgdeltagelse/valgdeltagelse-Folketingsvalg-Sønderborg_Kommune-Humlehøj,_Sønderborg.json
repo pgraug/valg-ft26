@@ -2,7 +2,7 @@
   "Afstemningsområde": "Humlehøj, Sønderborg",
   "AfstemningsområdeDagiId": "701434",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:18",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2795,
       "AntalStemmeberretigedeVælgere": 5950,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 4253,
+      "AntalStemmeberretigedeVælgere": 5950,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

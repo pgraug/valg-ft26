@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holbæk Midt",
   "AfstemningsområdeDagiId": "702906",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:13:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:48",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2879,
       "AntalStemmeberretigedeVælgere": 6020,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 4330,
+      "AntalStemmeberretigedeVælgere": 6020,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

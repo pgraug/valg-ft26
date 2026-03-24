@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gedser",
   "AfstemningsområdeDagiId": "705108",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:36",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 547,
       "AntalStemmeberretigedeVælgere": 945,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 680,
+      "AntalStemmeberretigedeVælgere": 945,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

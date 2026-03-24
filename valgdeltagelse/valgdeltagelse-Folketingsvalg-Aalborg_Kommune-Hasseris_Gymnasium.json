@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hasseris Gymnasium",
   "AfstemningsområdeDagiId": "748031",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:01",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1490,
       "AntalStemmeberretigedeVælgere": 4234,
       "Tidspunkt": "11:58:00"
+    },
+    {
+      "AfgivneStemmer": 3127,
+      "AntalStemmeberretigedeVælgere": 4234,
+      "Tidspunkt": "17:57:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gierslev",
   "AfstemningsområdeDagiId": "702322",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:21",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 360,
       "AntalStemmeberretigedeVælgere": 1098,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 772,
+      "AntalStemmeberretigedeVælgere": 1098,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

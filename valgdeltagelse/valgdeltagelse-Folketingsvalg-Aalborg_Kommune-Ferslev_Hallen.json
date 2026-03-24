@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ferslev Hallen",
   "AfstemningsområdeDagiId": "705970",
   "AfstemningsområdeNummer": 38,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:47",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 580,
       "AntalStemmeberretigedeVælgere": 2311,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1724,
+      "AntalStemmeberretigedeVælgere": 2311,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

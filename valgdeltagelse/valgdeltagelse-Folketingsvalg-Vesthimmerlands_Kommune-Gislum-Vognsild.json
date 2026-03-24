@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gislum-Vognsild",
   "AfstemningsområdeDagiId": "710016",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:19",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 165,
       "AntalStemmeberretigedeVælgere": 762,
       "Tidspunkt": "12:01:00"
+    },
+    {
+      "AfgivneStemmer": 518,
+      "AntalStemmeberretigedeVælgere": 762,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

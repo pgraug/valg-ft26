@@ -2,7 +2,7 @@
   "Afstemningsområde": "Idrætscentret Kongerslev",
   "AfstemningsområdeDagiId": "707406",
   "AfstemningsområdeNummer": 56,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:20",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 320,
       "AntalStemmeberretigedeVælgere": 1469,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 950,
+      "AntalStemmeberretigedeVælgere": 1469,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
