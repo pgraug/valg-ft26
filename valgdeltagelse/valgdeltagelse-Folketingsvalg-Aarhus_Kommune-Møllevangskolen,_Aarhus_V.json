@@ -2,7 +2,7 @@
   "Afstemningsområde": "Møllevangskolen, Aarhus V",
   "AfstemningsområdeDagiId": "706866",
   "AfstemningsområdeNummer": 43,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:15:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:38",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1232,
       "AntalStemmeberretigedeVælgere": 6823,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2329,
+      "AntalStemmeberretigedeVælgere": 6823,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

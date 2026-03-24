@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vadgård",
+  "AfstemningsområdeDagiId": "708592",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:54",
+  "Kommune": "Gladsaxe",
+  "Kommunekode": 159,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1231,
+      "AntalStemmeberretigedeVælgere": 4122,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

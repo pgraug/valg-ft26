@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vester Hornum",
+  "AfstemningsområdeDagiId": "710002",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:54",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 205,
+      "AntalStemmeberretigedeVælgere": 758,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

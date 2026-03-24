@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ry",
+  "AfstemningsområdeDagiId": "703790",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:38",
+  "Kommune": "Skanderborg",
+  "Kommunekode": 746,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2233,
+      "AntalStemmeberretigedeVælgere": 6213,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

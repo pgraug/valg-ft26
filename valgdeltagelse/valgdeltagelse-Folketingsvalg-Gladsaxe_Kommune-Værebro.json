@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Værebro",
+  "AfstemningsområdeDagiId": "706944",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:08",
+  "Kommune": "Gladsaxe",
+  "Kommunekode": 159,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 786,
+      "AntalStemmeberretigedeVælgere": 2880,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

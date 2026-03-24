@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Haraldslund",
+  "AfstemningsområdeDagiId": "704474",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:08",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1748,
+      "AntalStemmeberretigedeVælgere": 6823,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

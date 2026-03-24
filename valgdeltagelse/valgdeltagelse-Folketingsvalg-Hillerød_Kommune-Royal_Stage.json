@@ -2,7 +2,7 @@
   "Afstemningsområde": "Royal Stage",
   "AfstemningsområdeDagiId": "708774",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:53",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2190,
       "AntalStemmeberretigedeVælgere": 7789,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2587,
+      "AntalStemmeberretigedeVælgere": 7789,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aabenraa Nord",
   "AfstemningsområdeDagiId": "700772",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:15:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:38",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 342,
       "AntalStemmeberretigedeVælgere": 2166,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 626,
+      "AntalStemmeberretigedeVælgere": 2166,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
