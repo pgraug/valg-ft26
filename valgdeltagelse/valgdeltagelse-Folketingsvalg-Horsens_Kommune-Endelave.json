@@ -2,7 +2,7 @@
   "Afstemningsområde": "Endelave",
   "AfstemningsområdeDagiId": "706240",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:20:42",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:05",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 82,
       "AntalStemmeberretigedeVælgere": 141,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 90,
+      "AntalStemmeberretigedeVælgere": 141,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bregninge",
   "AfstemningsområdeDagiId": "707990",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:19",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1361,
       "AntalStemmeberretigedeVælgere": 3331,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1745,
+      "AntalStemmeberretigedeVælgere": 3331,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vor Frue",
   "AfstemningsområdeDagiId": "711680",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:18",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 300,
       "AntalStemmeberretigedeVælgere": 861,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 358,
+      "AntalStemmeberretigedeVælgere": 861,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

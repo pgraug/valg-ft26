@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kværs",
   "AfstemningsområdeDagiId": "706066",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:35",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 133,
       "AntalStemmeberretigedeVælgere": 602,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 254,
+      "AntalStemmeberretigedeVælgere": 602,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
