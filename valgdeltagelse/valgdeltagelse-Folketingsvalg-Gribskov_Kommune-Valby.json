@@ -2,7 +2,7 @@
   "Afstemningsområde": "Valby",
   "AfstemningsområdeDagiId": "708732",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:18:05",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 96,
       "AntalStemmeberretigedeVælgere": 423,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 158,
+      "AntalStemmeberretigedeVælgere": 423,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
