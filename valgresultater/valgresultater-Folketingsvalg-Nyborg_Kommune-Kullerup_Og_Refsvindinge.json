@@ -9,10 +9,19 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:07:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:19:48",
   "GyldigeStemmer": 743,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": null,
+      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
+      "PartiNavn": "Venstre, Danmarks Liberale Parti",
+      "Partistemmer": null,
+      "Stemmer": 125,
+      "StemmerDifferenceFraForrigeValg": null
+    },
     {
       "Bogstavbetegnelse": "C",
       "Kandidater": null,
@@ -68,15 +77,6 @@
       "StemmerDifferenceFraForrigeValg": null
     },
     {
-      "Bogstavbetegnelse": "V",
-      "Kandidater": null,
-      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
-      "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": null,
-      "Stemmer": 124,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
       "Bogstavbetegnelse": "Ø",
       "Kandidater": null,
       "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
@@ -100,7 +100,7 @@
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
       "Partistemmer": null,
-      "Stemmer": 87,
+      "Stemmer": 86,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
