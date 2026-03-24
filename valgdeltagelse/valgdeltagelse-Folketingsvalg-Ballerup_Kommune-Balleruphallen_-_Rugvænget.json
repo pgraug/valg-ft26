@@ -2,7 +2,7 @@
   "Afstemningsområde": "Balleruphallen - Rugvænget",
   "AfstemningsområdeDagiId": "706986",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:30:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:21:51",
   "Kommune": "Ballerup",
   "Kommunekode": 151,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,16 @@
       "AfgivneStemmer": 3280,
       "AntalStemmeberretigedeVælgere": 6635,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3892,
+      "AntalStemmeberretigedeVælgere": 6635,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 4701,
+      "AntalStemmeberretigedeVælgere": 6635,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
