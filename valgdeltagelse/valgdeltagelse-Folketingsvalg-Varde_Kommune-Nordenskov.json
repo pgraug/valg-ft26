@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nordenskov",
+  "AfstemningsområdeDagiId": "706078",
+  "AfstemningsområdeNummer": 28,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:19:31",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 219,
+      "AntalStemmeberretigedeVælgere": 998,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
