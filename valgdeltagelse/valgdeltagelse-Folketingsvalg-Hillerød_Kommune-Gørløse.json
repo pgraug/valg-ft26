@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gørløse",
   "AfstemningsområdeDagiId": "749323",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:15:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:20:30",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 621,
       "AntalStemmeberretigedeVælgere": 1072,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 750,
+      "AntalStemmeberretigedeVælgere": 1072,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

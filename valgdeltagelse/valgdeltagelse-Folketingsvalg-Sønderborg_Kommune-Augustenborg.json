@@ -2,7 +2,7 @@
   "Afstemningsområde": "Augustenborg",
   "AfstemningsområdeDagiId": "710642",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:20:15",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1262,
       "AntalStemmeberretigedeVælgere": 2849,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2072,
+      "AntalStemmeberretigedeVælgere": 2849,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
