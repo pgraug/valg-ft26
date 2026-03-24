@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 1180,
+  "AfgivneStemmer": 1183,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Ruds Vedby",
   "AfstemningsområdeDagiId": 705564,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:03:46",
-  "GyldigeStemmer": 1161,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:11:02",
+  "GyldigeStemmer": 1164,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -19,7 +19,7 @@
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
       "Partistemmer": null,
-      "Stemmer": 119,
+      "Stemmer": 121,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -46,7 +46,7 @@
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
       "Partistemmer": null,
-      "Stemmer": 77,
+      "Stemmer": 76,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -118,7 +118,7 @@
       "PartiId": "2e08413e-1c5b-4029-8bce-eac0ebff6527",
       "PartiNavn": "Det Konservative Folkeparti",
       "Partistemmer": null,
-      "Stemmer": 48,
+      "Stemmer": 50,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
