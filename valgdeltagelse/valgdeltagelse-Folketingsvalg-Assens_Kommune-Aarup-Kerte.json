@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aarup/Kerte",
   "AfstemningsområdeDagiId": "748073",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:01:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:00:47",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 312,
       "AntalStemmeberretigedeVælgere": 3224,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 739,
+      "AntalStemmeberretigedeVælgere": 3224,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

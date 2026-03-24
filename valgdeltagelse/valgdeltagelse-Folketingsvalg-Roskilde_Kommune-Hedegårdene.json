@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hedegårdene",
   "AfstemningsområdeDagiId": "710476",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:00:32",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 646,
       "AntalStemmeberretigedeVælgere": 3669,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1012,
+      "AntalStemmeberretigedeVælgere": 3669,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

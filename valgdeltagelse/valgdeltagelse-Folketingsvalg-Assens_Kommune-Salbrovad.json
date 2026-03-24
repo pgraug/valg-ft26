@@ -2,7 +2,7 @@
   "Afstemningsområde": "Salbrovad",
   "AfstemningsområdeDagiId": "709286",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:01:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:04",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 66,
       "AntalStemmeberretigedeVælgere": 616,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 136,
+      "AntalStemmeberretigedeVælgere": 616,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

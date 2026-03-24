@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hirtshals",
   "AfstemningsområdeDagiId": "710464",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:01:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:03",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 346,
       "AntalStemmeberretigedeVælgere": 3943,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 968,
+      "AntalStemmeberretigedeVælgere": 3943,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

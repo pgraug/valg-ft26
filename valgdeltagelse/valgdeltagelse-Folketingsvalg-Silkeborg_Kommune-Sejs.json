@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sejs",
+  "AfstemningsområdeDagiId": "705410",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:00:48",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 792,
+      "AntalStemmeberretigedeVælgere": 3469,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

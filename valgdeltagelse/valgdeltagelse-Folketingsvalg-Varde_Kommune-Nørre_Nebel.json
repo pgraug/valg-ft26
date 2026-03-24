@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nørre Nebel",
+  "AfstemningsområdeDagiId": "707430",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:00:47",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 427,
+      "AntalStemmeberretigedeVælgere": 1616,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
