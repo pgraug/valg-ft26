@@ -2,7 +2,7 @@
   "Afstemningsområde": "Purhushallen",
   "AfstemningsområdeDagiId": "708738",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:35:38",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 721,
       "AntalStemmeberretigedeVælgere": 992,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 811,
+      "AntalStemmeberretigedeVælgere": 992,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

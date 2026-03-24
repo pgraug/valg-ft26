@@ -2,7 +2,7 @@
   "Afstemningsområde": "Asferg Træningshus",
   "AfstemningsområdeDagiId": "708750",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:35:23",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 651,
       "AntalStemmeberretigedeVælgere": 896,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 731,
+      "AntalStemmeberretigedeVælgere": 896,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
