@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nørre Boulevard Skolen",
+  "AfstemningsområdeDagiId": "711920",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:33:31",
+  "Kommune": "Holstebro",
+  "Kommunekode": 661,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2284,
+      "AntalStemmeberretigedeVælgere": 9477,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
