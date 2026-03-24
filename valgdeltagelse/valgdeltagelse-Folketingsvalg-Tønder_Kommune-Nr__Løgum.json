@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nr. Løgum",
   "AfstemningsområdeDagiId": "711084",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:37:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:22:45",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 362,
       "AntalStemmeberretigedeVælgere": 896,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 640,
+      "AntalStemmeberretigedeVælgere": 896,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
