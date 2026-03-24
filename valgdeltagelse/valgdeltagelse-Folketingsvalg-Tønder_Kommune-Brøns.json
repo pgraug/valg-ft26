@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brøns",
   "AfstemningsområdeDagiId": "711078",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:58:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:39:24",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 168,
       "AntalStemmeberretigedeVælgere": 669,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 282,
+      "AntalStemmeberretigedeVælgere": 669,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
