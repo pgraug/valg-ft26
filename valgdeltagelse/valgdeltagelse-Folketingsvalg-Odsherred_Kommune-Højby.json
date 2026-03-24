@@ -2,7 +2,7 @@
   "Afstemningsområde": "Højby",
   "AfstemningsområdeDagiId": "708820",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:11:37",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1685,
       "AntalStemmeberretigedeVælgere": 2843,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1887,
+      "AntalStemmeberretigedeVælgere": 2843,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

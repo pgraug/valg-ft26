@@ -2,7 +2,7 @@
   "Afstemningsområde": "Harboøre",
   "AfstemningsområdeDagiId": "701882",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:10:51",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 720,
       "AntalStemmeberretigedeVælgere": 1200,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 848,
+      "AntalStemmeberretigedeVælgere": 1200,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
