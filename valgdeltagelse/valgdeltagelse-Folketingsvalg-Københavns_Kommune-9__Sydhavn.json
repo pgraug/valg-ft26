@@ -2,7 +2,7 @@
   "Afstemningsområde": "9. Sydhavn",
   "AfstemningsområdeDagiId": "706120",
   "AfstemningsområdeNummer": 55,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:12:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:24:16",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 4018,
       "AntalStemmeberretigedeVælgere": 7481,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 5578,
+      "AntalStemmeberretigedeVælgere": 7481,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
