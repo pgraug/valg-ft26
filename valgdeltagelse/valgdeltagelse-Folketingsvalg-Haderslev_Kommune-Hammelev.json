@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hammelev",
   "AfstemningsområdeDagiId": "703202",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:17:35",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 433,
       "AntalStemmeberretigedeVælgere": 1179,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 525,
+      "AntalStemmeberretigedeVælgere": 1179,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
