@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tommerup St",
   "AfstemningsområdeDagiId": "704924",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:12",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1635,
       "AntalStemmeberretigedeVælgere": 1948,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1711,
+      "AntalStemmeberretigedeVælgere": 1948,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

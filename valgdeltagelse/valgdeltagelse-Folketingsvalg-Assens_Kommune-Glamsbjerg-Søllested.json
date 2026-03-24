@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glamsbjerg/Søllested",
   "AfstemningsområdeDagiId": "704912",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:59:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:12",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1942,
       "AntalStemmeberretigedeVælgere": 2346,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2019,
+      "AntalStemmeberretigedeVælgere": 2346,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

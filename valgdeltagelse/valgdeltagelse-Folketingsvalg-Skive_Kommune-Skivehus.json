@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skivehus",
   "AfstemningsområdeDagiId": "748883",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:12",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3676,
       "AntalStemmeberretigedeVælgere": 4967,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4270,
+      "AntalStemmeberretigedeVælgere": 4967,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

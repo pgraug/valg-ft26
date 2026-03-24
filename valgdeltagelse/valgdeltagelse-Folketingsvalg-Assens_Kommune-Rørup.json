@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rørup",
   "AfstemningsområdeDagiId": "748071",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:58:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:27",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 423,
       "AntalStemmeberretigedeVælgere": 530,
       "Tidspunkt": "18:57:00"
+    },
+    {
+      "AfgivneStemmer": 442,
+      "AntalStemmeberretigedeVælgere": 530,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

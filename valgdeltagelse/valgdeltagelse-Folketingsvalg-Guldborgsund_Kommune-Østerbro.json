@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østerbro",
   "AfstemningsområdeDagiId": "703554",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:27",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2135,
       "AntalStemmeberretigedeVælgere": 3115,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2441,
+      "AntalStemmeberretigedeVælgere": 3115,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
