@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aabenraa Syd",
   "AfstemningsområdeDagiId": "703778",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:09:40",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 939,
       "AntalStemmeberretigedeVælgere": 2913,
       "Tidspunkt": "12:01:00"
+    },
+    {
+      "AfgivneStemmer": 1197,
+      "AntalStemmeberretigedeVælgere": 2913,
+      "Tidspunkt": "14:02:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Assens",
   "AfstemningsområdeDagiId": "708668",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:09:55",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 412,
       "AntalStemmeberretigedeVælgere": 1675,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 669,
+      "AntalStemmeberretigedeVælgere": 1675,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

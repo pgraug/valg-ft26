@@ -2,7 +2,7 @@
   "Afstemningsområde": "Raklev",
   "AfstemningsområdeDagiId": "711460",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:19:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:09:40",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 672,
       "AntalStemmeberretigedeVælgere": 3257,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1316,
+      "AntalStemmeberretigedeVælgere": 3257,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
