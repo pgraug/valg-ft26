@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stege",
   "AfstemningsområdeDagiId": "707768",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:40:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:28:00",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2012,
       "AntalStemmeberretigedeVælgere": 4368,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2548,
+      "AntalStemmeberretigedeVælgere": 4368,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

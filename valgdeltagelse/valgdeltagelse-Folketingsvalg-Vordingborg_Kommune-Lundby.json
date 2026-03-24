@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lundby",
   "AfstemningsområdeDagiId": "705010",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:40:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:27:45",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1123,
       "AntalStemmeberretigedeVælgere": 2872,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1481,
+      "AntalStemmeberretigedeVælgere": 2872,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
