@@ -2,7 +2,7 @@
   "Afstemningsområde": "Øsby",
   "AfstemningsområdeDagiId": "711866",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:32",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 723,
       "AntalStemmeberretigedeVælgere": 1132,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 847,
+      "AntalStemmeberretigedeVælgere": 1132,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

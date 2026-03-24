@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tranum",
   "AfstemningsområdeDagiId": "709250",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:25:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:13:07",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 425,
       "AntalStemmeberretigedeVælgere": 881,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 632,
+      "AntalStemmeberretigedeVælgere": 881,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

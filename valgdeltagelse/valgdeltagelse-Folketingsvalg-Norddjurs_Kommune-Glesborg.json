@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glesborg",
   "AfstemningsområdeDagiId": "709072",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:47",
   "Kommune": "Norddjurs",
   "Kommunekode": 707,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1489,
       "AntalStemmeberretigedeVælgere": 2977,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2291,
+      "AntalStemmeberretigedeVælgere": 2977,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
