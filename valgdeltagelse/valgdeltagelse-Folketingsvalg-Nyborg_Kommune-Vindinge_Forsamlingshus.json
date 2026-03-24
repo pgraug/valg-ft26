@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vindinge Forsamlingshus",
   "AfstemningsområdeDagiId": "705374",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:45",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 647,
       "AntalStemmeberretigedeVælgere": 1954,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 742,
+      "AntalStemmeberretigedeVælgere": 1954,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Taarbæk",
   "AfstemningsområdeDagiId": "711474",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:02:00",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,16 @@
       "AfgivneStemmer": 292,
       "AntalStemmeberretigedeVælgere": 1111,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 361,
+      "AntalStemmeberretigedeVælgere": 1111,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 415,
+      "AntalStemmeberretigedeVælgere": 1111,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
