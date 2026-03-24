@@ -2,7 +2,7 @@
   "Afstemningsområde": "Præstø",
   "AfstemningsområdeDagiId": "706306",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:45:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:41:16",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1291,
       "AntalStemmeberretigedeVælgere": 3541,
       "Tidspunkt": "12:07:00"
+    },
+    {
+      "AfgivneStemmer": 1682,
+      "AntalStemmeberretigedeVælgere": 3541,
+      "Tidspunkt": "14:02:00"
     }
   ]
 }
