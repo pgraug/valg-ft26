@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Arentsminde",
+  "AfstemningsområdeDagiId": "703190",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:36:12",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 117,
+      "AntalStemmeberretigedeVælgere": 451,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

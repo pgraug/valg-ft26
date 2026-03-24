@@ -1,0 +1,37 @@
+{
+  "Afstemningsområde": "Aabybro",
+  "AfstemningsområdeDagiId": "709280",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:36:27",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 360,
+      "AntalStemmeberretigedeVælgere": 5184,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 642,
+      "AntalStemmeberretigedeVælgere": 5184,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 906,
+      "AntalStemmeberretigedeVælgere": 5184,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1227,
+      "AntalStemmeberretigedeVælgere": 5184,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1533,
+      "AntalStemmeberretigedeVælgere": 5184,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
