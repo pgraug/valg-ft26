@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gærum",
   "AfstemningsområdeDagiId": "710978",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:43",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 579,
       "AntalStemmeberretigedeVælgere": 1494,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 783,
+      "AntalStemmeberretigedeVælgere": 1494,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

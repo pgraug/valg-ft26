@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nymarken",
   "AfstemningsområdeDagiId": "748590",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:45",
   "Kommune": "Kerteminde",
   "Kommunekode": 440,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 753,
       "AntalStemmeberretigedeVælgere": 1705,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 948,
+      "AntalStemmeberretigedeVælgere": 1705,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

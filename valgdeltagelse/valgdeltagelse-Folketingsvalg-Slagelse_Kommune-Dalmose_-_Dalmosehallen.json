@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dalmose - Dalmosehallen",
   "AfstemningsområdeDagiId": "705710",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:58",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 758,
       "AntalStemmeberretigedeVælgere": 2408,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1118,
+      "AntalStemmeberretigedeVælgere": 2408,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

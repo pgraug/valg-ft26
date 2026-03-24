@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sæby",
   "AfstemningsområdeDagiId": "748391",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:44",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3653,
       "AntalStemmeberretigedeVælgere": 7796,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 4589,
+      "AntalStemmeberretigedeVælgere": 7796,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

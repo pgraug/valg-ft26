@@ -2,7 +2,7 @@
   "Afstemningsområde": "Toldkammeret",
   "AfstemningsområdeDagiId": "748170",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:02",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -21,7 +21,12 @@
     {
       "AfgivneStemmer": 980,
       "AntalStemmeberretigedeVælgere": 2284,
-      "Tidspunkt": "16:00:00"
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1224,
+      "AntalStemmeberretigedeVælgere": 2284,
+      "Tidspunkt": "16:01:00"
     }
   ]
 }

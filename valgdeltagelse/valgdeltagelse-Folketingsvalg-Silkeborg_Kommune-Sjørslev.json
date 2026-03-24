@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sjørslev",
   "AfstemningsområdeDagiId": "709870",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:01",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 191,
       "AntalStemmeberretigedeVælgere": 742,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 312,
+      "AntalStemmeberretigedeVælgere": 742,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
