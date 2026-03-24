@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Balle",
+  "AfstemningsområdeDagiId": "709850",
+  "AfstemningsområdeNummer": 21,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:25:45",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 898,
+      "AntalStemmeberretigedeVælgere": 4376,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
