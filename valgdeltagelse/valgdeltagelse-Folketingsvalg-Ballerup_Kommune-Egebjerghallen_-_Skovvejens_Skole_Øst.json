@@ -2,7 +2,7 @@
   "Afstemningsområde": "Egebjerghallen - Skovvejens Skole Øst",
   "AfstemningsområdeDagiId": "710152",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:52:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:31:15",
   "Kommune": "Ballerup",
   "Kommunekode": 151,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1374,
       "AntalStemmeberretigedeVælgere": 3385,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1799,
+      "AntalStemmeberretigedeVælgere": 3385,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
