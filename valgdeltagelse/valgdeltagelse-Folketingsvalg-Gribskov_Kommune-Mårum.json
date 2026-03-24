@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mårum",
   "AfstemningsområdeDagiId": "705812",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:35",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,21 @@
       "AfgivneStemmer": 213,
       "AntalStemmeberretigedeVælgere": 786,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 250,
+      "AntalStemmeberretigedeVælgere": 786,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 284,
+      "AntalStemmeberretigedeVælgere": 786,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 316,
+      "AntalStemmeberretigedeVælgere": 786,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

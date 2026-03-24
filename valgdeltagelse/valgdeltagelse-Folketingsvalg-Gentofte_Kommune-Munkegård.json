@@ -2,7 +2,7 @@
   "Afstemningsområde": "Munkegård",
   "AfstemningsområdeDagiId": "704436",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:08:05",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2046,
       "AntalStemmeberretigedeVælgere": 4439,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2259,
+      "AntalStemmeberretigedeVælgere": 4439,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

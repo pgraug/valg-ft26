@@ -2,7 +2,7 @@
   "Afstemningsområde": "Virumhallerne",
   "AfstemningsområdeDagiId": "702310",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:10:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:48",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2726,
       "AntalStemmeberretigedeVælgere": 6199,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3048,
+      "AntalStemmeberretigedeVælgere": 6199,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

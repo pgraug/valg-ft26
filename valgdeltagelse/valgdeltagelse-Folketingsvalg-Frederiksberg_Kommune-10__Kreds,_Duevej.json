@@ -2,7 +2,7 @@
   "Afstemningsområde": "10. Kreds, Duevej",
   "AfstemningsområdeDagiId": "711030",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:09:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:50",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,16 @@
       "AfgivneStemmer": 4362,
       "AntalStemmeberretigedeVælgere": 10432,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 4837,
+      "AntalStemmeberretigedeVælgere": 10432,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 5390,
+      "AntalStemmeberretigedeVælgere": 10432,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ramløse",
   "AfstemningsområdeDagiId": "702752",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:33:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:08:03",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,16 @@
       "AfgivneStemmer": 266,
       "AntalStemmeberretigedeVælgere": 2374,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 688,
+      "AntalStemmeberretigedeVælgere": 2374,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1053,
+      "AntalStemmeberretigedeVælgere": 2374,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Viby Hallen",
   "AfstemningsområdeDagiId": "700928",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:18",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2575,
       "AntalStemmeberretigedeVælgere": 8749,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3811,
+      "AntalStemmeberretigedeVælgere": 8749,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

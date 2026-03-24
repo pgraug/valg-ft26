@@ -2,7 +2,7 @@
   "Afstemningsområde": "10. Kreds, Bülowsvej",
   "AfstemningsområdeDagiId": "709590",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:08:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:18",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,16 @@
       "AfgivneStemmer": 5246,
       "AntalStemmeberretigedeVælgere": 11278,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 5756,
+      "AntalStemmeberretigedeVælgere": 11278,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 6320,
+      "AntalStemmeberretigedeVælgere": 11278,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
