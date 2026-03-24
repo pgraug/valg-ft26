@@ -2,7 +2,7 @@
   "Afstemningsområde": "Smørum Idrætscenter",
   "AfstemningsområdeDagiId": "711116",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:23:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:17",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3184,
       "AntalStemmeberretigedeVælgere": 7819,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 4167,
+      "AntalStemmeberretigedeVælgere": 7819,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

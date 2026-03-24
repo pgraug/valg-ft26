@@ -2,7 +2,7 @@
   "Afstemningsområde": "8. Valby",
   "AfstemningsområdeDagiId": "707648",
   "AfstemningsområdeNummer": 42,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:35:27",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:00",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2573,
       "AntalStemmeberretigedeVælgere": 8168,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4308,
+      "AntalStemmeberretigedeVælgere": 8168,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
