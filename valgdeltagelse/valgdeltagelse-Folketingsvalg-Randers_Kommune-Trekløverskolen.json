@@ -2,7 +2,7 @@
   "Afstemningsområde": "Trekløverskolen",
   "AfstemningsområdeDagiId": "704268",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:45:40",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 1861,
       "AntalStemmeberretigedeVælgere": 2436,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2034,
+      "AntalStemmeberretigedeVælgere": 2436,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
