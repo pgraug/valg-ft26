@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Dalumskolen",
+  "AfstemningsområdeDagiId": "702866",
+  "AfstemningsområdeNummer": 30,
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:18:53",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2020,
+      "AntalStemmeberretigedeVælgere": 7071,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 4732,
+      "AntalStemmeberretigedeVælgere": 7071,
+      "Tidspunkt": "17:05:00"
+    }
+  ]
+}
