@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Boldesager",
+  "AfstemningsområdeDagiId": "702746",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:33:01",
+  "Kommune": "Esbjerg",
+  "Kommunekode": 561,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1168,
+      "AntalStemmeberretigedeVælgere": 4634,
+      "Tidspunkt": "11:30:00"
+    }
+  ]
+}
