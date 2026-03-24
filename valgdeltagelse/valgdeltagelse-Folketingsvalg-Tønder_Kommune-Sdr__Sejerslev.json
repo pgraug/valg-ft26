@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sdr. Sejerslev",
   "AfstemningsområdeDagiId": "707858",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:34:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:22:00",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 148,
       "AntalStemmeberretigedeVælgere": 346,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 238,
+      "AntalStemmeberretigedeVælgere": 346,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
