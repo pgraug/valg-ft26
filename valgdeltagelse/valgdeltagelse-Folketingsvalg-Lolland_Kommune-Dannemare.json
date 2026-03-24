@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dannemare",
   "AfstemningsområdeDagiId": "706746",
   "AfstemningsområdeNummer": 35,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:06:40",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 597,
       "AntalStemmeberretigedeVælgere": 1826,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 788,
+      "AntalStemmeberretigedeVælgere": 1826,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

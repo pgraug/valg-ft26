@@ -2,7 +2,7 @@
   "Afstemningsområde": "Errindlev",
   "AfstemningsområdeDagiId": "708426",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:10",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 203,
       "AntalStemmeberretigedeVælgere": 528,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 252,
+      "AntalStemmeberretigedeVælgere": 528,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

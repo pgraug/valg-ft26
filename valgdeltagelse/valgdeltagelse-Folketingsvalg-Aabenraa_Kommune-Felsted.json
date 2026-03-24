@@ -2,7 +2,7 @@
   "Afstemningsområde": "Felsted",
   "AfstemningsområdeDagiId": "708358",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:06:26",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 421,
       "AntalStemmeberretigedeVælgere": 1520,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 534,
+      "AntalStemmeberretigedeVælgere": 1520,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

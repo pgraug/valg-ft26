@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grevinge",
   "AfstemningsområdeDagiId": "710508",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:23:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:06:56",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 704,
       "AntalStemmeberretigedeVælgere": 1909,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 805,
+      "AntalStemmeberretigedeVælgere": 1909,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
