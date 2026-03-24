@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tarup Skole",
+  "AfstemningsområdeDagiId": "701224",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:01",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1248,
+      "AntalStemmeberretigedeVælgere": 4481,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

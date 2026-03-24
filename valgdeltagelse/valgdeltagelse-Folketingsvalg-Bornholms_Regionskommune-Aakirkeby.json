@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Aakirkeby",
+  "AfstemningsområdeDagiId": "704742",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:01",
+  "Kommune": "Bornholm",
+  "Kommunekode": 400,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1031,
+      "AntalStemmeberretigedeVælgere": 3988,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

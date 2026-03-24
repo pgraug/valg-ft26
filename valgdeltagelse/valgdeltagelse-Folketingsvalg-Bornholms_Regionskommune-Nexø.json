@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nexø",
+  "AfstemningsområdeDagiId": "703286",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:31",
+  "Kommune": "Bornholm",
+  "Kommunekode": 400,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 862,
+      "AntalStemmeberretigedeVælgere": 3418,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
