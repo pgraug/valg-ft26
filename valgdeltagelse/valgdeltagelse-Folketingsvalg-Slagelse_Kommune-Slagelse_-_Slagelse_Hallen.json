@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Slagelse - Slagelse Hallen",
+  "AfstemningsområdeDagiId": "748853",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:53",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2472,
+      "AntalStemmeberretigedeVælgere": 9748,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

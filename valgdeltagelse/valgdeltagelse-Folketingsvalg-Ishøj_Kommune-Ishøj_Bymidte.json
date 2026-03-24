@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ishøj Bymidte",
   "AfstemningsområdeDagiId": "709944",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:01:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:07",
   "Kommune": "Ishøj",
   "Kommunekode": 183,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 452,
       "AntalStemmeberretigedeVælgere": 2989,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 927,
+      "AntalStemmeberretigedeVælgere": 2989,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

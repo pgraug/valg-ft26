@@ -2,7 +2,7 @@
   "Afstemningsområde": "Horslunde",
   "AfstemningsområdeDagiId": "703864",
   "AfstemningsområdeNummer": 29,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:17:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:07",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 289,
       "AntalStemmeberretigedeVælgere": 1643,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 487,
+      "AntalStemmeberretigedeVælgere": 1643,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

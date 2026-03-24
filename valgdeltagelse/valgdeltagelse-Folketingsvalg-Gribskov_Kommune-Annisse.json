@@ -2,7 +2,7 @@
   "Afstemningsområde": "Annisse",
   "AfstemningsområdeDagiId": "705834",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:27:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:37",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 294,
       "AntalStemmeberretigedeVælgere": 2249,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 686,
+      "AntalStemmeberretigedeVælgere": 2249,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

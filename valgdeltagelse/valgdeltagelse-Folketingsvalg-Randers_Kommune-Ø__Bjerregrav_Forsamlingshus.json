@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ø. Bjerregrav Forsamlingshus",
   "AfstemningsområdeDagiId": "702776",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:40",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 438,
       "AntalStemmeberretigedeVælgere": 1786,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 547,
+      "AntalStemmeberretigedeVælgere": 1786,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

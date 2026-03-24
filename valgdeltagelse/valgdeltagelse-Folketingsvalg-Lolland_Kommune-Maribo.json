@@ -2,7 +2,7 @@
   "Afstemningsområde": "Maribo",
   "AfstemningsområdeDagiId": "705484",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:09",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1035,
       "AntalStemmeberretigedeVælgere": 5125,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1747,
+      "AntalStemmeberretigedeVælgere": 5125,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

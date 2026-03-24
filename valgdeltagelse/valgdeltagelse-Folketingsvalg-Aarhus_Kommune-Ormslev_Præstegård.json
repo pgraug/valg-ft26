@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ormslev Præstegård",
   "AfstemningsområdeDagiId": "705582",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:08:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:55",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 64,
       "AntalStemmeberretigedeVælgere": 560,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 148,
+      "AntalStemmeberretigedeVælgere": 560,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

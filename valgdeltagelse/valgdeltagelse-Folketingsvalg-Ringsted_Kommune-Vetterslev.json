@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vetterslev",
   "AfstemningsområdeDagiId": "706072",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:37",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 98,
       "AntalStemmeberretigedeVælgere": 988,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 264,
+      "AntalStemmeberretigedeVælgere": 988,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

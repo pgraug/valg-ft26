@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Svenstruphallen",
+  "AfstemningsområdeDagiId": "708924",
+  "AfstemningsområdeNummer": 24,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:07",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1834,
+      "AntalStemmeberretigedeVælgere": 6041,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

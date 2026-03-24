@@ -2,7 +2,7 @@
   "Afstemningsområde": "Byen",
   "AfstemningsområdeDagiId": "709646",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:38:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:52",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 754,
       "AntalStemmeberretigedeVælgere": 4067,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1277,
+      "AntalStemmeberretigedeVælgere": 4067,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

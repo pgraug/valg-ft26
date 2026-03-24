@@ -2,7 +2,7 @@
   "Afstemningsområde": "Strandgårdskolen",
   "AfstemningsområdeDagiId": "700876",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:15:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:55",
   "Kommune": "Ishøj",
   "Kommunekode": 183,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 339,
       "AntalStemmeberretigedeVælgere": 3160,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 610,
+      "AntalStemmeberretigedeVælgere": 3160,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

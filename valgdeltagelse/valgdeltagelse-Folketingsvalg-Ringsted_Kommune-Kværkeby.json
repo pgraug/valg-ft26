@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kværkeby",
   "AfstemningsområdeDagiId": "709042",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:40",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 75,
       "AntalStemmeberretigedeVælgere": 932,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 235,
+      "AntalStemmeberretigedeVælgere": 932,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
