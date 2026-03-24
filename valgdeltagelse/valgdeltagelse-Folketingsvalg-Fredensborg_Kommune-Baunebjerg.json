@@ -2,7 +2,7 @@
   "Afstemningsområde": "Baunebjerg",
   "AfstemningsområdeDagiId": "703814",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:10",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:10:01",
   "Kommune": "Fredensborg",
   "Kommunekode": 210,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1226,
       "AntalStemmeberretigedeVælgere": 3578,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1372,
+      "AntalStemmeberretigedeVælgere": 3578,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

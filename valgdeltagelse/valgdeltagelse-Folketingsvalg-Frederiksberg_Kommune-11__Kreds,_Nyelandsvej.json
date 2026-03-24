@@ -2,7 +2,7 @@
   "Afstemningsområde": "11. Kreds, Nyelandsvej",
   "AfstemningsområdeDagiId": "710972",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:10:01",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3215,
       "AntalStemmeberretigedeVælgere": 8081,
       "Tidspunkt": "12:02:00"
+    },
+    {
+      "AfgivneStemmer": 3561,
+      "AntalStemmeberretigedeVælgere": 8081,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
