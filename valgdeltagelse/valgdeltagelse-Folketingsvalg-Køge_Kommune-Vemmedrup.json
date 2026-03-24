@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vemmedrup",
   "AfstemningsområdeDagiId": "706854",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:31:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:44:47",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -10,8 +10,13 @@
   "Valgdeltagelse": [
     {
       "AfgivneStemmer": 439,
-      "AntalStemmeberretigedeVælgere": 1858,
+      "AntalStemmeberretigedeVælgere": 1852,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 927,
+      "AntalStemmeberretigedeVælgere": 1852,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
