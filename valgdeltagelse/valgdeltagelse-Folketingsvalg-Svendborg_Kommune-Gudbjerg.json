@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gudbjerg",
   "AfstemningsområdeDagiId": "705350",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:00:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:58:17",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 295,
       "AntalStemmeberretigedeVælgere": 951,
       "Tidspunkt": "12:56:00"
+    },
+    {
+      "AfgivneStemmer": 385,
+      "AntalStemmeberretigedeVælgere": 951,
+      "Tidspunkt": "14:55:00"
     }
   ]
 }

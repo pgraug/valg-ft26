@@ -2,7 +2,7 @@
   "Afstemningsområde": "Arnum",
   "AfstemningsområdeDagiId": "709148",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:26:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:58:16",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 118,
       "AntalStemmeberretigedeVælgere": 523,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 212,
+      "AntalStemmeberretigedeVælgere": 523,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
