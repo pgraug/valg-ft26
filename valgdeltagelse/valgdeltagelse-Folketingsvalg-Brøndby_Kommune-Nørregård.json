@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørregård",
   "AfstemningsområdeDagiId": "702442",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:19:15",
   "Kommune": "Brøndby",
   "Kommunekode": 153,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3480,
       "AntalStemmeberretigedeVælgere": 5233,
       "Tidspunkt": "18:01:00"
+    },
+    {
+      "AfgivneStemmer": 3960,
+      "AntalStemmeberretigedeVælgere": 5233,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

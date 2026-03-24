@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glyngøre",
   "AfstemningsområdeDagiId": "748872",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:19:47",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1081,
       "AntalStemmeberretigedeVælgere": 1436,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1217,
+      "AntalStemmeberretigedeVælgere": 1436,
+      "Tidspunkt": "20:12:00"
     }
   ]
 }
