@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Udby",
+  "AfstemningsområdeDagiId": "708868",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:49:45",
+  "Kommune": "Holbæk",
+  "Kommunekode": 316,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 438,
+      "AntalStemmeberretigedeVælgere": 1836,
+      "Tidspunkt": "10:30:00"
+    }
+  ]
+}
