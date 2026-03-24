@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hune",
+  "AfstemningsområdeDagiId": "701514",
+  "AfstemningsområdeNummer": 20,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:32:12",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 619,
+      "AntalStemmeberretigedeVælgere": 1520,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

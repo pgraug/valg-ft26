@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "V. Hjermitslev",
+  "AfstemningsområdeDagiId": "749357",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:31:42",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 99,
+      "AntalStemmeberretigedeVælgere": 372,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

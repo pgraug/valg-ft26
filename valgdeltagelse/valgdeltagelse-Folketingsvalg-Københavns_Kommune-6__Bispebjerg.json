@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "6. Bispebjerg",
+  "AfstemningsområdeDagiId": "707738",
+  "AfstemningsområdeNummer": 27,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:31:57",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 3505,
+      "AntalStemmeberretigedeVælgere": 10398,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
