@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 5311,
+  "AfgivneStemmer": 5341,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Faaborg",
   "AfstemningsområdeDagiId": 701392,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 6,
   "BlankeUgyldigeFremmødteStemmer": 55,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:33:49",
-  "GyldigeStemmer": 5232,
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:56:52",
+  "GyldigeStemmer": 5262,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -47,15 +47,6 @@
       "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
       "Partistemmer": null,
       "Stemmer": 90,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "F",
-      "Kandidater": null,
-      "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
-      "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": null,
-      "Stemmer": 570,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -119,6 +110,15 @@
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
       "Partistemmer": null,
       "Stemmer": 266,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "F",
+      "Kandidater": null,
+      "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
+      "PartiNavn": "SF - Socialistisk Folkeparti",
+      "Partistemmer": null,
+      "Stemmer": 600,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
