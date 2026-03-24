@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vrå",
   "AfstemningsområdeDagiId": "702854",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:07:49",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1903,
       "AntalStemmeberretigedeVælgere": 3127,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2406,
+      "AntalStemmeberretigedeVælgere": 3127,
+      "Tidspunkt": "19:01:00"
     }
   ]
 }
