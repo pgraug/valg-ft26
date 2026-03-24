@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hørsholm",
   "AfstemningsområdeDagiId": "707664",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:02:30",
   "Kommune": "Hørsholm",
   "Kommunekode": 223,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1810,
       "AntalStemmeberretigedeVælgere": 4738,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2070,
+      "AntalStemmeberretigedeVælgere": 4738,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

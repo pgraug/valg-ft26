@@ -2,7 +2,7 @@
   "Afstemningsområde": "Arenaskolen ved Greve Kultur-Base",
   "AfstemningsområdeDagiId": "718892",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:02:15",
   "Kommune": "Greve",
   "Kommunekode": 253,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 859,
       "AntalStemmeberretigedeVælgere": 5101,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1883,
+      "AntalStemmeberretigedeVælgere": 5101,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

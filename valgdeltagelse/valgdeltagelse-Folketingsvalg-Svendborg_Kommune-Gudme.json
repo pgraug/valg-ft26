@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gudme",
   "AfstemningsområdeDagiId": "709786",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:02:31",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 253,
       "AntalStemmeberretigedeVælgere": 1188,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 350,
+      "AntalStemmeberretigedeVælgere": 1188,
+      "Tidspunkt": "13:01:00"
     }
   ]
 }
