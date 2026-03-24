@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vedbæk",
   "AfstemningsområdeDagiId": "701142",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:17:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:18:02",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2210,
       "AntalStemmeberretigedeVælgere": 5831,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2560,
+      "AntalStemmeberretigedeVælgere": 5831,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
