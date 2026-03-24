@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 3657,
+  "AfgivneStemmer": 3658,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Snejbjerg",
   "AfstemningsområdeDagiId": 707802,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 41,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:31:34",
-  "GyldigeStemmer": 3613,
+  "FrigivelsesTidspunktUTC": "24-03-2026 21:14:55",
+  "GyldigeStemmer": 3614,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -68,15 +68,6 @@
       "StemmerDifferenceFraForrigeValg": null
     },
     {
-      "Bogstavbetegnelse": "I",
-      "Kandidater": null,
-      "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
-      "PartiNavn": "Liberal Alliance",
-      "Partistemmer": null,
-      "Stemmer": 422,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
       "Bogstavbetegnelse": "M",
       "Kandidater": null,
       "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
@@ -119,6 +110,15 @@
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
       "Partistemmer": null,
       "Stemmer": 709,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "I",
+      "Kandidater": null,
+      "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
+      "PartiNavn": "Liberal Alliance",
+      "Partistemmer": null,
+      "Stemmer": 423,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
