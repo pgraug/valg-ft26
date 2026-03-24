@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Dianalund",
+  "AfstemningsområdeDagiId": "705570",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:46:32",
+  "Kommune": "Sorø",
+  "Kommunekode": 340,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1239,
+      "AntalStemmeberretigedeVælgere": 4534,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2297,
+      "AntalStemmeberretigedeVælgere": 4534,
+      "Tidspunkt": "16:00:00"
+    }
+  ]
+}
