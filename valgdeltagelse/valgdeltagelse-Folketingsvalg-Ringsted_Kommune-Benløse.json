@@ -2,7 +2,7 @@
   "Afstemningsområde": "Benløse",
   "AfstemningsområdeDagiId": "703050",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:37:31",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1145,
       "AntalStemmeberretigedeVælgere": 4136,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1970,
+      "AntalStemmeberretigedeVælgere": 4136,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
