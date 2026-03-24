@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Østerlars",
+  "AfstemningsområdeDagiId": "707574",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:16",
+  "Kommune": "Bornholm",
+  "Kommunekode": 400,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 543,
+      "AntalStemmeberretigedeVælgere": 2074,
+      "Tidspunkt": "10:58:00"
+    }
+  ]
+}

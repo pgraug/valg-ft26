@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nørremarkshallen Nord",
+  "AfstemningsområdeDagiId": "705588",
+  "AfstemningsområdeNummer": 30,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:16",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1066,
+      "AntalStemmeberretigedeVælgere": 5075,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
