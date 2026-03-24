@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Durup",
+  "AfstemningsområdeDagiId": "748886",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:29:16",
+  "Kommune": "Skive",
+  "Kommunekode": 779,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 212,
+      "AntalStemmeberretigedeVælgere": 963,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
