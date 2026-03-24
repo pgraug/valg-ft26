@@ -2,7 +2,7 @@
   "Afstemningsområde": "Låsby",
   "AfstemningsområdeDagiId": "702028",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:18:17",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -19,9 +19,14 @@
       "Tidspunkt": "17:00:00"
     },
     {
-      "AfgivneStemmer": 2139,
+      "AfgivneStemmer": 2292,
       "AntalStemmeberretigedeVælgere": 2607,
       "Tidspunkt": "20:02:00"
+    },
+    {
+      "AfgivneStemmer": 2292,
+      "AntalStemmeberretigedeVælgere": 2607,
+      "Tidspunkt": "21:10:00"
     }
   ]
 }
