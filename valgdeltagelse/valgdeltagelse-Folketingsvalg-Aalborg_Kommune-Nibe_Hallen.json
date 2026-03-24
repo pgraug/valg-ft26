@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nibe Hallen",
   "AfstemningsområdeDagiId": "705942",
   "AfstemningsområdeNummer": 47,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:33",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1694,
       "AntalStemmeberretigedeVælgere": 5346,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3964,
+      "AntalStemmeberretigedeVælgere": 5346,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

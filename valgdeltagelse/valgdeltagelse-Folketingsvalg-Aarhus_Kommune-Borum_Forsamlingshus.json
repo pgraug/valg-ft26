@@ -2,7 +2,7 @@
   "Afstemningsområde": "Borum Forsamlingshus",
   "AfstemningsområdeDagiId": "705576",
   "AfstemningsområdeNummer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:17",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 212,
       "AntalStemmeberretigedeVælgere": 494,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 394,
+      "AntalStemmeberretigedeVælgere": 494,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

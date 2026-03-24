@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fole",
   "AfstemningsområdeDagiId": "709390",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:49",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 124,
       "AntalStemmeberretigedeVælgere": 329,
       "Tidspunkt": "15:02:00"
+    },
+    {
+      "AfgivneStemmer": 235,
+      "AntalStemmeberretigedeVælgere": 329,
+      "Tidspunkt": "18:03:00"
     }
   ]
 }

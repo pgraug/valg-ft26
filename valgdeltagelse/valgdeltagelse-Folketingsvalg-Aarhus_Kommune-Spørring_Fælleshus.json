@@ -2,7 +2,7 @@
   "Afstemningsområde": "Spørring Fælleshus",
   "AfstemningsområdeDagiId": "705520",
   "AfstemningsområdeNummer": 55,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:17",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 386,
       "AntalStemmeberretigedeVælgere": 963,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 680,
+      "AntalStemmeberretigedeVælgere": 963,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

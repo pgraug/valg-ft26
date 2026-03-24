@@ -2,7 +2,7 @@
   "Afstemningsområde": "Løgstør",
   "AfstemningsområdeDagiId": "702144",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:11:23",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1263,
       "AntalStemmeberretigedeVælgere": 3739,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2695,
+      "AntalStemmeberretigedeVælgere": 3739,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Chr.Feld/Stepping/Taps/Hejls",
   "AfstemningsområdeDagiId": "712312",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:02",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1972,
       "AntalStemmeberretigedeVælgere": 5067,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3712,
+      "AntalStemmeberretigedeVælgere": 5067,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

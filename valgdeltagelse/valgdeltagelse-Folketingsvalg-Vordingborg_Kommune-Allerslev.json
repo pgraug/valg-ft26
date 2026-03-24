@@ -2,7 +2,7 @@
   "Afstemningsområde": "Allerslev",
   "AfstemningsområdeDagiId": "701732",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:29:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:11:53",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 460,
       "AntalStemmeberretigedeVælgere": 896,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 682,
+      "AntalStemmeberretigedeVælgere": 896,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

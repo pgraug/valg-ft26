@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ådum",
   "AfstemningsområdeDagiId": "748670",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:11:33",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,21 @@
       "AfgivneStemmer": 277,
       "AntalStemmeberretigedeVælgere": 765,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 317,
+      "AntalStemmeberretigedeVælgere": 765,
+      "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 416,
+      "AntalStemmeberretigedeVælgere": 765,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 503,
+      "AntalStemmeberretigedeVælgere": 765,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

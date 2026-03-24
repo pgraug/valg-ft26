@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holmegårdshallen",
   "AfstemningsområdeDagiId": "703836",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:10:02",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2553,
       "AntalStemmeberretigedeVælgere": 4213,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3053,
+      "AntalStemmeberretigedeVælgere": 4213,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

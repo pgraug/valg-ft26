@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bremdal",
   "AfstemningsområdeDagiId": "706786",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:07:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:11:37",
   "Kommune": "Struer",
   "Kommunekode": 671,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 806,
       "AntalStemmeberretigedeVælgere": 1510,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1213,
+      "AntalStemmeberretigedeVælgere": 1510,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

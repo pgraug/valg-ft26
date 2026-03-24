@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brøndbyvester Skole",
   "AfstemningsområdeDagiId": "707090",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:02",
   "Kommune": "Brøndby",
   "Kommunekode": 153,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1417,
       "AntalStemmeberretigedeVælgere": 3523,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2449,
+      "AntalStemmeberretigedeVælgere": 3523,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
