@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mørke",
   "AfstemningsområdeDagiId": "710826",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:22:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:15:16",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1137,
       "AntalStemmeberretigedeVælgere": 2672,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1332,
+      "AntalStemmeberretigedeVælgere": 2672,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

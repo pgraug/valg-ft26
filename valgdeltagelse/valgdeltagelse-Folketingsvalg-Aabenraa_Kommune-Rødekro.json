@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rødekro",
   "AfstemningsområdeDagiId": "706666",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:17",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2193,
       "AntalStemmeberretigedeVælgere": 5200,
       "Tidspunkt": "14:03:00"
+    },
+    {
+      "AfgivneStemmer": 2891,
+      "AntalStemmeberretigedeVælgere": 5200,
+      "Tidspunkt": "16:10:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ryomgård",
   "AfstemningsområdeDagiId": "711952",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:21:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:32",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1630,
       "AntalStemmeberretigedeVælgere": 3652,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1939,
+      "AntalStemmeberretigedeVælgere": 3652,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

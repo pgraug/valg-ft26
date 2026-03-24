@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hastrup",
   "AfstemningsområdeDagiId": "705502",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:31:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:45",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1096,
       "AntalStemmeberretigedeVælgere": 4205,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2233,
+      "AntalStemmeberretigedeVælgere": 4205,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

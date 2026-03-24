@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gedved",
   "AfstemningsområdeDagiId": "712014",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:15:00",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 860,
       "AntalStemmeberretigedeVælgere": 2131,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1017,
+      "AntalStemmeberretigedeVælgere": 2131,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
