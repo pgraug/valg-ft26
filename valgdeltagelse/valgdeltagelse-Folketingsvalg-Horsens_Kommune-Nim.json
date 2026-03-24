@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nim",
   "AfstemningsområdeDagiId": "706254",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:13:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:36",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 669,
       "AntalStemmeberretigedeVælgere": 1319,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 865,
+      "AntalStemmeberretigedeVælgere": 1319,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

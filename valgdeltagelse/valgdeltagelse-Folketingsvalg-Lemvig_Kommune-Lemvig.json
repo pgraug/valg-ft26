@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lemvig",
   "AfstemningsområdeDagiId": "706536",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:38",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 2908,
       "AntalStemmeberretigedeVælgere": 5144,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3394,
+      "AntalStemmeberretigedeVælgere": 5144,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

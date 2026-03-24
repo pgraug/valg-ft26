@@ -2,7 +2,7 @@
   "Afstemningsområde": "Petersmindehallen Nord",
   "AfstemningsområdeDagiId": "703980",
   "AfstemningsområdeNummer": 34,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:21",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 739,
       "AntalStemmeberretigedeVælgere": 3376,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2106,
+      "AntalStemmeberretigedeVælgere": 3376,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grejsdalen Nord",
   "AfstemningsområdeDagiId": "705594",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:06",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 364,
       "AntalStemmeberretigedeVælgere": 1729,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1012,
+      "AntalStemmeberretigedeVælgere": 1729,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

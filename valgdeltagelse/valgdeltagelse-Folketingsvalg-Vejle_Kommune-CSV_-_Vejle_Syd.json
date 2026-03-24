@@ -2,7 +2,7 @@
   "Afstemningsområde": "CSV - Vejle Syd",
   "AfstemningsområdeDagiId": "705620",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:10:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:38",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 453,
       "AntalStemmeberretigedeVælgere": 2148,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1286,
+      "AntalStemmeberretigedeVælgere": 2148,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
