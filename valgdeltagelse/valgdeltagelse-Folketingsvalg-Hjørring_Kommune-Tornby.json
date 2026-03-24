@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tornby",
   "AfstemningsområdeDagiId": "710458",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:15:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:18:45",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 173,
       "AntalStemmeberretigedeVælgere": 1411,
       "Tidspunkt": "09:07:00"
+    },
+    {
+      "AfgivneStemmer": 372,
+      "AntalStemmeberretigedeVælgere": 1411,
+      "Tidspunkt": "11:07:00"
     }
   ]
 }

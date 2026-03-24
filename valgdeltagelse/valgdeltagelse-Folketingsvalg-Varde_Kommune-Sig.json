@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sig",
+  "AfstemningsområdeDagiId": "707512",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:19:01",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 162,
+      "AntalStemmeberretigedeVælgere": 798,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
