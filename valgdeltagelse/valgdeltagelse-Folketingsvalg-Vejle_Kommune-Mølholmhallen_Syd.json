@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Mølholmhallen Syd",
+  "AfstemningsområdeDagiId": "705630",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:30",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 689,
+      "AntalStemmeberretigedeVælgere": 2900,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Øster Nykirke Nord",
+  "AfstemningsområdeDagiId": "703974",
+  "AfstemningsområdeNummer": 23,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:30",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 204,
+      "AntalStemmeberretigedeVælgere": 1176,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

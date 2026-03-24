@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Jelling Nord",
+  "AfstemningsområdeDagiId": "708586",
+  "AfstemningsområdeNummer": 24,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:09:00",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 863,
+      "AntalStemmeberretigedeVælgere": 3617,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Klitmøller",
+  "AfstemningsområdeDagiId": "701270",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:08:31",
+  "Kommune": "Thisted",
+  "Kommunekode": 787,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 193,
+      "AntalStemmeberretigedeVælgere": 913,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

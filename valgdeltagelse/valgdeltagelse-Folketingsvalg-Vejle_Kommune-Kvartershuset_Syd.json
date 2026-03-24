@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kvartershuset Syd",
+  "AfstemningsområdeDagiId": "700984",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:09:00",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 444,
+      "AntalStemmeberretigedeVælgere": 2062,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
