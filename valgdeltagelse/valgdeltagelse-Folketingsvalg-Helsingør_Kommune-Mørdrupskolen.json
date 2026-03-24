@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mørdrupskolen",
   "AfstemningsområdeDagiId": "710304",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:07",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3146,
       "AntalStemmeberretigedeVælgere": 5562,
       "Tidspunkt": "16:02:00"
+    },
+    {
+      "AfgivneStemmer": 4240,
+      "AntalStemmeberretigedeVælgere": 5562,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

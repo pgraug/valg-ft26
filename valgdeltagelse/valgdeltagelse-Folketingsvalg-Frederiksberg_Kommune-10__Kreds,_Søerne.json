@@ -2,7 +2,7 @@
   "Afstemningsområde": "10. Kreds, Søerne",
   "AfstemningsområdeDagiId": "701758",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:48",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 5770,
       "AntalStemmeberretigedeVælgere": 8360,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 6504,
+      "AntalStemmeberretigedeVælgere": 8360,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

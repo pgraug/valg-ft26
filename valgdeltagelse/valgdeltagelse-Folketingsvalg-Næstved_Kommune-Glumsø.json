@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glumsø",
   "AfstemningsområdeDagiId": "703666",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:46",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1111,
       "AntalStemmeberretigedeVælgere": 2523,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1880,
+      "AntalStemmeberretigedeVælgere": 2523,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

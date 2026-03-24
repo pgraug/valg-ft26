@@ -2,7 +2,7 @@
   "Afstemningsområde": "Borris",
   "AfstemningsområdeDagiId": "703690",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:06",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,21 @@
       "AfgivneStemmer": 337,
       "AntalStemmeberretigedeVælgere": 877,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 410,
+      "AntalStemmeberretigedeVælgere": 877,
+      "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 516,
+      "AntalStemmeberretigedeVælgere": 877,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 623,
+      "AntalStemmeberretigedeVælgere": 877,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

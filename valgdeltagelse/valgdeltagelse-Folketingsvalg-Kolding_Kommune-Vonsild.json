@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vonsild",
   "AfstemningsområdeDagiId": "707970",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:51",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1194,
       "AntalStemmeberretigedeVælgere": 3251,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2401,
+      "AntalStemmeberretigedeVælgere": 3251,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

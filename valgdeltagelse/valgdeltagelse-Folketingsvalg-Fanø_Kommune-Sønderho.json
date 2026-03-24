@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sønderho",
   "AfstemningsområdeDagiId": "710532",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:17",
   "Kommune": "Fanø",
   "Kommunekode": 563,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 162,
       "AntalStemmeberretigedeVælgere": 254,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 223,
+      "AntalStemmeberretigedeVælgere": 254,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

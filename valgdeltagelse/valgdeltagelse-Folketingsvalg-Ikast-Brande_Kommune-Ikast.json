@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ikast",
   "AfstemningsområdeDagiId": "702176",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:06",
   "Kommune": "Ikast-Brande",
   "Kommunekode": 756,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 7915,
       "AntalStemmeberretigedeVælgere": 13054,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 9050,
+      "AntalStemmeberretigedeVælgere": 13054,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

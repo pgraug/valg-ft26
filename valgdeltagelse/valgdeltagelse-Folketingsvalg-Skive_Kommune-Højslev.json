@@ -2,7 +2,7 @@
   "Afstemningsområde": "Højslev",
   "AfstemningsområdeDagiId": "748881",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:59:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:37",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1489,
       "AntalStemmeberretigedeVælgere": 2974,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2173,
+      "AntalStemmeberretigedeVælgere": 2974,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

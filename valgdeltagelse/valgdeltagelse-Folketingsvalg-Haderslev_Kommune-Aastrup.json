@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aastrup",
   "AfstemningsområdeDagiId": "709256",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:31",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 601,
       "AntalStemmeberretigedeVælgere": 1328,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1046,
+      "AntalStemmeberretigedeVælgere": 1328,
+      "Tidspunkt": "18:01:00"
     }
   ]
 }

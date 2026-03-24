@@ -2,7 +2,7 @@
   "Afstemningsområde": "Præstemoseskolen",
   "AfstemningsområdeDagiId": "709882",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:35",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1844,
       "AntalStemmeberretigedeVælgere": 3089,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2144,
+      "AntalStemmeberretigedeVælgere": 3089,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

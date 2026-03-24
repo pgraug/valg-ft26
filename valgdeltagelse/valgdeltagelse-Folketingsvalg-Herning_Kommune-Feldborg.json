@@ -2,7 +2,7 @@
   "Afstemningsområde": "Feldborg",
   "AfstemningsområdeDagiId": "709514",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:18",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 317,
       "AntalStemmeberretigedeVælgere": 549,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 379,
+      "AntalStemmeberretigedeVælgere": 549,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

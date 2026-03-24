@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørre Vedby",
   "AfstemningsområdeDagiId": "711018",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:17",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 818,
       "AntalStemmeberretigedeVælgere": 1688,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1162,
+      "AntalStemmeberretigedeVælgere": 1688,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

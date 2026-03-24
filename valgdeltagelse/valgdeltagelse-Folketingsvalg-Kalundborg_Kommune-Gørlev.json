@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gørlev",
   "AfstemningsområdeDagiId": "707012",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:16",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 886,
       "AntalStemmeberretigedeVælgere": 2396,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1651,
+      "AntalStemmeberretigedeVælgere": 2396,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

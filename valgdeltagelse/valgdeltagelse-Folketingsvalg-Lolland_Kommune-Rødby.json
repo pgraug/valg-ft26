@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rødby",
   "AfstemningsområdeDagiId": "702106",
   "AfstemningsområdeNummer": 36,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:51",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1352,
       "AntalStemmeberretigedeVælgere": 2463,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1731,
+      "AntalStemmeberretigedeVælgere": 2463,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

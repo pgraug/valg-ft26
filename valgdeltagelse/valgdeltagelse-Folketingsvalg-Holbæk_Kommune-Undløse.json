@@ -2,7 +2,7 @@
   "Afstemningsområde": "Undløse",
   "AfstemningsområdeDagiId": "704456",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:06",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 956,
       "AntalStemmeberretigedeVælgere": 2445,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1770,
+      "AntalStemmeberretigedeVælgere": 2445,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

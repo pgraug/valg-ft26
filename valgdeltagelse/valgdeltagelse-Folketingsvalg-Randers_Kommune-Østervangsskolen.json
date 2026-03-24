@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østervangsskolen",
   "AfstemningsområdeDagiId": "711582",
   "AfstemningsområdeNummer": 30,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:07",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 1588,
       "AntalStemmeberretigedeVælgere": 2780,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1772,
+      "AntalStemmeberretigedeVælgere": 2780,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

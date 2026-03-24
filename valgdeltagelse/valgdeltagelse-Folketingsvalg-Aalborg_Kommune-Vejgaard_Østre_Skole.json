@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vejgaard Østre Skole",
   "AfstemningsområdeDagiId": "708918",
   "AfstemningsområdeNummer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:36",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1665,
       "AntalStemmeberretigedeVælgere": 5665,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4048,
+      "AntalStemmeberretigedeVælgere": 5665,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

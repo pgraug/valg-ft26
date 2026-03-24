@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søndervanghallen",
   "AfstemningsområdeDagiId": "708412",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:33",
   "Kommune": "Glostrup",
   "Kommunekode": 161,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1552,
       "AntalStemmeberretigedeVælgere": 4005,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2592,
+      "AntalStemmeberretigedeVælgere": 4005,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

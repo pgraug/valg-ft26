@@ -2,7 +2,7 @@
   "Afstemningsområde": "Videbæk",
   "AfstemningsområdeDagiId": "706530",
   "AfstemningsområdeNummer": 30,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:34",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1767,
       "AntalStemmeberretigedeVælgere": 3697,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2801,
+      "AntalStemmeberretigedeVælgere": 3697,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

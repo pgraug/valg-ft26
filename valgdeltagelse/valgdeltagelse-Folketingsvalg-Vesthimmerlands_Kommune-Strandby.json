@@ -2,7 +2,7 @@
   "Afstemningsområde": "Strandby",
   "AfstemningsområdeDagiId": "708538",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:36",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 203,
       "AntalStemmeberretigedeVælgere": 568,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 440,
+      "AntalStemmeberretigedeVælgere": 568,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
