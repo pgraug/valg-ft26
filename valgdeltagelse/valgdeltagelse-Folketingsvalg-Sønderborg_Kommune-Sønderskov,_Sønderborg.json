@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sønderskov, Sønderborg",
   "AfstemningsområdeDagiId": "704588",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:14",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3841,
       "AntalStemmeberretigedeVælgere": 5461,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4310,
+      "AntalStemmeberretigedeVælgere": 5461,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

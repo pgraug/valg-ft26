@@ -2,7 +2,7 @@
   "Afstemningsområde": "Arena Næstved",
   "AfstemningsområdeDagiId": "701858",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:13",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 6961,
       "AntalStemmeberretigedeVælgere": 9807,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 7989,
+      "AntalStemmeberretigedeVælgere": 9807,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

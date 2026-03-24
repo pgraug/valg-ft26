@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sæby-Gershøj",
   "AfstemningsområdeDagiId": "703454",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:13",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:44",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 772,
       "AntalStemmeberretigedeVælgere": 1257,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1133,
+      "AntalStemmeberretigedeVælgere": 1257,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

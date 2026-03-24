@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stouby",
   "AfstemningsområdeDagiId": "709924",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:00",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 817,
       "AntalStemmeberretigedeVælgere": 1281,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1119,
+      "AntalStemmeberretigedeVælgere": 1281,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

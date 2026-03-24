@@ -2,7 +2,7 @@
   "Afstemningsområde": "Haderslev Syd",
   "AfstemningsområdeDagiId": "707626",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:59:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:01",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3366,
       "AntalStemmeberretigedeVælgere": 4863,
       "Tidspunkt": "17:58:00"
+    },
+    {
+      "AfgivneStemmer": 3929,
+      "AntalStemmeberretigedeVælgere": 4863,
+      "Tidspunkt": "20:07:00"
     }
   ]
 }

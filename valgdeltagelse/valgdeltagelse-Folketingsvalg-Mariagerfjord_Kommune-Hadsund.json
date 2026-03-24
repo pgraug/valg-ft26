@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hadsund",
   "AfstemningsområdeDagiId": "705600",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:47",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3744,
       "AntalStemmeberretigedeVælgere": 5095,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4230,
+      "AntalStemmeberretigedeVælgere": 5095,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

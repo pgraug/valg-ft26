@@ -2,7 +2,7 @@
   "Afstemningsområde": "Arnborg",
   "AfstemningsområdeDagiId": "706292",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:33",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 723,
       "AntalStemmeberretigedeVælgere": 920,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 756,
+      "AntalStemmeberretigedeVælgere": 920,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

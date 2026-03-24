@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vildbjerg",
   "AfstemningsområdeDagiId": "712074",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:00",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2682,
       "AntalStemmeberretigedeVælgere": 3304,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2837,
+      "AntalStemmeberretigedeVælgere": 3304,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

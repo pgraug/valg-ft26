@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fangel Forsamlingshus",
   "AfstemningsområdeDagiId": "708800",
   "AfstemningsområdeNummer": 32,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:43",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 420,
       "AntalStemmeberretigedeVælgere": 696,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 575,
+      "AntalStemmeberretigedeVælgere": 696,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

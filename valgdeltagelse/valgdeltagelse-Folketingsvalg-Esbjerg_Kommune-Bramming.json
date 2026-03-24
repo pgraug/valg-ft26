@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bramming",
   "AfstemningsområdeDagiId": "703542",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:58",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 5667,
       "AntalStemmeberretigedeVælgere": 7928,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6625,
+      "AntalStemmeberretigedeVælgere": 7928,
+      "Tidspunkt": "20:04:00"
     }
   ]
 }

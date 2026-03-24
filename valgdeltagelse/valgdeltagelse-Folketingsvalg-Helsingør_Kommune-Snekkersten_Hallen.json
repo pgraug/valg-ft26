@@ -2,7 +2,7 @@
   "Afstemningsområde": "Snekkersten Hallen",
   "AfstemningsområdeDagiId": "702682",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:43",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2729,
       "AntalStemmeberretigedeVælgere": 3594,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3145,
+      "AntalStemmeberretigedeVælgere": 3594,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

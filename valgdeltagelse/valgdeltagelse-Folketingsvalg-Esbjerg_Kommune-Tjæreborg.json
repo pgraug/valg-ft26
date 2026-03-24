@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tjæreborg",
   "AfstemningsområdeDagiId": "703522",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:15",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1928,
       "AntalStemmeberretigedeVælgere": 2655,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2278,
+      "AntalStemmeberretigedeVælgere": 2655,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

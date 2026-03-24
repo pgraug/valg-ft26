@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sdr. Felding",
   "AfstemningsområdeDagiId": "701664",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:59",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1216,
       "AntalStemmeberretigedeVælgere": 1539,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1269,
+      "AntalStemmeberretigedeVælgere": 1539,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

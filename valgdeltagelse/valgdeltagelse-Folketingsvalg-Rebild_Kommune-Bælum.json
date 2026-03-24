@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bælum",
   "AfstemningsområdeDagiId": "711096",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:28",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 829,
       "AntalStemmeberretigedeVælgere": 1172,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 998,
+      "AntalStemmeberretigedeVælgere": 1172,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

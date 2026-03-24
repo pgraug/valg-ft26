@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hasle",
   "AfstemningsområdeDagiId": "707890",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:32",
   "Kommune": "Bornholm",
   "Kommunekode": 400,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1433,
       "AntalStemmeberretigedeVælgere": 2147,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1761,
+      "AntalStemmeberretigedeVælgere": 2147,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

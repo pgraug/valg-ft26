@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hvalsø",
   "AfstemningsområdeDagiId": "707762",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:07:59",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:34",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2243,
       "AntalStemmeberretigedeVælgere": 4010,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3531,
+      "AntalStemmeberretigedeVælgere": 4010,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

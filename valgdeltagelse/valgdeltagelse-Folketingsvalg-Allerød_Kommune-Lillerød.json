@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lillerød",
   "AfstemningsområdeDagiId": "706698",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:12:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:58",
   "Kommune": "Allerød",
   "Kommunekode": 201,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 3637,
       "AntalStemmeberretigedeVælgere": 4184,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3804,
+      "AntalStemmeberretigedeVælgere": 4184,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

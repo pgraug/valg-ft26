@@ -2,7 +2,7 @@
   "Afstemningsområde": "As",
   "AfstemningsområdeDagiId": "749379",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:34",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 377,
       "AntalStemmeberretigedeVælgere": 553,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 495,
+      "AntalStemmeberretigedeVælgere": 553,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hvalpsund",
   "AfstemningsområdeDagiId": "711328",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:00",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 928,
       "AntalStemmeberretigedeVælgere": 1251,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1038,
+      "AntalStemmeberretigedeVælgere": 1251,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Karlslundehallerne",
   "AfstemningsområdeDagiId": "718922",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:26:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:00",
   "Kommune": "Greve",
   "Kommunekode": 253,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 4491,
       "AntalStemmeberretigedeVælgere": 6645,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 5786,
+      "AntalStemmeberretigedeVælgere": 6645,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

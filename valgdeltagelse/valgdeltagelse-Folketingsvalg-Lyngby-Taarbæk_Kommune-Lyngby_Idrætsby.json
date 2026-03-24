@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lyngby Idrætsby",
   "AfstemningsområdeDagiId": "708642",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:48",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 3393,
       "AntalStemmeberretigedeVælgere": 4290,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3562,
+      "AntalStemmeberretigedeVælgere": 4290,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

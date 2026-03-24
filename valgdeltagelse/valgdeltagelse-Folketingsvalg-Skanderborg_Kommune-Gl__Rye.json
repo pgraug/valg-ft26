@@ -2,16 +2,21 @@
   "Afstemningsområde": "Gl. Rye",
   "AfstemningsområdeDagiId": "702034",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:35",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026",
   "Valgdeltagelse": [
     {
-      "AfgivneStemmer": 410,
+      "AfgivneStemmer": 965,
       "AntalStemmeberretigedeVælgere": 1445,
-      "Tidspunkt": "12:00:00"
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1341,
+      "AntalStemmeberretigedeVælgere": 1445,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

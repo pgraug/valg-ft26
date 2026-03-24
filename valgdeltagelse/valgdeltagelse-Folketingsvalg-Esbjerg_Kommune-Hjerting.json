@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hjerting",
   "AfstemningsområdeDagiId": "712150",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:46",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 4507,
       "AntalStemmeberretigedeVælgere": 5797,
       "Tidspunkt": "18:11:00"
+    },
+    {
+      "AfgivneStemmer": 5115,
+      "AntalStemmeberretigedeVælgere": 5797,
+      "Tidspunkt": "20:05:00"
     }
   ]
 }

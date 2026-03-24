@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vestamager",
   "AfstemningsområdeDagiId": "711216",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:44",
   "Kommune": "Tårnby",
   "Kommunekode": 185,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3560,
       "AntalStemmeberretigedeVælgere": 4824,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4153,
+      "AntalStemmeberretigedeVælgere": 4824,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

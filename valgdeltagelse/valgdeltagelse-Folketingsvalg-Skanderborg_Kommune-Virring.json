@@ -2,7 +2,7 @@
   "Afstemningsområde": "Virring",
   "AfstemningsområdeDagiId": "709838",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:30",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1225,
       "AntalStemmeberretigedeVælgere": 1883,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1701,
+      "AntalStemmeberretigedeVælgere": 1883,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

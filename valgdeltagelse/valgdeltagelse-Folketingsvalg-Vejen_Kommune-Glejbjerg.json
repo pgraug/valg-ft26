@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glejbjerg",
   "AfstemningsområdeDagiId": "707412",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:00",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 403,
       "AntalStemmeberretigedeVælgere": 841,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 728,
+      "AntalStemmeberretigedeVælgere": 841,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

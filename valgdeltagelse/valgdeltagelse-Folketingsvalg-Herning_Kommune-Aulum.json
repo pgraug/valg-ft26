@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aulum",
   "AfstemningsområdeDagiId": "709506",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:29",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2464,
       "AntalStemmeberretigedeVælgere": 3026,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2641,
+      "AntalStemmeberretigedeVælgere": 3026,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

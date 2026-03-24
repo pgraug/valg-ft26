@@ -2,7 +2,7 @@
   "Afstemningsområde": "Them",
   "AfstemningsområdeDagiId": "700790",
   "AfstemningsområdeNummer": 30,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:15:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:31",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1452,
       "AntalStemmeberretigedeVælgere": 2874,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2490,
+      "AntalStemmeberretigedeVælgere": 2874,
+      "Tidspunkt": "20:05:00"
     }
   ]
 }

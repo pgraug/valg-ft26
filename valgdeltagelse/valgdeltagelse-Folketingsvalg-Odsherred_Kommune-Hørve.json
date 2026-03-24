@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hørve",
   "AfstemningsområdeDagiId": "711730",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:40:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:29",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 1940,
       "AntalStemmeberretigedeVælgere": 2507,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2019,
+      "AntalStemmeberretigedeVælgere": 2507,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

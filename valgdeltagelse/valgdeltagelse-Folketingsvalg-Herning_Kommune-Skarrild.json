@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skarrild",
   "AfstemningsområdeDagiId": "710918",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:13",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 542,
       "AntalStemmeberretigedeVælgere": 664,
       "Tidspunkt": "19:02:00"
+    },
+    {
+      "AfgivneStemmer": 572,
+      "AntalStemmeberretigedeVælgere": 664,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

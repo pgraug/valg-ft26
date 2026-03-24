@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørrevangsskolen",
   "AfstemningsområdeDagiId": "710322",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:53:11",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:31",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 2479,
       "AntalStemmeberretigedeVælgere": 3785,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2636,
+      "AntalStemmeberretigedeVælgere": 3785,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

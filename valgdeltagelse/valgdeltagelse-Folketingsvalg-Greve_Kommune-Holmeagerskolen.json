@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holmeagerskolen",
   "AfstemningsområdeDagiId": "749338",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:27:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:58",
   "Kommune": "Greve",
   "Kommunekode": 253,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2493,
       "AntalStemmeberretigedeVælgere": 3862,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3177,
+      "AntalStemmeberretigedeVælgere": 3862,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

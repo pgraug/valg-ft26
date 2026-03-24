@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hundested",
   "AfstemningsområdeDagiId": "704878",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:45",
   "Kommune": "Halsnæs",
   "Kommunekode": 260,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 5635,
       "AntalStemmeberretigedeVælgere": 7530,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6368,
+      "AntalStemmeberretigedeVælgere": 7530,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

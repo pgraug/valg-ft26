@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rynkevang",
   "AfstemningsområdeDagiId": "711468",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:43",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1747,
       "AntalStemmeberretigedeVælgere": 2590,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1986,
+      "AntalStemmeberretigedeVælgere": 2590,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

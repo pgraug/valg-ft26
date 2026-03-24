@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holsted",
   "AfstemningsområdeDagiId": "701368",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:08:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:30",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1219,
       "AntalStemmeberretigedeVælgere": 2440,
       "Tidspunkt": "16:04:00"
+    },
+    {
+      "AfgivneStemmer": 1973,
+      "AntalStemmeberretigedeVælgere": 2440,
+      "Tidspunkt": "20:05:00"
     }
   ]
 }

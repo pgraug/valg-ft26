@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tunehallerne",
   "AfstemningsområdeDagiId": "718910",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:26:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:28",
   "Kommune": "Greve",
   "Kommunekode": 253,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3215,
       "AntalStemmeberretigedeVælgere": 5029,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 4411,
+      "AntalStemmeberretigedeVælgere": 5029,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

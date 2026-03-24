@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nærum",
   "AfstemningsområdeDagiId": "704274",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:13",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 3107,
       "AntalStemmeberretigedeVælgere": 3773,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3233,
+      "AntalStemmeberretigedeVælgere": 3773,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

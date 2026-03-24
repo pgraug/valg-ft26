@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skave",
   "AfstemningsområdeDagiId": "707720",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:07:31",
   "Kommune": "Holstebro",
   "Kommunekode": 661,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1185,
       "AntalStemmeberretigedeVælgere": 1607,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1390,
+      "AntalStemmeberretigedeVælgere": 1607,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
