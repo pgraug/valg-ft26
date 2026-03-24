@@ -2,7 +2,7 @@
   "Afstemningsområde": "V.Skerninge",
   "AfstemningsområdeDagiId": "708006",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:00:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:20",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1037,
       "AntalStemmeberretigedeVælgere": 2127,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1455,
+      "AntalStemmeberretigedeVælgere": 2127,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

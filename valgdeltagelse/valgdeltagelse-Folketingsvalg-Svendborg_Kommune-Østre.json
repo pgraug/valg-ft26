@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østre",
   "AfstemningsområdeDagiId": "705356",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:00:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:20",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2437,
       "AntalStemmeberretigedeVælgere": 5128,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 3344,
+      "AntalStemmeberretigedeVælgere": 5128,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
