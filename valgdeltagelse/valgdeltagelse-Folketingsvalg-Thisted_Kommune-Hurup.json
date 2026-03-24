@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hurup",
   "AfstemningsområdeDagiId": "748374",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:18:00",
   "Kommune": "Thisted",
   "Kommunekode": 787,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1953,
       "AntalStemmeberretigedeVælgere": 3136,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2632,
+      "AntalStemmeberretigedeVælgere": 3136,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

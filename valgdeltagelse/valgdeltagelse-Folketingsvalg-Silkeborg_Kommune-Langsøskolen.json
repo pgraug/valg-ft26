@@ -2,7 +2,7 @@
   "Afstemningsområde": "Langsøskolen",
   "AfstemningsområdeDagiId": "709856",
   "AfstemningsområdeNummer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:14:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:17:44",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1323,
       "AntalStemmeberretigedeVælgere": 2253,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1898,
+      "AntalStemmeberretigedeVælgere": 2253,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
