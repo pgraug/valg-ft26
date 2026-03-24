@@ -2,16 +2,21 @@
   "Afstemningsområde": "Femø",
   "AfstemningsområdeDagiId": "706816",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:16:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:19:39",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026",
   "Valgdeltagelse": [
     {
-      "AfgivneStemmer": 5,
+      "AfgivneStemmer": 12,
       "AntalStemmeberretigedeVælgere": 92,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 30,
+      "AntalStemmeberretigedeVælgere": 92,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

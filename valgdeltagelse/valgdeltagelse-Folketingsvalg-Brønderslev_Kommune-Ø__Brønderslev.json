@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ø. Brønderslev",
+  "AfstemningsområdeDagiId": "705646",
+  "AfstemningsområdeNummer": 50,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:20:10",
+  "Kommune": "Brønderslev",
+  "Kommunekode": 810,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 270,
+      "AntalStemmeberretigedeVælgere": 1205,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
