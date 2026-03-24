@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bølgen",
   "AfstemningsområdeDagiId": "707098",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:35:47",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1068,
       "AntalStemmeberretigedeVælgere": 4597,
       "Tidspunkt": "10:04:00"
+    },
+    {
+      "AfgivneStemmer": 1344,
+      "AntalStemmeberretigedeVælgere": 4597,
+      "Tidspunkt": "11:33:00"
     }
   ]
 }
