@@ -2,7 +2,7 @@
   "Afstemningsområde": "Voel",
   "AfstemningsområdeDagiId": "705446",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:56:42",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:00:13",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 464,
       "AntalStemmeberretigedeVælgere": 1615,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 772,
+      "AntalStemmeberretigedeVælgere": 1615,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
