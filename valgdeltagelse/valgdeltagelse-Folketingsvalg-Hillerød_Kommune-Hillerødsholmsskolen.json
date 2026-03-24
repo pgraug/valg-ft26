@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hillerødsholmsskolen",
   "AfstemningsområdeDagiId": "704344",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:46",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1177,
       "AntalStemmeberretigedeVælgere": 5329,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1461,
+      "AntalStemmeberretigedeVælgere": 5329,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Jerlev Syd",
+  "AfstemningsområdeDagiId": "711448",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:31",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 186,
+      "AntalStemmeberretigedeVælgere": 848,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
