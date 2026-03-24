@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sanderumhallen",
+  "AfstemningsområdeDagiId": "711692",
+  "AfstemningsområdeNummer": 26,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:14:31",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2286,
+      "AntalStemmeberretigedeVælgere": 8206,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
