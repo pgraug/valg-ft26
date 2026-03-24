@@ -2,7 +2,7 @@
   "Afstemningsområde": "Agerskov",
   "AfstemningsområdeDagiId": "701806",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:56:36",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 156,
       "AntalStemmeberretigedeVælgere": 1390,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 348,
+      "AntalStemmeberretigedeVælgere": 1390,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }

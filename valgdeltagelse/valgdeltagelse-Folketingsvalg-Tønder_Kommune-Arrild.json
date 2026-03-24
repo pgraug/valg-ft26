@@ -2,7 +2,7 @@
   "Afstemningsområde": "Arrild",
   "AfstemningsområdeDagiId": "711066",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:57:06",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 72,
       "AntalStemmeberretigedeVælgere": 492,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 169,
+      "AntalStemmeberretigedeVælgere": 492,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }
