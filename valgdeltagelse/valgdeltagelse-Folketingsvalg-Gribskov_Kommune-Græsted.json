@@ -2,7 +2,7 @@
   "Afstemningsområde": "Græsted",
   "AfstemningsområdeDagiId": "704286",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:06:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:13:35",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1641,
       "AntalStemmeberretigedeVælgere": 3699,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2931,
+      "AntalStemmeberretigedeVælgere": 3699,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

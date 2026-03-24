@@ -2,7 +2,7 @@
   "Afstemningsområde": "Trørød",
   "AfstemningsområdeDagiId": "707194",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:13:35",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 3095,
       "AntalStemmeberretigedeVælgere": 3989,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3427,
+      "AntalStemmeberretigedeVælgere": 3989,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
