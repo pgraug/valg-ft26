@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Flauenskjold",
+  "AfstemningsområdeDagiId": "700996",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:14:39",
+  "Kommune": "Brønderslev",
+  "Kommunekode": 810,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 181,
+      "AntalStemmeberretigedeVælgere": 903,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

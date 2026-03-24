@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Als",
+  "AfstemningsområdeDagiId": "710066",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:14:54",
+  "Kommune": "Mariagerfjord",
+  "Kommunekode": 846,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 633,
+      "AntalStemmeberretigedeVælgere": 1940,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

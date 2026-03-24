@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bøgeskov",
+  "AfstemningsområdeDagiId": "711148",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:14:54",
+  "Kommune": "Fredericia",
+  "Kommunekode": 607,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 435,
+      "AntalStemmeberretigedeVælgere": 1416,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

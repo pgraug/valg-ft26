@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rønde",
   "AfstemningsområdeDagiId": "711958",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:11:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:14:54",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1757,
       "AntalStemmeberretigedeVælgere": 6419,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2145,
+      "AntalStemmeberretigedeVælgere": 6419,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
