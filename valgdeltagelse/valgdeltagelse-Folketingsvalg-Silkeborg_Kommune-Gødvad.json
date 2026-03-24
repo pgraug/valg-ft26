@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Gødvad",
+  "AfstemningsområdeDagiId": "711296",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:16:37",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1133,
+      "AntalStemmeberretigedeVælgere": 5933,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1689,
+      "AntalStemmeberretigedeVælgere": 5933,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2788,
+      "AntalStemmeberretigedeVælgere": 5933,
+      "Tidspunkt": "16:00:00"
+    }
+  ]
+}
