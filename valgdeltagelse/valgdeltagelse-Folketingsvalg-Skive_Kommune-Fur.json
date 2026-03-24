@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fur",
   "AfstemningsområdeDagiId": "701060",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:27:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:28:45",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 390,
       "AntalStemmeberretigedeVælgere": 625,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 507,
+      "AntalStemmeberretigedeVælgere": 625,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

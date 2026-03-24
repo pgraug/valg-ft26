@@ -2,7 +2,7 @@
   "Afstemningsområde": "7. Vanløse",
   "AfstemningsområdeDagiId": "710814",
   "AfstemningsområdeNummer": 41,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:19:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:28:00",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 5593,
       "AntalStemmeberretigedeVælgere": 9983,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 7340,
+      "AntalStemmeberretigedeVælgere": 9983,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
