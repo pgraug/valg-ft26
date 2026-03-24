@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Onsild",
+  "AfstemningsområdeDagiId": "706980",
+  "AfstemningsområdeNummer": 22,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:08",
+  "Kommune": "Mariagerfjord",
+  "Kommunekode": 846,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 389,
+      "AntalStemmeberretigedeVælgere": 1539,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

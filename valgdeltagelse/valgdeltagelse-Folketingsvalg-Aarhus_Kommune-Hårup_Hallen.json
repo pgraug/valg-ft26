@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hårup Hallen",
   "AfstemningsområdeDagiId": "711356",
   "AfstemningsområdeNummer": 56,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:15:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:11:38",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 188,
       "AntalStemmeberretigedeVælgere": 1560,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 437,
+      "AntalStemmeberretigedeVælgere": 1560,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

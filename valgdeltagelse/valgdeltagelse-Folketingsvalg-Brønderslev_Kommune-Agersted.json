@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Agersted",
+  "AfstemningsområdeDagiId": "708624",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:11:53",
+  "Kommune": "Brønderslev",
+  "Kommunekode": 810,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 135,
+      "AntalStemmeberretigedeVælgere": 577,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
