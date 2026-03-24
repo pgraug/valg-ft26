@@ -2,7 +2,7 @@
   "Afstemningsområde": "Forum",
   "AfstemningsområdeDagiId": "706268",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:13:05",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 2740,
       "AntalStemmeberretigedeVælgere": 4029,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3032,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

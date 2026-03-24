@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vestbyen",
   "AfstemningsområdeDagiId": "704998",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:12:50",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 2934,
       "AntalStemmeberretigedeVælgere": 4416,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3167,
+      "AntalStemmeberretigedeVælgere": 4416,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ravnsholt",
   "AfstemningsområdeDagiId": "705398",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:13:05",
   "Kommune": "Allerød",
   "Kommunekode": 201,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 3440,
       "AntalStemmeberretigedeVælgere": 4308,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3746,
+      "AntalStemmeberretigedeVælgere": 4308,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
