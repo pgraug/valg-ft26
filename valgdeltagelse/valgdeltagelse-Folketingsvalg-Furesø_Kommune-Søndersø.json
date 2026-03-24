@@ -1,0 +1,32 @@
+{
+  "Afstemningsområde": "Søndersø",
+  "AfstemningsområdeDagiId": "703986",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:24:18",
+  "Kommune": "Furesø",
+  "Kommunekode": 190,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 407,
+      "AntalStemmeberretigedeVælgere": 3815,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 680,
+      "AntalStemmeberretigedeVælgere": 3815,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 879,
+      "AntalStemmeberretigedeVælgere": 3815,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1336,
+      "AntalStemmeberretigedeVælgere": 3815,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Afstemningsområde": "Stavnsholt",
+  "AfstemningsområdeDagiId": "708606",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:24:18",
+  "Kommune": "Furesø",
+  "Kommunekode": 190,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 454,
+      "AntalStemmeberretigedeVælgere": 3969,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 733,
+      "AntalStemmeberretigedeVælgere": 3969,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 915,
+      "AntalStemmeberretigedeVælgere": 3969,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1405,
+      "AntalStemmeberretigedeVælgere": 3969,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

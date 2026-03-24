@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Jonstrup",
+  "AfstemningsområdeDagiId": "710104",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:24:48",
+  "Kommune": "Furesø",
+  "Kommunekode": 190,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 135,
+      "AntalStemmeberretigedeVælgere": 1677,
+      "Tidspunkt": "08:00:00"
+    }
+  ]
+}
