@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørre Snede",
   "AfstemningsområdeDagiId": "713298",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:16",
   "Kommune": "Ikast-Brande",
   "Kommunekode": 756,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1545,
       "AntalStemmeberretigedeVælgere": 2417,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1744,
+      "AntalStemmeberretigedeVælgere": 2417,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
