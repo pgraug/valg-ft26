@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ølsemagle",
   "AfstemningsområdeDagiId": "708480",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:59",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1768,
       "AntalStemmeberretigedeVælgere": 3556,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2953,
+      "AntalStemmeberretigedeVælgere": 3556,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

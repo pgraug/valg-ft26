@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kroggårdsskolen",
   "AfstemningsområdeDagiId": "702818",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:04:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:47",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3087,
       "AntalStemmeberretigedeVælgere": 4892,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 4151,
+      "AntalStemmeberretigedeVælgere": 4892,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

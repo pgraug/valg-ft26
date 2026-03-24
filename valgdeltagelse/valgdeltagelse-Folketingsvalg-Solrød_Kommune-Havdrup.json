@@ -2,7 +2,7 @@
   "Afstemningsområde": "Havdrup",
   "AfstemningsområdeDagiId": "705362",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:20:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:30",
   "Kommune": "Solrød",
   "Kommunekode": 269,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2349,
       "AntalStemmeberretigedeVælgere": 3794,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3329,
+      "AntalStemmeberretigedeVælgere": 3794,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jægersborg",
   "AfstemningsområdeDagiId": "707338",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:12:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:45",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 4640,
       "AntalStemmeberretigedeVælgere": 5401,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 4844,
+      "AntalStemmeberretigedeVælgere": 5401,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

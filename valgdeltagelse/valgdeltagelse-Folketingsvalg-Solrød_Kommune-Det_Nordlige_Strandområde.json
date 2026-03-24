@@ -2,7 +2,7 @@
   "Afstemningsområde": "Det Nordlige Strandområde",
   "AfstemningsområdeDagiId": "703748",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:20:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:16:01",
   "Kommune": "Solrød",
   "Kommunekode": 269,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3947,
       "AntalStemmeberretigedeVælgere": 6100,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 5407,
+      "AntalStemmeberretigedeVælgere": 6100,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ølby",
   "AfstemningsområdeDagiId": "705508",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:47",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2727,
       "AntalStemmeberretigedeVælgere": 5193,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 4178,
+      "AntalStemmeberretigedeVælgere": 5193,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
