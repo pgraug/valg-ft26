@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skjoldhøjskolen, Tilst",
   "AfstemningsområdeDagiId": "710040",
   "AfstemningsområdeNummer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:08:50",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1136,
       "AntalStemmeberretigedeVælgere": 4023,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1737,
+      "AntalStemmeberretigedeVælgere": 4023,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
