@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fjelstrup",
   "AfstemningsområdeDagiId": "704736",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:00:33",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 194,
       "AntalStemmeberretigedeVælgere": 871,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 361,
+      "AntalStemmeberretigedeVælgere": 871,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
