@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Veggerby",
+  "AfstemningsområdeDagiId": "705168",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:20:40",
+  "Kommune": "Rebild",
+  "Kommunekode": 840,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 58,
+      "AntalStemmeberretigedeVælgere": 484,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 116,
+      "AntalStemmeberretigedeVælgere": 484,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
