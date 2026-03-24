@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hammersholt",
   "AfstemningsområdeDagiId": "707252",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:11:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:14:17",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 395,
       "AntalStemmeberretigedeVælgere": 1148,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 448,
+      "AntalStemmeberretigedeVælgere": 1148,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sdr. Omme",
   "AfstemningsområdeDagiId": "701374",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:11:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:13:32",
   "Kommune": "Billund",
   "Kommunekode": 530,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,21 @@
       "AfgivneStemmer": 244,
       "AntalStemmeberretigedeVælgere": 1670,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 366,
+      "AntalStemmeberretigedeVælgere": 1670,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 461,
+      "AntalStemmeberretigedeVælgere": 1670,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 548,
+      "AntalStemmeberretigedeVælgere": 1670,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

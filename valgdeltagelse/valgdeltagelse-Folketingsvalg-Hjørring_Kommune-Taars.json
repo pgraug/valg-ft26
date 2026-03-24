@@ -2,7 +2,7 @@
   "Afstemningsområde": "Taars",
   "AfstemningsområdeDagiId": "701230",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:14:02",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 497,
       "AntalStemmeberretigedeVælgere": 2428,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 763,
+      "AntalStemmeberretigedeVælgere": 2428,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

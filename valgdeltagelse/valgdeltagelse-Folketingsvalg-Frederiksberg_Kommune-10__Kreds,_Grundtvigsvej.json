@@ -2,7 +2,7 @@
   "Afstemningsområde": "10. Kreds, Grundtvigsvej",
   "AfstemningsområdeDagiId": "705122",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:13:31",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,16 @@
       "AfgivneStemmer": 3340,
       "AntalStemmeberretigedeVælgere": 8588,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 3782,
+      "AntalStemmeberretigedeVælgere": 8588,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4202,
+      "AntalStemmeberretigedeVælgere": 8588,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
