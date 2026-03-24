@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sdr. Nissum",
+  "AfstemningsområdeDagiId": "709344",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:37:02",
+  "Kommune": "Holstebro",
+  "Kommunekode": 661,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 201,
+      "AntalStemmeberretigedeVælgere": 743,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
