@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Bækkegårdsskolen",
+  "AfstemningsområdeDagiId": "705206",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:24:43",
+  "Kommune": "Egedal",
+  "Kommunekode": 240,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 640,
+      "AntalStemmeberretigedeVælgere": 4274,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1084,
+      "AntalStemmeberretigedeVælgere": 4274,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1704,
+      "AntalStemmeberretigedeVælgere": 4274,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}
