@@ -2,7 +2,7 @@
   "Afstemningsområde": "Saksild - Nølev",
   "AfstemningsområdeDagiId": "701632",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:07:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:36",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 641,
       "AntalStemmeberretigedeVælgere": 1427,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 995,
+      "AntalStemmeberretigedeVælgere": 1427,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Birkerød",
   "AfstemningsområdeDagiId": "711588",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:32:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:53",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2987,
       "AntalStemmeberretigedeVælgere": 5112,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3448,
+      "AntalStemmeberretigedeVælgere": 5112,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

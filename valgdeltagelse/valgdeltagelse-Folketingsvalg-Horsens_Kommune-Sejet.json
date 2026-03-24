@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sejet",
   "AfstemningsområdeDagiId": "709476",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:38",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 195,
       "AntalStemmeberretigedeVælgere": 417,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 270,
+      "AntalStemmeberretigedeVælgere": 417,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

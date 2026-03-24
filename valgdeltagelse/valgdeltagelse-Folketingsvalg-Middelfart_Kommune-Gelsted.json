@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gelsted",
   "AfstemningsområdeDagiId": "708388",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:08:51",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 813,
       "AntalStemmeberretigedeVælgere": 2008,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1255,
+      "AntalStemmeberretigedeVælgere": 2008,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

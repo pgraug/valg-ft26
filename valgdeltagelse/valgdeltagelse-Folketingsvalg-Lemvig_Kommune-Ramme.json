@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ramme",
   "AfstemningsområdeDagiId": "711172",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:36",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 665,
       "AntalStemmeberretigedeVælgere": 1316,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 860,
+      "AntalStemmeberretigedeVælgere": 1316,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

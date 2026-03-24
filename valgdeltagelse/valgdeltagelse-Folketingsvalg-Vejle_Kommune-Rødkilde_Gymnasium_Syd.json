@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Rødkilde Gymnasium Syd",
+  "AfstemningsområdeDagiId": "703998",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:06",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 907,
+      "AntalStemmeberretigedeVælgere": 3592,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2238,
+      "AntalStemmeberretigedeVælgere": 3592,
+      "Tidspunkt": "17:00:00"
+    }
+  ]
+}
