@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lindeskov",
   "AfstemningsområdeDagiId": "706380",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:01:09",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 931,
       "AntalStemmeberretigedeVælgere": 2695,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1192,
+      "AntalStemmeberretigedeVælgere": 2695,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

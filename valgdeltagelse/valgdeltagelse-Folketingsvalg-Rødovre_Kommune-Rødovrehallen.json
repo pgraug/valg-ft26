@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rødovrehallen",
   "AfstemningsområdeDagiId": "709566",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:01:09",
   "Kommune": "Rødovre",
   "Kommunekode": 175,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2308,
       "AntalStemmeberretigedeVælgere": 6417,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2580,
+      "AntalStemmeberretigedeVælgere": 6417,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Haderup",
   "AfstemningsområdeDagiId": "701720",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:01:39",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 178,
       "AntalStemmeberretigedeVælgere": 821,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 308,
+      "AntalStemmeberretigedeVælgere": 821,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

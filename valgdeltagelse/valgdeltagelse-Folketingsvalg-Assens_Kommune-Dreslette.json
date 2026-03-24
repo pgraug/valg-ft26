@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dreslette",
   "AfstemningsområdeDagiId": "701526",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:55",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 177,
       "AntalStemmeberretigedeVælgere": 619,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 279,
+      "AntalStemmeberretigedeVælgere": 619,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
