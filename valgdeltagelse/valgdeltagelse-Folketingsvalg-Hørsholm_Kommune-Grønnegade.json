@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grønnegade",
   "AfstemningsområdeDagiId": "707682",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:04:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:26:28",
   "Kommune": "Hørsholm",
   "Kommunekode": 223,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 132,
       "AntalStemmeberretigedeVælgere": 297,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 141,
+      "AntalStemmeberretigedeVælgere": 297,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
