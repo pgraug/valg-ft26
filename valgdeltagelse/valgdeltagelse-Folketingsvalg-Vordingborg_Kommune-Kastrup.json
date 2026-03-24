@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kastrup",
   "AfstemningsområdeDagiId": "705078",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:44:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:40:01",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 552,
       "AntalStemmeberretigedeVælgere": 1977,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 725,
+      "AntalStemmeberretigedeVælgere": 1977,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
