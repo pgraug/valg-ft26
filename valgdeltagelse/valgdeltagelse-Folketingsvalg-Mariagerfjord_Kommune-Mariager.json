@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mariager",
   "AfstemningsområdeDagiId": "700964",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:28",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2339,
       "AntalStemmeberretigedeVælgere": 3180,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2661,
+      "AntalStemmeberretigedeVælgere": 3180,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

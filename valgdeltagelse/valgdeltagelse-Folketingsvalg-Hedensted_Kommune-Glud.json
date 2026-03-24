@@ -2,7 +2,7 @@
   "Afstemningsområde": "Glud",
   "AfstemningsområdeDagiId": "702118",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:07:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:58",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1148,
       "AntalStemmeberretigedeVælgere": 1726,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1525,
+      "AntalStemmeberretigedeVælgere": 1726,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sydals",
   "AfstemningsområdeDagiId": "703032",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:45",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1213,
       "AntalStemmeberretigedeVælgere": 1649,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1388,
+      "AntalStemmeberretigedeVælgere": 1649,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

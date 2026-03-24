@@ -2,7 +2,7 @@
   "Afstemningsområde": "Breum",
   "AfstemningsområdeDagiId": "748882",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:44",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 976,
       "AntalStemmeberretigedeVælgere": 1282,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1105,
+      "AntalStemmeberretigedeVælgere": 1282,
+      "Tidspunkt": "20:03:00"
     }
   ]
 }

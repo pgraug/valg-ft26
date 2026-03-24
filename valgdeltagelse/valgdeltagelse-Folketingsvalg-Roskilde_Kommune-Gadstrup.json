@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gadstrup",
   "AfstemningsområdeDagiId": "707314",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:58",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1506,
       "AntalStemmeberretigedeVælgere": 1774,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1592,
+      "AntalStemmeberretigedeVælgere": 1774,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

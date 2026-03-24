@@ -2,7 +2,7 @@
   "Afstemningsområde": "Usserød",
   "AfstemningsområdeDagiId": "709324",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:13",
   "Kommune": "Hørsholm",
   "Kommunekode": 223,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 4246,
       "AntalStemmeberretigedeVælgere": 5059,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 4474,
+      "AntalStemmeberretigedeVælgere": 5059,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

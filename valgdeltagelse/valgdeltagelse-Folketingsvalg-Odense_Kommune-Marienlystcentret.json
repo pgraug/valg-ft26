@@ -2,7 +2,7 @@
   "Afstemningsområde": "Marienlystcentret",
   "AfstemningsområdeDagiId": "707258",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:03",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 5331,
       "AntalStemmeberretigedeVælgere": 8579,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 7017,
+      "AntalStemmeberretigedeVælgere": 8579,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

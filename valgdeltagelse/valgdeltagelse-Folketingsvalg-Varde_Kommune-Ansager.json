@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ansager",
   "AfstemningsområdeDagiId": "701482",
   "AfstemningsområdeNummer": 32,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:22:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:45",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 971,
       "AntalStemmeberretigedeVælgere": 1295,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1096,
+      "AntalStemmeberretigedeVælgere": 1295,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

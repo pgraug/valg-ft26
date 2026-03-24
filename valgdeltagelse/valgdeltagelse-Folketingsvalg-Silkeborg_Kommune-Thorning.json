@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thorning",
   "AfstemningsområdeDagiId": "703820",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:12:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:09:13",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1068,
       "AntalStemmeberretigedeVælgere": 2076,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1764,
+      "AntalStemmeberretigedeVælgere": 2076,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

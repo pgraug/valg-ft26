@@ -2,7 +2,7 @@
   "Afstemningsområde": "Alrø",
   "AfstemningsområdeDagiId": "711964",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:28",
   "Kommune": "Odder",
   "Kommunekode": 727,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,16 @@
       "AfgivneStemmer": 73,
       "AntalStemmeberretigedeVælgere": 109,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 100,
+      "AntalStemmeberretigedeVælgere": 109,
+      "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 103,
+      "AntalStemmeberretigedeVælgere": 109,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

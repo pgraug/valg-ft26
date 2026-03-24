@@ -2,7 +2,7 @@
   "Afstemningsområde": "Snejbjerg",
   "AfstemningsområdeDagiId": "707802",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:08:14",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 3483,
       "AntalStemmeberretigedeVælgere": 4149,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3658,
+      "AntalStemmeberretigedeVælgere": 4149,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
