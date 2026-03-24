@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "2. Vest",
+  "AfstemningsområdeDagiId": "712286",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:25:25",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 4365,
+      "AntalStemmeberretigedeVælgere": 10922,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
