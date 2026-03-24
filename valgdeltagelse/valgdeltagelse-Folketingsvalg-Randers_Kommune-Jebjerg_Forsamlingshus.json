@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jebjerg Forsamlingshus",
   "AfstemningsområdeDagiId": "701178",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:35:08",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 493,
       "AntalStemmeberretigedeVælgere": 642,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 531,
+      "AntalStemmeberretigedeVælgere": 642,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
