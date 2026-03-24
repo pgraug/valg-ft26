@@ -2,7 +2,7 @@
   "Afstemningsområde": "Møgeltønder",
   "AfstemningsområdeDagiId": "706368",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:54:20",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 96,
       "AntalStemmeberretigedeVælgere": 729,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 213,
+      "AntalStemmeberretigedeVælgere": 729,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }
