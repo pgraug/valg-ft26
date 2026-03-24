@@ -2,7 +2,7 @@
   "Afstemningsområde": "Børne- og Kulturhuset",
   "AfstemningsområdeDagiId": "701852",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:24",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 287,
       "AntalStemmeberretigedeVælgere": 1877,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 513,
+      "AntalStemmeberretigedeVælgere": 1877,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

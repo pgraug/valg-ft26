@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jægerspris",
   "AfstemningsområdeDagiId": "704070",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:01:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:26",
   "Kommune": "Frederikssund",
   "Kommunekode": 250,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2448,
       "AntalStemmeberretigedeVælgere": 6840,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3173,
+      "AntalStemmeberretigedeVælgere": 6840,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

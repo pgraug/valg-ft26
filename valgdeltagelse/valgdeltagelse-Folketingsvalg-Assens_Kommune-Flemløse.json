@@ -2,7 +2,7 @@
   "Afstemningsområde": "Flemløse",
   "AfstemningsområdeDagiId": "701534",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:03:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:09",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 170,
       "AntalStemmeberretigedeVælgere": 721,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 265,
+      "AntalStemmeberretigedeVælgere": 721,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
