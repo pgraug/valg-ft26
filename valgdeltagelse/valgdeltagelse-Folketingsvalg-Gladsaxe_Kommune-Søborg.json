@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søborg",
   "AfstemningsområdeDagiId": "706974",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:24:15",
   "Kommune": "Gladsaxe",
   "Kommunekode": 159,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2099,
       "AntalStemmeberretigedeVælgere": 3888,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3353,
+      "AntalStemmeberretigedeVælgere": 3888,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Balling",
   "AfstemningsområdeDagiId": "748878",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:24:30",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 893,
       "AntalStemmeberretigedeVælgere": 1229,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1018,
+      "AntalStemmeberretigedeVælgere": 1229,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

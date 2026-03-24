@@ -2,7 +2,7 @@
   "Afstemningsområde": "Virupskolen, Hjortshøj",
   "AfstemningsområdeDagiId": "711374",
   "AfstemningsområdeNummer": 48,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:24:15",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2199,
       "AntalStemmeberretigedeVælgere": 2731,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2507,
+      "AntalStemmeberretigedeVælgere": 2731,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

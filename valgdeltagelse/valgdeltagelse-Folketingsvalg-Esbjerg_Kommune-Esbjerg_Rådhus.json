@@ -2,7 +2,7 @@
   "Afstemningsområde": "Esbjerg Rådhus",
   "AfstemningsområdeDagiId": "705826",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:24:15",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 6668,
       "AntalStemmeberretigedeVælgere": 10010,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 7690,
+      "AntalStemmeberretigedeVælgere": 10010,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
