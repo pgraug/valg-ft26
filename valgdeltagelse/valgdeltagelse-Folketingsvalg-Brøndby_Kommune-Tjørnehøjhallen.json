@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Tjørnehøjhallen",
+  "AfstemningsområdeDagiId": "707084",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:50",
+  "Kommune": "Brøndby",
+  "Kommunekode": 153,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1201,
+      "AntalStemmeberretigedeVælgere": 4771,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1774,
+      "AntalStemmeberretigedeVælgere": 4771,
+      "Tidspunkt": "15:00:00"
+    }
+  ]
+}

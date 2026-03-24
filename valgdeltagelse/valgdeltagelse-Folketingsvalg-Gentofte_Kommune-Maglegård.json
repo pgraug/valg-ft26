@@ -2,7 +2,7 @@
   "Afstemningsområde": "Maglegård",
   "AfstemningsområdeDagiId": "702890",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:27",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:34",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2948,
       "AntalStemmeberretigedeVælgere": 5669,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3212,
+      "AntalStemmeberretigedeVælgere": 5669,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

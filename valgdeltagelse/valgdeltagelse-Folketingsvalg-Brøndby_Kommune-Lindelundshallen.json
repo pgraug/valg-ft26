@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Lindelundshallen",
+  "AfstemningsområdeDagiId": "708674",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:10:04",
+  "Kommune": "Brøndby",
+  "Kommunekode": 153,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 911,
+      "AntalStemmeberretigedeVælgere": 3099,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1330,
+      "AntalStemmeberretigedeVælgere": 3099,
+      "Tidspunkt": "15:00:00"
+    }
+  ]
+}

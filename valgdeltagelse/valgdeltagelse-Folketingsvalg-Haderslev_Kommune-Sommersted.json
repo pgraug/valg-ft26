@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sommersted",
   "AfstemningsområdeDagiId": "707612",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:25:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:10:04",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -10,8 +10,13 @@
   "Valgdeltagelse": [
     {
       "AfgivneStemmer": 401,
-      "AntalStemmeberretigedeVælgere": 1704,
+      "AntalStemmeberretigedeVælgere": 1703,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 709,
+      "AntalStemmeberretigedeVælgere": 1703,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

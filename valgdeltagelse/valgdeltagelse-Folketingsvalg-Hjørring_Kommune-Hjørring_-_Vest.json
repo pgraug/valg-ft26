@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hjørring - Vest",
   "AfstemningsområdeDagiId": "702836",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:09:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:19",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1670,
       "AntalStemmeberretigedeVælgere": 4692,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2214,
+      "AntalStemmeberretigedeVælgere": 4692,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
