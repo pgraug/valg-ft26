@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kollerup-Sandvad Nord",
+  "AfstemningsområdeDagiId": "703968",
+  "AfstemningsområdeNummer": 25,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:22:30",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 237,
+      "AntalStemmeberretigedeVælgere": 1209,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
