@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Sorring",
+  "AfstemningsområdeDagiId": "702058",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:18:23",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 218,
+      "AntalStemmeberretigedeVælgere": 1283,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 327,
+      "AntalStemmeberretigedeVælgere": 1283,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 571,
+      "AntalStemmeberretigedeVælgere": 1283,
+      "Tidspunkt": "16:00:00"
+    }
+  ]
+}

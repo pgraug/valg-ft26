@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Resenbro",
+  "AfstemningsområdeDagiId": "700766",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:17:53",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 327,
+      "AntalStemmeberretigedeVælgere": 1485,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 472,
+      "AntalStemmeberretigedeVælgere": 1485,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 730,
+      "AntalStemmeberretigedeVælgere": 1485,
+      "Tidspunkt": "16:00:00"
+    }
+  ]
+}
