@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lystrup Idrætscenter",
   "AfstemningsområdeDagiId": "705532",
   "AfstemningsområdeNummer": 47,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:15:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:11:08",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1332,
       "AntalStemmeberretigedeVælgere": 8581,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2961,
+      "AntalStemmeberretigedeVælgere": 8581,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Frejlev Skoles Idrætshal",
+  "AfstemningsområdeDagiId": "705964",
+  "AfstemningsområdeNummer": 22,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:11:08",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 885,
+      "AntalStemmeberretigedeVælgere": 4368,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

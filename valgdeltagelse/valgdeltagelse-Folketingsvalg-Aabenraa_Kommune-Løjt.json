@@ -2,7 +2,7 @@
   "Afstemningsområde": "Løjt",
   "AfstemningsområdeDagiId": "701976",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:53",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 679,
       "AntalStemmeberretigedeVælgere": 3285,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1033,
+      "AntalStemmeberretigedeVælgere": 3285,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

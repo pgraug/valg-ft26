@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lisbjergskolen",
   "AfstemningsområdeDagiId": "705526",
   "AfstemningsområdeNummer": 44,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:15:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:10:56",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -10,8 +10,13 @@
   "Valgdeltagelse": [
     {
       "AfgivneStemmer": 286,
-      "AntalStemmeberretigedeVælgere": 1872,
+      "AntalStemmeberretigedeVælgere": 1825,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 506,
+      "AntalStemmeberretigedeVælgere": 1825,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
