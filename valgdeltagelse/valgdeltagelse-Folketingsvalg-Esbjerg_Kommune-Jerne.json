@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jerne",
   "AfstemningsområdeDagiId": "710374",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:32:00",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2698,
       "AntalStemmeberretigedeVælgere": 4264,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3092,
+      "AntalStemmeberretigedeVælgere": 4264,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

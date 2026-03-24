@@ -2,7 +2,7 @@
   "Afstemningsområde": "Midtmors",
   "AfstemningsområdeDagiId": "702454",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:32:30",
   "Kommune": "Morsø",
   "Kommunekode": 773,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2029,
       "AntalStemmeberretigedeVælgere": 3157,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2673,
+      "AntalStemmeberretigedeVælgere": 3157,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
