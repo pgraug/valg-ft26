@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rødding",
   "AfstemningsområdeDagiId": "701350",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:07:16",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 419,
       "AntalStemmeberretigedeVælgere": 2493,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 856,
+      "AntalStemmeberretigedeVælgere": 2493,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

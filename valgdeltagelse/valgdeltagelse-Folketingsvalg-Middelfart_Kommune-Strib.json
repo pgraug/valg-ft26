@@ -2,7 +2,7 @@
   "Afstemningsområde": "Strib",
   "AfstemningsområdeDagiId": "703828",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:07:46",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 664,
       "AntalStemmeberretigedeVælgere": 3490,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1267,
+      "AntalStemmeberretigedeVælgere": 3490,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
