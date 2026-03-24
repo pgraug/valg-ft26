@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thise",
   "AfstemningsområdeDagiId": "704012",
   "AfstemningsområdeNummer": 40,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:34",
   "Kommune": "Brønderslev",
   "Kommunekode": 810,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 413,
       "AntalStemmeberretigedeVælgere": 895,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 655,
+      "AntalStemmeberretigedeVælgere": 895,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

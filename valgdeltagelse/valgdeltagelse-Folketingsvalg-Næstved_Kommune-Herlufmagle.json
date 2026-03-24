@@ -2,7 +2,7 @@
   "Afstemningsområde": "Herlufmagle",
   "AfstemningsområdeDagiId": "705200",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:34",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1040,
       "AntalStemmeberretigedeVælgere": 2420,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1738,
+      "AntalStemmeberretigedeVælgere": 2420,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

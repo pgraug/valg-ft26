@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holmsland",
   "AfstemningsområdeDagiId": "706404",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:32",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,21 @@
       "AfgivneStemmer": 446,
       "AntalStemmeberretigedeVælgere": 927,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 530,
+      "AntalStemmeberretigedeVælgere": 927,
+      "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 643,
+      "AntalStemmeberretigedeVælgere": 927,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 734,
+      "AntalStemmeberretigedeVælgere": 927,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

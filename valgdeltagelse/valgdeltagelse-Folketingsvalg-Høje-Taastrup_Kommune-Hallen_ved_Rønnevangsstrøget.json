@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hallen ved Rønnevangsstrøget",
   "AfstemningsområdeDagiId": "706412",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:03",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2415,
       "AntalStemmeberretigedeVælgere": 4921,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3383,
+      "AntalStemmeberretigedeVælgere": 4921,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Høm",
   "AfstemningsområdeDagiId": "707876",
   "AfstemningsområdeNummer": 38,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:33",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 430,
       "AntalStemmeberretigedeVælgere": 1034,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 747,
+      "AntalStemmeberretigedeVælgere": 1034,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

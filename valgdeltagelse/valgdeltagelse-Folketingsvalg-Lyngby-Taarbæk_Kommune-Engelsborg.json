@@ -2,7 +2,7 @@
   "Afstemningsområde": "Engelsborg",
   "AfstemningsområdeDagiId": "706998",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:02",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 3204,
       "AntalStemmeberretigedeVælgere": 5023,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3784,
+      "AntalStemmeberretigedeVælgere": 5023,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

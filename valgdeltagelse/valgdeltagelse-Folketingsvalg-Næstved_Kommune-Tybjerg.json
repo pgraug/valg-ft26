@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tybjerg",
   "AfstemningsområdeDagiId": "703660",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:18",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 292,
       "AntalStemmeberretigedeVælgere": 730,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 536,
+      "AntalStemmeberretigedeVælgere": 730,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

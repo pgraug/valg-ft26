@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kulturhuset Stationen",
   "AfstemningsområdeDagiId": "709066",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:18",
   "Kommune": "Norddjurs",
   "Kommunekode": 707,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 829,
       "AntalStemmeberretigedeVælgere": 1828,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1327,
+      "AntalStemmeberretigedeVælgere": 1828,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

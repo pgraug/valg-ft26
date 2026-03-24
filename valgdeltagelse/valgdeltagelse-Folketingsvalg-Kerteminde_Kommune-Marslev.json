@@ -2,7 +2,7 @@
   "Afstemningsområde": "Marslev",
   "AfstemningsområdeDagiId": "705322",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:32",
   "Kommune": "Kerteminde",
   "Kommunekode": 440,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 973,
       "AntalStemmeberretigedeVælgere": 1578,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1143,
+      "AntalStemmeberretigedeVælgere": 1578,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

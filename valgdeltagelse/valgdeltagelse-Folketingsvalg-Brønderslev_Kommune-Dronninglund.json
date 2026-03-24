@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dronninglund",
   "AfstemningsområdeDagiId": "705640",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:17",
   "Kommune": "Brønderslev",
   "Kommunekode": 810,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2090,
       "AntalStemmeberretigedeVælgere": 4038,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2961,
+      "AntalStemmeberretigedeVælgere": 4038,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

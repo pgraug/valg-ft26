@@ -2,7 +2,7 @@
   "Afstemningsområde": "Regstrup",
   "AfstemningsområdeDagiId": "707370",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:02",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1251,
       "AntalStemmeberretigedeVælgere": 3092,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2205,
+      "AntalStemmeberretigedeVælgere": 3092,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

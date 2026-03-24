@@ -2,7 +2,7 @@
   "Afstemningsområde": "Seest",
   "AfstemningsområdeDagiId": "712320",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:32",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1874,
       "AntalStemmeberretigedeVælgere": 4682,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3519,
+      "AntalStemmeberretigedeVælgere": 4682,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

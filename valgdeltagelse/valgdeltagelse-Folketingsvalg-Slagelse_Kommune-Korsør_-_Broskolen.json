@@ -2,7 +2,7 @@
   "Afstemningsområde": "Korsør - Broskolen",
   "AfstemningsområdeDagiId": "701164",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:46",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2628,
       "AntalStemmeberretigedeVælgere": 5121,
       "Tidspunkt": "16:01:00"
+    },
+    {
+      "AfgivneStemmer": 3386,
+      "AntalStemmeberretigedeVælgere": 5121,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

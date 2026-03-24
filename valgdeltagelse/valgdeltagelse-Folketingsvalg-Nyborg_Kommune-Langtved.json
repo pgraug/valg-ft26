@@ -2,7 +2,7 @@
   "Afstemningsområde": "Langtved",
   "AfstemningsområdeDagiId": "708340",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:48",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 400,
       "AntalStemmeberretigedeVælgere": 677,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 484,
+      "AntalStemmeberretigedeVælgere": 677,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
