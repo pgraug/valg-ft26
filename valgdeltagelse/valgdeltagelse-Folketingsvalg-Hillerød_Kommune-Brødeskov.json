@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brødeskov",
   "AfstemningsområdeDagiId": "701190",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:10:36",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:15",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 408,
       "AntalStemmeberretigedeVælgere": 629,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 498,
+      "AntalStemmeberretigedeVælgere": 629,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

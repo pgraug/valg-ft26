@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sølystskolen, Egå",
   "AfstemningsområdeDagiId": "702208",
   "AfstemningsområdeNummer": 49,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:15:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:45",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1872,
       "AntalStemmeberretigedeVælgere": 3815,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2910,
+      "AntalStemmeberretigedeVælgere": 3815,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
