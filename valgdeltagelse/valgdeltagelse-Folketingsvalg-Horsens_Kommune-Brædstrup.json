@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brædstrup",
   "AfstemningsområdeDagiId": "701658",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:13:15",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 1770,
       "AntalStemmeberretigedeVælgere": 3698,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2091,
+      "AntalStemmeberretigedeVælgere": 3698,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
