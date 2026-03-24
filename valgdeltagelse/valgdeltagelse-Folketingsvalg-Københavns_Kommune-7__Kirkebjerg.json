@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "7. Kirkebjerg",
+  "AfstemningsområdeDagiId": "703374",
+  "AfstemningsområdeNummer": 40,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:34:12",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2921,
+      "AntalStemmeberretigedeVælgere": 8171,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "7. Nordvest",
+  "AfstemningsområdeDagiId": "707744",
+  "AfstemningsområdeNummer": 36,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:33:57",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2733,
+      "AntalStemmeberretigedeVælgere": 8509,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
