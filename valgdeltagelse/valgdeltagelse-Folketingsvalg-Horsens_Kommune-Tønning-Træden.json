@@ -1,0 +1,37 @@
+{
+  "Afstemningsområde": "Tønning-Træden",
+  "AfstemningsområdeDagiId": "712056",
+  "AfstemningsområdeNummer": 20,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:21:58",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 56,
+      "AntalStemmeberretigedeVælgere": 520,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 91,
+      "AntalStemmeberretigedeVælgere": 520,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 153,
+      "AntalStemmeberretigedeVælgere": 520,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 175,
+      "AntalStemmeberretigedeVælgere": 520,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 193,
+      "AntalStemmeberretigedeVælgere": 520,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}

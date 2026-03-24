@@ -1,0 +1,42 @@
+{
+  "Afstemningsområde": "Hovedgård",
+  "AfstemningsområdeDagiId": "709470",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:22:28",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 297,
+      "AntalStemmeberretigedeVælgere": 2577,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 423,
+      "AntalStemmeberretigedeVælgere": 2577,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 553,
+      "AntalStemmeberretigedeVælgere": 2577,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 700,
+      "AntalStemmeberretigedeVælgere": 2577,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 799,
+      "AntalStemmeberretigedeVælgere": 2577,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 908,
+      "AntalStemmeberretigedeVælgere": 2577,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}
