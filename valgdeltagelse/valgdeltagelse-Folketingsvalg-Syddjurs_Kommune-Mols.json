@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mols",
   "AfstemningsområdeDagiId": "703350",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:41:06",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 972,
       "AntalStemmeberretigedeVælgere": 3080,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1194,
+      "AntalStemmeberretigedeVælgere": 3080,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
