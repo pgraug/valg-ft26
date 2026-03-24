@@ -2,7 +2,7 @@
   "Afstemningsområde": "Abild",
   "AfstemningsområdeDagiId": "701794",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:58:36",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 80,
       "AntalStemmeberretigedeVælgere": 698,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 168,
+      "AntalStemmeberretigedeVælgere": 698,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }

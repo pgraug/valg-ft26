@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hostrup",
   "AfstemningsområdeDagiId": "707840",
   "AfstemningsområdeNummer": 29,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:58:51",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 63,
       "AntalStemmeberretigedeVælgere": 583,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 156,
+      "AntalStemmeberretigedeVælgere": 583,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }
