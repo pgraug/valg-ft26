@@ -2,7 +2,7 @@
   "Afstemningsområde": "Humble",
   "AfstemningsområdeDagiId": "704630",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:24:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:34",
   "Kommune": "Langeland",
   "Kommunekode": 482,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 550,
       "AntalStemmeberretigedeVælgere": 1783,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 846,
+      "AntalStemmeberretigedeVælgere": 1783,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

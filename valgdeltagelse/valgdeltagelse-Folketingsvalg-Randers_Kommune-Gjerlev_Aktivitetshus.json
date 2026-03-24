@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gjerlev Aktivitetshus",
   "AfstemningsområdeDagiId": "701136",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:03",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 394,
       "AntalStemmeberretigedeVælgere": 1029,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 448,
+      "AntalStemmeberretigedeVælgere": 1029,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

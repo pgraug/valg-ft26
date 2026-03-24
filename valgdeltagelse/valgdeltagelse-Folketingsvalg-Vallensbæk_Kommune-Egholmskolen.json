@@ -2,7 +2,7 @@
   "Afstemningsområde": "Egholmskolen",
   "AfstemningsområdeDagiId": "709762",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:49",
   "Kommune": "Vallensbæk",
   "Kommunekode": 187,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 966,
       "AntalStemmeberretigedeVælgere": 3305,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1585,
+      "AntalStemmeberretigedeVælgere": 3305,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

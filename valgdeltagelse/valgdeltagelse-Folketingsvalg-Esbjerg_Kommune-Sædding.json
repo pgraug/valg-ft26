@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sædding",
   "AfstemningsområdeDagiId": "704330",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:33:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:48",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1546,
       "AntalStemmeberretigedeVælgere": 5271,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 2581,
+      "AntalStemmeberretigedeVælgere": 5271,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

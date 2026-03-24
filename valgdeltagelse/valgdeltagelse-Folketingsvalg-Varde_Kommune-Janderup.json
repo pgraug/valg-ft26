@@ -2,7 +2,7 @@
   "Afstemningsområde": "Janderup",
   "AfstemningsområdeDagiId": "706084",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:19",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 236,
       "AntalStemmeberretigedeVælgere": 895,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 402,
+      "AntalStemmeberretigedeVælgere": 895,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

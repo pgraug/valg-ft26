@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fynshav",
   "AfstemningsområdeDagiId": "701428",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:00",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 393,
       "AntalStemmeberretigedeVælgere": 1711,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 707,
+      "AntalStemmeberretigedeVælgere": 1711,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

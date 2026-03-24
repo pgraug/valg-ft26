@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ådalen",
   "AfstemningsområdeDagiId": "710368",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:35:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:04",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 657,
       "AntalStemmeberretigedeVælgere": 2430,
       "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 1102,
+      "AntalStemmeberretigedeVælgere": 2430,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Korshøjskolen",
   "AfstemningsområdeDagiId": "710316",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:57",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:34",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 781,
       "AntalStemmeberretigedeVælgere": 2043,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 898,
+      "AntalStemmeberretigedeVælgere": 2043,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

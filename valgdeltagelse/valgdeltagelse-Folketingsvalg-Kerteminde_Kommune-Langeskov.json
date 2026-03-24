@@ -2,7 +2,7 @@
   "Afstemningsområde": "Langeskov",
   "AfstemningsområdeDagiId": "705316",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:33",
   "Kommune": "Kerteminde",
   "Kommunekode": 440,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1430,
       "AntalStemmeberretigedeVælgere": 3669,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1622,
+      "AntalStemmeberretigedeVælgere": 3669,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
