@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østervrå",
   "AfstemningsområdeDagiId": "703516",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:05:11",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:14",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 577,
       "AntalStemmeberretigedeVælgere": 1650,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 787,
+      "AntalStemmeberretigedeVælgere": 1650,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

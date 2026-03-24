@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stensballe",
   "AfstemningsområdeDagiId": "710904",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:13",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2381,
       "AntalStemmeberretigedeVælgere": 4992,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2756,
+      "AntalStemmeberretigedeVælgere": 4992,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Boeslunde - Boeslunde Hallen",
   "AfstemningsområdeDagiId": "701098",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:45",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 373,
       "AntalStemmeberretigedeVælgere": 1075,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 520,
+      "AntalStemmeberretigedeVælgere": 1075,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

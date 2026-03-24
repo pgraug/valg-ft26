@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thorsø/Haurum/Sall",
   "AfstemningsområdeDagiId": "707278",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:16",
   "Kommune": "Favrskov",
   "Kommunekode": 710,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 708,
       "AntalStemmeberretigedeVælgere": 2616,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1284,
+      "AntalStemmeberretigedeVælgere": 2616,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

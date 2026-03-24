@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ejstrupholm",
   "AfstemningsområdeDagiId": "709984",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:58",
   "Kommune": "Ikast-Brande",
   "Kommunekode": 756,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 915,
       "AntalStemmeberretigedeVælgere": 2548,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 1331,
+      "AntalStemmeberretigedeVælgere": 2548,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Biersted",
   "AfstemningsområdeDagiId": "701500",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:36:42",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:15",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,26 @@
       "AfgivneStemmer": 369,
       "AntalStemmeberretigedeVælgere": 1431,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 442,
+      "AntalStemmeberretigedeVælgere": 1431,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 527,
+      "AntalStemmeberretigedeVælgere": 1431,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 595,
+      "AntalStemmeberretigedeVælgere": 1431,
+      "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 713,
+      "AntalStemmeberretigedeVælgere": 1431,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
