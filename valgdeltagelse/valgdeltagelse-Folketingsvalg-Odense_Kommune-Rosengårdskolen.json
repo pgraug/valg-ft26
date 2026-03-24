@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rosengårdskolen",
   "AfstemningsområdeDagiId": "705894",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:15",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 4934,
       "AntalStemmeberretigedeVælgere": 7622,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 6275,
+      "AntalStemmeberretigedeVælgere": 7622,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

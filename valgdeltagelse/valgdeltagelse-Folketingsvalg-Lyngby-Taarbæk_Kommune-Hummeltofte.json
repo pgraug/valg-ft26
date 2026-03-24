@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hummeltofte",
   "AfstemningsområdeDagiId": "710170",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:04:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:13",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 3205,
       "AntalStemmeberretigedeVælgere": 3689,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3365,
+      "AntalStemmeberretigedeVælgere": 3689,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lumsås",
   "AfstemningsområdeDagiId": "701326",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:42:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:16",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 410,
       "AntalStemmeberretigedeVælgere": 516,
       "Tidspunkt": "19:06:00"
+    },
+    {
+      "AfgivneStemmer": 427,
+      "AntalStemmeberretigedeVælgere": 516,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

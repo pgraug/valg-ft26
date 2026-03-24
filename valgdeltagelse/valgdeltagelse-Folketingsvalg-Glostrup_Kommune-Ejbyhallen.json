@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ejbyhallen",
   "AfstemningsområdeDagiId": "711278",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:44",
   "Kommune": "Glostrup",
   "Kommunekode": 161,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1221,
       "AntalStemmeberretigedeVælgere": 1440,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1288,
+      "AntalStemmeberretigedeVælgere": 1440,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

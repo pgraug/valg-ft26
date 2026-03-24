@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vorupør",
   "AfstemningsområdeDagiId": "748372",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:44",
   "Kommune": "Thisted",
   "Kommunekode": 787,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 474,
       "AntalStemmeberretigedeVælgere": 730,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 639,
+      "AntalStemmeberretigedeVælgere": 730,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

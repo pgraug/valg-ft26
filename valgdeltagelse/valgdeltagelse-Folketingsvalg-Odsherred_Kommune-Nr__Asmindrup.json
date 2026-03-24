@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nr. Asmindrup",
   "AfstemningsområdeDagiId": "707376",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:42:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:29",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 621,
       "AntalStemmeberretigedeVælgere": 822,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 653,
+      "AntalStemmeberretigedeVælgere": 822,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

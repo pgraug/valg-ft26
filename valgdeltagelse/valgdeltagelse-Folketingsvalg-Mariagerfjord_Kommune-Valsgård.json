@@ -2,7 +2,7 @@
   "Afstemningsområde": "Valsgård",
   "AfstemningsområdeDagiId": "702354",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:44",
   "Kommune": "Mariagerfjord",
   "Kommunekode": 846,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1188,
       "AntalStemmeberretigedeVælgere": 1625,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1392,
+      "AntalStemmeberretigedeVælgere": 1625,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

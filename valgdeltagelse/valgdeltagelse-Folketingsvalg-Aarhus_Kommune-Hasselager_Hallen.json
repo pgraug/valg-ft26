@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hasselager Hallen",
   "AfstemningsområdeDagiId": "703954",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:17:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:43",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3908,
       "AntalStemmeberretigedeVælgere": 5290,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4532,
+      "AntalStemmeberretigedeVælgere": 5290,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tølløse",
   "AfstemningsområdeDagiId": "708878",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:13",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2867,
       "AntalStemmeberretigedeVælgere": 3843,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3343,
+      "AntalStemmeberretigedeVælgere": 3843,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

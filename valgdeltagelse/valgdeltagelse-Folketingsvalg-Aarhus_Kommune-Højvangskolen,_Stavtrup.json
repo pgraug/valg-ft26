@@ -2,7 +2,7 @@
   "Afstemningsområde": "Højvangskolen, Stavtrup",
   "AfstemningsområdeDagiId": "702240",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:10:58",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2842,
       "AntalStemmeberretigedeVælgere": 3682,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3311,
+      "AntalStemmeberretigedeVælgere": 3682,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mørkøv",
   "AfstemningsområdeDagiId": "701314",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:11:00",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2209,
       "AntalStemmeberretigedeVælgere": 3155,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2573,
+      "AntalStemmeberretigedeVælgere": 3155,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
