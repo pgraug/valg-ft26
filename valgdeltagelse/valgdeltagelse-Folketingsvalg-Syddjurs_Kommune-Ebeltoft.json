@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ebeltoft",
   "AfstemningsområdeDagiId": "701596",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:11:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:07:04",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 5658,
       "AntalStemmeberretigedeVælgere": 7306,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6052,
+      "AntalStemmeberretigedeVælgere": 7306,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
