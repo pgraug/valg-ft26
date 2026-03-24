@@ -2,7 +2,7 @@
   "Afstemningsområde": "Helsinge",
   "AfstemningsområdeDagiId": "704298",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:24",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 954,
       "AntalStemmeberretigedeVælgere": 6627,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2071,
+      "AntalStemmeberretigedeVælgere": 6627,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

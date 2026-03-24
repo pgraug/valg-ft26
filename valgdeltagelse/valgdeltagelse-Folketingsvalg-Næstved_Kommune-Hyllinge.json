@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hyllinge",
   "AfstemningsområdeDagiId": "706398",
   "AfstemningsområdeNummer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:02:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:53",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 165,
       "AntalStemmeberretigedeVælgere": 1475,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 351,
+      "AntalStemmeberretigedeVælgere": 1475,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

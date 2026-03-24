@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hornum-Ulstrup",
+  "AfstemningsområdeDagiId": "705558",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:39",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 282,
+      "AntalStemmeberretigedeVælgere": 1219,
+      "Tidspunkt": "12:04:00"
+    }
+  ]
+}

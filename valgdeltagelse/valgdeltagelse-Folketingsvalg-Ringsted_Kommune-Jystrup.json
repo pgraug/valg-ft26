@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jystrup",
   "AfstemningsområdeDagiId": "710650",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:22",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 151,
       "AntalStemmeberretigedeVælgere": 1186,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 355,
+      "AntalStemmeberretigedeVælgere": 1186,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

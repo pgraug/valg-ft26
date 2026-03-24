@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søborg",
   "AfstemningsområdeDagiId": "707246",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:09",
   "Kommune": "Gribskov",
   "Kommunekode": 270,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 174,
       "AntalStemmeberretigedeVælgere": 1163,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 372,
+      "AntalStemmeberretigedeVælgere": 1163,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
