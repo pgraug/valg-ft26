@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aulby",
   "AfstemningsområdeDagiId": "706728",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:08:16",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 302,
       "AntalStemmeberretigedeVælgere": 1531,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 583,
+      "AntalStemmeberretigedeVælgere": 1531,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

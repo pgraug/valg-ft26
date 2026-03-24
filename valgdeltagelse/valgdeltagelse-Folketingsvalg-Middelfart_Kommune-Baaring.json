@@ -2,7 +2,7 @@
   "Afstemningsområde": "Baaring",
   "AfstemningsområdeDagiId": "711266",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:08:46",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 243,
       "AntalStemmeberretigedeVælgere": 1459,
       "Tidspunkt": "10:01:00"
+    },
+    {
+      "AfgivneStemmer": 467,
+      "AntalStemmeberretigedeVælgere": 1459,
+      "Tidspunkt": "13:03:00"
     }
   ]
 }
