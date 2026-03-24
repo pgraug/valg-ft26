@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bogø",
   "AfstemningsområdeDagiId": "701742",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:33:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:45:44",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 206,
       "AntalStemmeberretigedeVælgere": 959,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 368,
+      "AntalStemmeberretigedeVælgere": 959,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

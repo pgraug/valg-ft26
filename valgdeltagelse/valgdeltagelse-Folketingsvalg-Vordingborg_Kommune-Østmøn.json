@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østmøn",
   "AfstemningsområdeDagiId": "712094",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:45:29",
   "Kommune": "Vordingborg",
   "Kommunekode": 390,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 185,
       "AntalStemmeberretigedeVælgere": 1070,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 348,
+      "AntalStemmeberretigedeVælgere": 1070,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
