@@ -2,7 +2,7 @@
   "Afstemningsområde": "Astrup",
   "AfstemningsområdeDagiId": "704372",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:11:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:23:38",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 315,
       "AntalStemmeberretigedeVælgere": 790,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 493,
+      "AntalStemmeberretigedeVælgere": 790,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

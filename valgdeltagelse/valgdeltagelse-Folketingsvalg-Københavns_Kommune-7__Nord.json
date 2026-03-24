@@ -2,7 +2,7 @@
   "Afstemningsområde": "7. Nord",
   "AfstemningsområdeDagiId": "710820",
   "AfstemningsområdeNummer": 32,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:17:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:23:08",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -14,9 +14,14 @@
       "Tidspunkt": "12:00:00"
     },
     {
-      "AfgivneStemmer": 799,
+      "AfgivneStemmer": 1058,
       "AntalStemmeberretigedeVælgere": 3065,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1058,
+      "AntalStemmeberretigedeVælgere": 3065,
+      "Tidspunkt": "16:01:00"
     }
   ]
 }
