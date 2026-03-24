@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grünersvej",
   "AfstemningsområdeDagiId": "748890",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:15:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:32:45",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 2784,
       "AntalStemmeberretigedeVælgere": 4989,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 3088,
+      "AntalStemmeberretigedeVælgere": 4989,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
