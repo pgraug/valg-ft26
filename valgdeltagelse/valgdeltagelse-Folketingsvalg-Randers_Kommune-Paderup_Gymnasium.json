@@ -2,7 +2,7 @@
   "Afstemningsområde": "Paderup Gymnasium",
   "AfstemningsområdeDagiId": "704280",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:11:31",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 630,
       "AntalStemmeberretigedeVælgere": 1866,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 715,
+      "AntalStemmeberretigedeVælgere": 1866,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
