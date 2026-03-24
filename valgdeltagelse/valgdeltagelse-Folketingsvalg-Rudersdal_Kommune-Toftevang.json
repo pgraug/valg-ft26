@@ -2,7 +2,7 @@
   "Afstemningsområde": "Toftevang",
   "AfstemningsområdeDagiId": "705784",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:17:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:34:00",
   "Kommune": "Rudersdal",
   "Kommunekode": 230,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 2891,
       "AntalStemmeberretigedeVælgere": 5619,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 3249,
+      "AntalStemmeberretigedeVælgere": 5619,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
