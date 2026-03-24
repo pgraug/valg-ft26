@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:17:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 20:58:09",
   "GyldigeStemmer": 557,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -47,15 +47,6 @@
       "PartiNavn": "SF - Socialistisk Folkeparti",
       "Partistemmer": null,
       "Stemmer": 34,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
-      "Bogstavbetegnelse": "A",
-      "Kandidater": null,
-      "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
-      "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": null,
-      "Stemmer": 83,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -104,21 +95,30 @@
       "StemmerDifferenceFraForrigeValg": null
     },
     {
-      "Bogstavbetegnelse": "V",
-      "Kandidater": null,
-      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
-      "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": null,
-      "Stemmer": 128,
-      "StemmerDifferenceFraForrigeValg": null
-    },
-    {
       "Bogstavbetegnelse": "Æ",
       "Kandidater": null,
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
       "Partistemmer": null,
       "Stemmer": 103,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": null,
+      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
+      "PartiNavn": "Venstre, Danmarks Liberale Parti",
+      "Partistemmer": null,
+      "Stemmer": 129,
+      "StemmerDifferenceFraForrigeValg": null
+    },
+    {
+      "Bogstavbetegnelse": "A",
+      "Kandidater": null,
+      "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
+      "PartiNavn": "Socialdemokratiet",
+      "Partistemmer": null,
+      "Stemmer": 82,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
