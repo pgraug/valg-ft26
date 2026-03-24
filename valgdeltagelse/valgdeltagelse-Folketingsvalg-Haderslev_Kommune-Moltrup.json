@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Moltrup",
+  "AfstemningsområdeDagiId": "701494",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:02",
+  "Kommune": "Haderslev",
+  "Kommunekode": 510,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 184,
+      "AntalStemmeberretigedeVælgere": 750,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

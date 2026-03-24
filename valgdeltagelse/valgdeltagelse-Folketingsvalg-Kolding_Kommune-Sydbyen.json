@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sydbyen",
+  "AfstemningsområdeDagiId": "701916",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:33",
+  "Kommune": "Kolding",
+  "Kommunekode": 621,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1337,
+      "AntalStemmeberretigedeVælgere": 6339,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

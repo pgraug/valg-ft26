@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Thyregod Nord",
+  "AfstemningsområdeDagiId": "700940",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:50",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 348,
+      "AntalStemmeberretigedeVælgere": 1563,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

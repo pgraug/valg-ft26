@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hanstholm",
+  "AfstemningsområdeDagiId": "748376",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:49",
+  "Kommune": "Thisted",
+  "Kommunekode": 787,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 468,
+      "AntalStemmeberretigedeVælgere": 1861,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

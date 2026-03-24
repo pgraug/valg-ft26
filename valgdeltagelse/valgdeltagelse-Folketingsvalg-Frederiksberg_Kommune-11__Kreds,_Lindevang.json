@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "11. Kreds, Lindevang",
+  "AfstemningsområdeDagiId": "709552",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:47",
+  "Kommune": "Frederiksberg",
+  "Kommunekode": 147,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2170,
+      "AntalStemmeberretigedeVælgere": 10261,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2622,
+      "AntalStemmeberretigedeVælgere": 10261,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 3170,
+      "AntalStemmeberretigedeVælgere": 10261,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

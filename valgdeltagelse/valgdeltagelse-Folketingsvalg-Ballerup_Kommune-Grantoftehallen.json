@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Grantoftehallen",
+  "AfstemningsområdeDagiId": "710158",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:32",
+  "Kommune": "Ballerup",
+  "Kommunekode": 151,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 358,
+      "AntalStemmeberretigedeVælgere": 3421,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 463,
+      "AntalStemmeberretigedeVælgere": 3421,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}
