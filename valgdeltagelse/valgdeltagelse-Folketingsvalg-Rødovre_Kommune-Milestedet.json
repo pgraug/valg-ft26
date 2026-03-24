@@ -2,7 +2,7 @@
   "Afstemningsområde": "Milestedet",
   "AfstemningsområdeDagiId": "724738",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:59:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:00:15",
   "Kommune": "Rødovre",
   "Kommunekode": 175,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 377,
       "AntalStemmeberretigedeVælgere": 1690,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 439,
+      "AntalStemmeberretigedeVælgere": 1690,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
