@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jels",
   "AfstemningsområdeDagiId": "706016",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:04:30",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 362,
       "AntalStemmeberretigedeVælgere": 1939,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 679,
+      "AntalStemmeberretigedeVælgere": 1939,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

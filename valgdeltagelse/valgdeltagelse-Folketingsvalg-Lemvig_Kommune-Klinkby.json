@@ -2,7 +2,7 @@
   "Afstemningsområde": "Klinkby",
   "AfstemningsområdeDagiId": "711178",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:04:15",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 476,
       "AntalStemmeberretigedeVælgere": 1566,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 562,
+      "AntalStemmeberretigedeVælgere": 1566,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

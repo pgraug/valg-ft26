@@ -2,7 +2,7 @@
   "Afstemningsområde": "Øster Lindet",
   "AfstemningsområdeDagiId": "710600",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:15:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:05:00",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 59,
       "AntalStemmeberretigedeVælgere": 527,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 160,
+      "AntalStemmeberretigedeVælgere": 527,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

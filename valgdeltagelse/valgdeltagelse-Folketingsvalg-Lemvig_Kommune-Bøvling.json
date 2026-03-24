@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bøvling",
   "AfstemningsområdeDagiId": "712242",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:04:46",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 257,
       "AntalStemmeberretigedeVælgere": 904,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 306,
+      "AntalStemmeberretigedeVælgere": 904,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sdr. Hygum",
   "AfstemningsområdeDagiId": "704526",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:04:15",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 88,
       "AntalStemmeberretigedeVælgere": 627,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 200,
+      "AntalStemmeberretigedeVælgere": 627,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

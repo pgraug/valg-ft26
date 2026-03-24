@@ -2,7 +2,7 @@
   "Afstemningsområde": "Frihedens Idrætscenter",
   "AfstemningsområdeDagiId": "702070",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:04:15",
   "Kommune": "Hvidovre",
   "Kommunekode": 167,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1273,
       "AntalStemmeberretigedeVælgere": 5197,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1863,
+      "AntalStemmeberretigedeVælgere": 5197,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
