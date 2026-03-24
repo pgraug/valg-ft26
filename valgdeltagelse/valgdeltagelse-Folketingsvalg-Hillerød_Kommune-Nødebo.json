@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nødebo",
   "AfstemningsområdeDagiId": "707266",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:16:32",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 479,
       "AntalStemmeberretigedeVælgere": 1580,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 575,
+      "AntalStemmeberretigedeVælgere": 1580,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
