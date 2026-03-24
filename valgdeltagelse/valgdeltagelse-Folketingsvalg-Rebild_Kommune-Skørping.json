@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skørping",
   "AfstemningsområdeDagiId": "709658",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:16:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:25:46",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1053,
       "AntalStemmeberretigedeVælgere": 3281,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2604,
+      "AntalStemmeberretigedeVælgere": 3281,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
