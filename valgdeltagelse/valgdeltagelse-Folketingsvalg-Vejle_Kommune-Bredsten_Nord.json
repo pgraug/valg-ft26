@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bredsten Nord",
   "AfstemningsområdeDagiId": "702272",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:09:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:21",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 400,
       "AntalStemmeberretigedeVælgere": 1802,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1106,
+      "AntalStemmeberretigedeVælgere": 1802,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

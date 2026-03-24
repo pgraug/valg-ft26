@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørre Aaby",
   "AfstemningsområdeDagiId": "709862",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:08:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:36",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,16 @@
       "AfgivneStemmer": 963,
       "AntalStemmeberretigedeVælgere": 2891,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1241,
+      "AntalStemmeberretigedeVælgere": 2891,
+      "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1849,
+      "AntalStemmeberretigedeVælgere": 2891,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

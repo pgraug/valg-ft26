@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørup Nord",
   "AfstemningsområdeDagiId": "708580",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:10:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:37",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 300,
       "AntalStemmeberretigedeVælgere": 1181,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 777,
+      "AntalStemmeberretigedeVælgere": 1181,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

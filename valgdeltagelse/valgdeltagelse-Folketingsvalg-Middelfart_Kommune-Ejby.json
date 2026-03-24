@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ejby",
   "AfstemningsområdeDagiId": "705422",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:20",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:06",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 990,
       "AntalStemmeberretigedeVælgere": 2270,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1415,
+      "AntalStemmeberretigedeVælgere": 2270,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

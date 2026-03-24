@@ -2,7 +2,7 @@
   "Afstemningsområde": "Juelsminde/Klakring",
   "AfstemningsområdeDagiId": "705470",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:11:27",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:21",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1248,
       "AntalStemmeberretigedeVælgere": 3507,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2419,
+      "AntalStemmeberretigedeVælgere": 3507,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

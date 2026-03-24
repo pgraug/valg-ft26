@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brejning Syd",
   "AfstemningsområdeDagiId": "708612",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:21",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 551,
       "AntalStemmeberretigedeVælgere": 2434,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1466,
+      "AntalStemmeberretigedeVælgere": 2434,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
