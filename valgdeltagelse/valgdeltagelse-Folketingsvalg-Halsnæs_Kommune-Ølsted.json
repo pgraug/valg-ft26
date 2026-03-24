@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ølsted",
   "AfstemningsområdeDagiId": "710776",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:05:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:08:40",
   "Kommune": "Halsnæs",
   "Kommunekode": 260,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,16 @@
       "AfgivneStemmer": 452,
       "AntalStemmeberretigedeVælgere": 2619,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 792,
+      "AntalStemmeberretigedeVælgere": 2619,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1036,
+      "AntalStemmeberretigedeVælgere": 2619,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tømmerup",
   "AfstemningsområdeDagiId": "705658",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:08:41",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 175,
       "AntalStemmeberretigedeVælgere": 1294,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 448,
+      "AntalStemmeberretigedeVælgere": 1294,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kruså",
   "AfstemningsområdeDagiId": "709794",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:08",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:08:55",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 774,
       "AntalStemmeberretigedeVælgere": 2554,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1000,
+      "AntalStemmeberretigedeVælgere": 2554,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

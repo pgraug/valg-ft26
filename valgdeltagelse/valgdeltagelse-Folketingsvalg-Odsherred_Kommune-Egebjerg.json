@@ -2,7 +2,7 @@
   "Afstemningsområde": "Egebjerg",
   "AfstemningsområdeDagiId": "708896",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:25:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:08:25",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 410,
       "AntalStemmeberretigedeVælgere": 1136,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 461,
+      "AntalStemmeberretigedeVælgere": 1136,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

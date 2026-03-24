@@ -2,7 +2,7 @@
   "Afstemningsområde": "Slots Bjergby - Hashøjskolen",
   "AfstemningsområdeDagiId": "748430",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:22:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:08:40",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 369,
       "AntalStemmeberretigedeVælgere": 1366,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 473,
+      "AntalStemmeberretigedeVælgere": 1366,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
