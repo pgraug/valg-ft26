@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skjern",
   "AfstemningsområdeDagiId": "711186",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:06:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:24",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,21 @@
       "AfgivneStemmer": 704,
       "AntalStemmeberretigedeVælgere": 6080,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1112,
+      "AntalStemmeberretigedeVælgere": 6080,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1562,
+      "AntalStemmeberretigedeVælgere": 6080,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1926,
+      "AntalStemmeberretigedeVælgere": 6080,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

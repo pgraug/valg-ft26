@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Båndby - Hallen",
+  "AfstemningsområdeDagiId": "701356",
+  "AfstemningsområdeNummer": 61,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:22",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1148,
+      "AntalStemmeberretigedeVælgere": 3920,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

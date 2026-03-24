@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ulstrup",
+  "AfstemningsområdeDagiId": "707834",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:23",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 781,
+      "AntalStemmeberretigedeVælgere": 2926,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

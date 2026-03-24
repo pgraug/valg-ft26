@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Foldby",
+  "AfstemningsområdeDagiId": "704336",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:07",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 76,
+      "AntalStemmeberretigedeVælgere": 1356,
+      "Tidspunkt": "11:59:00"
+    }
+  ]
+}

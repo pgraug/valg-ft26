@@ -2,7 +2,7 @@
   "Afstemningsområde": "Solbjergskolen",
   "AfstemningsområdeDagiId": "709996",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:23",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 530,
       "AntalStemmeberretigedeVælgere": 4089,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1184,
+      "AntalStemmeberretigedeVælgere": 4089,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ishøj Landsby",
   "AfstemningsområdeDagiId": "708518",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:05:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:22",
   "Kommune": "Ishøj",
   "Kommunekode": 183,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 190,
       "AntalStemmeberretigedeVælgere": 1419,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 409,
+      "AntalStemmeberretigedeVælgere": 1419,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

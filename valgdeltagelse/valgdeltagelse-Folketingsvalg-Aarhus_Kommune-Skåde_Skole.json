@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skåde Skole",
   "AfstemningsområdeDagiId": "700902",
   "AfstemningsområdeNummer": 66,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:52",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1021,
       "AntalStemmeberretigedeVælgere": 4587,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1740,
+      "AntalStemmeberretigedeVælgere": 4587,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sørbymagle - Sørbymagle forsamlingshus",
+  "AfstemningsområdeDagiId": "704408",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:23",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 377,
+      "AntalStemmeberretigedeVælgere": 1449,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
