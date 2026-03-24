@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holeby",
   "AfstemningsområdeDagiId": "700840",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:11:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:55",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 315,
       "AntalStemmeberretigedeVælgere": 1764,
       "Tidspunkt": "10:03:00"
+    },
+    {
+      "AfgivneStemmer": 561,
+      "AntalStemmeberretigedeVælgere": 1764,
+      "Tidspunkt": "12:04:00"
     }
   ]
 }

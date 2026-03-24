@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørre Nissum",
   "AfstemningsområdeDagiId": "711166",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:06:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:24",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 365,
       "AntalStemmeberretigedeVælgere": 1663,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 444,
+      "AntalStemmeberretigedeVælgere": 1663,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

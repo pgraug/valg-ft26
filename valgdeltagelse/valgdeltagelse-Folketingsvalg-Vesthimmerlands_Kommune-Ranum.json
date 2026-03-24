@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ranum",
+  "AfstemningsområdeDagiId": "709958",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:22",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 339,
+      "AntalStemmeberretigedeVælgere": 1205,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

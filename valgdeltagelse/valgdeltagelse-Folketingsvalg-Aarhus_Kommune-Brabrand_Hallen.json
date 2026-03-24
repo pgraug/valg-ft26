@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brabrand Hallen",
   "AfstemningsområdeDagiId": "706938",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:08:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:24",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1198,
       "AntalStemmeberretigedeVælgere": 6265,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2181,
+      "AntalStemmeberretigedeVælgere": 6265,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

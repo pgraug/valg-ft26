@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Haldum-Hinnerup/Vitten",
+  "AfstemningsområdeDagiId": "709596",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:24",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1239,
+      "AntalStemmeberretigedeVælgere": 3850,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
