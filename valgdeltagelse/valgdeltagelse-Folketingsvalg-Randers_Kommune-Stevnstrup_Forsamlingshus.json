@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stevnstrup Forsamlingshus",
   "AfstemningsområdeDagiId": "702764",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:00:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:12:46",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 745,
       "AntalStemmeberretigedeVælgere": 2369,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 846,
+      "AntalStemmeberretigedeVælgere": 2369,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

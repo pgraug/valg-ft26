@@ -2,7 +2,7 @@
   "Afstemningsområde": "Øster Tørslev Fritidslokaler",
   "AfstemningsområdeDagiId": "705768",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:13:16",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 295,
       "AntalStemmeberretigedeVælgere": 1079,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 353,
+      "AntalStemmeberretigedeVælgere": 1079,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
