@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lemming",
   "AfstemningsområdeDagiId": "711254",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:06:31",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 299,
       "AntalStemmeberretigedeVælgere": 1571,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 413,
+      "AntalStemmeberretigedeVælgere": 1571,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bakkegård",
   "AfstemningsområdeDagiId": "702878",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:06:45",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 1890,
       "AntalStemmeberretigedeVælgere": 5191,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2093,
+      "AntalStemmeberretigedeVælgere": 5191,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

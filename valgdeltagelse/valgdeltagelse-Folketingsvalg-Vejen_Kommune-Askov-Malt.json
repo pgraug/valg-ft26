@@ -2,7 +2,7 @@
   "Afstemningsområde": "Askov-Malt",
   "AfstemningsområdeDagiId": "701362",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:15:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:06:31",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,21 @@
       "AfgivneStemmer": 490,
       "AntalStemmeberretigedeVælgere": 2795,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 638,
+      "AntalStemmeberretigedeVælgere": 2795,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 776,
+      "AntalStemmeberretigedeVælgere": 2795,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 891,
+      "AntalStemmeberretigedeVælgere": 2795,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

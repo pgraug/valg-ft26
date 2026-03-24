@@ -2,7 +2,7 @@
   "Afstemningsområde": "Brenderup",
   "AfstemningsområdeDagiId": "700808",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:06:15",
   "Kommune": "Middelfart",
   "Kommunekode": 410,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 333,
       "AntalStemmeberretigedeVælgere": 2036,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 669,
+      "AntalStemmeberretigedeVælgere": 2036,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

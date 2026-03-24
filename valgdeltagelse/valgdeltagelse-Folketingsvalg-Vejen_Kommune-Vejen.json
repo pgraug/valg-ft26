@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vejen",
   "AfstemningsområdeDagiId": "704514",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:15:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:06:45",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1383,
       "AntalStemmeberretigedeVælgere": 6786,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 2496,
+      "AntalStemmeberretigedeVælgere": 6786,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }
