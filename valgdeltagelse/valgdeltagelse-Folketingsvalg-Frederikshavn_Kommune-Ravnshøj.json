@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ravnshøj",
   "AfstemningsområdeDagiId": "748390",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:57",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 320,
       "AntalStemmeberretigedeVælgere": 1289,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 437,
+      "AntalStemmeberretigedeVælgere": 1289,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

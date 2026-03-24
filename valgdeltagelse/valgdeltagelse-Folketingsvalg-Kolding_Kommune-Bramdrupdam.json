@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bramdrupdam",
   "AfstemningsområdeDagiId": "706622",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:10",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 974,
       "AntalStemmeberretigedeVælgere": 3896,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1583,
+      "AntalStemmeberretigedeVælgere": 3896,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sinding",
   "AfstemningsområdeDagiId": "701714",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:26",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 107,
       "AntalStemmeberretigedeVælgere": 625,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 185,
+      "AntalStemmeberretigedeVælgere": 625,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

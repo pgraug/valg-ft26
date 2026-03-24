@@ -2,7 +2,7 @@
   "Afstemningsområde": "Trongård",
   "AfstemningsområdeDagiId": "704030",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:00:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:29",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2001,
       "AntalStemmeberretigedeVælgere": 4998,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2247,
+      "AntalStemmeberretigedeVælgere": 4998,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
