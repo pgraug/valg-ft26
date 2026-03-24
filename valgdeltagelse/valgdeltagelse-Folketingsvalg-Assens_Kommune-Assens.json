@@ -2,7 +2,7 @@
   "Afstemningsområde": "Assens",
   "AfstemningsområdeDagiId": "710764",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:47",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 654,
       "AntalStemmeberretigedeVælgere": 5197,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1428,
+      "AntalStemmeberretigedeVælgere": 5197,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

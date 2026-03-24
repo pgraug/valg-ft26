@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kragelund",
+  "AfstemningsområdeDagiId": "711222",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:01:34",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 266,
+      "AntalStemmeberretigedeVælgere": 1369,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
