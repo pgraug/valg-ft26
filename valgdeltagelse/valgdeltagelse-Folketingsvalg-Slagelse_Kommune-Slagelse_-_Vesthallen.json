@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Slagelse - Vesthallen",
+  "AfstemningsområdeDagiId": "748851",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:18:39",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1309,
+      "AntalStemmeberretigedeVælgere": 4978,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

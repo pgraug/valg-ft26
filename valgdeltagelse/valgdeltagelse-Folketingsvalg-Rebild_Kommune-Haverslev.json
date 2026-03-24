@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Haverslev",
+  "AfstemningsområdeDagiId": "709652",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:18:39",
+  "Kommune": "Rebild",
+  "Kommunekode": 840,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 215,
+      "AntalStemmeberretigedeVælgere": 988,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
