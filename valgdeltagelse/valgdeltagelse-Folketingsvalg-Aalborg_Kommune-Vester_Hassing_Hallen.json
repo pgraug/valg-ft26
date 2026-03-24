@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vester Hassing Hallen",
   "AfstemningsområdeDagiId": "710544",
   "AfstemningsområdeNummer": 43,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:10",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:19",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1282,
       "AntalStemmeberretigedeVælgere": 4370,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3205,
+      "AntalStemmeberretigedeVælgere": 4370,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sevel",
   "AfstemningsområdeDagiId": "706148",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:33",
   "Kommune": "Holstebro",
   "Kommunekode": 661,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 643,
       "AntalStemmeberretigedeVælgere": 1399,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 997,
+      "AntalStemmeberretigedeVælgere": 1399,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gimsing",
   "AfstemningsområdeDagiId": "702100",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:33",
   "Kommune": "Struer",
   "Kommunekode": 671,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 818,
       "AntalStemmeberretigedeVælgere": 1577,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1154,
+      "AntalStemmeberretigedeVælgere": 1577,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

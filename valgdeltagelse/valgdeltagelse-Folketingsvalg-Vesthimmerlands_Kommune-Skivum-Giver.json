@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skivum-Giver",
   "AfstemningsområdeDagiId": "709966",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:46",
   "Kommune": "Vesthimmerlands",
   "Kommunekode": 820,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 135,
       "AntalStemmeberretigedeVælgere": 567,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 395,
+      "AntalStemmeberretigedeVælgere": 567,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

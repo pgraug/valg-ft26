@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stengårdsskolen",
   "AfstemningsområdeDagiId": "701864",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:31",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2133,
       "AntalStemmeberretigedeVælgere": 4189,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3105,
+      "AntalStemmeberretigedeVælgere": 4189,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

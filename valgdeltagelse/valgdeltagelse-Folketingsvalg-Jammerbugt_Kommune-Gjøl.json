@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gjøl",
   "AfstemningsområdeDagiId": "710716",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:29",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:01",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 475,
       "AntalStemmeberretigedeVælgere": 925,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 721,
+      "AntalStemmeberretigedeVælgere": 925,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

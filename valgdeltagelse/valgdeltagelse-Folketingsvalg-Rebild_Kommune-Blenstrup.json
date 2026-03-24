@@ -2,7 +2,7 @@
   "Afstemningsområde": "Blenstrup",
   "AfstemningsområdeDagiId": "712144",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:22:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:04",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 294,
       "AntalStemmeberretigedeVælgere": 1106,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 820,
+      "AntalStemmeberretigedeVælgere": 1106,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

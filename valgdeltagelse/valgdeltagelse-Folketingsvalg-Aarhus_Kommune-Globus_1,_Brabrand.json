@@ -2,7 +2,7 @@
   "Afstemningsområde": "Globus 1, Brabrand",
   "AfstemningsområdeDagiId": "710046",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:08:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:01",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1626,
       "AntalStemmeberretigedeVælgere": 5110,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2806,
+      "AntalStemmeberretigedeVælgere": 5110,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
