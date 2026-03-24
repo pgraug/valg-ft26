@@ -2,7 +2,7 @@
   "Afstemningsområde": "5. Nordvest",
   "AfstemningsområdeDagiId": "704956",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:31:42",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:20:00",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 4349,
       "AntalStemmeberretigedeVælgere": 9781,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 6445,
+      "AntalStemmeberretigedeVælgere": 9781,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
