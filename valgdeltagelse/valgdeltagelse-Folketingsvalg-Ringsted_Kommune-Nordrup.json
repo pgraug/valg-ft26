@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordrup",
   "AfstemningsområdeDagiId": "711810",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:38:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:01:12",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,16 @@
       "AfgivneStemmer": 490,
       "AntalStemmeberretigedeVælgere": 896,
       "Tidspunkt": "16:30:00"
+    },
+    {
+      "AfgivneStemmer": 699,
+      "AntalStemmeberretigedeVælgere": 896,
+      "Tidspunkt": "18:40:00"
+    },
+    {
+      "AfgivneStemmer": 759,
+      "AntalStemmeberretigedeVælgere": 896,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

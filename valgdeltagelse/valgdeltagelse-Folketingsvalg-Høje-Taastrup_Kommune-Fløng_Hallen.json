@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fløng Hallen",
   "AfstemningsområdeDagiId": "709780",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:42",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2884,
       "AntalStemmeberretigedeVælgere": 3885,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3354,
+      "AntalStemmeberretigedeVælgere": 3885,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

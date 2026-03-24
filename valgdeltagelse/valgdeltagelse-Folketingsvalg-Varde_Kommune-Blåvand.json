@@ -2,7 +2,7 @@
   "Afstemningsområde": "Blåvand",
   "AfstemningsområdeDagiId": "708972",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:00:42",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 303,
       "AntalStemmeberretigedeVælgere": 362,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 324,
+      "AntalStemmeberretigedeVælgere": 362,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

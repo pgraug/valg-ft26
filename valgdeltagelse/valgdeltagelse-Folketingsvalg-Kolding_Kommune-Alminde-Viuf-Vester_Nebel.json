@@ -2,7 +2,7 @@
   "Afstemningsområde": "Alminde-Viuf/Vester Nebel",
   "AfstemningsområdeDagiId": "701932",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:01:27",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2766,
       "AntalStemmeberretigedeVælgere": 3749,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3263,
+      "AntalStemmeberretigedeVælgere": 3749,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
