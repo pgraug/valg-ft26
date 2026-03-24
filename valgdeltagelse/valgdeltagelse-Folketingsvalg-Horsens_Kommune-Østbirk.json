@@ -1,0 +1,42 @@
+{
+  "Afstemningsområde": "Østbirk",
+  "AfstemningsområdeDagiId": "701646",
+  "AfstemningsområdeNummer": 16,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:22:58",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 313,
+      "AntalStemmeberretigedeVælgere": 2838,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 503,
+      "AntalStemmeberretigedeVælgere": 2838,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 666,
+      "AntalStemmeberretigedeVælgere": 2838,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 801,
+      "AntalStemmeberretigedeVælgere": 2838,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 910,
+      "AntalStemmeberretigedeVælgere": 2838,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1032,
+      "AntalStemmeberretigedeVælgere": 2838,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}
