@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Borup",
+  "AfstemningsområdeDagiId": "703912",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:32:01",
+  "Kommune": "Køge",
+  "Kommunekode": 259,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1281,
+      "AntalStemmeberretigedeVælgere": 4844,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
