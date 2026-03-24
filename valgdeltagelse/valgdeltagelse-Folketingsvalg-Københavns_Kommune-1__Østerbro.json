@@ -2,7 +2,7 @@
   "Afstemningsområde": "1. Østerbro",
   "AfstemningsområdeDagiId": "707732",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:22:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:44",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 3078,
       "AntalStemmeberretigedeVælgere": 7976,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4809,
+      "AntalStemmeberretigedeVælgere": 7976,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

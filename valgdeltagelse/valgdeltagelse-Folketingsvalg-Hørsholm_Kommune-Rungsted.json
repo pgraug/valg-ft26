@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rungsted",
   "AfstemningsområdeDagiId": "707688",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:19:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:44",
   "Kommune": "Hørsholm",
   "Kommunekode": 223,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1891,
       "AntalStemmeberretigedeVælgere": 3432,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2079,
+      "AntalStemmeberretigedeVælgere": 3432,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

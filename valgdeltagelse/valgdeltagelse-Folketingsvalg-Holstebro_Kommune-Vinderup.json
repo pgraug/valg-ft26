@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vinderup",
   "AfstemningsområdeDagiId": "701564",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:34:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:16",
   "Kommune": "Holstebro",
   "Kommunekode": 661,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 936,
       "AntalStemmeberretigedeVælgere": 4057,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2086,
+      "AntalStemmeberretigedeVælgere": 4057,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

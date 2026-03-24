@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grindsted",
   "AfstemningsområdeDagiId": "707400",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:14:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:46",
   "Kommune": "Billund",
   "Kommunekode": 530,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,21 @@
       "AfgivneStemmer": 2494,
       "AntalStemmeberretigedeVælgere": 7571,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2872,
+      "AntalStemmeberretigedeVælgere": 7571,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3263,
+      "AntalStemmeberretigedeVælgere": 7571,
+      "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 3814,
+      "AntalStemmeberretigedeVælgere": 7571,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

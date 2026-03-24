@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ingstrup",
   "AfstemningsområdeDagiId": "749359",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:29:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:59",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 144,
       "AntalStemmeberretigedeVælgere": 475,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 253,
+      "AntalStemmeberretigedeVælgere": 475,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

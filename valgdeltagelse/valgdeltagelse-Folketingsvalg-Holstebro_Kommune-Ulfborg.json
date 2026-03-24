@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ulfborg",
   "AfstemningsområdeDagiId": "706142",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:36:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:07:14",
   "Kommune": "Holstebro",
   "Kommunekode": 661,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 572,
       "AntalStemmeberretigedeVælgere": 2310,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1204,
+      "AntalStemmeberretigedeVælgere": 2310,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
