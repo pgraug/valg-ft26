@@ -2,7 +2,7 @@
   "Afstemningsområde": "Godsbanen, Aarhus C",
   "AfstemningsområdeDagiId": "748350",
   "AfstemningsområdeNummer": 20,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:21:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:14:20",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2937,
       "AntalStemmeberretigedeVælgere": 7766,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4257,
+      "AntalStemmeberretigedeVælgere": 7766,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
