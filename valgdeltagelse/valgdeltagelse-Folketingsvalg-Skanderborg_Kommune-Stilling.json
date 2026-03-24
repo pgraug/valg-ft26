@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stilling",
   "AfstemningsområdeDagiId": "703796",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:14:22",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1149,
       "AntalStemmeberretigedeVælgere": 3604,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2436,
+      "AntalStemmeberretigedeVælgere": 3604,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
