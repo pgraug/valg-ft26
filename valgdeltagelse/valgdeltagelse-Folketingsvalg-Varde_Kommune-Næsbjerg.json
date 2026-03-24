@@ -2,7 +2,7 @@
   "Afstemningsområde": "Næsbjerg",
   "AfstemningsområdeDagiId": "707562",
   "AfstemningsområdeNummer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:25:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:16:05",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 221,
       "AntalStemmeberretigedeVælgere": 1056,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 406,
+      "AntalStemmeberretigedeVælgere": 1056,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
