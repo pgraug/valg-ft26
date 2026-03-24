@@ -2,7 +2,7 @@
   "Afstemningsområde": "TST Aktiv-Center, Tilst",
   "AfstemningsområdeDagiId": "703948",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:08:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:29:01",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 4375,
       "AntalStemmeberretigedeVælgere": 7340,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5258,
+      "AntalStemmeberretigedeVælgere": 7340,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
