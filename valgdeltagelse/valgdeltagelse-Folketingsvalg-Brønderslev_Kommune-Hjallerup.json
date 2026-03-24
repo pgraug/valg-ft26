@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hjallerup",
+  "AfstemningsområdeDagiId": "700990",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:16:09",
+  "Kommune": "Brønderslev",
+  "Kommunekode": 810,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1094,
+      "AntalStemmeberretigedeVælgere": 3653,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

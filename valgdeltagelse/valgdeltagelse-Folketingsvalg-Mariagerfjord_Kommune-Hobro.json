@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hobro",
+  "AfstemningsområdeDagiId": "702292",
+  "AfstemningsområdeNummer": 27,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:16:09",
+  "Kommune": "Mariagerfjord",
+  "Kommunekode": 846,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2875,
+      "AntalStemmeberretigedeVælgere": 8277,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

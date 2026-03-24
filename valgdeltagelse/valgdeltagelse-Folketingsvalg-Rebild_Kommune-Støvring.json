@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Støvring",
+  "AfstemningsområdeDagiId": "707882",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:16:24",
+  "Kommune": "Rebild",
+  "Kommunekode": 840,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 681,
+      "AntalStemmeberretigedeVælgere": 7639,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 2353,
+      "AntalStemmeberretigedeVælgere": 7639,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
