@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vejlby-Risskov Hallen",
   "AfstemningsområdeDagiId": "711368",
   "AfstemningsområdeNummer": 61,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:16:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:26:16",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 8515,
       "AntalStemmeberretigedeVælgere": 11648,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 9768,
+      "AntalStemmeberretigedeVælgere": 11648,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
