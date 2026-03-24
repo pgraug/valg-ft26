@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rødding",
   "AfstemningsområdeDagiId": "748884",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:15:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:20:45",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 778,
       "AntalStemmeberretigedeVælgere": 1027,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 882,
+      "AntalStemmeberretigedeVælgere": 1027,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

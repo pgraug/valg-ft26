@@ -2,7 +2,7 @@
   "Afstemningsområde": "Munkebjergskolen",
   "AfstemningsområdeDagiId": "711668",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:16:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:20:16",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 4705,
       "AntalStemmeberretigedeVælgere": 7652,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 6400,
+      "AntalStemmeberretigedeVælgere": 7652,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

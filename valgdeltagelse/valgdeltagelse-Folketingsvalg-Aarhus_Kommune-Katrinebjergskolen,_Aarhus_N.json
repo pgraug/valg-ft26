@@ -2,7 +2,7 @@
   "Afstemningsområde": "Katrinebjergskolen, Aarhus N",
   "AfstemningsområdeDagiId": "703918",
   "AfstemningsområdeNummer": 67,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:13:02",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:20:45",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 5096,
       "AntalStemmeberretigedeVælgere": 6670,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5797,
+      "AntalStemmeberretigedeVælgere": 6670,
+      "Tidspunkt": "20:04:00"
     }
   ]
 }
