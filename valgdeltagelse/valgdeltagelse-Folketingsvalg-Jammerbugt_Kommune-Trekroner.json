@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Trekroner",
+  "AfstemningsområdeDagiId": "703196",
+  "AfstemningsområdeNummer": 16,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:35:27",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 194,
+      "AntalStemmeberretigedeVælgere": 811,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
