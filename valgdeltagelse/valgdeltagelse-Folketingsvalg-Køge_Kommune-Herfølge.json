@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Herfølge",
+  "AfstemningsområdeDagiId": "705496",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:31:31",
+  "Kommune": "Køge",
+  "Kommunekode": 259,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1407,
+      "AntalStemmeberretigedeVælgere": 6106,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

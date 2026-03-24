@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Musikteatret",
+  "AfstemningsområdeDagiId": "709372",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:31:16",
+  "Kommune": "Holstebro",
+  "Kommunekode": 661,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 3145,
+      "AntalStemmeberretigedeVælgere": 14079,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
