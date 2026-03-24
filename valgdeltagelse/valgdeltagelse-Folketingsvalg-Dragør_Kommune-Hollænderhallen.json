@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hollænderhallen",
   "AfstemningsområdeDagiId": "701922",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 18:05:34",
   "Kommune": "Dragør",
   "Kommunekode": 155,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,11 @@
       "AfgivneStemmer": 4909,
       "AntalStemmeberretigedeVælgere": 6470,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5431,
+      "AntalStemmeberretigedeVælgere": 6470,
+      "Tidspunkt": "19:00:00"
     }
   ]
 }
