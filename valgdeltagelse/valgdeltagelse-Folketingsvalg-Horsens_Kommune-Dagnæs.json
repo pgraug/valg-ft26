@@ -1,0 +1,42 @@
+{
+  "Afstemningsområde": "Dagnæs",
+  "AfstemningsområdeDagiId": "701652",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:21:12",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 900,
+      "AntalStemmeberretigedeVælgere": 7566,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1398,
+      "AntalStemmeberretigedeVælgere": 7566,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1873,
+      "AntalStemmeberretigedeVælgere": 7566,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2346,
+      "AntalStemmeberretigedeVælgere": 7566,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2697,
+      "AntalStemmeberretigedeVælgere": 7566,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 3016,
+      "AntalStemmeberretigedeVælgere": 7566,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Afstemningsområde": "Forum",
+  "AfstemningsområdeDagiId": "706268",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:20:57",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 437,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 663,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 898,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1089,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1289,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1473,
+      "AntalStemmeberretigedeVælgere": 4029,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}

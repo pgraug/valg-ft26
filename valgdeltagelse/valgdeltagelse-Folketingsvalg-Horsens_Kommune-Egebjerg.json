@@ -1,0 +1,37 @@
+{
+  "Afstemningsområde": "Egebjerg",
+  "AfstemningsområdeDagiId": "706274",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:21:43",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 394,
+      "AntalStemmeberretigedeVælgere": 3277,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 784,
+      "AntalStemmeberretigedeVælgere": 3277,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 957,
+      "AntalStemmeberretigedeVælgere": 3277,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1132,
+      "AntalStemmeberretigedeVælgere": 3277,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1291,
+      "AntalStemmeberretigedeVælgere": 3277,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}

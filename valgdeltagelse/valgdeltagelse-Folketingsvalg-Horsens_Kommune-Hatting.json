@@ -1,0 +1,42 @@
+{
+  "Afstemningsområde": "Hatting",
+  "AfstemningsområdeDagiId": "706280",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:21:28",
+  "Kommune": "Horsens",
+  "Kommunekode": 615,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 336,
+      "AntalStemmeberretigedeVælgere": 2870,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 471,
+      "AntalStemmeberretigedeVælgere": 2870,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 587,
+      "AntalStemmeberretigedeVælgere": 2870,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 737,
+      "AntalStemmeberretigedeVælgere": 2870,
+      "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 848,
+      "AntalStemmeberretigedeVælgere": 2870,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 983,
+      "AntalStemmeberretigedeVælgere": 2870,
+      "Tidspunkt": "14:00:00"
+    }
+  ]
+}
