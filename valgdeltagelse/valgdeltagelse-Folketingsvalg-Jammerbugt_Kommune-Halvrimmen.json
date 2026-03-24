@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Halvrimmen",
+  "AfstemningsområdeDagiId": "706102",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:33:12",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 288,
+      "AntalStemmeberretigedeVælgere": 988,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

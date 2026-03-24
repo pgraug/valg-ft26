@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Brovst",
+  "AfstemningsområdeDagiId": "711858",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:32:42",
+  "Kommune": "Jammerbugt",
+  "Kommunekode": 849,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 604,
+      "AntalStemmeberretigedeVælgere": 2154,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
