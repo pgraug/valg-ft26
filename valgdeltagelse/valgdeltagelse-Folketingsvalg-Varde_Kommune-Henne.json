@@ -2,7 +2,7 @@
   "Afstemningsområde": "Henne",
   "AfstemningsområdeDagiId": "703068",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:00",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 410,
       "AntalStemmeberretigedeVælgere": 516,
       "Tidspunkt": "18:06:00"
+    },
+    {
+      "AfgivneStemmer": 465,
+      "AntalStemmeberretigedeVælgere": 516,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vindinge",
   "AfstemningsområdeDagiId": "704396",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:12",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1895,
       "AntalStemmeberretigedeVælgere": 2273,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2050,
+      "AntalStemmeberretigedeVælgere": 2273,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Broager",
   "AfstemningsområdeDagiId": "706048",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:43",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2500,
       "AntalStemmeberretigedeVælgere": 3305,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2833,
+      "AntalStemmeberretigedeVælgere": 3305,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

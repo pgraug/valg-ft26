@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nykøbing",
   "AfstemningsområdeDagiId": "710282",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:27",
   "Kommune": "Morsø",
   "Kommunekode": 773,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 4813,
       "AntalStemmeberretigedeVælgere": 7617,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 6165,
+      "AntalStemmeberretigedeVælgere": 7617,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

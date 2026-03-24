@@ -2,7 +2,7 @@
   "Afstemningsområde": "Engesvang",
   "AfstemningsområdeDagiId": "713316",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:04:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:29",
   "Kommune": "Ikast-Brande",
   "Kommunekode": 756,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1886,
       "AntalStemmeberretigedeVælgere": 2279,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1996,
+      "AntalStemmeberretigedeVælgere": 2279,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

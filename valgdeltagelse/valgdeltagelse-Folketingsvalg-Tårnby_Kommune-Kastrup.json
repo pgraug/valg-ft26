@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kastrup",
   "AfstemningsområdeDagiId": "708012",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:57",
   "Kommune": "Tårnby",
   "Kommunekode": 185,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 5719,
       "AntalStemmeberretigedeVælgere": 8131,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 6477,
+      "AntalStemmeberretigedeVælgere": 8131,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

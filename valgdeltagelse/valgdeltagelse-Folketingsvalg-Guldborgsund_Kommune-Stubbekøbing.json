@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stubbekøbing",
   "AfstemningsområdeDagiId": "703496",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:43",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2052,
       "AntalStemmeberretigedeVælgere": 2853,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2256,
+      "AntalStemmeberretigedeVælgere": 2853,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

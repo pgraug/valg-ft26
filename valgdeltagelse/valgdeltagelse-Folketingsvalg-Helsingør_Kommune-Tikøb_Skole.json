@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tikøb Skole",
   "AfstemningsområdeDagiId": "708696",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:13",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 979,
       "AntalStemmeberretigedeVælgere": 1339,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1060,
+      "AntalStemmeberretigedeVælgere": 1339,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

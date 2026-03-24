@@ -2,7 +2,7 @@
   "Afstemningsområde": "Parkskolen",
   "AfstemningsområdeDagiId": "701958",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:30",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2164,
       "AntalStemmeberretigedeVælgere": 3135,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2525,
+      "AntalStemmeberretigedeVælgere": 3135,
+      "Tidspunkt": "20:03:00"
     }
   ]
 }

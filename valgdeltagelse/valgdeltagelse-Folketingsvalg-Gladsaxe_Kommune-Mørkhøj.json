@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mørkhøj",
   "AfstemningsområdeDagiId": "700958",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:02:44",
   "Kommune": "Gladsaxe",
   "Kommunekode": 159,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2875,
       "AntalStemmeberretigedeVælgere": 6027,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 4805,
+      "AntalStemmeberretigedeVælgere": 6027,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

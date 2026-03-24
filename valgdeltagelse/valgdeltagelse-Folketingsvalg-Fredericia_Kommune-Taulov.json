@@ -2,7 +2,7 @@
   "Afstemningsområde": "Taulov",
   "AfstemningsområdeDagiId": "705216",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:27",
   "Kommune": "Fredericia",
   "Kommunekode": 607,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 3519,
       "AntalStemmeberretigedeVælgere": 4681,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4056,
+      "AntalStemmeberretigedeVælgere": 4681,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

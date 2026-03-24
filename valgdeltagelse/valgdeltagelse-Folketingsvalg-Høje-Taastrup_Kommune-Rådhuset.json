@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rådhuset",
   "AfstemningsområdeDagiId": "707896",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:00",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2601,
       "AntalStemmeberretigedeVælgere": 4308,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3048,
+      "AntalStemmeberretigedeVælgere": 4308,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

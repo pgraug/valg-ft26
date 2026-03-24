@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vester Sottrup",
   "AfstemningsområdeDagiId": "706060",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:30",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1732,
       "AntalStemmeberretigedeVælgere": 2357,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2032,
+      "AntalStemmeberretigedeVælgere": 2357,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

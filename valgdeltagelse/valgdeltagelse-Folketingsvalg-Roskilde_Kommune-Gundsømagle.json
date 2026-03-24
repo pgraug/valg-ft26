@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gundsømagle",
   "AfstemningsområdeDagiId": "711686",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:03",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1970,
       "AntalStemmeberretigedeVælgere": 2311,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2067,
+      "AntalStemmeberretigedeVælgere": 2311,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

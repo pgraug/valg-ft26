@@ -2,7 +2,7 @@
   "Afstemningsområde": "Egen",
   "AfstemningsområdeDagiId": "701408",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:20:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:15",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1833,
       "AntalStemmeberretigedeVælgere": 2558,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2086,
+      "AntalStemmeberretigedeVælgere": 2558,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fåborg",
   "AfstemningsområdeDagiId": "704654",
   "AfstemningsområdeNummer": 24,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:44",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 308,
       "AntalStemmeberretigedeVælgere": 460,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 383,
+      "AntalStemmeberretigedeVælgere": 460,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

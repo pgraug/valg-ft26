@@ -2,7 +2,7 @@
   "Afstemningsområde": "Terndrup",
   "AfstemningsområdeDagiId": "703572",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:29",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1296,
       "AntalStemmeberretigedeVælgere": 1769,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1488,
+      "AntalStemmeberretigedeVælgere": 1769,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

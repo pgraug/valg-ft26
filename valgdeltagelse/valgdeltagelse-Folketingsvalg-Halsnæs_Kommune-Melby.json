@@ -2,7 +2,7 @@
   "Afstemningsområde": "Melby",
   "AfstemningsområdeDagiId": "704906",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:33",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:03",
   "Kommune": "Halsnæs",
   "Kommunekode": 260,
   "Valgart": "Folketingsvalg",
@@ -57,6 +57,16 @@
       "AfgivneStemmer": 2399,
       "AntalStemmeberretigedeVælgere": 3138,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2589,
+      "AntalStemmeberretigedeVælgere": 3138,
+      "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2695,
+      "AntalStemmeberretigedeVælgere": 3138,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

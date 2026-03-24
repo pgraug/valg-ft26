@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stillinge - Stillingehallen",
   "AfstemningsområdeDagiId": "748852",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:28",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2083,
       "AntalStemmeberretigedeVælgere": 2689,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2347,
+      "AntalStemmeberretigedeVælgere": 2689,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

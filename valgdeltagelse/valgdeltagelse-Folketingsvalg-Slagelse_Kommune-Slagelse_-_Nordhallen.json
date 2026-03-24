@@ -2,7 +2,7 @@
   "Afstemningsområde": "Slagelse - Nordhallen",
   "AfstemningsområdeDagiId": "748850",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:47",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 4550,
       "AntalStemmeberretigedeVælgere": 7039,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5244,
+      "AntalStemmeberretigedeVælgere": 7039,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

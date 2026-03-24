@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kegnæs",
   "AfstemningsområdeDagiId": "707466",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:46",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 246,
       "AntalStemmeberretigedeVælgere": 321,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 285,
+      "AntalStemmeberretigedeVælgere": 321,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bagsværd",
   "AfstemningsområdeDagiId": "708600",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:47",
   "Kommune": "Gladsaxe",
   "Kommunekode": 159,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2748,
       "AntalStemmeberretigedeVælgere": 4715,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 4083,
+      "AntalStemmeberretigedeVælgere": 4715,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

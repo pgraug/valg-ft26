@@ -2,7 +2,7 @@
   "Afstemningsområde": "Frørup Og Tårup",
   "AfstemningsområdeDagiId": "705380",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:01:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:44",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 893,
       "AntalStemmeberretigedeVælgere": 1042,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 939,
+      "AntalStemmeberretigedeVælgere": 1042,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

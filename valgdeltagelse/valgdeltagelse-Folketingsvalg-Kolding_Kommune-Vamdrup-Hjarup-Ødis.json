@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vamdrup/Hjarup/Ødis",
   "AfstemningsområdeDagiId": "712326",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:43",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3888,
       "AntalStemmeberretigedeVælgere": 5467,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4536,
+      "AntalStemmeberretigedeVælgere": 5467,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Våbensted",
   "AfstemningsområdeDagiId": "709670",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:03:15",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 589,
       "AntalStemmeberretigedeVælgere": 856,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 688,
+      "AntalStemmeberretigedeVælgere": 856,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

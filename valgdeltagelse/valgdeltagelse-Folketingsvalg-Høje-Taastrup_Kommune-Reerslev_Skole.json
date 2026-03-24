@@ -2,7 +2,7 @@
   "Afstemningsområde": "Reerslev Skole",
   "AfstemningsområdeDagiId": "711110",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:13:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:00",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 519,
       "AntalStemmeberretigedeVælgere": 713,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 635,
+      "AntalStemmeberretigedeVælgere": 713,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

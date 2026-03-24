@@ -2,7 +2,7 @@
   "Afstemningsområde": "Elling",
   "AfstemningsområdeDagiId": "709634",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:27",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 885,
       "AntalStemmeberretigedeVælgere": 1175,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1000,
+      "AntalStemmeberretigedeVælgere": 1175,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

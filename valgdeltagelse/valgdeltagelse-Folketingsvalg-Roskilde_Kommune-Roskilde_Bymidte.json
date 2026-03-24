@@ -2,7 +2,7 @@
   "Afstemningsområde": "Roskilde Bymidte",
   "AfstemningsområdeDagiId": "707284",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:00:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:42",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 3722,
       "AntalStemmeberretigedeVælgere": 4505,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3866,
+      "AntalStemmeberretigedeVælgere": 4505,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
