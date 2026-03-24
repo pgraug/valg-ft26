@@ -2,7 +2,7 @@
   "Afstemningsområde": "Asnæs",
   "AfstemningsområdeDagiId": "701320",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:48:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:23:18",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1128,
       "AntalStemmeberretigedeVælgere": 3207,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1266,
+      "AntalStemmeberretigedeVælgere": 3207,
+      "Tidspunkt": "13:00:00"
     }
   ]
 }

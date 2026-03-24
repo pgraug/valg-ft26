@@ -1,0 +1,32 @@
+{
+  "Afstemningsområde": "Værløse",
+  "AfstemningsområdeDagiId": "700970",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 12:23:03",
+  "Kommune": "Furesø",
+  "Kommunekode": 190,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 907,
+      "AntalStemmeberretigedeVælgere": 7015,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 1443,
+      "AntalStemmeberretigedeVælgere": 7015,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1788,
+      "AntalStemmeberretigedeVælgere": 7015,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 2666,
+      "AntalStemmeberretigedeVælgere": 7015,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
