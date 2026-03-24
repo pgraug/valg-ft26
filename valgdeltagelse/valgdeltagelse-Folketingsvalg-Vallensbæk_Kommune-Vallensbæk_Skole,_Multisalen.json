@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vallensbæk Skole, Multisalen",
   "AfstemningsområdeDagiId": "707962",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:58",
   "Kommune": "Vallensbæk",
   "Kommunekode": 187,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2644,
       "AntalStemmeberretigedeVælgere": 3774,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2855,
+      "AntalStemmeberretigedeVælgere": 3774,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

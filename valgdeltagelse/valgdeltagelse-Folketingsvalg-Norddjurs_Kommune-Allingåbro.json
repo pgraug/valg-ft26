@@ -2,7 +2,7 @@
   "Afstemningsområde": "Allingåbro",
   "AfstemningsområdeDagiId": "710680",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:32",
   "Kommune": "Norddjurs",
   "Kommunekode": 707,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1314,
       "AntalStemmeberretigedeVælgere": 1840,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1527,
+      "AntalStemmeberretigedeVælgere": 1840,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

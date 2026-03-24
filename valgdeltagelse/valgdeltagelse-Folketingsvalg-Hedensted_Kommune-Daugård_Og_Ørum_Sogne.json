@@ -2,7 +2,7 @@
   "Afstemningsområde": "Daugård Og Ørum Sogne",
   "AfstemningsområdeDagiId": "705478",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:05:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:16",
   "Kommune": "Hedensted",
   "Kommunekode": 766,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 750,
       "AntalStemmeberretigedeVælgere": 1174,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1031,
+      "AntalStemmeberretigedeVælgere": 1174,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

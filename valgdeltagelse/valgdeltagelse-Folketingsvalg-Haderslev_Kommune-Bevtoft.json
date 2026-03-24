@@ -2,7 +2,7 @@
   "Afstemningsområde": "Bevtoft",
   "AfstemningsområdeDagiId": "703080",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:30",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 642,
       "AntalStemmeberretigedeVælgere": 889,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 752,
+      "AntalStemmeberretigedeVælgere": 889,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

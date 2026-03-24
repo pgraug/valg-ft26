@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordby",
   "AfstemningsområdeDagiId": "702962",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:59",
   "Kommune": "Fanø",
   "Kommunekode": 563,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1889,
       "AntalStemmeberretigedeVælgere": 2334,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2076,
+      "AntalStemmeberretigedeVælgere": 2334,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

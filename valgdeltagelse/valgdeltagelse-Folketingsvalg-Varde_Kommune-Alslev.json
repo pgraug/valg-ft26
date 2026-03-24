@@ -2,7 +2,7 @@
   "Afstemningsområde": "Alslev",
   "AfstemningsområdeDagiId": "704642",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:12:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:12",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 877,
       "AntalStemmeberretigedeVælgere": 1168,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1056,
+      "AntalStemmeberretigedeVælgere": 1168,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

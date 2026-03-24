@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kobberbakkeskolen - Sydby",
   "AfstemningsområdeDagiId": "711142",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:16",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2409,
       "AntalStemmeberretigedeVælgere": 3580,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2721,
+      "AntalStemmeberretigedeVælgere": 3580,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

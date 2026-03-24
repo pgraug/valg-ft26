@@ -2,7 +2,7 @@
   "Afstemningsområde": "Svaneke",
   "AfstemningsområdeDagiId": "703086",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:03:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:45",
   "Kommune": "Bornholm",
   "Kommunekode": 400,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1086,
       "AntalStemmeberretigedeVælgere": 1498,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1328,
+      "AntalStemmeberretigedeVælgere": 1498,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

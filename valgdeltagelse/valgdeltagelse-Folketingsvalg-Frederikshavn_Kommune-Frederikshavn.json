@@ -2,7 +2,7 @@
   "Afstemningsområde": "Frederikshavn",
   "AfstemningsområdeDagiId": "711060",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:45",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 11977,
       "AntalStemmeberretigedeVælgere": 17409,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 13531,
+      "AntalStemmeberretigedeVælgere": 17409,
+      "Tidspunkt": "20:03:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mosedeskolen",
   "AfstemningsområdeDagiId": "718898",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:25:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:42",
   "Kommune": "Greve",
   "Kommunekode": 253,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2966,
       "AntalStemmeberretigedeVælgere": 4405,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3957,
+      "AntalStemmeberretigedeVælgere": 4405,
+      "Tidspunkt": "20:02:00"
     }
   ]
 }

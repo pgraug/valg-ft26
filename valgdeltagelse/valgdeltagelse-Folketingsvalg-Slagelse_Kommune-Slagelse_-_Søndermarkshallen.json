@@ -2,7 +2,7 @@
   "Afstemningsområde": "Slagelse - Søndermarkshallen",
   "AfstemningsområdeDagiId": "704418",
   "AfstemningsområdeNummer": 17,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:12",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3445,
       "AntalStemmeberretigedeVælgere": 5364,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4028,
+      "AntalStemmeberretigedeVælgere": 5364,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ejer Bavnehøj",
   "AfstemningsområdeDagiId": "700784",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:16",
   "Kommune": "Skanderborg",
   "Kommunekode": 746,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1100,
       "AntalStemmeberretigedeVælgere": 1690,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1491,
+      "AntalStemmeberretigedeVælgere": 1690,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rønne",
   "AfstemningsområdeDagiId": "711102",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:02:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:13",
   "Kommune": "Bornholm",
   "Kommunekode": 400,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 7187,
       "AntalStemmeberretigedeVælgere": 11153,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 8848,
+      "AntalStemmeberretigedeVælgere": 11153,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

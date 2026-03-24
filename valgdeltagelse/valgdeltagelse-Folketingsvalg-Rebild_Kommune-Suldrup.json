@@ -2,7 +2,7 @@
   "Afstemningsområde": "Suldrup",
   "AfstemningsområdeDagiId": "712170",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:16",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1449,
       "AntalStemmeberretigedeVælgere": 1974,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1720,
+      "AntalStemmeberretigedeVælgere": 1974,
+      "Tidspunkt": "20:04:00"
     }
   ]
 }

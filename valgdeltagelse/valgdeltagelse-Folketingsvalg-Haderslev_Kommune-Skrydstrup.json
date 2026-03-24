@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skrydstrup",
   "AfstemningsområdeDagiId": "704730",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:16",
   "Kommune": "Haderslev",
   "Kommunekode": 510,
   "Valgart": "Folketingsvalg",
@@ -14,14 +14,19 @@
       "Tidspunkt": "11:00:00"
     },
     {
-      "AfgivneStemmer": 226,
+      "AfgivneStemmer": 256,
       "AntalStemmeberretigedeVælgere": 685,
       "Tidspunkt": "15:00:00"
     },
     {
-      "AfgivneStemmer": 425,
+      "AfgivneStemmer": 449,
       "AntalStemmeberretigedeVælgere": 685,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 553,
+      "AntalStemmeberretigedeVælgere": 685,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

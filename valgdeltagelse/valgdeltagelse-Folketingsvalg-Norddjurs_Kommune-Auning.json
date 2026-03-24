@@ -2,7 +2,7 @@
   "Afstemningsområde": "Auning",
   "AfstemningsområdeDagiId": "709084",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:03:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:28",
   "Kommune": "Norddjurs",
   "Kommunekode": 707,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2525,
       "AntalStemmeberretigedeVælgere": 3401,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2882,
+      "AntalStemmeberretigedeVælgere": 3401,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

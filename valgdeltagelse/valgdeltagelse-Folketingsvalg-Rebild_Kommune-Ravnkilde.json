@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ravnkilde",
   "AfstemningsområdeDagiId": "706392",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:04:57",
   "Kommune": "Rebild",
   "Kommunekode": 840,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 466,
       "AntalStemmeberretigedeVælgere": 649,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 539,
+      "AntalStemmeberretigedeVælgere": 649,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

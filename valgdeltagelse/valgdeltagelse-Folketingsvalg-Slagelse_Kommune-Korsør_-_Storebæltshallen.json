@@ -2,7 +2,7 @@
   "Afstemningsområde": "Korsør - Storebæltshallen",
   "AfstemningsområdeDagiId": "711630",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:00",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 4233,
       "AntalStemmeberretigedeVælgere": 5835,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4691,
+      "AntalStemmeberretigedeVælgere": 5835,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Råby Forsamlingshus",
   "AfstemningsområdeDagiId": "704222",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:43:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:58",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -62,6 +62,11 @@
       "AfgivneStemmer": 634,
       "AntalStemmeberretigedeVælgere": 833,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 666,
+      "AntalStemmeberretigedeVælgere": 833,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

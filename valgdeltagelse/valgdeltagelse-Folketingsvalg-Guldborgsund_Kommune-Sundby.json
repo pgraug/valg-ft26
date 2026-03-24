@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sundby",
   "AfstemningsområdeDagiId": "701828",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:15",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 2137,
       "AntalStemmeberretigedeVælgere": 2834,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2423,
+      "AntalStemmeberretigedeVælgere": 2834,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

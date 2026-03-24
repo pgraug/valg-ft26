@@ -2,7 +2,7 @@
   "Afstemningsområde": "Havnbjerg",
   "AfstemningsområdeDagiId": "710634",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:05",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:06:15",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1314,
       "AntalStemmeberretigedeVælgere": 1864,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1474,
+      "AntalStemmeberretigedeVælgere": 1864,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

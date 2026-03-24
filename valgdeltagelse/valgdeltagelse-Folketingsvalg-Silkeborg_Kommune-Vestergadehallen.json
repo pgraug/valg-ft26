@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vestergadehallen",
   "AfstemningsområdeDagiId": "711242",
   "AfstemningsområdeNummer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:29",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:05:46",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 6047,
       "AntalStemmeberretigedeVælgere": 11526,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 9665,
+      "AntalStemmeberretigedeVælgere": 11526,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
