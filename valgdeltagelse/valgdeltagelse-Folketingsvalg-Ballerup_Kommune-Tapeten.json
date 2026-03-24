@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tapeten",
   "AfstemningsområdeDagiId": "701002",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:00",
   "Kommune": "Ballerup",
   "Kommunekode": 151,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 2887,
       "AntalStemmeberretigedeVælgere": 3981,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 3033,
+      "AntalStemmeberretigedeVælgere": 3981,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Greve Idrætscenter",
   "AfstemningsområdeDagiId": "718916",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:25:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:15:00",
   "Kommune": "Greve",
   "Kommunekode": 253,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 4905,
       "AntalStemmeberretigedeVælgere": 7572,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 6522,
+      "AntalStemmeberretigedeVælgere": 7572,
+      "Tidspunkt": "20:01:00"
     }
   ]
 }

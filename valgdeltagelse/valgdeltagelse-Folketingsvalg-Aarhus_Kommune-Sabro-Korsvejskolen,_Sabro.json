@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sabro-Korsvejskolen, Sabro",
   "AfstemningsområdeDagiId": "710034",
   "AfstemningsområdeNummer": 33,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:14:15",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2050,
       "AntalStemmeberretigedeVælgere": 2903,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 2388,
+      "AntalStemmeberretigedeVælgere": 2903,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kjellerup",
   "AfstemningsområdeDagiId": "711260",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:00:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:14:43",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2264,
       "AntalStemmeberretigedeVælgere": 4415,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3685,
+      "AntalStemmeberretigedeVælgere": 4415,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
