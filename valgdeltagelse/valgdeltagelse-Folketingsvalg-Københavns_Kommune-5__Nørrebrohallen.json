@@ -2,7 +2,7 @@
   "Afstemningsområde": "5. Nørrebrohallen",
   "AfstemningsområdeDagiId": "725352",
   "AfstemningsområdeNummer": 58,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:31:42",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:20:15",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 3075,
       "AntalStemmeberretigedeVælgere": 9357,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 5178,
+      "AntalStemmeberretigedeVælgere": 9357,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
