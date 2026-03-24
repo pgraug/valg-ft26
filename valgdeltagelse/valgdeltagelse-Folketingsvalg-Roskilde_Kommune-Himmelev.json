@@ -2,7 +2,7 @@
   "Afstemningsområde": "Himmelev",
   "AfstemningsområdeDagiId": "702794",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:21",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 3465,
       "AntalStemmeberretigedeVælgere": 5986,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 4348,
+      "AntalStemmeberretigedeVælgere": 5986,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

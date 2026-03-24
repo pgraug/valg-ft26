@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hesselager",
   "AfstemningsområdeDagiId": "712298",
   "AfstemningsområdeNummer": 25,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:06",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:00:51",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 499,
       "AntalStemmeberretigedeVælgere": 1090,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 690,
+      "AntalStemmeberretigedeVælgere": 1090,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

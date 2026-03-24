@@ -2,7 +2,7 @@
   "Afstemningsområde": "Turup",
   "AfstemningsområdeDagiId": "711914",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:00:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:20",
   "Kommune": "Assens",
   "Kommunekode": 420,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 221,
       "AntalStemmeberretigedeVælgere": 589,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 395,
+      "AntalStemmeberretigedeVælgere": 589,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

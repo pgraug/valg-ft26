@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skt. Jørgens Hallen",
   "AfstemningsområdeDagiId": "746369",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:07:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:01:21",
   "Kommune": "Odense",
   "Kommunekode": 461,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2301,
       "AntalStemmeberretigedeVælgere": 9823,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 5910,
+      "AntalStemmeberretigedeVælgere": 9823,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
