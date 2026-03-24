@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hammel Syd",
   "AfstemningsområdeDagiId": "706342",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:04:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:11:17",
   "Kommune": "Favrskov",
   "Kommunekode": 710,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 380,
       "AntalStemmeberretigedeVælgere": 1462,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 734,
+      "AntalStemmeberretigedeVælgere": 1462,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

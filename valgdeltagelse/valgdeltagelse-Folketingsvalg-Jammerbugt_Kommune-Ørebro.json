@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ørebro",
   "AfstemningsområdeDagiId": "749358",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:34:57",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:11:45",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 165,
       "AntalStemmeberretigedeVælgere": 706,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 277,
+      "AntalStemmeberretigedeVælgere": 706,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

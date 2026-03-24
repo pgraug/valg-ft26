@@ -2,7 +2,7 @@
   "Afstemningsområde": "2. Øst",
   "AfstemningsområdeDagiId": "725346",
   "AfstemningsområdeNummer": 57,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:25:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:12:17",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2634,
       "AntalStemmeberretigedeVælgere": 7486,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4193,
+      "AntalStemmeberretigedeVælgere": 7486,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
