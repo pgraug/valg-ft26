@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hældagerhallen Nord",
   "AfstemningsområdeDagiId": "706968",
   "AfstemningsområdeNummer": 32,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:12:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:31:25",
   "Kommune": "Vejle",
   "Kommunekode": 630,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1715,
       "AntalStemmeberretigedeVælgere": 6558,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 4100,
+      "AntalStemmeberretigedeVælgere": 6558,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
