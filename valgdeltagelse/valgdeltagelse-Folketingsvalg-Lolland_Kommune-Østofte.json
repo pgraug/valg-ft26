@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østofte",
   "AfstemningsområdeDagiId": "708456",
   "AfstemningsområdeNummer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:32",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1174,
       "AntalStemmeberretigedeVælgere": 2223,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1548,
+      "AntalStemmeberretigedeVælgere": 2223,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

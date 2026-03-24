@@ -2,7 +2,7 @@
   "Afstemningsområde": "Jetsmark",
   "AfstemningsområdeDagiId": "704764",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:13:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:02",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2396,
       "AntalStemmeberretigedeVælgere": 4482,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2832,
+      "AntalStemmeberretigedeVælgere": 4482,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

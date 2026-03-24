@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lem",
   "AfstemningsområdeDagiId": "711192",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:32",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 617,
       "AntalStemmeberretigedeVælgere": 1411,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1028,
+      "AntalStemmeberretigedeVælgere": 1411,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

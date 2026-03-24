@@ -2,7 +2,7 @@
   "Afstemningsområde": "Holme-Olstrup",
   "AfstemningsområdeDagiId": "709726",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:01",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 533,
       "AntalStemmeberretigedeVælgere": 1125,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 848,
+      "AntalStemmeberretigedeVælgere": 1125,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

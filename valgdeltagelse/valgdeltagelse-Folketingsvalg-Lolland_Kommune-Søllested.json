@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søllested",
   "AfstemningsområdeDagiId": "706822",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:01:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:19",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 895,
       "AntalStemmeberretigedeVælgere": 1703,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1164,
+      "AntalStemmeberretigedeVælgere": 1703,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

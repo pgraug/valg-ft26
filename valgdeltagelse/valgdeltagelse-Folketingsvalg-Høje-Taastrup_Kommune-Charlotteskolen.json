@@ -2,7 +2,7 @@
   "Afstemningsområde": "Charlotteskolen",
   "AfstemningsområdeDagiId": "701970",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:13",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:32",
   "Kommune": "Høje-Taastrup",
   "Kommunekode": 169,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1134,
       "AntalStemmeberretigedeVælgere": 2652,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 1626,
+      "AntalStemmeberretigedeVælgere": 2652,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

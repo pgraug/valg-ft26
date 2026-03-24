@@ -2,7 +2,7 @@
   "Afstemningsområde": "Strandhuse/Nr. Bjert/ Eltang",
   "AfstemningsområdeDagiId": "705338",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:02:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:21",
   "Kommune": "Kolding",
   "Kommunekode": 621,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2973,
       "AntalStemmeberretigedeVælgere": 6891,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 5168,
+      "AntalStemmeberretigedeVælgere": 6891,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

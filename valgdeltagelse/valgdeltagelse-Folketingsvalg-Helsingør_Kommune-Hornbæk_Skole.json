@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hornbæk Skole",
   "AfstemningsområdeDagiId": "708702",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:12:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:06",
   "Kommune": "Helsingør",
   "Kommunekode": 217,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 2388,
       "AntalStemmeberretigedeVælgere": 4174,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3186,
+      "AntalStemmeberretigedeVælgere": 4174,
+      "Tidspunkt": "18:01:00"
     }
   ]
 }

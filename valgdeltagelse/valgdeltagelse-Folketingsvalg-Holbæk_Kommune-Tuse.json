@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tuse",
   "AfstemningsområdeDagiId": "705958",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:11:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:33",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1590,
       "AntalStemmeberretigedeVælgere": 3575,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2667,
+      "AntalStemmeberretigedeVælgere": 3575,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

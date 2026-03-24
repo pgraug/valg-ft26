@@ -2,7 +2,7 @@
   "Afstemningsområde": "Toreby",
   "AfstemningsområdeDagiId": "701778",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:44",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:17",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 681,
       "AntalStemmeberretigedeVælgere": 1405,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 985,
+      "AntalStemmeberretigedeVælgere": 1405,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

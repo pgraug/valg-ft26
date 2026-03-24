@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hemmet",
   "AfstemningsområdeDagiId": "748671",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:01:49",
   "Kommune": "Ringkøbing-Skjern",
   "Kommunekode": 760,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,21 @@
       "AfgivneStemmer": 652,
       "AntalStemmeberretigedeVælgere": 1532,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 762,
+      "AntalStemmeberretigedeVælgere": 1532,
+      "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 934,
+      "AntalStemmeberretigedeVælgere": 1532,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 1096,
+      "AntalStemmeberretigedeVælgere": 1532,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Næstved Firma Sport",
   "AfstemningsområdeDagiId": "706454",
   "AfstemningsområdeNummer": 22,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:35",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:34",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 3050,
       "AntalStemmeberretigedeVælgere": 7270,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 4814,
+      "AntalStemmeberretigedeVælgere": 7270,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
