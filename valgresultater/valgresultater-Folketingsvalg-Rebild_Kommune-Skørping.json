@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 3015,
+  "AfgivneStemmer": 3014,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Skørping",
   "AfstemningsområdeDagiId": 709658,
@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:50:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 21:17:10",
   "GyldigeStemmer": 2992,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -144,12 +144,6 @@
       "Paragraf": "30"
     },
     {
-      "Antal": 1,
-      "Id": 27,
-      "Navn": "AndreGrunde",
-      "Paragraf": "26"
-    },
-    {
       "Antal": 0,
       "Id": 32,
       "Navn": "UdfyldtPåBagsidenEllerAndet",
@@ -202,6 +196,12 @@
       "Id": 26,
       "Navn": "ModstridBogstavPartiNavn",
       "Paragraf": "24,25"
+    },
+    {
+      "Antal": 0,
+      "Id": 27,
+      "Navn": "AndreGrunde",
+      "Paragraf": "26"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
@@ -291,7 +291,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 7,
+  "UgyldigeStemmerUdoverBlanke": 6,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
