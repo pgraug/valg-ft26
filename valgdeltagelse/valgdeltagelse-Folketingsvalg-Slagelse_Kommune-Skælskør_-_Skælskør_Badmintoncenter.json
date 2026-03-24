@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skælskør - Skælskør Badmintoncenter",
   "AfstemningsområdeDagiId": "720074",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:05:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:02:43",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 4622,
       "AntalStemmeberretigedeVælgere": 6386,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 5185,
+      "AntalStemmeberretigedeVælgere": 6386,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

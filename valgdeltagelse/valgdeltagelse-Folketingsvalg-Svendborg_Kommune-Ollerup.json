@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ollerup",
   "AfstemningsområdeDagiId": "706616",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:03:48",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:02:30",
   "Kommune": "Svendborg",
   "Kommunekode": 479,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 1464,
       "AntalStemmeberretigedeVælgere": 1754,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 1520,
+      "AntalStemmeberretigedeVælgere": 1754,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

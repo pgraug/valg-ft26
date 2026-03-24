@@ -2,7 +2,7 @@
   "Afstemningsområde": "Starup",
   "AfstemningsområdeDagiId": "704648",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:32",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:02:00",
   "Kommune": "Varde",
   "Kommunekode": 573,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 531,
       "AntalStemmeberretigedeVælgere": 753,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 611,
+      "AntalStemmeberretigedeVælgere": 753,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

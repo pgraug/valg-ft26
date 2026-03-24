@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sejerø",
   "AfstemningsområdeDagiId": "708648",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:02:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:02:28",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 204,
       "AntalStemmeberretigedeVælgere": 258,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 213,
+      "AntalStemmeberretigedeVælgere": 258,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

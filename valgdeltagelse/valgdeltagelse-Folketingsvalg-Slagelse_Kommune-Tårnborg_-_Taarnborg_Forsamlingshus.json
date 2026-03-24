@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tårnborg - Taarnborg Forsamlingshus",
   "AfstemningsområdeDagiId": "748854",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:04:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:01:59",
   "Kommune": "Slagelse",
   "Kommunekode": 330,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1452,
       "AntalStemmeberretigedeVælgere": 1949,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 1628,
+      "AntalStemmeberretigedeVælgere": 1949,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

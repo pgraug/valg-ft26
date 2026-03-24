@@ -2,7 +2,7 @@
   "Afstemningsområde": "Løjtegården",
   "AfstemningsområdeDagiId": "701992",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:00:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:01:58",
   "Kommune": "Tårnby",
   "Kommunekode": 185,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2667,
       "AntalStemmeberretigedeVælgere": 3743,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3209,
+      "AntalStemmeberretigedeVælgere": 3743,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

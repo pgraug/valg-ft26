@@ -2,7 +2,7 @@
   "Afstemningsområde": "Østervang",
   "AfstemningsområdeDagiId": "704378",
   "AfstemningsområdeNummer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:08:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:02:28",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 4939,
       "AntalStemmeberretigedeVælgere": 6452,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 5235,
+      "AntalStemmeberretigedeVælgere": 6452,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

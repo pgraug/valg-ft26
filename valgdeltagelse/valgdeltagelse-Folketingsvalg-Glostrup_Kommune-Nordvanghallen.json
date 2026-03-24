@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nordvanghallen",
   "AfstemningsområdeDagiId": "702064",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:02:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:01:59",
   "Kommune": "Glostrup",
   "Kommunekode": 161,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 1908,
       "AntalStemmeberretigedeVælgere": 2347,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 2058,
+      "AntalStemmeberretigedeVælgere": 2347,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
