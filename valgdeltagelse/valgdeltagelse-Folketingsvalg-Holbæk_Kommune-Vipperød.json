@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vipperød",
   "AfstemningsområdeDagiId": "705924",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:35:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 14:11:19",
   "Kommune": "Holbæk",
   "Kommunekode": 316,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 785,
       "AntalStemmeberretigedeVælgere": 3569,
       "Tidspunkt": "10:30:00"
+    },
+    {
+      "AfgivneStemmer": 1612,
+      "AntalStemmeberretigedeVælgere": 3569,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
