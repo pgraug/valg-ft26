@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovshoved",
   "AfstemningsområdeDagiId": "704424",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:15:07",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 3063,
       "AntalStemmeberretigedeVælgere": 5156,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3495,
+      "AntalStemmeberretigedeVælgere": 5156,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }

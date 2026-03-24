@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skallerup",
   "AfstemningsområdeDagiId": "701236",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:07:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 16:15:10",
   "Kommune": "Hjørring",
   "Kommunekode": 860,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 682,
       "AntalStemmeberretigedeVælgere": 1253,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 934,
+      "AntalStemmeberretigedeVælgere": 1253,
+      "Tidspunkt": "17:00:00"
     }
   ]
 }
