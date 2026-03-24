@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Oksbøl",
+  "AfstemningsområdeDagiId": "707498",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:20:16",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 668,
+      "AntalStemmeberretigedeVælgere": 2817,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
