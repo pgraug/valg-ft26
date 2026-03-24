@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovvang",
   "AfstemningsområdeDagiId": "703802",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:27:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:25:01",
   "Kommune": "Allerød",
   "Kommunekode": 201,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,16 @@
       "AfgivneStemmer": 2040,
       "AntalStemmeberretigedeVælgere": 3647,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2408,
+      "AntalStemmeberretigedeVælgere": 3647,
+      "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2785,
+      "AntalStemmeberretigedeVælgere": 3647,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
