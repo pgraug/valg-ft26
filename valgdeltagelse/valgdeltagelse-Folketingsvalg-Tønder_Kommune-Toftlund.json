@@ -2,7 +2,7 @@
   "Afstemningsområde": "Toftlund",
   "AfstemningsområdeDagiId": "701800",
   "AfstemningsområdeNummer": 23,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:57:51",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 338,
       "AntalStemmeberretigedeVælgere": 2959,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 811,
+      "AntalStemmeberretigedeVælgere": 2959,
+      "Tidspunkt": "11:30:00"
     }
   ]
 }
