@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lihme",
   "AfstemningsområdeDagiId": "748885",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:55",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:32",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 189,
       "AntalStemmeberretigedeVælgere": 492,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 287,
+      "AntalStemmeberretigedeVælgere": 492,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

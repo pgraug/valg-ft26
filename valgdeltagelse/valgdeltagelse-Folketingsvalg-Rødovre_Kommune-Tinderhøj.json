@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tinderhøj",
   "AfstemningsområdeDagiId": "705072",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:59:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:47",
   "Kommune": "Rødovre",
   "Kommunekode": 175,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 1747,
       "AntalStemmeberretigedeVælgere": 4031,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2072,
+      "AntalStemmeberretigedeVælgere": 4031,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

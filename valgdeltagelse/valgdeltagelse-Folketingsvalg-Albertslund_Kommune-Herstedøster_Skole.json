@@ -2,7 +2,7 @@
   "Afstemningsområde": "Herstedøster Skole",
   "AfstemningsområdeDagiId": "704718",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:42",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:32",
   "Kommune": "Albertslund",
   "Kommunekode": 165,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1540,
       "AntalStemmeberretigedeVælgere": 4393,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 2107,
+      "AntalStemmeberretigedeVælgere": 4393,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

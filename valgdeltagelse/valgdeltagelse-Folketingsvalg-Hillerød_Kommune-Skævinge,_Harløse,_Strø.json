@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skævinge, Harløse, Strø",
   "AfstemningsområdeDagiId": "749322",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:11:17",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -47,6 +47,11 @@
       "AfgivneStemmer": 1345,
       "AntalStemmeberretigedeVælgere": 3207,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1606,
+      "AntalStemmeberretigedeVælgere": 3207,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

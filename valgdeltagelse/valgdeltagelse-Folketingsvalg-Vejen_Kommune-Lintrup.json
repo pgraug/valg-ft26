@@ -2,7 +2,7 @@
   "Afstemningsområde": "Lintrup",
   "AfstemningsområdeDagiId": "710606",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:10:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:45",
   "Kommune": "Vejen",
   "Kommunekode": 575,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 104,
       "AntalStemmeberretigedeVælgere": 476,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 200,
+      "AntalStemmeberretigedeVælgere": 476,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

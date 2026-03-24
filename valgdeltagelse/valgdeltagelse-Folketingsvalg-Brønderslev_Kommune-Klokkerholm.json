@@ -2,7 +2,7 @@
   "Afstemningsområde": "Klokkerholm",
   "AfstemningsområdeDagiId": "704006",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:17:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:45",
   "Kommune": "Brønderslev",
   "Kommunekode": 810,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 345,
       "AntalStemmeberretigedeVælgere": 1402,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 681,
+      "AntalStemmeberretigedeVælgere": 1402,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
