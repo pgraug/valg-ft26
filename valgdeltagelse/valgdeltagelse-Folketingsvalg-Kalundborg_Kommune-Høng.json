@@ -2,7 +2,7 @@
   "Afstemningsområde": "Høng",
   "AfstemningsområdeDagiId": "702316",
   "AfstemningsområdeNummer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:18:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:15:46",
   "Kommune": "Kalundborg",
   "Kommunekode": 326,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 676,
       "AntalStemmeberretigedeVælgere": 3903,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1528,
+      "AntalStemmeberretigedeVælgere": 3903,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
