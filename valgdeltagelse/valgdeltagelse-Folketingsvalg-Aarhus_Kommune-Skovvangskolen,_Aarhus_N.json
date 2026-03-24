@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovvangskolen, Aarhus N",
   "AfstemningsområdeDagiId": "708530",
   "AfstemningsområdeNummer": 42,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:11:17",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:27:46",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 8771,
       "AntalStemmeberretigedeVælgere": 11124,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 9925,
+      "AntalStemmeberretigedeVælgere": 11124,
+      "Tidspunkt": "20:13:00"
     }
   ]
 }

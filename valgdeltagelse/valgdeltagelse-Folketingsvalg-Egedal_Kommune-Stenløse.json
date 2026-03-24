@@ -2,7 +2,7 @@
   "Afstemningsområde": "Stenløse",
   "AfstemningsområdeDagiId": "709714",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:27:31",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 3489,
       "AntalStemmeberretigedeVælgere": 4738,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 4107,
+      "AntalStemmeberretigedeVælgere": 4738,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

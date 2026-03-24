@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ledøje Forsamlingshus",
   "AfstemningsområdeDagiId": "703642",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:07:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:27:16",
   "Kommune": "Egedal",
   "Kommunekode": 240,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 623,
       "AntalStemmeberretigedeVælgere": 885,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 786,
+      "AntalStemmeberretigedeVælgere": 885,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
