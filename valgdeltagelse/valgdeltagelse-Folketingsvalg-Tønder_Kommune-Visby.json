@@ -2,7 +2,7 @@
   "Afstemningsområde": "Visby",
   "AfstemningsområdeDagiId": "711072",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:34:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:21:45",
   "Kommune": "Tønder",
   "Kommunekode": 550,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 124,
       "AntalStemmeberretigedeVælgere": 358,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 261,
+      "AntalStemmeberretigedeVælgere": 358,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
