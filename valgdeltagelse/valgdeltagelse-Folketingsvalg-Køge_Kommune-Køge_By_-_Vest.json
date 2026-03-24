@@ -2,7 +2,7 @@
   "Afstemningsområde": "Køge By - Vest",
   "AfstemningsområdeDagiId": "709930",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:31:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:36:01",
   "Kommune": "Køge",
   "Kommunekode": 259,
   "Valgart": "Folketingsvalg",
@@ -10,8 +10,13 @@
   "Valgdeltagelse": [
     {
       "AfgivneStemmer": 1030,
-      "AntalStemmeberretigedeVælgere": 4278,
+      "AntalStemmeberretigedeVælgere": 4283,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 2306,
+      "AntalStemmeberretigedeVælgere": 4283,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
