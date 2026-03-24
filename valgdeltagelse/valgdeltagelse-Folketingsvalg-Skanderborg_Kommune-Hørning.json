@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hørning",
+  "AfstemningsområdeDagiId": "709844",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:22:25",
+  "Kommune": "Skanderborg",
+  "Kommunekode": 746,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2103,
+      "AntalStemmeberretigedeVælgere": 6526,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}
