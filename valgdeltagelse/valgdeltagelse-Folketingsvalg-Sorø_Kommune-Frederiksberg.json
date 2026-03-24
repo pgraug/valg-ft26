@@ -2,7 +2,7 @@
   "Afstemningsområde": "Frederiksberg",
   "AfstemningsområdeDagiId": "711410",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:47:03",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:13",
   "Kommune": "Sorø",
   "Kommunekode": 340,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2395,
       "AntalStemmeberretigedeVælgere": 4087,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3658,
+      "AntalStemmeberretigedeVælgere": 4087,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

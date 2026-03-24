@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hornslet",
   "AfstemningsområdeDagiId": "701618",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:09:19",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:31",
   "Kommune": "Syddjurs",
   "Kommunekode": 706,
   "Valgart": "Folketingsvalg",
@@ -67,6 +67,11 @@
       "AfgivneStemmer": 4904,
       "AntalStemmeberretigedeVælgere": 6077,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 5266,
+      "AntalStemmeberretigedeVælgere": 6077,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

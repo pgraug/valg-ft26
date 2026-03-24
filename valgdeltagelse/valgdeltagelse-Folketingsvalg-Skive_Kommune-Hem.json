@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hem",
   "AfstemningsområdeDagiId": "748871",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:24:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:17",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 477,
       "AntalStemmeberretigedeVælgere": 661,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 569,
+      "AntalStemmeberretigedeVælgere": 661,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Pedersborg",
   "AfstemningsområdeDagiId": "700914",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:47:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:16",
   "Kommune": "Sorø",
   "Kommunekode": 340,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1725,
       "AntalStemmeberretigedeVælgere": 3292,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2751,
+      "AntalStemmeberretigedeVælgere": 3292,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

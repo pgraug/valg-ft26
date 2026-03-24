@@ -2,7 +2,7 @@
   "Afstemningsområde": "Næshøjhallen, Harlev",
   "AfstemningsområdeDagiId": "711422",
   "AfstemningsområdeNummer": 30,
-  "FrigivelsesTidspunktUTC": "24-03-2026 17:09:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:29",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2627,
       "AntalStemmeberretigedeVælgere": 3536,
       "Tidspunkt": "18:00:00"
+    },
+    {
+      "AfgivneStemmer": 3090,
+      "AntalStemmeberretigedeVælgere": 3536,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }

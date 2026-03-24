@@ -2,7 +2,7 @@
   "Afstemningsområde": "11. Kreds, Rådhuset",
   "AfstemningsområdeDagiId": "701726",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 18:06:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 19:13:43",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 8031,
       "AntalStemmeberretigedeVælgere": 9693,
       "Tidspunkt": "19:00:00"
+    },
+    {
+      "AfgivneStemmer": 8353,
+      "AntalStemmeberretigedeVælgere": 9693,
+      "Tidspunkt": "20:00:00"
     }
   ]
 }
