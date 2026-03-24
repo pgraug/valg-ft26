@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rørvig",
   "AfstemningsområdeDagiId": "701300",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:25:52",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:16",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 753,
       "AntalStemmeberretigedeVælgere": 1255,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 849,
+      "AntalStemmeberretigedeVælgere": 1255,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

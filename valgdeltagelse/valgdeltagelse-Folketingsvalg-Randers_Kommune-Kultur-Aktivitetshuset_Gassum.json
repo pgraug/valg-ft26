@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kultur-Aktivitetshuset Gassum",
   "AfstemningsområdeDagiId": "705778",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:04:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:02",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 217,
       "AntalStemmeberretigedeVælgere": 631,
       "Tidspunkt": "15:02:00"
+    },
+    {
+      "AfgivneStemmer": 284,
+      "AntalStemmeberretigedeVælgere": 631,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

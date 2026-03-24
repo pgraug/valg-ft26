@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nykøbing",
   "AfstemningsområdeDagiId": "710514",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:25:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:01",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 2618,
       "AntalStemmeberretigedeVælgere": 4984,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 2951,
+      "AntalStemmeberretigedeVælgere": 4984,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

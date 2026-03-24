@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tangsø",
   "AfstemningsområdeDagiId": "711198",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:05:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:01",
   "Kommune": "Lemvig",
   "Kommunekode": 665,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 378,
       "AntalStemmeberretigedeVælgere": 984,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 451,
+      "AntalStemmeberretigedeVælgere": 984,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

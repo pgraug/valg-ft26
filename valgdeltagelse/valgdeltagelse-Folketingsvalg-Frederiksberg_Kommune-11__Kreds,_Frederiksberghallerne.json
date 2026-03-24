@@ -2,7 +2,7 @@
   "Afstemningsområde": "11. Kreds, Frederiksberghallerne",
   "AfstemningsområdeDagiId": "703490",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:16",
   "Kommune": "Frederiksberg",
   "Kommunekode": 147,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 4889,
       "AntalStemmeberretigedeVælgere": 9174,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 5403,
+      "AntalStemmeberretigedeVælgere": 9174,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
