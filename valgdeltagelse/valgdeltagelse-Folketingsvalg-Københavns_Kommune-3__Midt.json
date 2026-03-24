@@ -2,7 +2,7 @@
   "Afstemningsområde": "3. Midt",
   "AfstemningsområdeDagiId": "749402",
   "AfstemningsområdeNummer": 63,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:14:45",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:16:45",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1994,
       "AntalStemmeberretigedeVælgere": 3589,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 2691,
+      "AntalStemmeberretigedeVælgere": 3589,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
