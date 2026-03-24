@@ -2,7 +2,7 @@
   "Afstemningsområde": "Langhøj",
   "AfstemningsområdeDagiId": "708418",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:15:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:08:15",
   "Kommune": "Struer",
   "Kommunekode": 671,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 317,
       "AntalStemmeberretigedeVælgere": 1516,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 742,
+      "AntalStemmeberretigedeVælgere": 1516,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

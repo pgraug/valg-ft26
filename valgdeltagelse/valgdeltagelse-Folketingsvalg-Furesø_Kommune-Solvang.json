@@ -2,7 +2,7 @@
   "Afstemningsområde": "Solvang",
   "AfstemningsområdeDagiId": "705614",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:09:10",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:07:59",
   "Kommune": "Furesø",
   "Kommunekode": 190,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,11 @@
       "AfgivneStemmer": 3068,
       "AntalStemmeberretigedeVælgere": 6337,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3827,
+      "AntalStemmeberretigedeVælgere": 6337,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skagen",
   "AfstemningsområdeDagiId": "705148",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:01:24",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:08:14",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 2481,
       "AntalStemmeberretigedeVælgere": 5409,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 3215,
+      "AntalStemmeberretigedeVælgere": 5409,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
