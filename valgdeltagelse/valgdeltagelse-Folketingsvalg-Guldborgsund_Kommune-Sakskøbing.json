@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sakskøbing",
   "AfstemningsområdeDagiId": "707852",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:09",
   "Kommune": "Guldborgsund",
   "Kommunekode": 376,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1327,
       "AntalStemmeberretigedeVælgere": 4442,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1758,
+      "AntalStemmeberretigedeVælgere": 4442,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

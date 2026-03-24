@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gullestrup",
   "AfstemningsområdeDagiId": "701676",
   "AfstemningsområdeNummer": 15,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:34",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:42",
   "Kommune": "Herning",
   "Kommunekode": 657,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 280,
       "AntalStemmeberretigedeVælgere": 1371,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 458,
+      "AntalStemmeberretigedeVælgere": 1371,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sydstevnshallen",
   "AfstemningsområdeDagiId": "705452",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:05:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:24",
   "Kommune": "Stevns",
   "Kommunekode": 336,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 809,
       "AntalStemmeberretigedeVælgere": 2944,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1308,
+      "AntalStemmeberretigedeVælgere": 2944,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

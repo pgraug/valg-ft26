@@ -2,7 +2,7 @@
   "Afstemningsområde": "Dybvad",
   "AfstemningsområdeDagiId": "709628",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:40",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:04:24",
   "Kommune": "Frederikshavn",
   "Kommunekode": 813,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 198,
       "AntalStemmeberretigedeVælgere": 754,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 260,
+      "AntalStemmeberretigedeVælgere": 754,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }

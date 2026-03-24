@@ -2,7 +2,7 @@
   "Afstemningsområde": "Rådhuset",
   "AfstemningsområdeDagiId": "702884",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:06:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:54",
   "Kommune": "Gentofte",
   "Kommunekode": 157,
   "Valgart": "Folketingsvalg",
@@ -37,6 +37,11 @@
       "AfgivneStemmer": 2576,
       "AntalStemmeberretigedeVælgere": 5768,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 2789,
+      "AntalStemmeberretigedeVælgere": 5768,
+      "Tidspunkt": "14:00:00"
     }
   ]
 }
