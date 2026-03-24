@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sneslev",
   "AfstemningsområdeDagiId": "707472",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:23",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 66,
       "AntalStemmeberretigedeVælgere": 527,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 137,
+      "AntalStemmeberretigedeVælgere": 527,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

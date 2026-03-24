@@ -2,7 +2,7 @@
   "Afstemningsområde": "Askø",
   "AfstemningsområdeDagiId": "709912",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:13:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:37",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 6,
       "AntalStemmeberretigedeVælgere": 42,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 17,
+      "AntalStemmeberretigedeVælgere": 42,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

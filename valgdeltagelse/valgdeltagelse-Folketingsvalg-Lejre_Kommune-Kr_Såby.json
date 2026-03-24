@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kr.Såby",
   "AfstemningsområdeDagiId": "712008",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:02:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:37",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 244,
       "AntalStemmeberretigedeVælgere": 2135,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 600,
+      "AntalStemmeberretigedeVælgere": 2135,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vesterkærets Skole",
+  "AfstemningsområdeDagiId": "705992",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:38",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1101,
+      "AntalStemmeberretigedeVælgere": 3854,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vigersted",
   "AfstemningsområdeDagiId": "704612",
   "AfstemningsområdeNummer": 13,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:02:31",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:39",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 146,
       "AntalStemmeberretigedeVælgere": 991,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 300,
+      "AntalStemmeberretigedeVælgere": 991,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

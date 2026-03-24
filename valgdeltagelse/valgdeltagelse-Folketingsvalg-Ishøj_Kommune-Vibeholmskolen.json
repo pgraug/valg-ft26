@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vibeholmskolen",
   "AfstemningsområdeDagiId": "709938",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:05:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:07",
   "Kommune": "Ishøj",
   "Kommunekode": 183,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 328,
       "AntalStemmeberretigedeVælgere": 2653,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 698,
+      "AntalStemmeberretigedeVælgere": 2653,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

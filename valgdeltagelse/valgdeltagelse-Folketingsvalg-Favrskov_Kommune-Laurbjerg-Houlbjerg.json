@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Laurbjerg/Houlbjerg",
+  "AfstemningsområdeDagiId": "711048",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:38",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 288,
+      "AntalStemmeberretigedeVælgere": 1421,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ørslev",
   "AfstemningsområdeDagiId": "703056",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:02:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:08",
   "Kommune": "Ringsted",
   "Kommunekode": 329,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 50,
       "AntalStemmeberretigedeVælgere": 614,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 126,
+      "AntalStemmeberretigedeVælgere": 614,
+      "Tidspunkt": "12:05:00"
     }
   ]
 }
