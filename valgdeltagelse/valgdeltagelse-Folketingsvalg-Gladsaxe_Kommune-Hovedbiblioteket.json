@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hovedbiblioteket",
   "AfstemningsområdeDagiId": "711428",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:08:38",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:59",
   "Kommune": "Gladsaxe",
   "Kommunekode": 159,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1951,
       "AntalStemmeberretigedeVælgere": 6185,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3220,
+      "AntalStemmeberretigedeVælgere": 6185,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

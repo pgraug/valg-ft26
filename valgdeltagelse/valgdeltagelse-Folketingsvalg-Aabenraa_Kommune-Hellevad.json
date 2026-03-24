@@ -2,7 +2,7 @@
   "Afstemningsområde": "Hellevad",
   "AfstemningsområdeDagiId": "703772",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:03:10",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:14",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 177,
       "AntalStemmeberretigedeVælgere": 627,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 270,
+      "AntalStemmeberretigedeVælgere": 627,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

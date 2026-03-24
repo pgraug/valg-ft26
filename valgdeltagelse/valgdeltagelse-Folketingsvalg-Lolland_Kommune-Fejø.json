@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fejø",
   "AfstemningsområdeDagiId": "709900",
   "AfstemningsområdeNummer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:06:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:16",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 185,
       "AntalStemmeberretigedeVælgere": 341,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 230,
+      "AntalStemmeberretigedeVælgere": 341,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

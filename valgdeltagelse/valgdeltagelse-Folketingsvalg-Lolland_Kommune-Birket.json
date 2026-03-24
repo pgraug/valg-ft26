@@ -2,7 +2,7 @@
   "Afstemningsområde": "Birket",
   "AfstemningsområdeDagiId": "706808",
   "AfstemningsområdeNummer": 26,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:10:25",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:06:02",
   "Kommune": "Lolland",
   "Kommunekode": 360,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 158,
       "AntalStemmeberretigedeVælgere": 341,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 195,
+      "AntalStemmeberretigedeVælgere": 341,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

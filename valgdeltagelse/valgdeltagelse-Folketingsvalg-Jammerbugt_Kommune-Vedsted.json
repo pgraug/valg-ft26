@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vedsted",
   "AfstemningsområdeDagiId": "711896",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:27:56",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:45",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 257,
       "AntalStemmeberretigedeVælgere": 882,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 456,
+      "AntalStemmeberretigedeVælgere": 882,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

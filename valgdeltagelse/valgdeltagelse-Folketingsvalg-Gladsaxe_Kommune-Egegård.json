@@ -2,7 +2,7 @@
   "Afstemningsområde": "Egegård",
   "AfstemningsområdeDagiId": "702286",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:17:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:31",
   "Kommune": "Gladsaxe",
   "Kommunekode": 159,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1664,
       "AntalStemmeberretigedeVælgere": 5428,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 2682,
+      "AntalStemmeberretigedeVælgere": 5428,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

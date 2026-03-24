@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fredensborg",
   "AfstemningsområdeDagiId": "709824",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:12:49",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:29",
   "Kommune": "Fredensborg",
   "Kommunekode": 210,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 1717,
       "AntalStemmeberretigedeVælgere": 3415,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1915,
+      "AntalStemmeberretigedeVælgere": 3415,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
