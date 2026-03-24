@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Rådhuset",
+  "AfstemningsområdeDagiId": "705888",
+  "AfstemningsområdeNummer": 23,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:13:31",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2653,
+      "AntalStemmeberretigedeVælgere": 10471,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

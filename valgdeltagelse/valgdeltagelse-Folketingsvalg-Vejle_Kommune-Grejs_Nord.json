@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Grejs Nord",
+  "AfstemningsområdeDagiId": "710054",
+  "AfstemningsområdeNummer": 26,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:13:31",
+  "Kommune": "Vejle",
+  "Kommunekode": 630,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 293,
+      "AntalStemmeberretigedeVælgere": 1413,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Afstemningsområde": "Skovly",
+  "AfstemningsområdeDagiId": "702728",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:13:15",
+  "Kommune": "Rudersdal",
+  "Kommunekode": 230,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 365,
+      "AntalStemmeberretigedeVælgere": 2527,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 543,
+      "AntalStemmeberretigedeVælgere": 2527,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 653,
+      "AntalStemmeberretigedeVælgere": 2527,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 790,
+      "AntalStemmeberretigedeVælgere": 2527,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
