@@ -2,7 +2,7 @@
   "Afstemningsområde": "4. Syd",
   "AfstemningsområdeDagiId": "706154",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:17:15",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:17:30",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 4316,
       "AntalStemmeberretigedeVælgere": 7984,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 5839,
+      "AntalStemmeberretigedeVælgere": 7984,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
