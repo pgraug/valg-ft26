@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bredstrup-Pjedsted",
+  "AfstemningsområdeDagiId": "709738",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:55",
+  "Kommune": "Fredericia",
+  "Kommunekode": 607,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 292,
+      "AntalStemmeberretigedeVælgere": 1106,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

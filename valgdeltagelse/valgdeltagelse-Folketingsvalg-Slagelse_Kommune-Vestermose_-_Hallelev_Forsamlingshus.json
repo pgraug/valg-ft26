@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vestermose - Hallelev Forsamlingshus",
+  "AfstemningsområdeDagiId": "710288",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:10",
+  "Kommune": "Slagelse",
+  "Kommunekode": 330,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 202,
+      "AntalStemmeberretigedeVælgere": 1020,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

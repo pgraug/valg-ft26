@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gymnasiet 1",
+  "AfstemningsområdeDagiId": "707936",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:38",
+  "Kommune": "Fredericia",
+  "Kommunekode": 607,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1437,
+      "AntalStemmeberretigedeVælgere": 5208,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

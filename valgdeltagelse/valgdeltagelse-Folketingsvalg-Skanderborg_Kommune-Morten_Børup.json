@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Morten Børup",
+  "AfstemningsområdeDagiId": "700778",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:40",
+  "Kommune": "Skanderborg",
+  "Kommunekode": 746,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2706,
+      "AntalStemmeberretigedeVælgere": 8004,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

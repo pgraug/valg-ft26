@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ensted",
   "AfstemningsområdeDagiId": "703784",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:11:21",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:25",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 272,
       "AntalStemmeberretigedeVælgere": 1707,
       "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 405,
+      "AntalStemmeberretigedeVælgere": 1707,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

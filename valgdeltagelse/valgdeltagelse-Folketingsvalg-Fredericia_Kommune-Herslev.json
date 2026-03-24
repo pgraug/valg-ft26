@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Herslev",
+  "AfstemningsområdeDagiId": "709732",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:08",
+  "Kommune": "Fredericia",
+  "Kommunekode": 607,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 108,
+      "AntalStemmeberretigedeVælgere": 550,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

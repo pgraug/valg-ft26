@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Asaa",
+  "AfstemningsområdeDagiId": "708636",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:53",
+  "Kommune": "Brønderslev",
+  "Kommunekode": 810,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 415,
+      "AntalStemmeberretigedeVælgere": 1322,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

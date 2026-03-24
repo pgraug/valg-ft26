@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Niels Ebbesen",
+  "AfstemningsområdeDagiId": "711236",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:56",
+  "Kommune": "Skanderborg",
+  "Kommunekode": 746,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1685,
+      "AntalStemmeberretigedeVælgere": 5052,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

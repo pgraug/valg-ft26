@@ -2,7 +2,7 @@
   "Afstemningsområde": "Varnæs",
   "AfstemningsområdeDagiId": "708352",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:12:56",
   "Kommune": "Aabenraa",
   "Kommunekode": 580,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 125,
       "AntalStemmeberretigedeVælgere": 845,
       "Tidspunkt": "10:01:00"
+    },
+    {
+      "AfgivneStemmer": 199,
+      "AntalStemmeberretigedeVælgere": 845,
+      "Tidspunkt": "12:02:00"
     }
   ]
 }
