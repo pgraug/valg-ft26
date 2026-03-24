@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sindal",
+  "AfstemningsområdeDagiId": "707320",
+  "AfstemningsområdeNummer": 22,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:16:31",
+  "Kommune": "Hjørring",
+  "Kommunekode": 860,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 257,
+      "AntalStemmeberretigedeVælgere": 2766,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

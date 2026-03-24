@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Rækker Mølle",
+  "AfstemningsområdeDagiId": "703702",
+  "AfstemningsområdeNummer": 27,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:05:47",
+  "Kommune": "Ringkøbing-Skjern",
+  "Kommunekode": 760,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 74,
+      "AntalStemmeberretigedeVælgere": 1620,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 156,
+      "AntalStemmeberretigedeVælgere": 1620,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

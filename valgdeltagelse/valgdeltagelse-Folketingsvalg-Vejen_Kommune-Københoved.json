@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Københoved",
+  "AfstemningsområdeDagiId": "701380",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:14:52",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 44,
+      "AntalStemmeberretigedeVælgere": 344,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

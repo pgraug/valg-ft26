@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Læborg",
+  "AfstemningsområdeDagiId": "703014",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:15:37",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 77,
+      "AntalStemmeberretigedeVælgere": 500,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

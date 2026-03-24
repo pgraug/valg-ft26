@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Studsgård",
+  "AfstemningsområdeDagiId": "704992",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:17:31",
+  "Kommune": "Herning",
+  "Kommunekode": 657,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 41,
+      "AntalStemmeberretigedeVælgere": 530,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

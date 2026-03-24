@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Østerhøjhallen - Måløvhøj Skole - Østerhøj",
+  "AfstemningsområdeDagiId": "710164",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:26:39",
+  "Kommune": "Ballerup",
+  "Kommunekode": 151,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 295,
+      "AntalStemmeberretigedeVælgere": 2098,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 377,
+      "AntalStemmeberretigedeVælgere": 2098,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

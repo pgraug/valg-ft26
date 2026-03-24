@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Jerup",
+  "AfstemningsområdeDagiId": "705156",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:05:51",
+  "Kommune": "Frederikshavn",
+  "Kommunekode": 813,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 64,
+      "AntalStemmeberretigedeVælgere": 662,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 101,
+      "AntalStemmeberretigedeVælgere": 662,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

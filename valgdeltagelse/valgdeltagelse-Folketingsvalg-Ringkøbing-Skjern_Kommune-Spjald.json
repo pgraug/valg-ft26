@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Spjald",
+  "AfstemningsområdeDagiId": "703684",
+  "AfstemningsområdeNummer": 35,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:07:16",
+  "Kommune": "Ringkøbing-Skjern",
+  "Kommunekode": 760,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 291,
+      "AntalStemmeberretigedeVælgere": 2631,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

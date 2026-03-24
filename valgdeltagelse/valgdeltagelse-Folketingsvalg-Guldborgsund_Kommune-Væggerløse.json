@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Væggerløse",
+  "AfstemningsområdeDagiId": "701764",
+  "AfstemningsområdeNummer": 19,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:41:42",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 617,
+      "AntalStemmeberretigedeVælgere": 2738,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

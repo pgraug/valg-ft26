@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Brørup",
+  "AfstemningsområdeDagiId": "703026",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:05:07",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 209,
+      "AntalStemmeberretigedeVælgere": 3952,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 473,
+      "AntalStemmeberretigedeVælgere": 3952,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 706,
+      "AntalStemmeberretigedeVælgere": 3952,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

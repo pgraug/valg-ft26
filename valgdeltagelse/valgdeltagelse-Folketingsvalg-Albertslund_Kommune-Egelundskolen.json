@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Egelundskolen",
+  "AfstemningsområdeDagiId": "709136",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:21:08",
+  "Kommune": "Albertslund",
+  "Kommunekode": 165,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 549,
+      "AntalStemmeberretigedeVælgere": 3347,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

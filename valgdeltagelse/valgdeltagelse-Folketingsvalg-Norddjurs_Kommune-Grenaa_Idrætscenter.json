@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Grenaa Idrætscenter",
+  "AfstemningsområdeDagiId": "707484",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:14:22",
+  "Kommune": "Norddjurs",
+  "Kommunekode": 707,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 871,
+      "AntalStemmeberretigedeVælgere": 5061,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Skolen ved Gurrevej",
+  "AfstemningsområdeDagiId": "710298",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:21",
+  "Kommune": "Helsingør",
+  "Kommunekode": 217,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1470,
+      "AntalStemmeberretigedeVælgere": 7142,
+      "Tidspunkt": "10:02:00"
+    }
+  ]
+}

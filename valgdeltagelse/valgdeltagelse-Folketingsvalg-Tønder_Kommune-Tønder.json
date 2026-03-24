@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tønder",
+  "AfstemningsområdeDagiId": "705136",
+  "AfstemningsområdeNummer": 25,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:36",
+  "Kommune": "Tønder",
+  "Kommunekode": 550,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 670,
+      "AntalStemmeberretigedeVælgere": 5795,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

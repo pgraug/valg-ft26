@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ørslev",
+  "AfstemningsområdeDagiId": "709584",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:40",
+  "Kommune": "Vordingborg",
+  "Kommunekode": 390,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 267,
+      "AntalStemmeberretigedeVælgere": 1686,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

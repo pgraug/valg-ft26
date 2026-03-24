@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Padborg",
+  "AfstemningsområdeDagiId": "709832",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:14:22",
+  "Kommune": "Aabenraa",
+  "Kommunekode": 580,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 537,
+      "AntalStemmeberretigedeVælgere": 3096,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

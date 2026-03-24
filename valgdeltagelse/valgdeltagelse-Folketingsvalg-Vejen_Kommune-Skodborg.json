@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Skodborg",
+  "AfstemningsområdeDagiId": "704538",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:06",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 44,
+      "AntalStemmeberretigedeVælgere": 1192,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 111,
+      "AntalStemmeberretigedeVælgere": 1192,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 188,
+      "AntalStemmeberretigedeVælgere": 1192,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

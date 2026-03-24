@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nysted",
+  "AfstemningsområdeDagiId": "712080",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:40:42",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 460,
+      "AntalStemmeberretigedeVælgere": 2243,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

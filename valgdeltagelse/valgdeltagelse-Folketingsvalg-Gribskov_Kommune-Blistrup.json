@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Blistrup",
+  "AfstemningsområdeDagiId": "708756",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:26:09",
+  "Kommune": "Gribskov",
+  "Kommunekode": 270,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 517,
+      "AntalStemmeberretigedeVælgere": 3403,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

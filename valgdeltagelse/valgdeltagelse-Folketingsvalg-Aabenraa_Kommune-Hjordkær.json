@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hjordkær",
+  "AfstemningsområdeDagiId": "705392",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:51",
+  "Kommune": "Aabenraa",
+  "Kommunekode": 580,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 189,
+      "AntalStemmeberretigedeVælgere": 1361,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

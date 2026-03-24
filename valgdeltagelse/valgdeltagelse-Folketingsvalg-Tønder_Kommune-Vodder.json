@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vodder",
+  "AfstemningsområdeDagiId": "705162",
+  "AfstemningsområdeNummer": 71,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:36",
+  "Kommune": "Tønder",
+  "Kommunekode": 550,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 32,
+      "AntalStemmeberretigedeVælgere": 383,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

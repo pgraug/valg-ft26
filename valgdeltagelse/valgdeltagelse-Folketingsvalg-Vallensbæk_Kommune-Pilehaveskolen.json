@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Pilehaveskolen",
+  "AfstemningsområdeDagiId": "701896",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:06:16",
+  "Kommune": "Vallensbæk",
+  "Kommunekode": 187,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 603,
+      "AntalStemmeberretigedeVælgere": 3881,
+      "Tidspunkt": "09:04:00"
+    }
+  ]
+}

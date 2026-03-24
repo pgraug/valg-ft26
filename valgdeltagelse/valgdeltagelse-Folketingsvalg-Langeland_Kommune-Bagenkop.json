@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bagenkop",
+  "AfstemningsområdeDagiId": "707504",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 07:59:45",
+  "Kommune": "Langeland",
+  "Kommunekode": 482,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 30,
+      "AntalStemmeberretigedeVælgere": 711,
+      "Tidspunkt": "08:00:00"
+    }
+  ]
+}

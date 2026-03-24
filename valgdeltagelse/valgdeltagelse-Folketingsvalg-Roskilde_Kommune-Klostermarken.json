@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Klostermarken",
+  "AfstemningsområdeDagiId": "708806",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:01:45",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 894,
+      "AntalStemmeberretigedeVælgere": 4493,
+      "Tidspunkt": "09:01:00"
+    }
+  ]
+}

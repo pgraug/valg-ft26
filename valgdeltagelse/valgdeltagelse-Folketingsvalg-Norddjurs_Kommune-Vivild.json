@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vivild",
+  "AfstemningsområdeDagiId": "701476",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:05:07",
+  "Kommune": "Norddjurs",
+  "Kommunekode": 707,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 265,
+      "AntalStemmeberretigedeVælgere": 1409,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

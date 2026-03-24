@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ørnhøj",
+  "AfstemningsområdeDagiId": "705030",
+  "AfstemningsområdeNummer": 30,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:21:31",
+  "Kommune": "Herning",
+  "Kommunekode": 657,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 69,
+      "AntalStemmeberretigedeVælgere": 784,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

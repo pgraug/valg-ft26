@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ebberup/Helnæs",
+  "AfstemningsområdeDagiId": "709318",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:00",
+  "Kommune": "Assens",
+  "Kommunekode": 420,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 157,
+      "AntalStemmeberretigedeVælgere": 1413,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

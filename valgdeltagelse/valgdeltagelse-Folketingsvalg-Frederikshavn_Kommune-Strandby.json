@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Strandby",
+  "AfstemningsområdeDagiId": "712132",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:05",
+  "Kommune": "Frederikshavn",
+  "Kommunekode": 813,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 187,
+      "AntalStemmeberretigedeVælgere": 1937,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 313,
+      "AntalStemmeberretigedeVælgere": 1937,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

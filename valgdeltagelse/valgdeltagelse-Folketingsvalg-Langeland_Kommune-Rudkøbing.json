@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Rudkøbing",
+  "AfstemningsområdeDagiId": "704594",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:00",
+  "Kommune": "Langeland",
+  "Kommunekode": 482,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 410,
+      "AntalStemmeberretigedeVælgere": 4533,
+      "Tidspunkt": "08:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Trekroner",
+  "AfstemningsområdeDagiId": "704402",
+  "AfstemningsområdeNummer": 21,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:07:01",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 731,
+      "AntalStemmeberretigedeVælgere": 4157,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

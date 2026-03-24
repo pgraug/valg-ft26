@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Enghaven",
+  "AfstemningsområdeDagiId": "707654",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:37",
+  "Kommune": "Halsnæs",
+  "Kommunekode": 260,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 546,
+      "AntalStemmeberretigedeVælgere": 2920,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

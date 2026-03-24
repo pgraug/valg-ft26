@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Fuglebjerg",
+  "AfstemningsområdeDagiId": "711122",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:47",
+  "Kommune": "Næstved",
+  "Kommunekode": 370,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 394,
+      "AntalStemmeberretigedeVælgere": 3439,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

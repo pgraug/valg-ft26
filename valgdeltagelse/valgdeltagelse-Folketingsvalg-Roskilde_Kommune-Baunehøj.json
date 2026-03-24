@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Baunehøj",
+  "AfstemningsområdeDagiId": "710404",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:08:01",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 428,
+      "AntalStemmeberretigedeVælgere": 2685,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

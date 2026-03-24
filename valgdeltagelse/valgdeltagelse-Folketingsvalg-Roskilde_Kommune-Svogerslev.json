@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Svogerslev",
+  "AfstemningsområdeDagiId": "705900",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:01:00",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 507,
+      "AntalStemmeberretigedeVælgere": 3331,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

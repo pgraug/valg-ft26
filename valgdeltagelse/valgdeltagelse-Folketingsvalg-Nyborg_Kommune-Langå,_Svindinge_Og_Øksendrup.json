@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Langå, Svindinge Og Øksendrup",
+  "AfstemningsområdeDagiId": "709812",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:05:06",
+  "Kommune": "Nyborg",
+  "Kommunekode": 450,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 83,
+      "AntalStemmeberretigedeVælgere": 754,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 115,
+      "AntalStemmeberretigedeVælgere": 754,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

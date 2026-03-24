@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Føvling",
+  "AfstemningsområdeDagiId": "706028",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:37",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 106,
+      "AntalStemmeberretigedeVælgere": 785,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "Bogstav": "B",
+    "Navn": "Sjælland-Syddanmark",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Landsdel"
+  },
+  {
+    "Bogstav": "C",
+    "Navn": "Midtjylland-Nordjylland",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Landsdel"
+  },
+  {
+    "Bogstav": "A",
+    "Navn": "Hovedstaden",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Landsdel"
+  }
+]

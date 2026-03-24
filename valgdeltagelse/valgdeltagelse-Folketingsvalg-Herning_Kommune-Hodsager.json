@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hodsager",
+  "AfstemningsområdeDagiId": "705004",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:18:46",
+  "Kommune": "Herning",
+  "Kommunekode": 657,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 35,
+      "AntalStemmeberretigedeVælgere": 472,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Kolind",
+  "AfstemningsområdeDagiId": "711940",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:15:23",
+  "Kommune": "Syddjurs",
+  "Kommunekode": 706,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 142,
+      "AntalStemmeberretigedeVælgere": 2554,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 314,
+      "AntalStemmeberretigedeVælgere": 2554,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 478,
+      "AntalStemmeberretigedeVælgere": 2554,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

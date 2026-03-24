@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Helsingør Hallen",
+  "AfstemningsområdeDagiId": "701118",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:08",
+  "Kommune": "Helsingør",
+  "Kommunekode": 217,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1981,
+      "AntalStemmeberretigedeVælgere": 7933,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

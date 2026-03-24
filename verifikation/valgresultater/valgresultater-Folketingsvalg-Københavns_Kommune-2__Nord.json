@@ -1,0 +1,255 @@
+{
+  "AfgivneStemmer": 36437,
+  "AfgivneStemmerDifferenceFraForrigeValg": null,
+  "Afstemningsområde": "2. Nord",
+  "AfstemningsområdeDagiId": 706166,
+  "AfstemningsområdeNummer": 8,
+  "AntalStemmeberettigedeVælgere": 40000,
+  "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
+  "BlankeStemmerDifferenceFraForrigeValg": null,
+  "BlankeUgyldigeBrevstemmer": 2,
+  "BlankeUgyldigeFremmødteStemmer": 1,
+  "FrigivelsesTidspunktUTC": "26-02-2026 17:23:15",
+  "GyldigeStemmer": 36188,
+  "GyldigeStemmerDifferenceFraForrigeValg": null,
+  "IndenforParti": [
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": [
+        {
+          "Id": "97dca266-242b-4ac4-a661-0675b4027b63",
+          "Stemmer": 2579,
+          "Stemmeseddelnavn": "Laura Rosenvinge"
+        },
+        {
+          "Id": "db956958-3983-4ab0-bbdf-6c011fe023c1",
+          "Stemmer": 11039,
+          "Stemmeseddelnavn": "Sophie Hæstorp Andersen"
+        },
+        {
+          "Id": "2f9b24f1-7f42-4291-b0c1-c8515f4350fe",
+          "Stemmer": 4020,
+          "Stemmeseddelnavn": "Lars Weiss"
+        }
+      ],
+      "PartiId": "a9cd1471-ae0d-4f46-acb6-de60bb6de3a5",
+      "PartiNavn": "Venstre",
+      "Partistemmer": 1548,
+      "Stemmer": 18094,
+      "StemmerDifferenceFraForrigeValg": -4
+    },
+    {
+      "Bogstavbetegnelse": "A",
+      "Kandidater": [
+        {
+          "Id": "c1ca1e70-24c4-4e67-9835-82d1bb1ab963",
+          "Stemmer": 4020,
+          "Stemmeseddelnavn": "Lars Weiss"
+        },
+        {
+          "Id": "73f761c7-1632-4e2e-b08a-ffebf992545e",
+          "Stemmer": 11039,
+          "Stemmeseddelnavn": "Sophie Hæstorp Andersen"
+        },
+        {
+          "Id": "dde9a23f-d4ac-405c-a7e6-4e7eeb0cce32",
+          "Stemmer": 2579,
+          "Stemmeseddelnavn": "Laura Rosenvinge"
+        }
+      ],
+      "PartiId": "d7fdb0a7-ee13-4092-aeae-7c09cafd22e5",
+      "PartiNavn": "Socialdemokratiet",
+      "Partistemmer": 1548,
+      "Stemmer": 18094,
+      "StemmerDifferenceFraForrigeValg": -4
+    }
+  ],
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Opstillingskreds": "Østerbro",
+  "OpstillingskredsDagiId": 1,
+  "Resultatart": "Fintælling",
+  "Storkreds": "København",
+  "Storkredsnummer": 1,
+  "UdenforParti": [
+    {
+      "Id": "90cea7ff-ee83-49a8-a6d3-7a3100105190",
+      "Stemmer": 0,
+      "Stemmeseddelnavn": "Sophie Hæstorp Andersen"
+    },
+    {
+      "Id": "1e6d0cb1-ac3b-4788-8761-7871114a6729",
+      "Stemmer": 47,
+      "Stemmeseddelnavn": "Lars Weiss"
+    },
+    {
+      "Id": "3b999476-da80-4adb-8f63-ff0b65336973",
+      "Stemmer": 5,
+      "Stemmeseddelnavn": "Laura Rosenvinge"
+    }
+  ],
+  "UgyldigeBrevstemmerÅrsager": [
+    {
+      "Antal": 2,
+      "Id": 21,
+      "Navn": "Blanke",
+      "Paragraf": "19"
+    },
+    {
+      "Antal": 2,
+      "Id": 22,
+      "Navn": "KunNavnUofficielBogstav",
+      "Paragraf": "20"
+    },
+    {
+      "Antal": 2,
+      "Id": 23,
+      "Navn": "KunUofficelBogstavPåEtBogstav",
+      "Paragraf": "21"
+    },
+    {
+      "Antal": 2,
+      "Id": 24,
+      "Navn": "KunUofficelBogstavPåFlereBogstaver",
+      "Paragraf": "22"
+    },
+    {
+      "Antal": 2,
+      "Id": 25,
+      "Navn": "KunKryds",
+      "Paragraf": "23"
+    },
+    {
+      "Antal": 2,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
+    },
+    {
+      "Antal": 2,
+      "Id": 27,
+      "Navn": "AndreGrunde",
+      "Paragraf": "26"
+    },
+    {
+      "Antal": 2,
+      "Id": 28,
+      "Navn": "AndetEllerMereEndEnStemmeseddel",
+      "Paragraf": "27"
+    },
+    {
+      "Antal": 2,
+      "Id": 29,
+      "Navn": "StemmeseddelIkkeFraMinisteren",
+      "Paragraf": "28"
+    },
+    {
+      "Antal": 2,
+      "Id": 30,
+      "Navn": "KonvolutMedPåskrift",
+      "Paragraf": "29"
+    },
+    {
+      "Antal": 2,
+      "Id": 31,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "30"
+    },
+    {
+      "Antal": 2,
+      "Id": 32,
+      "Navn": "UdfyldtPåBagsidenEllerAndet",
+      "Paragraf": "31"
+    }
+  ],
+  "UgyldigeFremmødteStemmerÅrsager": [
+    {
+      "Antal": 1,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
+    },
+    {
+      "Antal": 1,
+      "Id": 2,
+      "Navn": "AndetMærkeEndKryds",
+      "Paragraf": "5"
+    },
+    {
+      "Antal": 1,
+      "Id": 3,
+      "Navn": "HeltEllerDelvistOverstreget",
+      "Paragraf": "6"
+    },
+    {
+      "Antal": 1,
+      "Id": 4,
+      "Navn": "KrydsUdenForPartifelterne",
+      "Paragraf": "7"
+    },
+    {
+      "Antal": 1,
+      "Id": 5,
+      "Navn": "KrydsIflerePartifelter",
+      "Paragraf": "8"
+    },
+    {
+      "Antal": 1,
+      "Id": 6,
+      "Navn": "KrydsRækkerIndIflerePartifelter",
+      "Paragraf": "9"
+    },
+    {
+      "Antal": 1,
+      "Id": 7,
+      "Navn": "KrydsUdForUdenForPartierne",
+      "Paragraf": "10"
+    },
+    {
+      "Antal": 1,
+      "Id": 8,
+      "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
+      "Paragraf": "11"
+    },
+    {
+      "Antal": 1,
+      "Id": 9,
+      "Navn": "AndreGrunde",
+      "Paragraf": "12"
+    },
+    {
+      "Antal": 1,
+      "Id": 10,
+      "Navn": "StemmeseddelIkkeFraAfstemningssted",
+      "Paragraf": "13"
+    },
+    {
+      "Antal": 1,
+      "Id": 11,
+      "Navn": "AndetMærkeEndKrydsForudenKryds",
+      "Paragraf": "14"
+    },
+    {
+      "Antal": 1,
+      "Id": 12,
+      "Navn": "AnførtFlereEndTreKryds",
+      "Paragraf": "15"
+    },
+    {
+      "Antal": 1,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
+    },
+    {
+      "Antal": 1,
+      "Id": 14,
+      "Navn": "AfmærketMedForskelligeFarverOgAndet",
+      "Paragraf": "17"
+    }
+  ],
+  "UgyldigeStemmerDifferenceFraForrigeValg": null,
+  "UgyldigeStemmerUdoverBlanke": 290,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026"
+}

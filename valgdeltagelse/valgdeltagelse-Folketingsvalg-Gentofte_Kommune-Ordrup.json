@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Ordrup",
+  "AfstemningsområdeDagiId": "702872",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:06:07",
+  "Kommune": "Gentofte",
+  "Kommunekode": 157,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 746,
+      "AntalStemmeberretigedeVælgere": 4524,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 1031,
+      "AntalStemmeberretigedeVælgere": 4524,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1262,
+      "AntalStemmeberretigedeVælgere": 4524,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

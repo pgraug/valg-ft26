@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tolne",
+  "AfstemningsområdeDagiId": "710452",
+  "AfstemningsområdeNummer": 26,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:12:17",
+  "Kommune": "Hjørring",
+  "Kommunekode": 860,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 86,
+      "AntalStemmeberretigedeVælgere": 889,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

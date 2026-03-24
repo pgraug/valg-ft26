@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Svinninge",
+  "AfstemningsområdeDagiId": "708862",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:37:56",
+  "Kommune": "Holbæk",
+  "Kommunekode": 316,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 526,
+      "AntalStemmeberretigedeVælgere": 2813,
+      "Tidspunkt": "10:30:00"
+    }
+  ]
+}

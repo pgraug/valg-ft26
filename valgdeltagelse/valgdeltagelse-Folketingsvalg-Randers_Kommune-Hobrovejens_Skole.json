@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Hobrovejens Skole",
+  "AfstemningsområdeDagiId": "702770",
+  "AfstemningsområdeNummer": 25,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:02:36",
+  "Kommune": "Randers",
+  "Kommunekode": 730,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 345,
+      "AntalStemmeberretigedeVælgere": 2896,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 452,
+      "AntalStemmeberretigedeVælgere": 2896,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

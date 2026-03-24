@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Lindknud",
+  "AfstemningsområdeDagiId": "706022",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:52",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 78,
+      "AntalStemmeberretigedeVælgere": 590,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Grønbro Hallen",
+  "AfstemningsområdeDagiId": "712210",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:07:33",
+  "Kommune": "Næstved",
+  "Kommunekode": 370,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 143,
+      "AntalStemmeberretigedeVælgere": 1521,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

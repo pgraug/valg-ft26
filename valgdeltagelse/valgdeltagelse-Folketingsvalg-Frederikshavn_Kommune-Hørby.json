@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Hørby",
+  "AfstemningsområdeDagiId": "703530",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:03:51",
+  "Kommune": "Frederikshavn",
+  "Kommunekode": 813,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 15,
+      "AntalStemmeberretigedeVælgere": 585,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 50,
+      "AntalStemmeberretigedeVælgere": 585,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 88,
+      "AntalStemmeberretigedeVælgere": 585,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

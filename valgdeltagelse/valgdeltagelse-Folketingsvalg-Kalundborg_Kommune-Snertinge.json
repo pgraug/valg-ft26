@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Snertinge",
+  "AfstemningsområdeDagiId": "705664",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:06",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 441,
+      "AntalStemmeberretigedeVælgere": 2637,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

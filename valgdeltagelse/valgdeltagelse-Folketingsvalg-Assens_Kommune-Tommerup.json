@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tommerup",
+  "AfstemningsområdeDagiId": "710784",
+  "AfstemningsområdeNummer": 16,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:17",
+  "Kommune": "Assens",
+  "Kommunekode": 420,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 159,
+      "AntalStemmeberretigedeVælgere": 1429,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

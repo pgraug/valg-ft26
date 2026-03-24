@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Volstrup",
+  "AfstemningsområdeDagiId": "712112",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:02:50",
+  "Kommune": "Frederikshavn",
+  "Kommunekode": 813,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 64,
+      "AntalStemmeberretigedeVælgere": 492,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 79,
+      "AntalStemmeberretigedeVælgere": 492,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

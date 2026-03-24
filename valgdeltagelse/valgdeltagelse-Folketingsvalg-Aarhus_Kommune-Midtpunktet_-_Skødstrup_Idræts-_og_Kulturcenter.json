@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Midtpunktet - Skødstrup Idræts- og Kulturcenter",
+  "AfstemningsområdeDagiId": "705544",
+  "AfstemningsområdeNummer": 51,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:20:01",
+  "Kommune": "Aarhus",
+  "Kommunekode": 751,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 945,
+      "AntalStemmeberretigedeVælgere": 6615,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

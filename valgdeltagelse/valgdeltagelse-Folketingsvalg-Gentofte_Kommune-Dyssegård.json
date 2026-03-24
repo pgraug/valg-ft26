@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Dyssegård",
+  "AfstemningsområdeDagiId": "711716",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:37",
+  "Kommune": "Gentofte",
+  "Kommunekode": 157,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 829,
+      "AntalStemmeberretigedeVælgere": 5083,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 1284,
+      "AntalStemmeberretigedeVælgere": 5083,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1540,
+      "AntalStemmeberretigedeVælgere": 5083,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

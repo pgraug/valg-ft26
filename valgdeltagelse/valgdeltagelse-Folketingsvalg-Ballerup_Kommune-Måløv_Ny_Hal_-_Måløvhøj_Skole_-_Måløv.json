@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Måløv Ny Hal - Måløvhøj Skole - Måløv",
+  "AfstemningsområdeDagiId": "706992",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:07",
+  "Kommune": "Ballerup",
+  "Kommunekode": 151,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 678,
+      "AntalStemmeberretigedeVælgere": 4114,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 872,
+      "AntalStemmeberretigedeVælgere": 4114,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

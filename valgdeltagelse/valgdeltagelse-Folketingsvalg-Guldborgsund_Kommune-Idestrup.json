@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Idestrup",
+  "AfstemningsområdeDagiId": "703548",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:41:57",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 277,
+      "AntalStemmeberretigedeVælgere": 1430,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

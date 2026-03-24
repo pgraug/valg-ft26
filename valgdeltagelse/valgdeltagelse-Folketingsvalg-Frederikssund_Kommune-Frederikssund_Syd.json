@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Frederikssund Syd",
+  "AfstemningsområdeDagiId": "704056",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:00:35",
+  "Kommune": "Frederikssund",
+  "Kommunekode": 250,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1200,
+      "AntalStemmeberretigedeVælgere": 5509,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

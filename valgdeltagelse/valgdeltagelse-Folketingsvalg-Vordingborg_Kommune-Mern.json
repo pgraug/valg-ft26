@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Mern",
+  "AfstemningsområdeDagiId": "707828",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:34:11",
+  "Kommune": "Vordingborg",
+  "Kommunekode": 390,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 241,
+      "AntalStemmeberretigedeVælgere": 1346,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

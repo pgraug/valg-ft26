@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Røsnæs",
+  "AfstemningsområdeDagiId": "710188",
+  "AfstemningsområdeNummer": 17,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:09:36",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 113,
+      "AntalStemmeberretigedeVælgere": 600,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

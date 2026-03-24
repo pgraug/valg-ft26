@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Blicherskolen",
+  "AfstemningsområdeDagiId": "710340",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:06",
+  "Kommune": "Randers",
+  "Kommunekode": 730,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 181,
+      "AntalStemmeberretigedeVælgere": 1994,
+      "Tidspunkt": "08:59:00"
+    },
+    {
+      "AfgivneStemmer": 282,
+      "AntalStemmeberretigedeVælgere": 1994,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

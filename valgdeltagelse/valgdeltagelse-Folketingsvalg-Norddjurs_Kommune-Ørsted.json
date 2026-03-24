@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ørsted",
+  "AfstemningsområdeDagiId": "704660",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:51",
+  "Kommune": "Norddjurs",
+  "Kommunekode": 707,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 363,
+      "AntalStemmeberretigedeVælgere": 2288,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

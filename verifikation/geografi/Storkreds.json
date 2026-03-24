@@ -1,0 +1,82 @@
+[
+  {
+    "Navn": "Sydjylland",
+    "Nummer": 7,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "B"
+  },
+  {
+    "Navn": "Fyn",
+    "Nummer": 6,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "B"
+  },
+  {
+    "Navn": "Østjylland",
+    "Nummer": 8,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "C"
+  },
+  {
+    "Navn": "Københavns Omegn",
+    "Nummer": 2,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "A"
+  },
+  {
+    "Navn": "København",
+    "Nummer": 1,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "A"
+  },
+  {
+    "Navn": "Nordjylland",
+    "Nummer": 10,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "C"
+  },
+  {
+    "Navn": "Vestjylland",
+    "Nummer": 9,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "C"
+  },
+  {
+    "Navn": "Bornholm",
+    "Nummer": 4,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "A"
+  },
+  {
+    "Navn": "Nordsjælland",
+    "Nummer": 3,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "A"
+  },
+  {
+    "Navn": "Sjælland",
+    "Nummer": 5,
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Type": "Storkreds",
+    "Valglandsdelkode": "B"
+  }
+]

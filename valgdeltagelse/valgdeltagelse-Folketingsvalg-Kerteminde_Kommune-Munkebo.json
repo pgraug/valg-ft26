@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Munkebo",
+  "AfstemningsområdeDagiId": "707976",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:37",
+  "Kommune": "Kerteminde",
+  "Kommunekode": 440,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 445,
+      "AntalStemmeberretigedeVælgere": 4346,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 711,
+      "AntalStemmeberretigedeVælgere": 4346,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

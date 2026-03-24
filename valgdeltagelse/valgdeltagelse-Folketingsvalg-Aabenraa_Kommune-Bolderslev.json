@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bolderslev",
+  "AfstemningsområdeDagiId": "708364",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:51",
+  "Kommune": "Aabenraa",
+  "Kommunekode": 580,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 201,
+      "AntalStemmeberretigedeVælgere": 1425,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

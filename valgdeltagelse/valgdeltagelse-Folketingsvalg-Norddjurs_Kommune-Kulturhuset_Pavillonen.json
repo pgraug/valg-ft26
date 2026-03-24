@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kulturhuset Pavillonen",
+  "AfstemningsområdeDagiId": "709078",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:05",
+  "Kommune": "Norddjurs",
+  "Kommunekode": 707,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1214,
+      "AntalStemmeberretigedeVælgere": 7310,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

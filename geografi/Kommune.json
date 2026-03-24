@@ -1,0 +1,982 @@
+[
+  {
+    "Dagi_id": "389204",
+    "Kode": 840,
+    "Navn": "Rebild",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389206",
+    "Kode": 851,
+    "Navn": "Aalborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389201",
+    "Kode": 860,
+    "Navn": "Hjørring",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389202",
+    "Kode": 846,
+    "Navn": "Mariagerfjord",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389207",
+    "Kode": 820,
+    "Navn": "Vesthimmerlands",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389205",
+    "Kode": 849,
+    "Navn": "Jammerbugt",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389199",
+    "Kode": 810,
+    "Navn": "Brønderslev",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389203",
+    "Kode": 825,
+    "Navn": "Læsø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389198",
+    "Kode": 787,
+    "Navn": "Thisted",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389200",
+    "Kode": 813,
+    "Navn": "Frederikshavn",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389197",
+    "Kode": 773,
+    "Navn": "Morsø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1081,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389174",
+    "Kode": 575,
+    "Navn": "Vejen",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389162",
+    "Kode": 479,
+    "Navn": "Svendborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389165",
+    "Kode": 492,
+    "Navn": "Ærø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389171",
+    "Kode": 563,
+    "Navn": "Fanø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389160",
+    "Kode": 450,
+    "Navn": "Nyborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389164",
+    "Kode": 482,
+    "Navn": "Langeland",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389172",
+    "Kode": 530,
+    "Navn": "Billund",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389168",
+    "Kode": 550,
+    "Navn": "Tønder",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389158",
+    "Kode": 430,
+    "Navn": "Faaborg-Midtfyn",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389163",
+    "Kode": 480,
+    "Navn": "Nordfyns",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389159",
+    "Kode": 440,
+    "Navn": "Kerteminde",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389166",
+    "Kode": 510,
+    "Navn": "Haderslev",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389161",
+    "Kode": 461,
+    "Navn": "Odense",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389176",
+    "Kode": 621,
+    "Navn": "Kolding",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389156",
+    "Kode": 410,
+    "Navn": "Middelfart",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389177",
+    "Kode": 630,
+    "Navn": "Vejle",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389170",
+    "Kode": 561,
+    "Navn": "Esbjerg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389169",
+    "Kode": 580,
+    "Navn": "Aabenraa",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389173",
+    "Kode": 573,
+    "Navn": "Varde",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389157",
+    "Kode": 420,
+    "Navn": "Assens",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389175",
+    "Kode": 607,
+    "Navn": "Fredericia",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389167",
+    "Kode": 540,
+    "Navn": "Sønderborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1083,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389193",
+    "Kode": 746,
+    "Navn": "Skanderborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389183",
+    "Kode": 665,
+    "Navn": "Lemvig",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389189",
+    "Kode": 727,
+    "Navn": "Odder",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389194",
+    "Kode": 751,
+    "Navn": "Aarhus",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389185",
+    "Kode": 671,
+    "Navn": "Struer",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389180",
+    "Kode": 756,
+    "Navn": "Ikast-Brande",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389195",
+    "Kode": 779,
+    "Navn": "Skive",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389190",
+    "Kode": 730,
+    "Navn": "Randers",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389179",
+    "Kode": 615,
+    "Navn": "Horsens",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389188",
+    "Kode": 710,
+    "Navn": "Favrskov",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389182",
+    "Kode": 661,
+    "Navn": "Holstebro",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389184",
+    "Kode": 760,
+    "Navn": "Ringkøbing-Skjern",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389181",
+    "Kode": 657,
+    "Navn": "Herning",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389191",
+    "Kode": 741,
+    "Navn": "Samsø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389192",
+    "Kode": 740,
+    "Navn": "Silkeborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389186",
+    "Kode": 706,
+    "Navn": "Syddjurs",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389196",
+    "Kode": 791,
+    "Navn": "Viborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389178",
+    "Kode": 766,
+    "Navn": "Hedensted",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389187",
+    "Kode": 707,
+    "Navn": "Norddjurs",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1082,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389146",
+    "Kode": 350,
+    "Navn": "Lejre",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389140",
+    "Kode": 316,
+    "Navn": "Holbæk",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389120",
+    "Kode": 187,
+    "Navn": "Vallensbæk",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389116",
+    "Kode": 175,
+    "Navn": "Rødovre",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389112",
+    "Kode": 165,
+    "Navn": "Albertslund",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389132",
+    "Kode": 270,
+    "Navn": "Gribskov",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389127",
+    "Kode": 230,
+    "Navn": "Rudersdal",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389147",
+    "Kode": 336,
+    "Navn": "Stevns",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389104",
+    "Kode": 147,
+    "Navn": "Frederiksberg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389111",
+    "Kode": 163,
+    "Navn": "Herlev",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389139",
+    "Kode": 306,
+    "Navn": "Odsherred",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389126",
+    "Kode": 223,
+    "Navn": "Hørsholm",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389133",
+    "Kode": 400,
+    "Navn": "Bornholm",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389114",
+    "Kode": 169,
+    "Navn": "Høje-Taastrup",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389141",
+    "Kode": 326,
+    "Navn": "Kalundborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389142",
+    "Kode": 329,
+    "Navn": "Ringsted",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389105",
+    "Kode": 151,
+    "Navn": "Ballerup",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389107",
+    "Kode": 155,
+    "Navn": "Dragør",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389148",
+    "Kode": 370,
+    "Navn": "Næstved",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389143",
+    "Kode": 320,
+    "Navn": "Faxe",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389150",
+    "Kode": 360,
+    "Navn": "Lolland",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389137",
+    "Kode": 265,
+    "Navn": "Roskilde",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389118",
+    "Kode": 183,
+    "Navn": "Ishøj",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389106",
+    "Kode": 153,
+    "Navn": "Brøndby",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389115",
+    "Kode": 173,
+    "Navn": "Lyngby-Taarbæk",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389125",
+    "Kode": 219,
+    "Navn": "Hillerød",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389136",
+    "Kode": 259,
+    "Navn": "Køge",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389145",
+    "Kode": 340,
+    "Navn": "Sorø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389103",
+    "Kode": 101,
+    "Navn": "København",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389129",
+    "Kode": 240,
+    "Navn": "Egedal",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389144",
+    "Kode": 330,
+    "Navn": "Slagelse",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389109",
+    "Kode": 159,
+    "Navn": "Gladsaxe",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389135",
+    "Kode": 253,
+    "Navn": "Greve",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389124",
+    "Kode": 217,
+    "Navn": "Helsingør",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389151",
+    "Kode": 376,
+    "Navn": "Guldborgsund",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389149",
+    "Kode": 390,
+    "Navn": "Vordingborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389123",
+    "Kode": 210,
+    "Navn": "Fredensborg",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389131",
+    "Kode": 260,
+    "Navn": "Halsnæs",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389121",
+    "Kode": 201,
+    "Navn": "Allerød",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389119",
+    "Kode": 185,
+    "Navn": "Tårnby",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389110",
+    "Kode": 161,
+    "Navn": "Glostrup",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389138",
+    "Kode": 269,
+    "Navn": "Solrød",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389108",
+    "Kode": 157,
+    "Navn": "Gentofte",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389122",
+    "Kode": 190,
+    "Navn": "Furesø",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389113",
+    "Kode": 167,
+    "Navn": "Hvidovre",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  },
+  {
+    "Dagi_id": "389130",
+    "Kode": 250,
+    "Navn": "Frederikssund",
+    "OpdateretUtc": null,
+    "OprettetUtc": "26-02-2026 14:04:50",
+    "Regionskode": 1086,
+    "Type": "Kommune",
+    "Udenforkommuneinddeling": false
+  }
+]

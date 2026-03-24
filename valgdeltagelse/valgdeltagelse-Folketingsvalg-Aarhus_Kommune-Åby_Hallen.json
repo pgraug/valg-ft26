@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Åby Hallen",
+  "AfstemningsområdeDagiId": "710028",
+  "AfstemningsområdeNummer": 64,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:12:02",
+  "Kommune": "Aarhus",
+  "Kommunekode": 751,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1163,
+      "AntalStemmeberretigedeVælgere": 7094,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Espergærde Bibliotek",
+  "AfstemningsområdeDagiId": "702690",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:13:37",
+  "Kommune": "Helsingør",
+  "Kommunekode": 217,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1019,
+      "AntalStemmeberretigedeVælgere": 3631,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

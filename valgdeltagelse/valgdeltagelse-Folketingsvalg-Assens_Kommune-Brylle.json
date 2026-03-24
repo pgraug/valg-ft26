@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Brylle",
+  "AfstemningsområdeDagiId": "701552",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:31",
+  "Kommune": "Assens",
+  "Kommunekode": 420,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 132,
+      "AntalStemmeberretigedeVælgere": 1283,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "St. Merløse",
+  "AfstemningsområdeDagiId": "701294",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:38:26",
+  "Kommune": "Holbæk",
+  "Kommunekode": 316,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 415,
+      "AntalStemmeberretigedeVælgere": 2568,
+      "Tidspunkt": "10:30:00"
+    }
+  ]
+}

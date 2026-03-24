@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vejby",
+  "AfstemningsområdeDagiId": "704292",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:33:56",
+  "Kommune": "Gribskov",
+  "Kommunekode": 270,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 285,
+      "AntalStemmeberretigedeVælgere": 2109,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

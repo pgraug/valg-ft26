@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Årby-Rørby",
+  "AfstemningsområdeDagiId": "701008",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:52",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 377,
+      "AntalStemmeberretigedeVælgere": 2535,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

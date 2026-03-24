@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Skårup",
+  "AfstemningsområdeDagiId": "703734",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:00",
+  "Kommune": "Svendborg",
+  "Kommunekode": 479,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 268,
+      "AntalStemmeberretigedeVælgere": 2174,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

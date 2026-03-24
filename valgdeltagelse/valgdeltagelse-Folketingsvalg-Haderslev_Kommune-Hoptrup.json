@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Hoptrup",
+  "AfstemningsområdeDagiId": "709412",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:02:35",
+  "Kommune": "Haderslev",
+  "Kommunekode": 510,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 51,
+      "AntalStemmeberretigedeVælgere": 881,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 108,
+      "AntalStemmeberretigedeVælgere": 881,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

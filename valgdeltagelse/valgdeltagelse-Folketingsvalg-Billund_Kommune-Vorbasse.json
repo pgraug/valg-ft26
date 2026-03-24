@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Vorbasse",
+  "AfstemningsområdeDagiId": "704532",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:52",
+  "Kommune": "Billund",
+  "Kommunekode": 530,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 180,
+      "AntalStemmeberretigedeVælgere": 1556,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 276,
+      "AntalStemmeberretigedeVælgere": 1556,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

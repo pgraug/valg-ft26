@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tullebølle",
+  "AfstemningsområdeDagiId": "701464",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:00",
+  "Kommune": "Langeland",
+  "Kommunekode": 482,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 87,
+      "AntalStemmeberretigedeVælgere": 1405,
+      "Tidspunkt": "08:00:00"
+    }
+  ]
+}

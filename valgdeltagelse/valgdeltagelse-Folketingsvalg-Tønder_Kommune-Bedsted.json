@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bedsted",
+  "AfstemningsområdeDagiId": "703566",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:06",
+  "Kommune": "Tønder",
+  "Kommunekode": 550,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 69,
+      "AntalStemmeberretigedeVælgere": 502,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gesten",
+  "AfstemningsområdeDagiId": "703020",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:06",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 144,
+      "AntalStemmeberretigedeVælgere": 1029,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

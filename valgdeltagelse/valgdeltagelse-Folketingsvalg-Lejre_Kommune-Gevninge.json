@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gevninge",
+  "AfstemningsområdeDagiId": "706216",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:45",
+  "Kommune": "Lejre",
+  "Kommunekode": 350,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 315,
+      "AntalStemmeberretigedeVælgere": 2193,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

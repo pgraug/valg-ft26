@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Rismølleskolen",
+  "AfstemningsområdeDagiId": "707150",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:06",
+  "Kommune": "Randers",
+  "Kommunekode": 730,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 580,
+      "AntalStemmeberretigedeVælgere": 4304,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 801,
+      "AntalStemmeberretigedeVælgere": 4304,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tappernøje",
+  "AfstemningsområdeDagiId": "707924",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:31",
+  "Kommune": "Næstved",
+  "Kommunekode": 370,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 205,
+      "AntalStemmeberretigedeVælgere": 1910,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

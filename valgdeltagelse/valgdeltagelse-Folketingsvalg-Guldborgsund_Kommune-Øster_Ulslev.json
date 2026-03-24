@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Øster Ulslev",
+  "AfstemningsområdeDagiId": "705042",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:40:57",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 139,
+      "AntalStemmeberretigedeVælgere": 1117,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

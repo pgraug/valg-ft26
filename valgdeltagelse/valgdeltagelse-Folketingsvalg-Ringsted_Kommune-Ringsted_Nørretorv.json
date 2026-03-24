@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ringsted Nørretorv",
+  "AfstemningsområdeDagiId": "711804",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:31",
+  "Kommune": "Ringsted",
+  "Kommunekode": 329,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1278,
+      "AntalStemmeberretigedeVælgere": 8712,
+      "Tidspunkt": "09:01:00"
+    }
+  ]
+}

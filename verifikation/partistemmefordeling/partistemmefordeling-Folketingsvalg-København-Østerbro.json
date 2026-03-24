@@ -1,0 +1,67 @@
+{
+  "FrigivelsesTidspunktUTC": "26-02-2026 17:23:18",
+  "IndenforParti": [
+    {
+      "Bogstavbetegnelse": "A",
+      "Kandidater": [
+        {
+          "Id": "406c978b-6d47-4c01-85cb-f8fa31afca61",
+          "PersonligeStemmer": 11039,
+          "Stemmeseddelnavn": "Magnus Erik Andersen",
+          "TildeltePartistemmer": 8499
+        },
+        {
+          "Id": "f7d579f0-9e89-40e7-908a-81796bbb6064",
+          "PersonligeStemmer": 4020,
+          "Stemmeseddelnavn": "Finn Fischer",
+          "TildeltePartistemmer": 6099
+        },
+        {
+          "Id": "0879f416-10ee-4c49-a5af-b619e723fb3b",
+          "PersonligeStemmer": 2579,
+          "Stemmeseddelnavn": "Maja Jensen",
+          "TildeltePartistemmer": 6599
+        }
+      ],
+      "Opstillingsform": "Sideordnet",
+      "PartiId": "0279b81d-ea4d-4e76-8a64-d7559ed2e26c",
+      "PartiNavn": "Social Democratic Party",
+      "PersonligeStemmer": true,
+      "Stemmer": 21197
+    },
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": [
+        {
+          "Id": "0af68010-272d-439d-a817-0f72304f587f",
+          "PersonligeStemmer": 11039,
+          "Stemmeseddelnavn": "Sophie Hæstorp Andersen",
+          "TildeltePartistemmer": 8005
+        },
+        {
+          "Id": "35122ac1-f9a0-4e38-9b90-ccda3dafa2b8",
+          "PersonligeStemmer": 4020,
+          "Stemmeseddelnavn": "Lars Weiss",
+          "TildeltePartistemmer": 6099
+        },
+        {
+          "Id": "3b252d46-3822-4b24-8fe7-5791cba5fddf",
+          "PersonligeStemmer": 2579,
+          "Stemmeseddelnavn": "Laura Rosenvinge",
+          "TildeltePartistemmer": 3599
+        }
+      ],
+      "Opstillingsform": "Sideordnet",
+      "PartiId": "07ebafe1-7a0d-4eed-8288-04cc50955f1a",
+      "PartiNavn": "Venstre",
+      "PersonligeStemmer": true,
+      "Stemmer": 17703
+    }
+  ],
+  "Opstillingskreds": "Østerbro",
+  "OpstillingskredsDagiId": "1",
+  "Storkreds": "København",
+  "Storkredsnummer": 1,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026"
+}

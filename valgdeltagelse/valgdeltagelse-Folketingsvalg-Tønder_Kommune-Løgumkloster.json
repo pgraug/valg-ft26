@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Løgumkloster",
+  "AfstemningsområdeDagiId": "701834",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:37",
+  "Kommune": "Tønder",
+  "Kommunekode": 550,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 279,
+      "AntalStemmeberretigedeVælgere": 2420,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

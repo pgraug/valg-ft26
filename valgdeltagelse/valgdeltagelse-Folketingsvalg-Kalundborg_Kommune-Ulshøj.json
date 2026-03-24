@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ulshøj",
+  "AfstemningsområdeDagiId": "702328",
+  "AfstemningsområdeNummer": 18,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:06",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 542,
+      "AntalStemmeberretigedeVælgere": 3030,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

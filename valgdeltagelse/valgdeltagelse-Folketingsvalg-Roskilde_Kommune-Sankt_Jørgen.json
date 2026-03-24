@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sankt Jørgen",
+  "AfstemningsområdeDagiId": "704350",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:09:47",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1301,
+      "AntalStemmeberretigedeVælgere": 6145,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

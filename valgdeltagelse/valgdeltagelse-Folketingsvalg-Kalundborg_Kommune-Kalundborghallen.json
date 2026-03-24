@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kalundborghallen",
+  "AfstemningsområdeDagiId": "701032",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:06",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 533,
+      "AntalStemmeberretigedeVælgere": 2972,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

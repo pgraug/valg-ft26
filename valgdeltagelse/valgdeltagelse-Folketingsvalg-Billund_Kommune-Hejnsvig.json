@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Hejnsvig",
+  "AfstemningsområdeDagiId": "708930",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:13:22",
+  "Kommune": "Billund",
+  "Kommunekode": 530,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 134,
+      "AntalStemmeberretigedeVælgere": 1403,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 213,
+      "AntalStemmeberretigedeVælgere": 1403,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

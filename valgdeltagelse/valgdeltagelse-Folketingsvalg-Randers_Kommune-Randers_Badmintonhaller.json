@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Randers Badmintonhaller",
+  "AfstemningsområdeDagiId": "707182",
+  "AfstemningsområdeNummer": 26,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:51",
+  "Kommune": "Randers",
+  "Kommunekode": 730,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 415,
+      "AntalStemmeberretigedeVælgere": 3871,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 614,
+      "AntalStemmeberretigedeVælgere": 3871,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

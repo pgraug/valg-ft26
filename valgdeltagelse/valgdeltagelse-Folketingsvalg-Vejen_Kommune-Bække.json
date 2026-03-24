@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Bække",
+  "AfstemningsområdeDagiId": "701386",
+  "AfstemningsområdeNummer": 19,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:07:52",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 138,
+      "AntalStemmeberretigedeVælgere": 1402,
+      "Tidspunkt": "09:12:00"
+    },
+    {
+      "AfgivneStemmer": 183,
+      "AntalStemmeberretigedeVælgere": 1402,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

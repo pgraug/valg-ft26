@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tarm",
+  "AfstemningsområdeDagiId": "707956",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:31",
+  "Kommune": "Ringkøbing-Skjern",
+  "Kommunekode": 760,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 360,
+      "AntalStemmeberretigedeVælgere": 3770,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Vallerød",
+  "AfstemningsområdeDagiId": "711902",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:02:50",
+  "Kommune": "Hørsholm",
+  "Kommunekode": 223,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 845,
+      "AntalStemmeberretigedeVælgere": 5024,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 1168,
+      "AntalStemmeberretigedeVælgere": 5024,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1355,
+      "AntalStemmeberretigedeVælgere": 5024,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

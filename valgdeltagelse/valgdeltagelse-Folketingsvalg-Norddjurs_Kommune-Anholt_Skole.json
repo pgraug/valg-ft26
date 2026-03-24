@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Anholt Skole",
+  "AfstemningsområdeDagiId": "711832",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:24:09",
+  "Kommune": "Norddjurs",
+  "Kommunekode": 707,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 30,
+      "AntalStemmeberretigedeVælgere": 106,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

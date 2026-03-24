@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Filskov",
+  "AfstemningsområdeDagiId": "702968",
+  "AfstemningsområdeNummer": 4,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:53",
+  "Kommune": "Billund",
+  "Kommunekode": 530,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 71,
+      "AntalStemmeberretigedeVælgere": 739,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 103,
+      "AntalStemmeberretigedeVælgere": 739,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Branderup",
+  "AfstemningsområdeDagiId": "709622",
+  "AfstemningsområdeNummer": 19,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:08:51",
+  "Kommune": "Tønder",
+  "Kommunekode": 550,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 27,
+      "AntalStemmeberretigedeVælgere": 336,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

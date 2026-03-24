@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bringstrup",
+  "AfstemningsområdeDagiId": "703062",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:47",
+  "Kommune": "Ringsted",
+  "Kommunekode": 329,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 73,
+      "AntalStemmeberretigedeVælgere": 595,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

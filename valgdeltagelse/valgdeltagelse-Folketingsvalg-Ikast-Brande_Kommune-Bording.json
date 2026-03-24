@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Bording",
+  "AfstemningsområdeDagiId": "705552",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:00:35",
+  "Kommune": "Ikast-Brande",
+  "Kommunekode": 756,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 311,
+      "AntalStemmeberretigedeVælgere": 2628,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 477,
+      "AntalStemmeberretigedeVælgere": 2628,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

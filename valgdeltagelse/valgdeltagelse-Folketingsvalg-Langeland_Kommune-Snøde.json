@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Snøde",
+  "AfstemningsområdeDagiId": "748510",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:00:15",
+  "Kommune": "Langeland",
+  "Kommunekode": 482,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 96,
+      "AntalStemmeberretigedeVælgere": 1145,
+      "Tidspunkt": "08:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kraghave",
+  "AfstemningsområdeDagiId": "712124",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:39:57",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 394,
+      "AntalStemmeberretigedeVælgere": 2216,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tranebjerg",
+  "AfstemningsområdeDagiId": "709154",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:56",
+  "Kommune": "Samsø",
+  "Kommunekode": 741,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 590,
+      "AntalStemmeberretigedeVælgere": 2513,
+      "Tidspunkt": "10:15:00"
+    }
+  ]
+}

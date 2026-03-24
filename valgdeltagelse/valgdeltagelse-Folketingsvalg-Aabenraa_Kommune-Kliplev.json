@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kliplev",
+  "AfstemningsområdeDagiId": "706660",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:13:22",
+  "Kommune": "Aabenraa",
+  "Kommunekode": 580,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 230,
+      "AntalStemmeberretigedeVælgere": 1531,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

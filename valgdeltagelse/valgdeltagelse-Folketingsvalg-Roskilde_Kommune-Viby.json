@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Viby",
+  "AfstemningsområdeDagiId": "707326",
+  "AfstemningsområdeNummer": 17,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:05:16",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 872,
+      "AntalStemmeberretigedeVælgere": 4875,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

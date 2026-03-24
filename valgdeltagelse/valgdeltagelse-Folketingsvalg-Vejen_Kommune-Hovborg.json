@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hovborg",
+  "AfstemningsområdeDagiId": "707418",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:10:38",
+  "Kommune": "Vejen",
+  "Kommunekode": 575,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 67,
+      "AntalStemmeberretigedeVælgere": 355,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

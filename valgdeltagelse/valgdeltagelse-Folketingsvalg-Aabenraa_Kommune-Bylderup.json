@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bylderup",
+  "AfstemningsområdeDagiId": "706654",
+  "AfstemningsområdeNummer": 11,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:52",
+  "Kommune": "Aabenraa",
+  "Kommunekode": 580,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 258,
+      "AntalStemmeberretigedeVælgere": 1673,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

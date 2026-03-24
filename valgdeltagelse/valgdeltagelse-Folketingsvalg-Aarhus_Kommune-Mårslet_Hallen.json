@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Mårslet Hallen",
+  "AfstemningsområdeDagiId": "703942",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:22:01",
+  "Kommune": "Aarhus",
+  "Kommunekode": 751,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 721,
+      "AntalStemmeberretigedeVælgere": 4100,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Springcenter Nærheden",
+  "AfstemningsområdeDagiId": "748591",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:08:18",
+  "Kommune": "Høje-Taastrup",
+  "Kommunekode": 169,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 557,
+      "AntalStemmeberretigedeVælgere": 4568,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

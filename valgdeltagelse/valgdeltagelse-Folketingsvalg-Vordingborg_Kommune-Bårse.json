@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Bårse",
+  "AfstemningsområdeDagiId": "709558",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:32:10",
+  "Kommune": "Vordingborg",
+  "Kommunekode": 390,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 157,
+      "AntalStemmeberretigedeVælgere": 929,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

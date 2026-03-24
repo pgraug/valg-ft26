@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Herlev Medborgerhus",
+  "AfstemningsområdeDagiId": "705798",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:21:08",
+  "Kommune": "Herlev",
+  "Kommunekode": 163,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1066,
+      "AntalStemmeberretigedeVælgere": 7848,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1403,
+      "AntalStemmeberretigedeVælgere": 7848,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

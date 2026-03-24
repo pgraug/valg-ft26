@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Grønnevang Skole, Østervang",
+  "AfstemningsområdeDagiId": "749324",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:07",
+  "Kommune": "Hillerød",
+  "Kommunekode": 219,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 972,
+      "AntalStemmeberretigedeVælgere": 8117,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 1318,
+      "AntalStemmeberretigedeVælgere": 8117,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1627,
+      "AntalStemmeberretigedeVælgere": 8117,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

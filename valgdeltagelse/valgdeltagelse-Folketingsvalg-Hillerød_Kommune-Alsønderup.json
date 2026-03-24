@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Alsønderup",
+  "AfstemningsområdeDagiId": "702782",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:11:51",
+  "Kommune": "Hillerød",
+  "Kommunekode": 219,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 118,
+      "AntalStemmeberretigedeVælgere": 1771,
+      "Tidspunkt": "08:00:00"
+    },
+    {
+      "AfgivneStemmer": 242,
+      "AntalStemmeberretigedeVælgere": 1771,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 341,
+      "AntalStemmeberretigedeVælgere": 1771,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

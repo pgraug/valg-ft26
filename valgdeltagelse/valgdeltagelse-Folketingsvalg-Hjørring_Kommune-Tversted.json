@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Tversted",
+  "AfstemningsområdeDagiId": "710470",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:02",
+  "Kommune": "Hjørring",
+  "Kommunekode": 860,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 134,
+      "AntalStemmeberretigedeVælgere": 1186,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

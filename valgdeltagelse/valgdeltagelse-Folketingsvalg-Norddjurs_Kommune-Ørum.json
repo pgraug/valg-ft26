@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ørum",
+  "AfstemningsområdeDagiId": "707518",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:35",
+  "Kommune": "Norddjurs",
+  "Kommunekode": 707,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 236,
+      "AntalStemmeberretigedeVælgere": 1593,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

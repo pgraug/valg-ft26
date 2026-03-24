@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ubby",
+  "AfstemningsområdeDagiId": "708654",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:03:05",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 356,
+      "AntalStemmeberretigedeVælgere": 2344,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

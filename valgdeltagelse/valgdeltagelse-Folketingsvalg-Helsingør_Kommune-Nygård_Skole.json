@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nygård Skole",
+  "AfstemningsområdeDagiId": "707136",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:13:07",
+  "Kommune": "Helsingør",
+  "Kommunekode": 217,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 221,
+      "AntalStemmeberretigedeVælgere": 1050,
+      "Tidspunkt": "10:08:00"
+    }
+  ]
+}

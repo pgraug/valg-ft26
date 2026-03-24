@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Herstedvester Skole",
+  "AfstemningsområdeDagiId": "706090",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:21:53",
+  "Kommune": "Albertslund",
+  "Kommunekode": 165,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 833,
+      "AntalStemmeberretigedeVælgere": 4170,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

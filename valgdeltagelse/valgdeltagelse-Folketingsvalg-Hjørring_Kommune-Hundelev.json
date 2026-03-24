@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hundelev",
+  "AfstemningsområdeDagiId": "710482",
+  "AfstemningsområdeNummer": 20,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:08:16",
+  "Kommune": "Hjørring",
+  "Kommunekode": 860,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 54,
+      "AntalStemmeberretigedeVælgere": 762,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Hasle Skole",
+  "AfstemningsområdeDagiId": "706860",
+  "AfstemningsområdeNummer": 23,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:13:45",
+  "Kommune": "Aarhus",
+  "Kommunekode": 751,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 985,
+      "AntalStemmeberretigedeVælgere": 6227,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

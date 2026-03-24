@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Nørre Alslev",
+  "AfstemningsområdeDagiId": "701748",
+  "AfstemningsområdeNummer": 10,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:41:12",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 475,
+      "AntalStemmeberretigedeVælgere": 2455,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

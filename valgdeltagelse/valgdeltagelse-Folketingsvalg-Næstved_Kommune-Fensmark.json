@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Fensmark",
+  "AfstemningsområdeDagiId": "707918",
+  "AfstemningsområdeNummer": 8,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:02",
+  "Kommune": "Næstved",
+  "Kommunekode": 370,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 528,
+      "AntalStemmeberretigedeVælgere": 3986,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Afstemningsområde": "Østerbro",
+  "AfstemningsområdeDagiId": "1",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "26-02-2026 17:23:13",
+  "Kommune": "København",
+  "Kommunekode": 101,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 755,
+      "AntalStemmeberretigedeVælgere": 9485,
+      "Tidspunkt": "10:59:00"
+    },
+    {
+      "AfgivneStemmer": 2500,
+      "AntalStemmeberretigedeVælgere": 9384,
+      "Tidspunkt": "13:59:00"
+    },
+    {
+      "AfgivneStemmer": 7677,
+      "AntalStemmeberretigedeVælgere": 9485,
+      "Tidspunkt": "16:59:00"
+    }
+  ]
+}

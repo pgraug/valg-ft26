@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kølkær",
+  "AfstemningsområdeDagiId": "701670",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:16:15",
+  "Kommune": "Herning",
+  "Kommunekode": 657,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 59,
+      "AntalStemmeberretigedeVælgere": 670,
+      "Tidspunkt": "09:01:00"
+    }
+  ]
+}

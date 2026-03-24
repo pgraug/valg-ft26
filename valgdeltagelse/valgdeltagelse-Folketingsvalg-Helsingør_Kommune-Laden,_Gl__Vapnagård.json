@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Laden, Gl. Vapnagård",
+  "AfstemningsområdeDagiId": "705752",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:12:37",
+  "Kommune": "Helsingør",
+  "Kommunekode": 217,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1169,
+      "AntalStemmeberretigedeVælgere": 5407,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 1169,
+      "AntalStemmeberretigedeVælgere": 5407,
+      "Tidspunkt": "10:03:00"
+    }
+  ]
+}

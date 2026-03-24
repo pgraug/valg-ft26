@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Drejø",
+  "AfstemningsområdeDagiId": "703708",
+  "AfstemningsområdeNummer": 6,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:02",
+  "Kommune": "Svendborg",
+  "Kommunekode": 479,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 20,
+      "AntalStemmeberretigedeVælgere": 55,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

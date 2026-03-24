@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Læsø",
+  "AfstemningsområdeDagiId": "702460",
+  "AfstemningsområdeNummer": 15,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:04:51",
+  "Kommune": "Læsø",
+  "Kommunekode": 825,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 236,
+      "AntalStemmeberretigedeVælgere": 1389,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 311,
+      "AntalStemmeberretigedeVælgere": 1389,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Jyllinge",
+  "AfstemningsområdeDagiId": "704358",
+  "AfstemningsområdeNummer": 13,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:31",
+  "Kommune": "Roskilde",
+  "Kommunekode": 265,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 954,
+      "AntalStemmeberretigedeVælgere": 5647,
+      "Tidspunkt": "09:03:00"
+    }
+  ]
+}

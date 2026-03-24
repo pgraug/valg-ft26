@@ -1,0 +1,138 @@
+{
+  "FrigivelsesTidspunktUTC": "31-08-2022 14:59:29",
+  "IndenforParti": [
+    {
+      "Kandidater": [
+        {
+          "AlfabetiskSorteretPlacering": 0,
+          "Id": "22856c0f-03d0-4862-ba90-2496d25320fd",
+          "Navn": "Alexander Larsen",
+          "Opstillingskredse": [
+            {
+              "KandidatsPlacering": 1,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Partiliste",
+              "Opstillingskreds": "Nørrebro",
+              "OpstillingskredsDagiId": "5"
+            },
+            {
+              "KandidatsPlacering": 1,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Partiliste",
+              "Opstillingskreds": "Falkoner",
+              "OpstillingskredsDagiId": "10"
+            }
+          ],
+          "Stemmeseddelnavn": "Alexander Larsen",
+          "Stilling": "Fysiker"
+        },
+        {
+          "AlfabetiskSorteretPlacering": 0,
+          "Id": "06ae256e-502f-41c5-8064-dddfdda1f3e8",
+          "Navn": "Cille Prisak",
+          "Opstillingskredse": [
+            {
+              "KandidatsPlacering": 2,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Partiliste",
+              "Opstillingskreds": "Nørrebro",
+              "OpstillingskredsDagiId": "5"
+            },
+            {
+              "KandidatsPlacering": 2,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Partiliste",
+              "Opstillingskreds": "Falkoner",
+              "OpstillingskredsDagiId": "10"
+            }
+          ],
+          "Stemmeseddelnavn": "Cille Prisak",
+          "Stilling": "Softwareingeniør"
+        }
+      ],
+      "Partibogstav": "A",
+      "PartiId": "00000000-0000-0000-0000-000000000000",
+      "Partinavn": "Socialdemokratiet",
+      "PersonligeStemmer": true,
+      "Stemmeseddelsplacering": 1
+    },
+    {
+      "Kandidater": [
+        {
+          "AlfabetiskSorteretPlacering": 0,
+          "Id": "7beaa9c2-a472-469b-9a5a-417e36a90623",
+          "Navn": "Anna Jensen",
+          "Opstillingskredse": [
+            {
+              "KandidatsPlacering": 2,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Kredsvis",
+              "Opstillingskreds": "Nørrebro",
+              "OpstillingskredsDagiId": "5"
+            },
+            {
+              "KandidatsPlacering": 2,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Kredsvis",
+              "Opstillingskreds": "Falkoner",
+              "OpstillingskredsDagiId": "10"
+            }
+          ],
+          "Stemmeseddelnavn": "Anna Jensen",
+          "Stilling": "Konsulent"
+        },
+        {
+          "AlfabetiskSorteretPlacering": 0,
+          "Id": "b25ac696-1051-4a9c-969c-56e6cf08a1e6",
+          "Navn": "Anne Colliander",
+          "Opstillingskredse": [
+            {
+              "KandidatsPlacering": 1,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Kredsvis",
+              "Opstillingskreds": "Nørrebro",
+              "OpstillingskredsDagiId": "5"
+            },
+            {
+              "KandidatsPlacering": 1,
+              "OpstilletIKreds": true,
+              "Opstillingsform": "Kredsvis",
+              "Opstillingskreds": "Falkoner",
+              "OpstillingskredsDagiId": "10"
+            }
+          ],
+          "Stemmeseddelnavn": "Anne Colliander",
+          "Stilling": "Advokat"
+        }
+      ],
+      "Partibogstav": "V",
+      "PartiId": "00000000-0000-0000-0000-000000000000",
+      "Partinavn": "Venstre",
+      "PersonligeStemmer": false,
+      "Stemmeseddelsplacering": 2
+    }
+  ],
+  "OpdateringsTidspunktUTC": "01-01-0001 00:00:00",
+  "Storkreds": "København",
+  "Storkredsnummer": "1",
+  "UdenforParti": [
+    {
+      "AlfabetiskSorteretPlacering": 0,
+      "Id": "b6eca372-be56-4a17-a14f-5f3467f7cccd",
+      "Navn": "Christian Vasie",
+      "Opstillingskredse": [],
+      "Stemmeseddelnavn": "Christian Vasie",
+      "Stilling": "Civilingeniør"
+    },
+    {
+      "AlfabetiskSorteretPlacering": 0,
+      "Id": "82178dec-ea86-4eb7-b963-40c8b609c72b",
+      "Navn": "Anders Holm",
+      "Opstillingskredse": [],
+      "Stemmeseddelnavn": "Anders Holm",
+      "Stilling": "Jurist"
+    }
+  ],
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "08-12-2022"
+}

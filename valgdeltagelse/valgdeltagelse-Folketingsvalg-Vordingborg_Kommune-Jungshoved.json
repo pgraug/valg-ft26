@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Jungshoved",
+  "AfstemningsområdeDagiId": "703480",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:33:56",
+  "Kommune": "Vordingborg",
+  "Kommunekode": 390,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 108,
+      "AntalStemmeberretigedeVælgere": 588,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

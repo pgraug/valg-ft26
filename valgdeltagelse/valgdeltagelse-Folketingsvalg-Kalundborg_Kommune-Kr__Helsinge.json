@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Kr. Helsinge",
+  "AfstemningsområdeDagiId": "704036",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:06:36",
+  "Kommune": "Kalundborg",
+  "Kommunekode": 326,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 241,
+      "AntalStemmeberretigedeVælgere": 1424,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

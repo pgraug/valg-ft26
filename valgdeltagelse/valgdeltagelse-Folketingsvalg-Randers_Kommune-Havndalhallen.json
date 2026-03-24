@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Havndalhallen",
+  "AfstemningsområdeDagiId": "704136",
+  "AfstemningsområdeNummer": 5,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:05:21",
+  "Kommune": "Randers",
+  "Kommunekode": 730,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 95,
+      "AntalStemmeberretigedeVælgere": 1085,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 157,
+      "AntalStemmeberretigedeVælgere": 1085,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

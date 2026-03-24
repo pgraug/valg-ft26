@@ -1,0 +1,22 @@
+{
+  "Afstemningsområde": "Lyngby Midt",
+  "AfstemningsområdeDagiId": "710178",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:14:07",
+  "Kommune": "Lyngby-Taarbæk",
+  "Kommunekode": 173,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 974,
+      "AntalStemmeberretigedeVælgere": 4998,
+      "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1172,
+      "AntalStemmeberretigedeVælgere": 4998,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

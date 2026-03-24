@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Ballum",
+  "AfstemningsområdeDagiId": "703560",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:03:50",
+  "Kommune": "Tønder",
+  "Kommunekode": 550,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 43,
+      "AntalStemmeberretigedeVælgere": 398,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

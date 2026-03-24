@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Majbølle",
+  "AfstemningsområdeDagiId": "709572",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 09:42:57",
+  "Kommune": "Guldborgsund",
+  "Kommunekode": 376,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 199,
+      "AntalStemmeberretigedeVælgere": 1168,
+      "Tidspunkt": "10:00:00"
+    }
+  ]
+}

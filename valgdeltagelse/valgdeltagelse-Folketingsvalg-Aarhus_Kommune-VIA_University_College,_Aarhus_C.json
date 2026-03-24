@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "VIA University College, Aarhus C",
+  "AfstemningsområdeDagiId": "723742",
+  "AfstemningsområdeNummer": 27,
+  "FrigivelsesTidspunktUTC": "24-03-2026 08:14:00",
+  "Kommune": "Aarhus",
+  "Kommunekode": 751,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1232,
+      "AntalStemmeberretigedeVælgere": 7180,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}
