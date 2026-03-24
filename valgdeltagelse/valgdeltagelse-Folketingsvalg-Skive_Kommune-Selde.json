@@ -2,7 +2,7 @@
   "Afstemningsområde": "Selde",
   "AfstemningsområdeDagiId": "748873",
   "AfstemningsområdeNummer": 18,
-  "FrigivelsesTidspunktUTC": "24-03-2026 13:15:41",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:25:15",
   "Kommune": "Skive",
   "Kommunekode": 779,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 377,
       "AntalStemmeberretigedeVælgere": 920,
       "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 495,
+      "AntalStemmeberretigedeVælgere": 920,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

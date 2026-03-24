@@ -2,7 +2,7 @@
   "Afstemningsområde": "Osted",
   "AfstemningsområdeDagiId": "703434",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:07:54",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:25:45",
   "Kommune": "Lejre",
   "Kommunekode": 350,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 613,
       "AntalStemmeberretigedeVælgere": 2306,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1163,
+      "AntalStemmeberretigedeVælgere": 2306,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
