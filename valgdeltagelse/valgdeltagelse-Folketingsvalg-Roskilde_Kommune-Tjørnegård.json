@@ -2,7 +2,7 @@
   "Afstemningsområde": "Tjørnegård",
   "AfstemningsområdeDagiId": "711710",
   "AfstemningsområdeNummer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:04:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:02",
   "Kommune": "Roskilde",
   "Kommunekode": 265,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 914,
       "AntalStemmeberretigedeVælgere": 5417,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 1354,
+      "AntalStemmeberretigedeVælgere": 5417,
+      "Tidspunkt": "11:00:00"
     }
   ]
 }

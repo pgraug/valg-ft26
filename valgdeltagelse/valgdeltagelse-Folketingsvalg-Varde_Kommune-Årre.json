@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Årre",
+  "AfstemningsområdeDagiId": "709060",
+  "AfstemningsområdeNummer": 22,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:18",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 166,
+      "AntalStemmeberretigedeVælgere": 825,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

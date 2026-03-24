@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Thisted",
+  "AfstemningsområdeDagiId": "705918",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:35",
+  "Kommune": "Thisted",
+  "Kommunekode": 787,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2934,
+      "AntalStemmeberretigedeVælgere": 10871,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

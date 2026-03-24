@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Fårvang",
+  "AfstemningsområdeDagiId": "705416",
+  "AfstemningsområdeNummer": 3,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:33",
+  "Kommune": "Silkeborg",
+  "Kommunekode": 740,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 214,
+      "AntalStemmeberretigedeVælgere": 1362,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}

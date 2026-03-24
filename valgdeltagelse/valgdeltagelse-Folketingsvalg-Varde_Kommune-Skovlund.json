@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Skovlund",
+  "AfstemningsområdeDagiId": "709054",
+  "AfstemningsområdeNummer": 33,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:02:32",
+  "Kommune": "Varde",
+  "Kommunekode": 573,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 122,
+      "AntalStemmeberretigedeVælgere": 542,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
