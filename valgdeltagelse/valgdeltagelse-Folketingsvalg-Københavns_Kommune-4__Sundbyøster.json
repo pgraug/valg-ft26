@@ -2,7 +2,7 @@
   "Afstemningsområde": "4. Sundbyøster",
   "AfstemningsområdeDagiId": "707726",
   "AfstemningsområdeNummer": 16,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:27:26",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:16:45",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2548,
       "AntalStemmeberretigedeVælgere": 7779,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 4186,
+      "AntalStemmeberretigedeVælgere": 7779,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

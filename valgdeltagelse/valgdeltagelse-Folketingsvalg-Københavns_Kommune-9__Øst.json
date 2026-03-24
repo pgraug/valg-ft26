@@ -2,7 +2,7 @@
   "Afstemningsområde": "9. Øst",
   "AfstemningsområdeDagiId": "709330",
   "AfstemningsområdeNummer": 52,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:38:43",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:16:15",
   "Kommune": "København",
   "Kommunekode": 101,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2434,
       "AntalStemmeberretigedeVælgere": 6440,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3815,
+      "AntalStemmeberretigedeVælgere": 6440,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
