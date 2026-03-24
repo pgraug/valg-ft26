@@ -2,7 +2,7 @@
   "Afstemningsområde": "Virum",
   "AfstemningsområdeDagiId": "704050",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:54:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:20",
   "Kommune": "Lyngby-Taarbæk",
   "Kommunekode": 173,
   "Valgart": "Folketingsvalg",
@@ -10,48 +10,53 @@
   "Valgdeltagelse": [
     {
       "AfgivneStemmer": 968,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "09:00:00"
     },
     {
       "AfgivneStemmer": 1191,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "10:00:00"
     },
     {
       "AfgivneStemmer": 1444,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "11:00:00"
     },
     {
       "AfgivneStemmer": 1700,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "12:00:00"
     },
     {
       "AfgivneStemmer": 1906,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "13:00:00"
     },
     {
       "AfgivneStemmer": 2146,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "14:00:00"
     },
     {
       "AfgivneStemmer": 2376,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "15:00:00"
     },
     {
       "AfgivneStemmer": 2727,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "16:00:00"
     },
     {
       "AfgivneStemmer": 3208,
-      "AntalStemmeberretigedeVælgere": 4824,
+      "AntalStemmeberretigedeVælgere": 4823,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 3736,
+      "AntalStemmeberretigedeVælgere": 4823,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

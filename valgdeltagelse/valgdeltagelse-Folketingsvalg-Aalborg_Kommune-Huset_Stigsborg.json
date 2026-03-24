@@ -2,7 +2,7 @@
   "Afstemningsområde": "Huset Stigsborg",
   "AfstemningsområdeDagiId": "749418",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:53",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:46",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1650,
       "AntalStemmeberretigedeVælgere": 5505,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3752,
+      "AntalStemmeberretigedeVælgere": 5505,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

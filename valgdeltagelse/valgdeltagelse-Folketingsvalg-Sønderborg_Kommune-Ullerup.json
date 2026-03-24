@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ullerup",
   "AfstemningsområdeDagiId": "706040",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:09:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:04",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 509,
       "AntalStemmeberretigedeVælgere": 1227,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 888,
+      "AntalStemmeberretigedeVælgere": 1227,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

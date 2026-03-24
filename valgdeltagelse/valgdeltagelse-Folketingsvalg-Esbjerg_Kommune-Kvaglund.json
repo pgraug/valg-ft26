@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kvaglund",
   "AfstemningsområdeDagiId": "702740",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:03:50",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:47",
   "Kommune": "Esbjerg",
   "Kommunekode": 561,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 994,
       "AntalStemmeberretigedeVælgere": 2414,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 1515,
+      "AntalStemmeberretigedeVælgere": 2414,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

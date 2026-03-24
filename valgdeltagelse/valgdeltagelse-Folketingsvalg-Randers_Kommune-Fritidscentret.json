@@ -2,7 +2,7 @@
   "Afstemningsområde": "Fritidscentret",
   "AfstemningsområdeDagiId": "711624",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:22",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:05",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 2017,
       "AntalStemmeberretigedeVælgere": 3814,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 2337,
+      "AntalStemmeberretigedeVælgere": 3814,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

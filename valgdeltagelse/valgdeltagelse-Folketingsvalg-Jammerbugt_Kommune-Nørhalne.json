@@ -2,7 +2,7 @@
   "Afstemningsområde": "Nørhalne",
   "AfstemningsområdeDagiId": "701540",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:05:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:48",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 633,
       "AntalStemmeberretigedeVælgere": 1295,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 957,
+      "AntalStemmeberretigedeVælgere": 1295,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

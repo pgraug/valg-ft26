@@ -2,7 +2,7 @@
   "Afstemningsområde": "Mejdal",
   "AfstemningsområdeDagiId": "703344",
   "AfstemningsområdeNummer": 2,
-  "FrigivelsesTidspunktUTC": "24-03-2026 15:04:14",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:31",
   "Kommune": "Holstebro",
   "Kommunekode": 661,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2280,
       "AntalStemmeberretigedeVælgere": 4456,
       "Tidspunkt": "16:00:00"
+    },
+    {
+      "AfgivneStemmer": 3403,
+      "AntalStemmeberretigedeVælgere": 4456,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

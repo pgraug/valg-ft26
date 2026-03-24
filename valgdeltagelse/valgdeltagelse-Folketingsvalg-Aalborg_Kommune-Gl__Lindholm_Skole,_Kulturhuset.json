@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gl. Lindholm Skole, Kulturhuset",
   "AfstemningsområdeDagiId": "711766",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:02:10",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:05",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 1224,
       "AntalStemmeberretigedeVælgere": 4565,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3018,
+      "AntalStemmeberretigedeVælgere": 4565,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

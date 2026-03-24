@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ulstedhallen",
   "AfstemningsområdeDagiId": "708966",
   "AfstemningsområdeNummer": 46,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:05:39",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:31",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 238,
       "AntalStemmeberretigedeVælgere": 1042,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 721,
+      "AntalStemmeberretigedeVælgere": 1042,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

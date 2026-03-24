@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søndermarkskolen",
   "AfstemningsområdeDagiId": "708744",
   "AfstemningsområdeNummer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:06:37",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:19",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 4025,
       "AntalStemmeberretigedeVælgere": 6543,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 4657,
+      "AntalStemmeberretigedeVælgere": 6543,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

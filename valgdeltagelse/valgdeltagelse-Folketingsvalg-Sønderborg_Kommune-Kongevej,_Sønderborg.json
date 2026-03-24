@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kongevej, Sønderborg",
   "AfstemningsområdeDagiId": "710622",
   "AfstemningsområdeNummer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:02:47",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:34",
   "Kommune": "Sønderborg",
   "Kommunekode": 540,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 2562,
       "AntalStemmeberretigedeVælgere": 5641,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 3933,
+      "AntalStemmeberretigedeVælgere": 5641,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

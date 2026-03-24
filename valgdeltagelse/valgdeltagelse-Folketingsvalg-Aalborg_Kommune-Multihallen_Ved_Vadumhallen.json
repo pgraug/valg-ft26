@@ -2,7 +2,7 @@
   "Afstemningsområde": "Multihallen Ved Vadumhallen",
   "AfstemningsområdeDagiId": "706034",
   "AfstemningsområdeNummer": 7,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:09",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:49",
   "Kommune": "Aalborg",
   "Kommunekode": 851,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 647,
       "AntalStemmeberretigedeVælgere": 2317,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1686,
+      "AntalStemmeberretigedeVælgere": 2317,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }

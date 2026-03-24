@@ -2,7 +2,7 @@
   "Afstemningsområde": "Sundparken",
   "AfstemningsområdeDagiId": "703428",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 16:09:51",
+  "FrigivelsesTidspunktUTC": "24-03-2026 17:06:32",
   "Kommune": "Horsens",
   "Kommunekode": 615,
   "Valgart": "Folketingsvalg",
@@ -52,6 +52,11 @@
       "AfgivneStemmer": 611,
       "AntalStemmeberretigedeVælgere": 1196,
       "Tidspunkt": "17:00:00"
+    },
+    {
+      "AfgivneStemmer": 685,
+      "AntalStemmeberretigedeVælgere": 1196,
+      "Tidspunkt": "18:00:00"
     }
   ]
 }
