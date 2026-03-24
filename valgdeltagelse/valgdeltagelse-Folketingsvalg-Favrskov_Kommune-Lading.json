@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Lading",
+  "AfstemningsområdeDagiId": "707272",
+  "AfstemningsområdeNummer": 14,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:38",
+  "Kommune": "Favrskov",
+  "Kommunekode": 710,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 199,
+      "AntalStemmeberretigedeVælgere": 884,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

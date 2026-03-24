@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sundhedshuset",
+  "AfstemningsområdeDagiId": "749337",
+  "AfstemningsområdeNummer": 7,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:07",
+  "Kommune": "Greve",
+  "Kommunekode": 253,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 683,
+      "AntalStemmeberretigedeVælgere": 4389,
+      "Tidspunkt": "09:00:00"
+    }
+  ]
+}

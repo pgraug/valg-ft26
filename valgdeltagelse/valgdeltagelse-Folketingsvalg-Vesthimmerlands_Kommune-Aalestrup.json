@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Aalestrup",
+  "AfstemningsområdeDagiId": "708562",
+  "AfstemningsområdeNummer": 1,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:40",
+  "Kommune": "Vesthimmerlands",
+  "Kommunekode": 820,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 770,
+      "AntalStemmeberretigedeVælgere": 2820,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Sognegården",
+  "AfstemningsområdeDagiId": "708406",
+  "AfstemningsområdeNummer": 2,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:38",
+  "Kommune": "Glostrup",
+  "Kommunekode": 161,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 689,
+      "AntalStemmeberretigedeVælgere": 2414,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

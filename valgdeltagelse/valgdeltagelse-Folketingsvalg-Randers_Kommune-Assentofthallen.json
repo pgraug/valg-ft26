@@ -2,7 +2,7 @@
   "Afstemningsområde": "Assentofthallen",
   "AfstemningsområdeDagiId": "710392",
   "AfstemningsområdeNummer": 36,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:04:18",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:22",
   "Kommune": "Randers",
   "Kommunekode": 730,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 906,
       "AntalStemmeberretigedeVælgere": 3439,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1109,
+      "AntalStemmeberretigedeVælgere": 3439,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Gug Skole",
+  "AfstemningsområdeDagiId": "706010",
+  "AfstemningsområdeNummer": 34,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:24",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 1568,
+      "AntalStemmeberretigedeVælgere": 5250,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

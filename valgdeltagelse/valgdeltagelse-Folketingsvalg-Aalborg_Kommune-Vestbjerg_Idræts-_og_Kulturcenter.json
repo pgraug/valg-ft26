@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "Vestbjerg Idræts- og Kulturcenter",
+  "AfstemningsområdeDagiId": "748570",
+  "AfstemningsområdeNummer": 9,
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:23",
+  "Kommune": "Aalborg",
+  "Kommunekode": 851,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 661,
+      "AntalStemmeberretigedeVælgere": 2398,
+      "Tidspunkt": "12:00:00"
+    }
+  ]
+}

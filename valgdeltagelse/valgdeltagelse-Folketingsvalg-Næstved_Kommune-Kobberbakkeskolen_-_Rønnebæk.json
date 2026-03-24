@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kobberbakkeskolen - Rønnebæk",
   "AfstemningsområdeDagiId": "706418",
   "AfstemningsområdeNummer": 29,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:03:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:07",
   "Kommune": "Næstved",
   "Kommunekode": 370,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 83,
       "AntalStemmeberretigedeVælgere": 725,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 183,
+      "AntalStemmeberretigedeVælgere": 725,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

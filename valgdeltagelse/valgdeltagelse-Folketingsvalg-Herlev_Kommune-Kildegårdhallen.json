@@ -2,7 +2,7 @@
   "Afstemningsområde": "Kildegårdhallen",
   "AfstemningsområdeDagiId": "701152",
   "AfstemningsområdeNummer": 3,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:15:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:03:12",
   "Kommune": "Herlev",
   "Kommunekode": 163,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 1517,
       "AntalStemmeberretigedeVælgere": 6440,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 1829,
+      "AntalStemmeberretigedeVælgere": 6440,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
