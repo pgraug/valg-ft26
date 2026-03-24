@@ -2,7 +2,7 @@
   "Afstemningsområde": "Alderslyst",
   "AfstemningsområdeDagiId": "702046",
   "AfstemningsområdeNummer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:03:01",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:44",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 1060,
       "AntalStemmeberretigedeVælgere": 3152,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1651,
+      "AntalStemmeberretigedeVælgere": 3152,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

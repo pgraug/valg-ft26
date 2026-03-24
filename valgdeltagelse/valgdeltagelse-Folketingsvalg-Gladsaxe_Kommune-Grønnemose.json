@@ -2,7 +2,7 @@
   "Afstemningsområde": "Grønnemose",
   "AfstemningsområdeDagiId": "710060",
   "AfstemningsområdeNummer": 4,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:09:23",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:59",
   "Kommune": "Gladsaxe",
   "Kommunekode": 159,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 2125,
       "AntalStemmeberretigedeVælgere": 6201,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 3479,
+      "AntalStemmeberretigedeVælgere": 6201,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

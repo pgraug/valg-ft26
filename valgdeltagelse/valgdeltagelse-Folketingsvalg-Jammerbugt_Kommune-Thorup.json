@@ -2,7 +2,7 @@
   "Afstemningsområde": "Thorup",
   "AfstemningsområdeDagiId": "704750",
   "AfstemningsområdeNummer": 14,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:37:28",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:59",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -32,6 +32,21 @@
       "AfgivneStemmer": 265,
       "AntalStemmeberretigedeVælgere": 925,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 310,
+      "AntalStemmeberretigedeVælgere": 925,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 352,
+      "AntalStemmeberretigedeVælgere": 925,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 401,
+      "AntalStemmeberretigedeVælgere": 925,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }

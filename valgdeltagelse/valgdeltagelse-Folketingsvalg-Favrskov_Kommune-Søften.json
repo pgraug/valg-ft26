@@ -2,7 +2,7 @@
   "Afstemningsområde": "Søften",
   "AfstemningsområdeDagiId": "711674",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:06:07",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:02:44",
   "Kommune": "Favrskov",
   "Kommunekode": 710,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,11 @@
       "AfgivneStemmer": 706,
       "AntalStemmeberretigedeVælgere": 2313,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 1251,
+      "AntalStemmeberretigedeVælgere": 2313,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

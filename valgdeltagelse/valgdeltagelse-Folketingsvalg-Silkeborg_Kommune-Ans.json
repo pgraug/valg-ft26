@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ans",
   "AfstemningsområdeDagiId": "708400",
   "AfstemningsområdeNummer": 1,
-  "FrigivelsesTidspunktUTC": "24-03-2026 12:01:30",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:01",
   "Kommune": "Silkeborg",
   "Kommunekode": 740,
   "Valgart": "Folketingsvalg",
@@ -17,6 +17,11 @@
       "AfgivneStemmer": 833,
       "AntalStemmeberretigedeVælgere": 2536,
       "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 1268,
+      "AntalStemmeberretigedeVælgere": 2536,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }

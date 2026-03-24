@@ -2,7 +2,7 @@
   "Afstemningsområde": "Skovsgård",
   "AfstemningsområdeDagiId": "707638",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 11:37:58",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:03:14",
   "Kommune": "Jammerbugt",
   "Kommunekode": 849,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,21 @@
       "AfgivneStemmer": 354,
       "AntalStemmeberretigedeVælgere": 1134,
       "Tidspunkt": "12:00:00"
+    },
+    {
+      "AfgivneStemmer": 421,
+      "AntalStemmeberretigedeVælgere": 1134,
+      "Tidspunkt": "13:00:00"
+    },
+    {
+      "AfgivneStemmer": 463,
+      "AntalStemmeberretigedeVælgere": 1134,
+      "Tidspunkt": "14:00:00"
+    },
+    {
+      "AfgivneStemmer": 518,
+      "AntalStemmeberretigedeVælgere": 1134,
+      "Tidspunkt": "15:00:00"
     }
   ]
 }
