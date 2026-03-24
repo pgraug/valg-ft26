@@ -1,0 +1,17 @@
+{
+  "Afstemningsområde": "CSV-Skolen",
+  "AfstemningsområdeDagiId": "708782",
+  "AfstemningsområdeNummer": 12,
+  "FrigivelsesTidspunktUTC": "24-03-2026 10:09:45",
+  "Kommune": "Odense",
+  "Kommunekode": 461,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026",
+  "Valgdeltagelse": [
+    {
+      "AfgivneStemmer": 2405,
+      "AntalStemmeberretigedeVælgere": 10216,
+      "Tidspunkt": "11:00:00"
+    }
+  ]
+}
