@@ -2,7 +2,7 @@
   "Afstemningsområde": "Vig",
   "AfstemningsområdeDagiId": "704468",
   "AfstemningsområdeNummer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:16:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:49:15",
   "Kommune": "Odsherred",
   "Kommunekode": 306,
   "Valgart": "Folketingsvalg",
@@ -22,6 +22,11 @@
       "AfgivneStemmer": 660,
       "AntalStemmeberretigedeVælgere": 2610,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 821,
+      "AntalStemmeberretigedeVælgere": 2610,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
