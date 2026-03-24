@@ -2,21 +2,26 @@
   "Afstemningsområde": "Bellevuehallerne, Risskov",
   "AfstemningsområdeDagiId": "709972",
   "AfstemningsområdeNummer": 45,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:27:00",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:53",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026",
   "Valgdeltagelse": [
     {
-      "AfgivneStemmer": 1520,
-      "AntalStemmeberretigedeVælgere": 9631,
+      "AfgivneStemmer": 1519,
+      "AntalStemmeberretigedeVælgere": 9629,
       "Tidspunkt": "08:00:00"
     },
     {
-      "AfgivneStemmer": 2236,
-      "AntalStemmeberretigedeVælgere": 9631,
+      "AfgivneStemmer": 2213,
+      "AntalStemmeberretigedeVælgere": 9629,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 3968,
+      "AntalStemmeberretigedeVælgere": 9629,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

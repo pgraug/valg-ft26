@@ -2,7 +2,7 @@
   "Afstemningsområde": "Aarhus Rådhus",
   "AfstemningsområdeDagiId": "708568",
   "AfstemningsområdeNummer": 21,
-  "FrigivelsesTidspunktUTC": "24-03-2026 08:18:46",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:25",
   "Kommune": "Aarhus",
   "Kommunekode": 751,
   "Valgart": "Folketingsvalg",
@@ -12,6 +12,26 @@
       "AfgivneStemmer": 2192,
       "AntalStemmeberretigedeVælgere": 11799,
       "Tidspunkt": "09:00:00"
+    },
+    {
+      "AfgivneStemmer": 2699,
+      "AntalStemmeberretigedeVælgere": 11799,
+      "Tidspunkt": "10:00:00"
+    },
+    {
+      "AfgivneStemmer": 3252,
+      "AntalStemmeberretigedeVælgere": 11799,
+      "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 3592,
+      "AntalStemmeberretigedeVælgere": 11799,
+      "Tidspunkt": "11:30:00"
+    },
+    {
+      "AfgivneStemmer": 3840,
+      "AntalStemmeberretigedeVælgere": 11799,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }

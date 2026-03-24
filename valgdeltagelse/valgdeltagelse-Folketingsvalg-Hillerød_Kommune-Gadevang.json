@@ -2,7 +2,7 @@
   "Afstemningsområde": "Gadevang",
   "AfstemningsområdeDagiId": "710380",
   "AfstemningsområdeNummer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 10:14:16",
+  "FrigivelsesTidspunktUTC": "24-03-2026 11:13:55",
   "Kommune": "Hillerød",
   "Kommunekode": 219,
   "Valgart": "Folketingsvalg",
@@ -27,6 +27,11 @@
       "AfgivneStemmer": 257,
       "AntalStemmeberretigedeVælgere": 832,
       "Tidspunkt": "11:00:00"
+    },
+    {
+      "AfgivneStemmer": 297,
+      "AntalStemmeberretigedeVælgere": 832,
+      "Tidspunkt": "12:00:00"
     }
   ]
 }
