@@ -2,7 +2,7 @@
   "Afstemningsområde": "Ellested Og Herrested",
   "AfstemningsområdeDagiId": "702004",
   "AfstemningsområdeNummer": 12,
-  "FrigivelsesTidspunktUTC": "24-03-2026 14:01:04",
+  "FrigivelsesTidspunktUTC": "24-03-2026 15:10:15",
   "Kommune": "Nyborg",
   "Kommunekode": 450,
   "Valgart": "Folketingsvalg",
@@ -42,6 +42,11 @@
       "AfgivneStemmer": 343,
       "AntalStemmeberretigedeVælgere": 903,
       "Tidspunkt": "15:00:00"
+    },
+    {
+      "AfgivneStemmer": 427,
+      "AntalStemmeberretigedeVælgere": 903,
+      "Tidspunkt": "16:00:00"
     }
   ]
 }
