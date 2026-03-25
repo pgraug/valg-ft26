@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 5,
   "BlankeUgyldigeFremmødteStemmer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:07:30",
-  "GyldigeStemmer": 2636,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:42:11",
+  "GyldigeStemmer": 2639,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -259,8 +259,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 290,
-      "Stemmer": 517,
+      "Partistemmer": 291,
+      "Stemmer": 518,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -324,8 +324,8 @@
       ],
       "PartiId": "2e08413e-1c5b-4029-8bce-eac0ebff6527",
       "PartiNavn": "Det Konservative Folkeparti",
-      "Partistemmer": 37,
-      "Stemmer": 136,
+      "Partistemmer": 38,
+      "Stemmer": 137,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -343,7 +343,7 @@
         },
         {
           "Id": "e99fed4a-6078-4243-a237-c767f42df7e9",
-          "Stemmer": 2,
+          "Stemmer": 3,
           "Stemmeseddelnavn": "Martin Laursen"
         },
         {
@@ -385,7 +385,7 @@
       "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
       "PartiNavn": "Enhedslisten - De Rød-Grønne",
       "Partistemmer": 135,
-      "Stemmer": 197,
+      "Stemmer": 198,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -764,31 +764,25 @@
       "Paragraf": "24,25"
     },
     {
-      "Antal": 1,
-      "Id": 22,
-      "Navn": "KunNavnUofficielBogstav",
-      "Paragraf": "20"
-    },
-    {
       "Antal": 0,
       "Id": 30,
       "Navn": "KonvolutMedPåskrift",
       "Paragraf": "29"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 31,
       "Navn": "StemmeseddelMedTegningPåskrift",
       "Paragraf": "30"
+    },
+    {
+      "Antal": 0,
+      "Id": 22,
+      "Navn": "KunNavnUofficielBogstav",
+      "Paragraf": "20"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
-    {
-      "Antal": 1,
-      "Id": 5,
-      "Navn": "KrydsIflerePartifelter",
-      "Paragraf": "8"
-    },
     {
       "Antal": 0,
       "Id": 12,
@@ -866,10 +860,16 @@
       "Id": 3,
       "Navn": "HeltEllerDelvistOverstreget",
       "Paragraf": "6"
+    },
+    {
+      "Antal": 0,
+      "Id": 5,
+      "Navn": "KrydsIflerePartifelter",
+      "Paragraf": "8"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 11,
+  "UgyldigeStemmerUdoverBlanke": 8,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
