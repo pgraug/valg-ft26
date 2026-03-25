@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 1076,
+  "AfgivneStemmer": 1077,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Asaa",
   "AfstemningsområdeDagiId": 708636,
@@ -8,8 +8,8 @@
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
-  "BlankeUgyldigeFremmødteStemmer": 11,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:53:13",
+  "BlankeUgyldigeFremmødteStemmer": 12,
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:55:58",
   "GyldigeStemmer": 1062,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -206,12 +206,6 @@
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
     {
-      "Antal": 11,
-      "Id": 1,
-      "Navn": "Blanke",
-      "Paragraf": "4"
-    },
-    {
       "Antal": 2,
       "Id": 13,
       "Navn": "StemmeseddelMedTegningPåskrift",
@@ -288,6 +282,12 @@
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
+    },
+    {
+      "Antal": 12,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
