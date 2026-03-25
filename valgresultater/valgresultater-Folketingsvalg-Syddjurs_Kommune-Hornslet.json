@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 3,
   "BlankeUgyldigeFremmødteStemmer": 39,
-  "FrigivelsesTidspunktUTC": "25-03-2026 07:51:47",
-  "GyldigeStemmer": 5206,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:39:25",
+  "GyldigeStemmer": 5209,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -164,8 +164,8 @@
       ],
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
-      "Partistemmer": 80,
-      "Stemmer": 136,
+      "Partistemmer": 81,
+      "Stemmer": 137,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -469,8 +469,8 @@
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 249,
-      "Stemmer": 306,
+      "Partistemmer": 250,
+      "Stemmer": 307,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -589,8 +589,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 704,
-      "Stemmer": 1349,
+      "Partistemmer": 705,
+      "Stemmer": 1350,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -716,12 +716,6 @@
       "Paragraf": "19"
     },
     {
-      "Antal": 5,
-      "Id": 31,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "30"
-    },
-    {
       "Antal": 2,
       "Id": 26,
       "Navn": "ModstridBogstavPartiNavn",
@@ -780,6 +774,12 @@
       "Id": 28,
       "Navn": "AndetEllerMereEndEnStemmeseddel",
       "Paragraf": "27"
+    },
+    {
+      "Antal": 4,
+      "Id": 31,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "30"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
@@ -850,26 +850,26 @@
       "Paragraf": "17"
     },
     {
-      "Antal": 4,
-      "Id": 2,
-      "Navn": "AndetMærkeEndKryds",
-      "Paragraf": "5"
-    },
-    {
       "Antal": 1,
       "Id": 5,
       "Navn": "KrydsIflerePartifelter",
       "Paragraf": "8"
     },
     {
-      "Antal": 6,
+      "Antal": 5,
       "Id": 13,
       "Navn": "StemmeseddelMedTegningPåskrift",
       "Paragraf": "16"
+    },
+    {
+      "Antal": 3,
+      "Id": 2,
+      "Navn": "AndetMærkeEndKryds",
+      "Paragraf": "5"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 18,
+  "UgyldigeStemmerUdoverBlanke": 15,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
