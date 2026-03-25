@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 2751,
+  "AfgivneStemmer": 2752,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Pedersborg",
   "AfstemningsområdeDagiId": 700914,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
   "BlankeUgyldigeFremmødteStemmer": 24,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:11:19",
-  "GyldigeStemmer": 2717,
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:17:00",
+  "GyldigeStemmer": 2718,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -629,8 +629,8 @@
       ],
       "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
       "PartiNavn": "Enhedslisten - De Rød-Grønne",
-      "Partistemmer": 49,
-      "Stemmer": 85,
+      "Partistemmer": 50,
+      "Stemmer": 86,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
