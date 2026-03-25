@@ -8,9 +8,9 @@
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 5,
-  "BlankeUgyldigeFremmødteStemmer": 50,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:50:30",
-  "GyldigeStemmer": 4661,
+  "BlankeUgyldigeFremmødteStemmer": 49,
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:01:52",
+  "GyldigeStemmer": 4665,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -133,12 +133,12 @@
       "Kandidater": [
         {
           "Id": "983f20f5-d4ef-458b-ac5a-14e0a939409f",
-          "Stemmer": 42,
+          "Stemmer": 43,
           "Stemmeseddelnavn": "Dennis Flydtkjær"
         },
         {
           "Id": "6c381713-81de-4333-a98f-db149c6356e3",
-          "Stemmer": 14,
+          "Stemmer": 4,
           "Stemmeseddelnavn": "Vivi Altenburg"
         },
         {
@@ -153,7 +153,7 @@
         },
         {
           "Id": "54539d96-13fe-491c-9dc1-0015e0689595",
-          "Stemmer": 5,
+          "Stemmer": 15,
           "Stemmeseddelnavn": "Betina Kastbjerg"
         },
         {
@@ -165,7 +165,7 @@
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
       "Partistemmer": 271,
-      "Stemmer": 387,
+      "Stemmer": 388,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -318,7 +318,7 @@
         },
         {
           "Id": "23693ef6-b15b-4a44-837d-ade87e2d1f14",
-          "Stemmer": 128,
+          "Stemmer": 130,
           "Stemmeseddelnavn": "Anders Andreasen"
         },
         {
@@ -359,8 +359,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 878,
-      "Stemmer": 1285,
+      "Partistemmer": 879,
+      "Stemmer": 1288,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -413,12 +413,12 @@
         },
         {
           "Id": "8ceb47a1-19c5-4bc3-8d5c-99a5aef22bce",
-          "Stemmer": 38,
+          "Stemmer": 39,
           "Stemmeseddelnavn": "Dina Andersen-Raabjerg"
         },
         {
           "Id": "5fa0669e-c81f-40f0-8bd3-dac273e0ffe5",
-          "Stemmer": 7,
+          "Stemmer": 6,
           "Stemmeseddelnavn": "Simon Højer"
         }
       ],
@@ -503,12 +503,12 @@
         },
         {
           "Id": "a98dd01e-544b-4602-a69c-317ef6458949",
-          "Stemmer": 218,
+          "Stemmer": 216,
           "Stemmeseddelnavn": "Signe Munk"
         },
         {
           "Id": "f41f00b8-4ad7-4d89-8444-5538106ec1ee",
-          "Stemmer": 122,
+          "Stemmer": 123,
           "Stemmeseddelnavn": "Nils Brøgger"
         },
         {
@@ -519,7 +519,7 @@
       ],
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": 204,
+      "Partistemmer": 205,
       "Stemmer": 557,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -528,7 +528,7 @@
       "Kandidater": [
         {
           "Id": "2818ee8c-a43d-43c5-aefc-f5c0a8c45d1e",
-          "Stemmer": 10,
+          "Stemmer": 13,
           "Stemmeseddelnavn": "Helge K. Frandsen"
         },
         {
@@ -538,13 +538,13 @@
         },
         {
           "Id": "9cc3d6f2-7582-47b4-beb7-d55d9b51f719",
-          "Stemmer": 16,
+          "Stemmer": 14,
           "Stemmeseddelnavn": "Jes Halfdan"
         }
       ],
       "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
       "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
-      "Partistemmer": 95,
+      "Partistemmer": 94,
       "Stemmer": 127,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -558,7 +558,7 @@
         },
         {
           "Id": "4ee6a3e6-8984-4920-a09e-a8f892050096",
-          "Stemmer": 54,
+          "Stemmer": 56,
           "Stemmeseddelnavn": "Søren Boel Olesen"
         },
         {
@@ -579,7 +579,7 @@
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 308,
+      "Partistemmer": 306,
       "Stemmer": 400,
       "StemmerDifferenceFraForrigeValg": null
     }
@@ -604,12 +604,6 @@
       "Id": 21,
       "Navn": "Blanke",
       "Paragraf": "19"
-    },
-    {
-      "Antal": 5,
-      "Id": 26,
-      "Navn": "ModstridBogstavPartiNavn",
-      "Paragraf": "24,25"
     },
     {
       "Antal": 3,
@@ -670,6 +664,12 @@
       "Id": 31,
       "Navn": "StemmeseddelMedTegningPåskrift",
       "Paragraf": "30"
+    },
+    {
+      "Antal": 3,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
@@ -734,12 +734,6 @@
       "Paragraf": "6"
     },
     {
-      "Antal": 50,
-      "Id": 1,
-      "Navn": "Blanke",
-      "Paragraf": "4"
-    },
-    {
       "Antal": 4,
       "Id": 13,
       "Navn": "StemmeseddelMedTegningPåskrift",
@@ -752,14 +746,20 @@
       "Paragraf": "8"
     },
     {
-      "Antal": 2,
+      "Antal": 49,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
+    },
+    {
+      "Antal": 1,
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 19,
+  "UgyldigeStemmerUdoverBlanke": 16,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }

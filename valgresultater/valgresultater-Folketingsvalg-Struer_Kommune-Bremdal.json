@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:51:15",
-  "GyldigeStemmer": 1351,
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:02:22",
+  "GyldigeStemmer": 1350,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -108,7 +108,7 @@
       "Kandidater": [
         {
           "Id": "515ccb36-bd6f-44c2-a5ff-26783a1ac09f",
-          "Stemmer": 2,
+          "Stemmer": 3,
           "Stemmeseddelnavn": "Niels Kristian Larsen"
         },
         {
@@ -128,7 +128,7 @@
         },
         {
           "Id": "a98dd01e-544b-4602-a69c-317ef6458949",
-          "Stemmer": 52,
+          "Stemmer": 51,
           "Stemmeseddelnavn": "Signe Munk"
         },
         {
@@ -238,7 +238,7 @@
         },
         {
           "Id": "23693ef6-b15b-4a44-837d-ade87e2d1f14",
-          "Stemmer": 45,
+          "Stemmer": 46,
           "Stemmeseddelnavn": "Anders Andreasen"
         },
         {
@@ -279,8 +279,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 246,
-      "Stemmer": 370,
+      "Partistemmer": 244,
+      "Stemmer": 369,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -358,7 +358,7 @@
         },
         {
           "Id": "a63fa5f8-339b-4221-9094-1beef337ee54",
-          "Stemmer": 7,
+          "Stemmer": 8,
           "Stemmeseddelnavn": "Morten E.G. Brautsch"
         },
         {
@@ -368,13 +368,13 @@
         },
         {
           "Id": "4ebdf7d2-d77e-46d7-879e-fb446272d5f9",
-          "Stemmer": 3,
+          "Stemmer": 4,
           "Stemmeseddelnavn": "Martin Sanderhoff"
         }
       ],
       "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
       "PartiNavn": "Moderaterne",
-      "Partistemmer": 73,
+      "Partistemmer": 71,
       "Stemmer": 85,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -746,7 +746,7 @@
       "Paragraf": "9"
     },
     {
-      "Antal": 0,
+      "Antal": 1,
       "Id": 5,
       "Navn": "KrydsIflerePartifelter",
       "Paragraf": "8"
@@ -759,7 +759,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 0,
+  "UgyldigeStemmerUdoverBlanke": 1,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
