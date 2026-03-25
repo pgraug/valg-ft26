@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 1811,
+  "AfgivneStemmer": 1812,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Fladså Hallen",
   "AfstemningsområdeDagiId": 707910,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 21,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:20:39",
-  "GyldigeStemmer": 1786,
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:30:25",
+  "GyldigeStemmer": 1787,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -563,7 +563,7 @@
       "Kandidater": [
         {
           "Id": "4b551d4c-e1c5-4bbb-b833-3f9dc0a36c99",
-          "Stemmer": 0,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Mette Friis"
         },
         {
@@ -620,7 +620,7 @@
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
       "Partistemmer": 12,
-      "Stemmer": 25,
+      "Stemmer": 26,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
