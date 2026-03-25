@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 9,
   "BlankeUgyldigeFremmødteStemmer": 91,
-  "FrigivelsesTidspunktUTC": "25-03-2026 12:46:00",
+  "FrigivelsesTidspunktUTC": "25-03-2026 13:44:15",
   "GyldigeStemmer": 6942,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -238,7 +238,7 @@
         },
         {
           "Id": "27e120b3-8bdb-45a2-bb01-d6e5796805c9",
-          "Stemmer": 5,
+          "Stemmer": 6,
           "Stemmeseddelnavn": "Jeppe Fransson"
         },
         {
@@ -268,7 +268,7 @@
         },
         {
           "Id": "e4ca7e21-760c-4638-b18b-8a89081c1f9c",
-          "Stemmer": 2,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Jeppe Trolle"
         }
       ],
