@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 7064,
+  "AfgivneStemmer": 7065,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Ringsted Nørretorv",
   "AfstemningsområdeDagiId": 711804,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 9,
   "BlankeUgyldigeFremmødteStemmer": 91,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:26:21",
-  "GyldigeStemmer": 6940,
+  "FrigivelsesTidspunktUTC": "25-03-2026 11:49:09",
+  "GyldigeStemmer": 6941,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -344,8 +344,8 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 255,
-      "Stemmer": 573,
+      "Partistemmer": 256,
+      "Stemmer": 574,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
