@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 5856,
+  "AfgivneStemmer": 5857,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Haderslev Nord",
   "AfstemningsområdeDagiId": 706096,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 13,
   "BlankeUgyldigeFremmødteStemmer": 71,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:15:10",
-  "GyldigeStemmer": 5753,
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:02:42",
+  "GyldigeStemmer": 5754,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -28,7 +28,7 @@
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
       "Partistemmer": null,
-      "Stemmer": 1486,
+      "Stemmer": 1487,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
