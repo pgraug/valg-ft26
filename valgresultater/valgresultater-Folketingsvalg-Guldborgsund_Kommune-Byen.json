@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 8,
   "BlankeUgyldigeFremmødteStemmer": 34,
-  "FrigivelsesTidspunktUTC": "25-03-2026 10:35:45",
+  "FrigivelsesTidspunktUTC": "25-03-2026 16:26:40",
   "GyldigeStemmer": 2968,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -628,22 +628,22 @@
         },
         {
           "Id": "cc43cca2-2607-4084-b88d-56ba802746d2",
-          "Stemmer": 7,
+          "Stemmer": 5,
           "Stemmeseddelnavn": "Carl Emil Lind"
         },
         {
           "Id": "5e29d40d-7127-40b7-9750-651ffcc668be",
-          "Stemmer": 0,
+          "Stemmer": 7,
           "Stemmeseddelnavn": "Tanja Larsson"
         },
         {
           "Id": "48099ab8-eaa7-450e-b4ab-4427d8b9a0a8",
-          "Stemmer": 9,
+          "Stemmer": 58,
           "Stemmeseddelnavn": "Kasper Roug"
         },
         {
           "Id": "59324198-5cb2-45d0-8071-9985a9203de3",
-          "Stemmer": 54,
+          "Stemmer": 0,
           "Stemmeseddelnavn": "Filiz Sarah Thunø"
         }
       ],
