@@ -1,0 +1,803 @@
+{
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:42:31",
+  "IndenforParti": [
+    {
+      "Bogstavbetegnelse": "O",
+      "Kandidater": [
+        {
+          "Id": "f642b976-a10d-4a46-ad9e-726db2eb8ae3",
+          "PersonligeStemmer": 435,
+          "Stemmeseddelnavn": "Nick Zimmermann",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "772e0692-3976-479c-9a9b-c587820eb73c",
+          "PersonligeStemmer": 139,
+          "Stemmeseddelnavn": "Nana Harring",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "78903b71-f46c-4273-95b9-6a61a071263c",
+          "PersonligeStemmer": 79,
+          "Stemmeseddelnavn": "Michael Nedersøe",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "2124df81-b1aa-43ec-8122-6ec777cbe8c3",
+          "PersonligeStemmer": 18,
+          "Stemmeseddelnavn": "Mercedes Czank",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "22ad5229-ef1b-4798-b564-bc686dca81ae",
+          "PersonligeStemmer": 27,
+          "Stemmeseddelnavn": "Jens Kannegaard Lundager",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
+      "PartiNavn": "Dansk Folkeparti",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "C",
+      "Kandidater": [
+        {
+          "Id": "e4172ee9-61b8-4509-8cbe-28e7b5947589",
+          "PersonligeStemmer": 1975,
+          "Stemmeseddelnavn": "Mona Juul",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "f2ac5609-791f-4982-872e-6573667362fb",
+          "PersonligeStemmer": 89,
+          "Stemmeseddelnavn": "Charlotte Green",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "4a4e406f-acc3-4e72-b618-3c856d5cf7e4",
+          "PersonligeStemmer": 30,
+          "Stemmeseddelnavn": "Anders Krojgaard Lund",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "4366755f-ed27-4414-b6f8-a875ab091e55",
+          "PersonligeStemmer": 22,
+          "Stemmeseddelnavn": "Viktor Thyregod Sivertsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "c43d96c5-fd06-43ba-b840-ec6ca9f41ad9",
+          "PersonligeStemmer": 31,
+          "Stemmeseddelnavn": "Bjørn Jensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "8fef024d-14b7-4d39-921f-ac2d85ee0cda",
+          "PersonligeStemmer": 13,
+          "Stemmeseddelnavn": "Bia Ndamukunda",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "ad595f07-bd0e-46bf-a066-c54bbc1f422b",
+          "PersonligeStemmer": 211,
+          "Stemmeseddelnavn": "Peter Sporleder",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "d1ec93c1-c8f5-41ce-b9cf-49268112b974",
+          "PersonligeStemmer": 3,
+          "Stemmeseddelnavn": "Morten Sørensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "d16cb71e-0136-4985-b9ef-da82b7c16f04",
+          "PersonligeStemmer": 31,
+          "Stemmeseddelnavn": "Jacob Skjærris",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "a52fe426-3235-4d1e-8145-004d9849e5b8",
+          "PersonligeStemmer": 14,
+          "Stemmeseddelnavn": "Michael Faust Horsbøl",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "a4d6058b-ee78-45a0-8fca-8e797ff2bdfd",
+          "PersonligeStemmer": 38,
+          "Stemmeseddelnavn": "Caroline Svejsø",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "2e08413e-1c5b-4029-8bce-eac0ebff6527",
+      "PartiNavn": "Det Konservative Folkeparti",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "A",
+      "Kandidater": [
+        {
+          "Id": "1cab5d98-4407-4a17-ab0e-423076c79e98",
+          "PersonligeStemmer": 23,
+          "Stemmeseddelnavn": "Louise Stenmann",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "da326ab3-a4f7-49a2-8625-15bf67509683",
+          "PersonligeStemmer": 52,
+          "Stemmeseddelnavn": "Pia Halkjær",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "39dc98e7-ab24-4cf8-979a-f1a8c9291ed9",
+          "PersonligeStemmer": 2519,
+          "Stemmeseddelnavn": "Nicolai Wammen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "59891653-be7e-4814-a50b-20b15bff0e02",
+          "PersonligeStemmer": 492,
+          "Stemmeseddelnavn": "Anders Kühnau",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "22eeea3d-8a94-45bb-aafc-438d82fcd882",
+          "PersonligeStemmer": 26,
+          "Stemmeseddelnavn": "Mathias Thybo",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "8490f324-33b3-4a05-aa13-b08b377924db",
+          "PersonligeStemmer": 1306,
+          "Stemmeseddelnavn": "Camilla Fabricius",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "33876be7-7c04-4648-bf44-7c2a9f59a8be",
+          "PersonligeStemmer": 38,
+          "Stemmeseddelnavn": "Thomas Monberg",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "f9c3e651-51b4-4d58-ab70-af31f729653e",
+          "PersonligeStemmer": 84,
+          "Stemmeseddelnavn": "Dorthe Hindborg",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "21c2c294-595e-443b-a20f-ca8404385619",
+          "PersonligeStemmer": 178,
+          "Stemmeseddelnavn": "Leif Lahn Jensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "2238f249-24ce-4bfe-b235-c01e2668b5bb",
+          "PersonligeStemmer": 18,
+          "Stemmeseddelnavn": "Erik Særkjær",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "705bccb7-457a-42a4-ac3c-0cbf36717b1c",
+          "PersonligeStemmer": 68,
+          "Stemmeseddelnavn": "Malte Larsen",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
+      "PartiNavn": "Socialdemokratiet",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "M",
+      "Kandidater": [
+        {
+          "Id": "a2fa964b-41fc-470e-b205-a75450c03c4b",
+          "PersonligeStemmer": 328,
+          "Stemmeseddelnavn": "Caroline Stage",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "8ff87e30-b92f-4430-b327-fccc06ddc924",
+          "PersonligeStemmer": 72,
+          "Stemmeseddelnavn": "Peter Have",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "ab875ad0-5be5-42ea-a7d9-41654bcd6da1",
+          "PersonligeStemmer": 324,
+          "Stemmeseddelnavn": "Christina Egelund",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "97b175e7-7e64-46f4-9fc6-9d15121c59cd",
+          "PersonligeStemmer": 65,
+          "Stemmeseddelnavn": "Susan Kronborg",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "3ec0e82f-4882-43e4-b5e0-079f532ee5b9",
+          "PersonligeStemmer": 40,
+          "Stemmeseddelnavn": "Søren Vanting",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "dcd2e842-05f0-438e-95d9-e43a28236d4a",
+          "PersonligeStemmer": 61,
+          "Stemmeseddelnavn": "Sten Larsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "d9c328b0-8b4e-47a8-9308-16c1a9daeede",
+          "PersonligeStemmer": 43,
+          "Stemmeseddelnavn": "Sara Pernille Jespersen",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
+      "PartiNavn": "Moderaterne",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "I",
+      "Kandidater": [
+        {
+          "Id": "05f73e0e-eb79-49a9-b2c1-b359f8a51abb",
+          "PersonligeStemmer": 27,
+          "Stemmeseddelnavn": "Lars Abildskov",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "26afca1a-6a00-461f-b7cd-e22ad39923e0",
+          "PersonligeStemmer": 3,
+          "Stemmeseddelnavn": "Niels Povlsgaard",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "33a42d70-f843-44ca-8afb-2fde6127bcad",
+          "PersonligeStemmer": 39,
+          "Stemmeseddelnavn": "Louise Brown",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "4174cf88-4ba1-4a5c-9603-a7df5b7a56b2",
+          "PersonligeStemmer": 29,
+          "Stemmeseddelnavn": "Jens Meilvang",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "ebcff6d2-bb86-424b-a20c-3db5d4e67142",
+          "PersonligeStemmer": 15,
+          "Stemmeseddelnavn": "Søren Jensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "34dd8065-dbf3-41f4-a8df-30236ec26f06",
+          "PersonligeStemmer": 35,
+          "Stemmeseddelnavn": "Chris Hvidberg",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "634af822-59e8-43f4-a5e7-1f5286146f48",
+          "PersonligeStemmer": 3164,
+          "Stemmeseddelnavn": "Alex Vanopslagh",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "11bb90cb-9d17-4ec4-807b-5463591dd079",
+          "PersonligeStemmer": 22,
+          "Stemmeseddelnavn": "Kim Møller-Nielsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "77dc5cd9-2e04-49fb-90c7-64786d7be74b",
+          "PersonligeStemmer": 22,
+          "Stemmeseddelnavn": "Louise Svenstrup",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "c18278bb-82af-427e-a902-64d84fcb1001",
+          "PersonligeStemmer": 4,
+          "Stemmeseddelnavn": "Michael Klausen",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
+      "PartiNavn": "Liberal Alliance",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "H",
+      "Kandidater": [
+        {
+          "Id": "48f42799-bb4d-446e-8e5e-aaf624f0e72e",
+          "PersonligeStemmer": 15,
+          "Stemmeseddelnavn": "Viviane Ellasofie Karlsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "109e2652-6dc4-4342-976f-44c3d559fdb4",
+          "PersonligeStemmer": 2,
+          "Stemmeseddelnavn": "Michael Bang Pedersen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "897525d0-4ffb-4cb9-b44d-0765cee092cb",
+          "PersonligeStemmer": 623,
+          "Stemmeseddelnavn": "Lars Boje Mathiesen",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
+      "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "Ø",
+      "Kandidater": [
+        {
+          "Id": "187da5bc-3ec5-4315-823f-3a9979446341",
+          "PersonligeStemmer": 28,
+          "Stemmeseddelnavn": "Christina Hedegaard Hansen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "08ee8c19-e03b-479f-a229-8346afdd77b6",
+          "PersonligeStemmer": 89,
+          "Stemmeseddelnavn": "Maria Sørensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "0be3a701-6c71-480f-9692-408502a39d22",
+          "PersonligeStemmer": 297,
+          "Stemmeseddelnavn": "Edith Vels",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "1c8d80b3-7bbf-4bd5-8a43-ff40b5eb8ec6",
+          "PersonligeStemmer": 42,
+          "Stemmeseddelnavn": "Lisbeth Ivanhoe",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "f1a65853-d6a7-4f84-9704-a1783ea06f16",
+          "PersonligeStemmer": 29,
+          "Stemmeseddelnavn": "Dennis Munk",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "133dc4c6-a28b-4c72-9684-d75b10c16c42",
+          "PersonligeStemmer": 41,
+          "Stemmeseddelnavn": "Jakob Jensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "e99fed4a-6078-4243-a237-c767f42df7e9",
+          "PersonligeStemmer": 65,
+          "Stemmeseddelnavn": "Martin Laursen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "a8f244c8-1828-4064-852c-5670f0345693",
+          "PersonligeStemmer": 40,
+          "Stemmeseddelnavn": "Kristjar Skajaa",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "dcb87a79-4e0b-4533-aa0d-be959286106b",
+          "PersonligeStemmer": 366,
+          "Stemmeseddelnavn": "Maria Temponeras",
+          "TildeltePartistemmer": 3707
+        },
+        {
+          "Id": "06d6d12d-4cea-4746-8ae9-523203868648",
+          "PersonligeStemmer": 501,
+          "Stemmeseddelnavn": "Trine Mach",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Kredsvis",
+      "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
+      "PartiNavn": "Enhedslisten - De Rød-Grønne",
+      "PersonligeStemmer": false,
+      "Stemmer": 3707
+    },
+    {
+      "Bogstavbetegnelse": "V",
+      "Kandidater": [
+        {
+          "Id": "f27cf6f7-a136-47f9-98d2-2c35fdae1a00",
+          "PersonligeStemmer": 13,
+          "Stemmeseddelnavn": "Henrik Rejnholt Andersen",
+          "TildeltePartistemmer": 8
+        },
+        {
+          "Id": "2883d46c-e050-416f-a366-1d8f716452b4",
+          "PersonligeStemmer": 40,
+          "Stemmeseddelnavn": "Hans Skou",
+          "TildeltePartistemmer": 26
+        },
+        {
+          "Id": "e34638ee-6cd3-4ea9-a8b9-d4589cff4f81",
+          "PersonligeStemmer": 61,
+          "Stemmeseddelnavn": "Emil M. D. Christensen",
+          "TildeltePartistemmer": 39
+        },
+        {
+          "Id": "bd814fa9-a13b-4e1b-a50f-b10e300f2934",
+          "PersonligeStemmer": 125,
+          "Stemmeseddelnavn": "Gert Bjerregaard",
+          "TildeltePartistemmer": 80
+        },
+        {
+          "Id": "27adaef0-68f1-456c-a546-8194183b76c4",
+          "PersonligeStemmer": 51,
+          "Stemmeseddelnavn": "Louise Høeg",
+          "TildeltePartistemmer": 33
+        },
+        {
+          "Id": "57d03d87-5522-4696-aa28-053d31104e74",
+          "PersonligeStemmer": 187,
+          "Stemmeseddelnavn": "Erik Veje Rasmussen",
+          "TildeltePartistemmer": 119
+        },
+        {
+          "Id": "149a521c-e489-46ff-9f7d-1c98e1f4cb24",
+          "PersonligeStemmer": 83,
+          "Stemmeseddelnavn": "Karina Aamann",
+          "TildeltePartistemmer": 53
+        },
+        {
+          "Id": "bb5fd0bc-dc41-4e72-81e1-4075588f5431",
+          "PersonligeStemmer": 27,
+          "Stemmeseddelnavn": "Sebastian Støckler",
+          "TildeltePartistemmer": 17
+        },
+        {
+          "Id": "11e70fef-6abd-4266-be19-e981f53229cd",
+          "PersonligeStemmer": 232,
+          "Stemmeseddelnavn": "Mathilde Hjort Bressum",
+          "TildeltePartistemmer": 148
+        },
+        {
+          "Id": "767e84b8-7c7a-48a3-80d2-d8b2ade10986",
+          "PersonligeStemmer": 1136,
+          "Stemmeseddelnavn": "Troels Lund Poulsen",
+          "TildeltePartistemmer": 725
+        },
+        {
+          "Id": "26be3f43-10b9-4307-81b1-cdc7514ea56a",
+          "PersonligeStemmer": 251,
+          "Stemmeseddelnavn": "Louise Louring",
+          "TildeltePartistemmer": 160
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
+      "PartiNavn": "Venstre, Danmarks Liberale Parti",
+      "PersonligeStemmer": false,
+      "Stemmer": 1408
+    },
+    {
+      "Bogstavbetegnelse": "B",
+      "Kandidater": [
+        {
+          "Id": "ff36b52a-cdae-417c-bc3e-043f57017a78",
+          "PersonligeStemmer": 367,
+          "Stemmeseddelnavn": "Anne Sophie Callesen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "1b73065d-c582-470c-a6d3-e7c76615fd0f",
+          "PersonligeStemmer": 157,
+          "Stemmeseddelnavn": "Mathias Sikora",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "67f55982-cd23-4944-ae11-b87f4a7ff065",
+          "PersonligeStemmer": 46,
+          "Stemmeseddelnavn": "Rikke Christensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "67fb9bd2-3009-4d08-9771-409f6e6eb2b6",
+          "PersonligeStemmer": 141,
+          "Stemmeseddelnavn": "Line Rasmussen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "d5df3a14-013c-4567-82cf-29e4f544124f",
+          "PersonligeStemmer": 85,
+          "Stemmeseddelnavn": "Rune Christiansen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "8cbc511f-34d3-42f3-adbc-9848b0ce65a9",
+          "PersonligeStemmer": 1356,
+          "Stemmeseddelnavn": "Rabih Azad-Ahmad",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "66657e14-e881-43ae-864e-7ec95b82b05d",
+          "PersonligeStemmer": 23,
+          "Stemmeseddelnavn": "Bjarke Jensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "dad37ec2-5cd7-4e6a-917d-8a36f591cfc3",
+          "PersonligeStemmer": 715,
+          "Stemmeseddelnavn": "Katrine Robsøe",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "7558913a-15b0-4d78-a2fa-637924411fe7",
+          "PersonligeStemmer": 90,
+          "Stemmeseddelnavn": "Hanne Roed",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "93a1aa01-2897-474b-8604-a1326c9b3948",
+      "PartiNavn": "Radikale Venstre",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "Å",
+      "Kandidater": [
+        {
+          "Id": "515821bd-e044-4042-a808-8197e3771edd",
+          "PersonligeStemmer": 3,
+          "Stemmeseddelnavn": "Thomas Quist Mortensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "94da0aa5-7b90-4ecd-a723-079daae8e71e",
+          "PersonligeStemmer": 0,
+          "Stemmeseddelnavn": "Kim Sørensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "97b3cb21-837a-443d-823c-65eab0339d82",
+          "PersonligeStemmer": 9,
+          "Stemmeseddelnavn": "Hanne K. Mortensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "fca8056e-7413-4896-9583-59baab01f85b",
+          "PersonligeStemmer": 0,
+          "Stemmeseddelnavn": "Marcus Bech Pedersen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "6f9285ee-5a56-4a3d-8161-ea3122bce9a6",
+          "PersonligeStemmer": 15,
+          "Stemmeseddelnavn": "Anna Calero",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "e2e2d547-9870-4992-99aa-4e46bde889b7",
+          "PersonligeStemmer": 6,
+          "Stemmeseddelnavn": "Juma Nellemann Kruse",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "9c0043d0-957b-4b82-bb89-cf6ceaf5cb88",
+          "PersonligeStemmer": 15,
+          "Stemmeseddelnavn": "Pernille Skærsø",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "16eae56d-a60e-4421-8ab2-a0ec424dfe27",
+          "PersonligeStemmer": 27,
+          "Stemmeseddelnavn": "Tina Kjær",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "63110ad4-bbc4-4f7f-b3af-dead6d0cbfd5",
+          "PersonligeStemmer": 115,
+          "Stemmeseddelnavn": "Nikoline Erbs Hillers-Bendtsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "6a8a0708-0634-4119-86f1-9f266e8bb75a",
+          "PersonligeStemmer": 55,
+          "Stemmeseddelnavn": "Gitte Dreier Jacobsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "fe1af2a4-2adb-4350-b08c-2d466c5d6cbc",
+          "PersonligeStemmer": 9,
+          "Stemmeseddelnavn": "Sasja Elkjær Krogsdal",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "b09c272b-b691-4832-aba2-9ca9287b292a",
+          "PersonligeStemmer": 17,
+          "Stemmeseddelnavn": "Thor Clasen Jonasen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "853b9789-cd33-4349-8326-7600a0cbf1f7",
+          "PersonligeStemmer": 396,
+          "Stemmeseddelnavn": "Torsten Gejl",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "ac7b4f70-149c-441c-807b-5374ea6b02b6",
+          "PersonligeStemmer": 45,
+          "Stemmeseddelnavn": "Steffen Hedegaard Attermann Brinch",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "d4aef58f-1879-4320-9fc4-8db91639cb4a",
+          "PersonligeStemmer": 31,
+          "Stemmeseddelnavn": "Bjørn Olsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "e8ed81f6-76b7-48ed-9a2d-f0c9c3be21e7",
+          "PersonligeStemmer": 4,
+          "Stemmeseddelnavn": "Thomas Due Nielsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "8b8cbdd9-1b0f-44ba-922a-c4a077b28057",
+          "PersonligeStemmer": 2,
+          "Stemmeseddelnavn": "Lissi Bagge",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "fca0af69-5750-40b6-8f31-6625a545f207",
+          "PersonligeStemmer": 17,
+          "Stemmeseddelnavn": "Karina Konrad",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "7977cb4d-f631-4f2c-8222-9ee909ea7163",
+          "PersonligeStemmer": 8,
+          "Stemmeseddelnavn": "Mads Damgaard Mortensen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "cac06c06-29a7-4ba5-b1c2-69a11c32554f",
+          "PersonligeStemmer": 5,
+          "Stemmeseddelnavn": "Tenna Duch Schaldemose",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
+      "PartiNavn": "Alternativet",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "F",
+      "Kandidater": [
+        {
+          "Id": "5048b339-f206-4705-94f8-97277fb54c50",
+          "PersonligeStemmer": 1215,
+          "Stemmeseddelnavn": "Kirsten Normann Andersen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "5dc240eb-496c-4cec-872d-30717b721951",
+          "PersonligeStemmer": 264,
+          "Stemmeseddelnavn": "Anna Brændemose",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "253b6932-7762-476e-bf36-10dc7fbee180",
+          "PersonligeStemmer": 32,
+          "Stemmeseddelnavn": "Morten Siig Henriksen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "234255e4-1e95-444b-8d8d-0c60e91cc060",
+          "PersonligeStemmer": 94,
+          "Stemmeseddelnavn": "Søren Lahn Sloth",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "01455b84-eb59-4dbc-8c4c-575e28057aaa",
+          "PersonligeStemmer": 87,
+          "Stemmeseddelnavn": "Paw Hedegaard Amdisen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "6aa73375-7c35-4fbb-8f0e-edd6fdaffb08",
+          "PersonligeStemmer": 209,
+          "Stemmeseddelnavn": "Charlotte Broman Mølbæk",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "ab3593dc-87d3-498c-a4b6-6c07e9570a4b",
+          "PersonligeStemmer": 526,
+          "Stemmeseddelnavn": "Sofie Lippert",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "83c4d94c-0f63-42da-be12-cd680192ec93",
+          "PersonligeStemmer": 145,
+          "Stemmeseddelnavn": "Charlotte Vindeløv",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "c7e4eace-cb86-4592-82b7-51610864cc93",
+          "PersonligeStemmer": 89,
+          "Stemmeseddelnavn": "Carina Sarkkinen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "81b3ac9d-1fb5-4010-a9f3-3058df1f934b",
+          "PersonligeStemmer": 130,
+          "Stemmeseddelnavn": "Rasmus T. Mortensen",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
+      "PartiNavn": "SF - Socialistisk Folkeparti",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    },
+    {
+      "Bogstavbetegnelse": "Æ",
+      "Kandidater": [
+        {
+          "Id": "d2ef8b99-0262-46ae-acb6-47d3e773ba51",
+          "PersonligeStemmer": 60,
+          "Stemmeseddelnavn": "Lone Glarbo",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "7db516f2-9330-4138-a7d5-5be17db1640c",
+          "PersonligeStemmer": 47,
+          "Stemmeseddelnavn": "Rune Mikkelsen",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "3dee1fbe-cc98-4ecf-a7af-0e941a8ac8f2",
+          "PersonligeStemmer": 31,
+          "Stemmeseddelnavn": "Magnus Bigum",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "c2895006-f3e6-42c3-99f8-e5cd50c0c0b4",
+          "PersonligeStemmer": 69,
+          "Stemmeseddelnavn": "Hans Kristian Skibby",
+          "TildeltePartistemmer": 0
+        },
+        {
+          "Id": "183fb5e6-d6c3-4ff6-b4e6-5393666a009f",
+          "PersonligeStemmer": 17,
+          "Stemmeseddelnavn": "Erik Poulsen",
+          "TildeltePartistemmer": 0
+        }
+      ],
+      "Opstillingsform": "Prioriteret sideordnet",
+      "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
+      "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
+      "PersonligeStemmer": true,
+      "Stemmer": 0
+    }
+  ],
+  "Opstillingskreds": "Aarhus Vest",
+  "OpstillingskredsDagiId": "403608",
+  "Storkreds": "Østjylland",
+  "Storkredsnummer": 8,
+  "Valgart": "Folketingsvalg",
+  "Valgdag": "24-03-2026"
+}
