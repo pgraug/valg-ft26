@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 6,
   "BlankeUgyldigeFremmødteStemmer": 21,
-  "FrigivelsesTidspunktUTC": "25-03-2026 08:41:04",
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:59:36",
   "GyldigeStemmer": 2337,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -483,7 +483,7 @@
         },
         {
           "Id": "3c2acf4a-6f9a-40e2-b1be-3713c4465f37",
-          "Stemmer": 4,
+          "Stemmer": 0,
           "Stemmeseddelnavn": "Maria Ladegaard"
         },
         {
@@ -493,7 +493,7 @@
         },
         {
           "Id": "52650c4a-0e41-4854-95c5-b0540fa3d73d",
-          "Stemmer": 1,
+          "Stemmer": 5,
           "Stemmeseddelnavn": "Marie Brixtofte"
         },
         {
