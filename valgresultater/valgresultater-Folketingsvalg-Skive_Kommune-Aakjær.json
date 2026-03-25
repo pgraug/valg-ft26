@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 9,
   "BlankeUgyldigeFremmødteStemmer": 71,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:13:20",
+  "FrigivelsesTidspunktUTC": "25-03-2026 11:37:38",
   "GyldigeStemmer": 4522,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -728,16 +728,16 @@
       "Paragraf": "15"
     },
     {
-      "Antal": 0,
-      "Id": 13,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "16"
-    },
-    {
       "Antal": 71,
       "Id": 1,
       "Navn": "Blanke",
       "Paragraf": "4"
+    },
+    {
+      "Antal": 1,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
     },
     {
       "Antal": 1,
@@ -746,7 +746,7 @@
       "Paragraf": "8"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 11,
       "Navn": "AndetMærkeEndKrydsForudenKryds",
       "Paragraf": "14"
