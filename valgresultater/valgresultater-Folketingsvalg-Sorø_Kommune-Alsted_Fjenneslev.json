@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
   "BlankeUgyldigeFremmødteStemmer": 15,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:17:35",
-  "GyldigeStemmer": 1125,
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:25:46",
+  "GyldigeStemmer": 1126,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -449,8 +449,8 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 41,
-      "Stemmer": 146,
+      "Partistemmer": 42,
+      "Stemmer": 147,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -956,14 +956,14 @@
       "Paragraf": "8"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 13,
       "Navn": "StemmeseddelMedTegningPåskrift",
       "Paragraf": "16"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 4,
+  "UgyldigeStemmerUdoverBlanke": 3,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
