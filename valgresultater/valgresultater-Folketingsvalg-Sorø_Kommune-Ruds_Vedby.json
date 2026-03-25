@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 1181,
+  "AfgivneStemmer": 1182,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Ruds Vedby",
   "AfstemningsområdeDagiId": 705564,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 17,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:25:54",
-  "GyldigeStemmer": 1164,
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:15:44",
+  "GyldigeStemmer": 1165,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -667,6 +667,11 @@
           "Stemmeseddelnavn": "Isabella Apelroth"
         },
         {
+          "Id": "4b551d4c-e1c5-4bbb-b833-3f9dc0a36c99",
+          "Stemmer": 2,
+          "Stemmeseddelnavn": "Mette Friis"
+        },
+        {
           "Id": "a622b06d-4301-49dc-9618-68373da45e4d",
           "Stemmer": 2,
           "Stemmeseddelnavn": "Elise Sydendal"
@@ -697,11 +702,6 @@
           "Stemmeseddelnavn": "Line Gessø"
         },
         {
-          "Id": "4b551d4c-e1c5-4bbb-b833-3f9dc0a36c99",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Mette Friis"
-        },
-        {
           "Id": "c38405f9-60aa-472b-b46c-049d69866a36",
           "Stemmer": 1,
           "Stemmeseddelnavn": "Valentina Crast"
@@ -720,7 +720,7 @@
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
       "Partistemmer": 6,
-      "Stemmer": 14,
+      "Stemmer": 15,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
