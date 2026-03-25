@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 5,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:49:00",
+  "FrigivelsesTidspunktUTC": "25-03-2026 11:14:35",
   "GyldigeStemmer": 1381,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -162,8 +162,13 @@
       "Bogstavbetegnelse": "Æ",
       "Kandidater": [
         {
+          "Id": "5a320bc6-5e84-4ed4-baf5-4a8edf1daee8",
+          "Stemmer": 30,
+          "Stemmeseddelnavn": "Mads Fuglede"
+        },
+        {
           "Id": "983f20f5-d4ef-458b-ac5a-14e0a939409f",
-          "Stemmer": 21,
+          "Stemmer": 22,
           "Stemmeseddelnavn": "Dennis Flydtkjær"
         },
         {
@@ -182,19 +187,14 @@
           "Stemmeseddelnavn": "Betina Kastbjerg"
         },
         {
-          "Id": "5a320bc6-5e84-4ed4-baf5-4a8edf1daee8",
-          "Stemmer": 30,
-          "Stemmeseddelnavn": "Mads Fuglede"
-        },
-        {
           "Id": "a06d6c16-6951-493a-a7f6-30aa4dae05c2",
-          "Stemmer": 8,
+          "Stemmer": 9,
           "Stemmeseddelnavn": "Marcus Juul Grønbæk"
         }
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 130,
+      "Partistemmer": 128,
       "Stemmer": 202,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -243,7 +243,7 @@
         },
         {
           "Id": "273731fd-a5be-44fb-9620-eaa64e269629",
-          "Stemmer": 383,
+          "Stemmer": 384,
           "Stemmeseddelnavn": "Erik Flyvholm"
         },
         {
@@ -253,7 +253,7 @@
         },
         {
           "Id": "481ba70a-f4e5-4f2c-9a3f-503d76d9808e",
-          "Stemmer": 33,
+          "Stemmer": 32,
           "Stemmeseddelnavn": "Thomas Danielsen"
         }
       ],
@@ -373,7 +373,7 @@
         },
         {
           "Id": "58eb4bf0-ef7f-4cd8-aed3-a83d8f560c6b",
-          "Stemmer": 21,
+          "Stemmer": 22,
           "Stemmeseddelnavn": "Anne Paulin"
         },
         {
@@ -419,7 +419,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 185,
+      "Partistemmer": 184,
       "Stemmer": 265,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -487,14 +487,14 @@
       "Bogstavbetegnelse": "B",
       "Kandidater": [
         {
-          "Id": "d73dfbea-dc6e-414a-ac09-82864a73747a",
-          "Stemmer": 4,
-          "Stemmeseddelnavn": "Peter Vestergaard"
-        },
-        {
           "Id": "cce698ed-bfd7-4ce9-a352-e6a9d6f41b56",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Casper Hindkjær"
+        },
+        {
+          "Id": "a64387cc-5365-42ae-95fc-ae1bf35d54ce",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Kim Pagels"
         },
         {
           "Id": "aef5742b-ed40-4ea7-963a-6e46b05d8fd4",
@@ -502,9 +502,9 @@
           "Stemmeseddelnavn": "Lone Kjær Hein"
         },
         {
-          "Id": "a64387cc-5365-42ae-95fc-ae1bf35d54ce",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Kim Pagels"
+          "Id": "d73dfbea-dc6e-414a-ac09-82864a73747a",
+          "Stemmer": 4,
+          "Stemmeseddelnavn": "Peter Vestergaard"
         },
         {
           "Id": "9ad6c7f1-6b5f-4ace-8f44-02d40228d445",
@@ -612,24 +612,6 @@
       "Paragraf": "23"
     },
     {
-      "Antal": 0,
-      "Id": 26,
-      "Navn": "ModstridBogstavPartiNavn",
-      "Paragraf": "24,25"
-    },
-    {
-      "Antal": 0,
-      "Id": 24,
-      "Navn": "KunUofficelBogstavPåFlereBogstaver",
-      "Paragraf": "22"
-    },
-    {
-      "Antal": 0,
-      "Id": 28,
-      "Navn": "AndetEllerMereEndEnStemmeseddel",
-      "Paragraf": "27"
-    },
-    {
       "Antal": 2,
       "Id": 21,
       "Navn": "Blanke",
@@ -661,6 +643,24 @@
     },
     {
       "Antal": 0,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
+    },
+    {
+      "Antal": 0,
+      "Id": 24,
+      "Navn": "KunUofficelBogstavPåFlereBogstaver",
+      "Paragraf": "22"
+    },
+    {
+      "Antal": 0,
+      "Id": 28,
+      "Navn": "AndetEllerMereEndEnStemmeseddel",
+      "Paragraf": "27"
+    },
+    {
+      "Antal": 0,
       "Id": 30,
       "Navn": "KonvolutMedPåskrift",
       "Paragraf": "29"
@@ -680,28 +680,10 @@
       "Paragraf": "5"
     },
     {
-      "Antal": 5,
-      "Id": 1,
-      "Navn": "Blanke",
-      "Paragraf": "4"
-    },
-    {
-      "Antal": 0,
-      "Id": 7,
-      "Navn": "KrydsUdForUdenForPartierne",
-      "Paragraf": "10"
-    },
-    {
       "Antal": 0,
       "Id": 8,
       "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
       "Paragraf": "11"
-    },
-    {
-      "Antal": 0,
-      "Id": 9,
-      "Navn": "AndreGrunde",
-      "Paragraf": "12"
     },
     {
       "Antal": 0,
@@ -722,10 +704,22 @@
       "Paragraf": "8"
     },
     {
+      "Antal": 3,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
+    },
+    {
       "Antal": 0,
-      "Id": 6,
-      "Navn": "KrydsRækkerIndIflerePartifelter",
-      "Paragraf": "9"
+      "Id": 7,
+      "Navn": "KrydsUdForUdenForPartierne",
+      "Paragraf": "10"
+    },
+    {
+      "Antal": 0,
+      "Id": 9,
+      "Navn": "AndreGrunde",
+      "Paragraf": "12"
     },
     {
       "Antal": 0,
@@ -735,27 +729,33 @@
     },
     {
       "Antal": 0,
-      "Id": 12,
-      "Navn": "AnførtFlereEndTreKryds",
-      "Paragraf": "15"
-    },
-    {
-      "Antal": 0,
-      "Id": 11,
-      "Navn": "AndetMærkeEndKrydsForudenKryds",
-      "Paragraf": "14"
-    },
-    {
-      "Antal": 3,
-      "Id": 13,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "16"
+      "Id": 6,
+      "Navn": "KrydsRækkerIndIflerePartifelter",
+      "Paragraf": "9"
     },
     {
       "Antal": 0,
       "Id": 14,
       "Navn": "AfmærketMedForskelligeFarverOgAndet",
       "Paragraf": "17"
+    },
+    {
+      "Antal": 0,
+      "Id": 12,
+      "Navn": "AnførtFlereEndTreKryds",
+      "Paragraf": "15"
+    },
+    {
+      "Antal": 5,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
+    },
+    {
+      "Antal": 0,
+      "Id": 11,
+      "Navn": "AndetMærkeEndKrydsForudenKryds",
+      "Paragraf": "14"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,

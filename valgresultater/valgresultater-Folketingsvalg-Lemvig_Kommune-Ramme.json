@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 1157,
+  "AfgivneStemmer": 1159,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Ramme",
   "AfstemningsområdeDagiId": 711172,
@@ -8,9 +8,9 @@
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
-  "BlankeUgyldigeFremmødteStemmer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:49:30",
-  "GyldigeStemmer": 1145,
+  "BlankeUgyldigeFremmødteStemmer": 9,
+  "FrigivelsesTidspunktUTC": "25-03-2026 11:14:50",
+  "GyldigeStemmer": 1148,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -123,7 +123,7 @@
         },
         {
           "Id": "7f861a99-7464-4153-9e64-67a628681155",
-          "Stemmer": 1,
+          "Stemmer": 0,
           "Stemmeseddelnavn": "Keld Lorenzen"
         },
         {
@@ -133,14 +133,14 @@
         },
         {
           "Id": "256b328e-0814-417d-ad1f-c489093f5455",
-          "Stemmer": 3,
+          "Stemmer": 5,
           "Stemmeseddelnavn": "Thorbjørn Jacobsen"
         }
       ],
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
-      "Partistemmer": 39,
-      "Stemmer": 47,
+      "Partistemmer": 40,
+      "Stemmer": 49,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -257,13 +257,8 @@
           "Stemmeseddelnavn": "Johan Brødsgaard"
         },
         {
-          "Id": "0c78f0dd-8a8b-4cb5-b1a1-13e25e5cba99",
-          "Stemmer": 2,
-          "Stemmeseddelnavn": "Philip Vivet"
-        },
-        {
           "Id": "d73dfbea-dc6e-414a-ac09-82864a73747a",
-          "Stemmer": 0,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Peter Vestergaard"
         },
         {
@@ -285,11 +280,16 @@
           "Id": "aef5742b-ed40-4ea7-963a-6e46b05d8fd4",
           "Stemmer": 2,
           "Stemmeseddelnavn": "Lone Kjær Hein"
+        },
+        {
+          "Id": "0c78f0dd-8a8b-4cb5-b1a1-13e25e5cba99",
+          "Stemmer": 2,
+          "Stemmeseddelnavn": "Philip Vivet"
         }
       ],
       "PartiId": "93a1aa01-2897-474b-8604-a1326c9b3948",
       "PartiNavn": "Radikale Venstre",
-      "Partistemmer": 20,
+      "Partistemmer": 19,
       "Stemmer": 30,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -392,16 +392,6 @@
       "Bogstavbetegnelse": "A",
       "Kandidater": [
         {
-          "Id": "5265cc3e-6930-48a9-8f1c-70eda1573941",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Kasper B.G. Lauritsen"
-        },
-        {
-          "Id": "f8bdfe70-98f6-49ae-952c-712447884317",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Per Kamp Stefansen"
-        },
-        {
           "Id": "7ca6cb0e-bbd5-493a-bfd1-b918bfa4690e",
           "Stemmer": 2,
           "Stemmeseddelnavn": "Vinnie Borbjerg"
@@ -410,6 +400,11 @@
           "Id": "e08caf0b-7d06-4158-98de-16203f1f9179",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Peter Kempf Pedersen"
+        },
+        {
+          "Id": "f8bdfe70-98f6-49ae-952c-712447884317",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Per Kamp Stefansen"
         },
         {
           "Id": "23693ef6-b15b-4a44-837d-ade87e2d1f14",
@@ -430,6 +425,11 @@
           "Id": "e0c8af5d-b7ec-4a45-b4b2-b80f3645edca",
           "Stemmer": 1,
           "Stemmeseddelnavn": "Lise Jørgensen"
+        },
+        {
+          "Id": "5265cc3e-6930-48a9-8f1c-70eda1573941",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Kasper B.G. Lauritsen"
         },
         {
           "Id": "4ea11064-72e2-47eb-925f-11af9d7a0938",
@@ -489,8 +489,8 @@
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 140,
-      "Stemmer": 229,
+      "Partistemmer": 141,
+      "Stemmer": 230,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -543,18 +543,18 @@
         },
         {
           "Id": "b7e9c716-7aa7-4cfc-9aa3-432834f0409d",
-          "Stemmer": 0,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Mikael Würtz"
         },
         {
           "Id": "4ee6a3e6-8984-4920-a09e-a8f892050096",
-          "Stemmer": 0,
+          "Stemmer": 12,
           "Stemmeseddelnavn": "Søren Boel Olesen"
         }
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 82,
+      "Partistemmer": 69,
       "Stemmer": 86,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -612,6 +612,12 @@
       "Paragraf": "23"
     },
     {
+      "Antal": 1,
+      "Id": 21,
+      "Navn": "Blanke",
+      "Paragraf": "19"
+    },
+    {
       "Antal": 0,
       "Id": 24,
       "Navn": "KunUofficelBogstavPåFlereBogstaver",
@@ -664,15 +670,15 @@
       "Id": 28,
       "Navn": "AndetEllerMereEndEnStemmeseddel",
       "Paragraf": "27"
-    },
-    {
-      "Antal": 1,
-      "Id": 21,
-      "Navn": "Blanke",
-      "Paragraf": "19"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
+    {
+      "Antal": 9,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
+    },
     {
       "Antal": 0,
       "Id": 12,
@@ -702,6 +708,12 @@
       "Id": 3,
       "Navn": "HeltEllerDelvistOverstreget",
       "Paragraf": "6"
+    },
+    {
+      "Antal": 1,
+      "Id": 14,
+      "Navn": "AfmærketMedForskelligeFarverOgAndet",
+      "Paragraf": "17"
     },
     {
       "Antal": 0,
@@ -744,18 +756,6 @@
       "Id": 11,
       "Navn": "AndetMærkeEndKrydsForudenKryds",
       "Paragraf": "14"
-    },
-    {
-      "Antal": 1,
-      "Id": 14,
-      "Navn": "AfmærketMedForskelligeFarverOgAndet",
-      "Paragraf": "17"
-    },
-    {
-      "Antal": 10,
-      "Id": 1,
-      "Navn": "Blanke",
-      "Paragraf": "4"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
