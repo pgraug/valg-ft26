@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 10,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:50:00",
+  "FrigivelsesTidspunktUTC": "25-03-2026 11:15:35",
   "GyldigeStemmer": 1111,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -42,6 +42,11 @@
           "Stemmeseddelnavn": "Siff Tang Lassen"
         },
         {
+          "Id": "4608a387-3568-44fe-b63f-d1801c014ed8",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Nicklas Verne"
+        },
+        {
           "Id": "50f7ba6e-9190-4d51-8d59-6b8bdb7822cd",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Michael Grove"
@@ -50,11 +55,6 @@
           "Id": "0966b1f6-81bb-4dea-8a91-1663f0ee7ad7",
           "Stemmer": 2,
           "Stemmeseddelnavn": "Marianne Karlsmose"
-        },
-        {
-          "Id": "4608a387-3568-44fe-b63f-d1801c014ed8",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Nicklas Verne"
         },
         {
           "Id": "1e5483ca-a7a6-4977-8d1a-62b0b368c937",
@@ -417,9 +417,9 @@
       "Bogstavbetegnelse": "V",
       "Kandidater": [
         {
-          "Id": "79ba0566-8942-46c9-ab81-ea6d15ba5e46",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Gert Bækgaard"
+          "Id": "273731fd-a5be-44fb-9620-eaa64e269629",
+          "Stemmer": 391,
+          "Stemmeseddelnavn": "Erik Flyvholm"
         },
         {
           "Id": "29b36daa-522a-4ecd-bc06-8b6a882fb66a",
@@ -452,11 +452,6 @@
           "Stemmeseddelnavn": "Majbrit Nørgaard"
         },
         {
-          "Id": "273731fd-a5be-44fb-9620-eaa64e269629",
-          "Stemmer": 392,
-          "Stemmeseddelnavn": "Erik Flyvholm"
-        },
-        {
           "Id": "d00455b5-1534-4bbf-8feb-b0c30a0c3a16",
           "Stemmer": 12,
           "Stemmeseddelnavn": "Søren Gade"
@@ -470,11 +465,16 @@
           "Id": "bf90719a-07e3-4649-b5cc-bdd0d08e7dfc",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Frederik Houmann Thuesen"
+        },
+        {
+          "Id": "79ba0566-8942-46c9-ab81-ea6d15ba5e46",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Gert Bækgaard"
         }
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 12,
+      "Partistemmer": 13,
       "Stemmer": 439,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -492,11 +492,6 @@
           "Stemmeseddelnavn": "Lina Sikora Christiansen"
         },
         {
-          "Id": "8ed24cf5-72d5-4d8a-91d1-4211fd66af17",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Steffen Tolstrup"
-        },
-        {
           "Id": "a5bc11f3-5367-4488-9aec-dd8d09e41865",
           "Stemmer": 1,
           "Stemmeseddelnavn": "Nicklas Stampe Raabjerg"
@@ -510,6 +505,11 @@
           "Id": "4d53c22a-3d3c-475f-b177-38001b0d16c3",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Peter Bilgrav"
+        },
+        {
+          "Id": "8ed24cf5-72d5-4d8a-91d1-4211fd66af17",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Steffen Tolstrup"
         }
       ],
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
@@ -532,14 +532,14 @@
           "Stemmeseddelnavn": "Iben Forum Jeppesen"
         },
         {
-          "Id": "cbfea463-d6a8-4fe9-8ac7-f5c0a9ebf2b0",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Ragnar Dixen"
-        },
-        {
           "Id": "7f861a99-7464-4153-9e64-67a628681155",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Keld Lorenzen"
+        },
+        {
+          "Id": "b333cd61-c4eb-414e-ae69-4c103dc595ff",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Annette Sofia Skotte"
         },
         {
           "Id": "1c32f6d0-1258-47ab-8859-7e00ed9f5fde",
@@ -567,9 +567,9 @@
           "Stemmeseddelnavn": "Steffen Troldtoft"
         },
         {
-          "Id": "b333cd61-c4eb-414e-ae69-4c103dc595ff",
+          "Id": "cbfea463-d6a8-4fe9-8ac7-f5c0a9ebf2b0",
           "Stemmer": 0,
-          "Stemmeseddelnavn": "Annette Sofia Skotte"
+          "Stemmeseddelnavn": "Ragnar Dixen"
         },
         {
           "Id": "e9bc0223-de66-4774-b726-54ebf7e24b60",
@@ -619,18 +619,6 @@
     },
     {
       "Antal": 0,
-      "Id": 22,
-      "Navn": "KunNavnUofficielBogstav",
-      "Paragraf": "20"
-    },
-    {
-      "Antal": 0,
-      "Id": 25,
-      "Navn": "KunKryds",
-      "Paragraf": "23"
-    },
-    {
-      "Antal": 0,
       "Id": 27,
       "Navn": "AndreGrunde",
       "Paragraf": "26"
@@ -667,12 +655,42 @@
     },
     {
       "Antal": 0,
+      "Id": 22,
+      "Navn": "KunNavnUofficielBogstav",
+      "Paragraf": "20"
+    },
+    {
+      "Antal": 0,
+      "Id": 25,
+      "Navn": "KunKryds",
+      "Paragraf": "23"
+    },
+    {
+      "Antal": 0,
       "Id": 28,
       "Navn": "AndetEllerMereEndEnStemmeseddel",
       "Paragraf": "27"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
+    {
+      "Antal": 0,
+      "Id": 11,
+      "Navn": "AndetMærkeEndKrydsForudenKryds",
+      "Paragraf": "14"
+    },
+    {
+      "Antal": 0,
+      "Id": 9,
+      "Navn": "AndreGrunde",
+      "Paragraf": "12"
+    },
+    {
+      "Antal": 0,
+      "Id": 10,
+      "Navn": "StemmeseddelIkkeFraAfstemningssted",
+      "Paragraf": "13"
+    },
     {
       "Antal": 10,
       "Id": 1,
@@ -686,10 +704,22 @@
       "Paragraf": "6"
     },
     {
+      "Antal": 1,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
+    },
+    {
       "Antal": 0,
       "Id": 4,
       "Navn": "KrydsUdenForPartifelterne",
       "Paragraf": "7"
+    },
+    {
+      "Antal": 0,
+      "Id": 12,
+      "Navn": "AnførtFlereEndTreKryds",
+      "Paragraf": "15"
     },
     {
       "Antal": 0,
@@ -720,36 +750,6 @@
       "Id": 8,
       "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
       "Paragraf": "11"
-    },
-    {
-      "Antal": 0,
-      "Id": 11,
-      "Navn": "AndetMærkeEndKrydsForudenKryds",
-      "Paragraf": "14"
-    },
-    {
-      "Antal": 0,
-      "Id": 9,
-      "Navn": "AndreGrunde",
-      "Paragraf": "12"
-    },
-    {
-      "Antal": 0,
-      "Id": 10,
-      "Navn": "StemmeseddelIkkeFraAfstemningssted",
-      "Paragraf": "13"
-    },
-    {
-      "Antal": 0,
-      "Id": 12,
-      "Navn": "AnførtFlereEndTreKryds",
-      "Paragraf": "15"
-    },
-    {
-      "Antal": 1,
-      "Id": 13,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "16"
     },
     {
       "Antal": 0,
