@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 31,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:09:31",
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:20:15",
   "GyldigeStemmer": 2240,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -73,7 +73,7 @@
         },
         {
           "Id": "853b9789-cd33-4349-8326-7600a0cbf1f7",
-          "Stemmer": 16,
+          "Stemmer": 15,
           "Stemmeseddelnavn": "Torsten Gejl"
         },
         {
@@ -144,7 +144,7 @@
       ],
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
-      "Partistemmer": 31,
+      "Partistemmer": 32,
       "Stemmer": 54,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -413,7 +413,7 @@
         },
         {
           "Id": "f642b976-a10d-4a46-ad9e-726db2eb8ae3",
-          "Stemmer": 47,
+          "Stemmer": 48,
           "Stemmeseddelnavn": "Nick Zimmermann"
         },
         {
@@ -424,7 +424,7 @@
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 158,
+      "Partistemmer": 157,
       "Stemmer": 223,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -463,7 +463,7 @@
         },
         {
           "Id": "21c2c294-595e-443b-a20f-ca8404385619",
-          "Stemmer": 138,
+          "Stemmer": 139,
           "Stemmeseddelnavn": "Leif Lahn Jensen"
         },
         {
@@ -489,7 +489,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 268,
+      "Partistemmer": 267,
       "Stemmer": 510,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -603,7 +603,7 @@
       "Kandidater": [
         {
           "Id": "253b6932-7762-476e-bf36-10dc7fbee180",
-          "Stemmer": 28,
+          "Stemmer": 29,
           "Stemmeseddelnavn": "Morten Siig Henriksen"
         },
         {
@@ -613,7 +613,7 @@
         },
         {
           "Id": "5048b339-f206-4705-94f8-97277fb54c50",
-          "Stemmer": 49,
+          "Stemmer": 50,
           "Stemmeseddelnavn": "Kirsten Normann Andersen"
         },
         {
@@ -654,7 +654,7 @@
       ],
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": 168,
+      "Partistemmer": 166,
       "Stemmer": 301,
       "StemmerDifferenceFraForrigeValg": null
     },

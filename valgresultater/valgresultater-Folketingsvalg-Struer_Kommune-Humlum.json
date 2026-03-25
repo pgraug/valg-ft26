@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:51:00",
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:21:00",
   "GyldigeStemmer": 1137,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -203,7 +203,7 @@
         },
         {
           "Id": "273731fd-a5be-44fb-9620-eaa64e269629",
-          "Stemmer": 122,
+          "Stemmer": 123,
           "Stemmeseddelnavn": "Erik Flyvholm"
         },
         {
@@ -239,7 +239,7 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 20,
+      "Partistemmer": 19,
       "Stemmer": 228,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -675,12 +675,6 @@
   "UgyldigeFremmødteStemmerÅrsager": [
     {
       "Antal": 0,
-      "Id": 5,
-      "Navn": "KrydsIflerePartifelter",
-      "Paragraf": "8"
-    },
-    {
-      "Antal": 0,
       "Id": 3,
       "Navn": "HeltEllerDelvistOverstreget",
       "Paragraf": "6"
@@ -708,12 +702,6 @@
       "Id": 10,
       "Navn": "StemmeseddelIkkeFraAfstemningssted",
       "Paragraf": "13"
-    },
-    {
-      "Antal": 1,
-      "Id": 11,
-      "Navn": "AndetMærkeEndKrydsForudenKryds",
-      "Paragraf": "14"
     },
     {
       "Antal": 0,
@@ -756,6 +744,18 @@
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
+    },
+    {
+      "Antal": 0,
+      "Id": 11,
+      "Navn": "AndetMærkeEndKrydsForudenKryds",
+      "Paragraf": "14"
+    },
+    {
+      "Antal": 1,
+      "Id": 5,
+      "Navn": "KrydsIflerePartifelter",
+      "Paragraf": "8"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
