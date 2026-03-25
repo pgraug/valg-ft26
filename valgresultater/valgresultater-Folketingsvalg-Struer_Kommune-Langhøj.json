@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 3,
   "BlankeUgyldigeFremmødteStemmer": 6,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:51:30",
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:25:09",
   "GyldigeStemmer": 1333,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -22,14 +22,24 @@
           "Stemmeseddelnavn": "Erik Flyvholm"
         },
         {
-          "Id": "481ba70a-f4e5-4f2c-9a3f-503d76d9808e",
-          "Stemmer": 87,
-          "Stemmeseddelnavn": "Thomas Danielsen"
-        },
-        {
           "Id": "62700152-0a05-4a56-909a-94f741fab2c4",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Kasper Thomassen"
+        },
+        {
+          "Id": "df73e4f3-deac-427d-969a-488692b21806",
+          "Stemmer": 1,
+          "Stemmeseddelnavn": "Jarl Matthiesen"
+        },
+        {
+          "Id": "29b36daa-522a-4ecd-bc06-8b6a882fb66a",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Morten Høgh"
+        },
+        {
+          "Id": "481ba70a-f4e5-4f2c-9a3f-503d76d9808e",
+          "Stemmer": 87,
+          "Stemmeseddelnavn": "Thomas Danielsen"
         },
         {
           "Id": "bf90719a-07e3-4649-b5cc-bdd0d08e7dfc",
@@ -43,22 +53,12 @@
         },
         {
           "Id": "c47282d9-85b8-4d2f-8446-72d6264eb199",
-          "Stemmer": 5,
+          "Stemmer": 6,
           "Stemmeseddelnavn": "Trine Jepsen"
         },
         {
-          "Id": "df73e4f3-deac-427d-969a-488692b21806",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Jarl Matthiesen"
-        },
-        {
-          "Id": "29b36daa-522a-4ecd-bc06-8b6a882fb66a",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Morten Høgh"
-        },
-        {
           "Id": "d00455b5-1534-4bbf-8feb-b0c30a0c3a16",
-          "Stemmer": 66,
+          "Stemmer": 67,
           "Stemmeseddelnavn": "Søren Gade"
         },
         {
@@ -74,8 +74,8 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 48,
-      "Stemmer": 342,
+      "Partistemmer": 47,
+      "Stemmer": 343,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -102,16 +102,6 @@
           "Stemmeseddelnavn": "Siff Tang Lassen"
         },
         {
-          "Id": "50f7ba6e-9190-4d51-8d59-6b8bdb7822cd",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Michael Grove"
-        },
-        {
-          "Id": "0966b1f6-81bb-4dea-8a91-1663f0ee7ad7",
-          "Stemmer": 12,
-          "Stemmeseddelnavn": "Marianne Karlsmose"
-        },
-        {
           "Id": "8ceb47a1-19c5-4bc3-8d5c-99a5aef22bce",
           "Stemmer": 10,
           "Stemmeseddelnavn": "Dina Andersen-Raabjerg"
@@ -120,6 +110,16 @@
           "Id": "bb74bfb0-40c9-495c-a0e5-43d57bc5459f",
           "Stemmer": 4,
           "Stemmeseddelnavn": "Lise Bertelsen"
+        },
+        {
+          "Id": "50f7ba6e-9190-4d51-8d59-6b8bdb7822cd",
+          "Stemmer": 1,
+          "Stemmeseddelnavn": "Michael Grove"
+        },
+        {
+          "Id": "0966b1f6-81bb-4dea-8a91-1663f0ee7ad7",
+          "Stemmer": 12,
+          "Stemmeseddelnavn": "Marianne Karlsmose"
         },
         {
           "Id": "5fa0669e-c81f-40f0-8bd3-dac273e0ffe5",
@@ -148,7 +148,7 @@
       "Kandidater": [
         {
           "Id": "9cc3d6f2-7582-47b4-beb7-d55d9b51f719",
-          "Stemmer": 2,
+          "Stemmer": 3,
           "Stemmeseddelnavn": "Jes Halfdan"
         },
         {
@@ -164,7 +164,7 @@
       ],
       "PartiId": "89ee100e-d4d6-43b5-83c5-edd5dd02c1fd",
       "PartiNavn": "Borgernes Parti - Lars Boje Mathiesen",
-      "Partistemmer": 35,
+      "Partistemmer": 34,
       "Stemmer": 50,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -267,6 +267,16 @@
       "Bogstavbetegnelse": "O",
       "Kandidater": [
         {
+          "Id": "4ee6a3e6-8984-4920-a09e-a8f892050096",
+          "Stemmer": 18,
+          "Stemmeseddelnavn": "Søren Boel Olesen"
+        },
+        {
+          "Id": "3993934b-54a8-45a6-8453-10c751317691",
+          "Stemmer": 6,
+          "Stemmeseddelnavn": "Michelle Sundahl"
+        },
+        {
           "Id": "885b89f4-73be-4f7c-8dcd-75f519f206a0",
           "Stemmer": 5,
           "Stemmeseddelnavn": "Lone Langballe"
@@ -277,16 +287,6 @@
           "Stemmeseddelnavn": "Knud Nielsen"
         },
         {
-          "Id": "4ee6a3e6-8984-4920-a09e-a8f892050096",
-          "Stemmer": 18,
-          "Stemmeseddelnavn": "Søren Boel Olesen"
-        },
-        {
-          "Id": "3993934b-54a8-45a6-8453-10c751317691",
-          "Stemmer": 7,
-          "Stemmeseddelnavn": "Michelle Sundahl"
-        },
-        {
           "Id": "b7e9c716-7aa7-4cfc-9aa3-432834f0409d",
           "Stemmer": 2,
           "Stemmeseddelnavn": "Mikael Würtz"
@@ -295,7 +295,7 @@
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
       "Partistemmer": 71,
-      "Stemmer": 103,
+      "Stemmer": 102,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -407,14 +407,14 @@
           "Stemmeseddelnavn": "Morten Vehl Revsbeck"
         },
         {
-          "Id": "a06d6c16-6951-493a-a7f6-30aa4dae05c2",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Marcus Juul Grønbæk"
-        },
-        {
           "Id": "6c381713-81de-4333-a98f-db149c6356e3",
           "Stemmer": 1,
           "Stemmeseddelnavn": "Vivi Altenburg"
+        },
+        {
+          "Id": "a06d6c16-6951-493a-a7f6-30aa4dae05c2",
+          "Stemmer": 1,
+          "Stemmeseddelnavn": "Marcus Juul Grønbæk"
         },
         {
           "Id": "5a320bc6-5e84-4ed4-baf5-4a8edf1daee8",
@@ -457,14 +457,14 @@
           "Stemmeseddelnavn": "Iben Forum Jeppesen"
         },
         {
-          "Id": "cbfea463-d6a8-4fe9-8ac7-f5c0a9ebf2b0",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Ragnar Dixen"
-        },
-        {
           "Id": "fec34960-b08c-498f-b852-396c94cf7e3a",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Michael Valbjørn"
+        },
+        {
+          "Id": "cbfea463-d6a8-4fe9-8ac7-f5c0a9ebf2b0",
+          "Stemmer": 1,
+          "Stemmeseddelnavn": "Ragnar Dixen"
         },
         {
           "Id": "dfb1182c-f363-4f99-9190-9fd1366285b8",
@@ -502,24 +502,14 @@
       "Bogstavbetegnelse": "F",
       "Kandidater": [
         {
-          "Id": "db93fffd-5965-47d0-967b-a74cf4acde40",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Emma Thorup Jacobsen"
-        },
-        {
           "Id": "ee0724db-8822-4b23-923e-43194c123775",
           "Stemmer": 0,
           "Stemmeseddelnavn": "Bente Refslund"
         },
         {
-          "Id": "515ccb36-bd6f-44c2-a5ff-26783a1ac09f",
-          "Stemmer": 1,
-          "Stemmeseddelnavn": "Niels Kristian Larsen"
-        },
-        {
-          "Id": "40b68406-806d-45c8-9456-22c3e576bad1",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Anders Bøge"
+          "Id": "a98dd01e-544b-4602-a69c-317ef6458949",
+          "Stemmer": 46,
+          "Stemmeseddelnavn": "Signe Munk"
         },
         {
           "Id": "f41f00b8-4ad7-4d89-8444-5538106ec1ee",
@@ -527,14 +517,24 @@
           "Stemmeseddelnavn": "Nils Brøgger"
         },
         {
-          "Id": "a98dd01e-544b-4602-a69c-317ef6458949",
-          "Stemmer": 47,
-          "Stemmeseddelnavn": "Signe Munk"
+          "Id": "515ccb36-bd6f-44c2-a5ff-26783a1ac09f",
+          "Stemmer": 1,
+          "Stemmeseddelnavn": "Niels Kristian Larsen"
+        },
+        {
+          "Id": "db93fffd-5965-47d0-967b-a74cf4acde40",
+          "Stemmer": 1,
+          "Stemmeseddelnavn": "Emma Thorup Jacobsen"
+        },
+        {
+          "Id": "40b68406-806d-45c8-9456-22c3e576bad1",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Anders Bøge"
         }
       ],
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": 40,
+      "Partistemmer": 41,
       "Stemmer": 102,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -600,16 +600,22 @@
   ],
   "UgyldigeBrevstemmerÅrsager": [
     {
-      "Antal": 3,
-      "Id": 21,
-      "Navn": "Blanke",
-      "Paragraf": "19"
+      "Antal": 0,
+      "Id": 30,
+      "Navn": "KonvolutMedPåskrift",
+      "Paragraf": "29"
     },
     {
       "Antal": 0,
       "Id": 26,
       "Navn": "ModstridBogstavPartiNavn",
       "Paragraf": "24,25"
+    },
+    {
+      "Antal": 3,
+      "Id": 21,
+      "Navn": "Blanke",
+      "Paragraf": "19"
     },
     {
       "Antal": 0,
@@ -628,24 +634,6 @@
       "Id": 23,
       "Navn": "KunUofficelBogstavPåEtBogstav",
       "Paragraf": "21"
-    },
-    {
-      "Antal": 0,
-      "Id": 24,
-      "Navn": "KunUofficelBogstavPåFlereBogstaver",
-      "Paragraf": "22"
-    },
-    {
-      "Antal": 0,
-      "Id": 22,
-      "Navn": "KunNavnUofficielBogstav",
-      "Paragraf": "20"
-    },
-    {
-      "Antal": 0,
-      "Id": 30,
-      "Navn": "KonvolutMedPåskrift",
-      "Paragraf": "29"
     },
     {
       "Antal": 0,
@@ -670,14 +658,38 @@
       "Id": 32,
       "Navn": "UdfyldtPåBagsidenEllerAndet",
       "Paragraf": "31"
+    },
+    {
+      "Antal": 0,
+      "Id": 24,
+      "Navn": "KunUofficelBogstavPåFlereBogstaver",
+      "Paragraf": "22"
+    },
+    {
+      "Antal": 0,
+      "Id": 22,
+      "Navn": "KunNavnUofficielBogstav",
+      "Paragraf": "20"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
     {
-      "Antal": 6,
-      "Id": 1,
-      "Navn": "Blanke",
-      "Paragraf": "4"
+      "Antal": 0,
+      "Id": 14,
+      "Navn": "AfmærketMedForskelligeFarverOgAndet",
+      "Paragraf": "17"
+    },
+    {
+      "Antal": 0,
+      "Id": 10,
+      "Navn": "StemmeseddelIkkeFraAfstemningssted",
+      "Paragraf": "13"
+    },
+    {
+      "Antal": 0,
+      "Id": 9,
+      "Navn": "AndreGrunde",
+      "Paragraf": "12"
     },
     {
       "Antal": 0,
@@ -693,9 +705,33 @@
     },
     {
       "Antal": 0,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
+    },
+    {
+      "Antal": 0,
+      "Id": 12,
+      "Navn": "AnførtFlereEndTreKryds",
+      "Paragraf": "15"
+    },
+    {
+      "Antal": 6,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
+    },
+    {
+      "Antal": 0,
       "Id": 5,
       "Navn": "KrydsIflerePartifelter",
       "Paragraf": "8"
+    },
+    {
+      "Antal": 0,
+      "Id": 11,
+      "Navn": "AndetMærkeEndKrydsForudenKryds",
+      "Paragraf": "14"
     },
     {
       "Antal": 0,
@@ -720,42 +756,6 @@
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
-    },
-    {
-      "Antal": 0,
-      "Id": 14,
-      "Navn": "AfmærketMedForskelligeFarverOgAndet",
-      "Paragraf": "17"
-    },
-    {
-      "Antal": 0,
-      "Id": 10,
-      "Navn": "StemmeseddelIkkeFraAfstemningssted",
-      "Paragraf": "13"
-    },
-    {
-      "Antal": 0,
-      "Id": 9,
-      "Navn": "AndreGrunde",
-      "Paragraf": "12"
-    },
-    {
-      "Antal": 0,
-      "Id": 13,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "16"
-    },
-    {
-      "Antal": 0,
-      "Id": 12,
-      "Navn": "AnførtFlereEndTreKryds",
-      "Paragraf": "15"
-    },
-    {
-      "Antal": 0,
-      "Id": 11,
-      "Navn": "AndetMærkeEndKrydsForudenKryds",
-      "Paragraf": "14"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
