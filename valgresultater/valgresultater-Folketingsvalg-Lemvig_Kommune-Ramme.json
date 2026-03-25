@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 1159,
+  "AfgivneStemmer": 1157,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Ramme",
   "AfstemningsområdeDagiId": 711172,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
   "BlankeUgyldigeFremmødteStemmer": 9,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:14:50",
-  "GyldigeStemmer": 1148,
+  "FrigivelsesTidspunktUTC": "25-03-2026 13:11:49",
+  "GyldigeStemmer": 1146,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -139,8 +139,8 @@
       ],
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
-      "Partistemmer": 40,
-      "Stemmer": 49,
+      "Partistemmer": 38,
+      "Stemmer": 47,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
