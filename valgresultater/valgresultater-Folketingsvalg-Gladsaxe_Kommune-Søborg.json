@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 28,
-  "FrigivelsesTidspunktUTC": "25-03-2026 13:38:31",
-  "GyldigeStemmer": 3313,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:00:48",
+  "GyldigeStemmer": 3314,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -548,7 +548,7 @@
         },
         {
           "Id": "b9056c04-95d4-48e4-a82d-736386b0a6a7",
-          "Stemmer": 3,
+          "Stemmer": 4,
           "Stemmeseddelnavn": "Thomas Lindqvist"
         },
         {
@@ -570,7 +570,7 @@
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
       "Partistemmer": 53,
-      "Stemmer": 131,
+      "Stemmer": 132,
       "StemmerDifferenceFraForrigeValg": null
     }
   ],
@@ -670,12 +670,6 @@
       "Paragraf": "6"
     },
     {
-      "Antal": 2,
-      "Id": 13,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "16"
-    },
-    {
       "Antal": 28,
       "Id": 1,
       "Navn": "Blanke",
@@ -740,10 +734,16 @@
       "Id": 14,
       "Navn": "AfmærketMedForskelligeFarverOgAndet",
       "Paragraf": "17"
+    },
+    {
+      "Antal": 1,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 13,
+  "UgyldigeStemmerUdoverBlanke": 12,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
