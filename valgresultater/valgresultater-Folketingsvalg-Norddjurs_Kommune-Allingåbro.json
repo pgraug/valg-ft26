@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 5,
   "BlankeUgyldigeFremmødteStemmer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:08:15",
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:52:50",
   "GyldigeStemmer": 1507,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -28,23 +28,23 @@
         },
         {
           "Id": "d2ef8b99-0262-46ae-acb6-47d3e773ba51",
-          "Stemmer": 6,
+          "Stemmer": 7,
           "Stemmeseddelnavn": "Lone Glarbo"
         },
         {
           "Id": "183fb5e6-d6c3-4ff6-b4e6-5393666a009f",
-          "Stemmer": 5,
+          "Stemmer": 6,
           "Stemmeseddelnavn": "Erik Poulsen"
         },
         {
           "Id": "3dee1fbe-cc98-4ecf-a7af-0e941a8ac8f2",
-          "Stemmer": 9,
+          "Stemmer": 10,
           "Stemmeseddelnavn": "Magnus Bigum"
         }
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 118,
+      "Partistemmer": 115,
       "Stemmer": 144,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -208,7 +208,7 @@
       "Kandidater": [
         {
           "Id": "78903b71-f46c-4273-95b9-6a61a071263c",
-          "Stemmer": 3,
+          "Stemmer": 2,
           "Stemmeseddelnavn": "Michael Nedersøe"
         },
         {
@@ -223,18 +223,18 @@
         },
         {
           "Id": "f642b976-a10d-4a46-ad9e-726db2eb8ae3",
-          "Stemmer": 71,
+          "Stemmer": 69,
           "Stemmeseddelnavn": "Nick Zimmermann"
         },
         {
           "Id": "772e0692-3976-479c-9a9b-c587820eb73c",
-          "Stemmer": 5,
+          "Stemmer": 6,
           "Stemmeseddelnavn": "Nana Harring"
         }
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 103,
+      "Partistemmer": 105,
       "Stemmer": 190,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -313,7 +313,7 @@
         },
         {
           "Id": "83c4d94c-0f63-42da-be12-cd680192ec93",
-          "Stemmer": 1,
+          "Stemmer": 2,
           "Stemmeseddelnavn": "Charlotte Vindeløv"
         },
         {
@@ -338,7 +338,7 @@
         },
         {
           "Id": "c7e4eace-cb86-4592-82b7-51610864cc93",
-          "Stemmer": 2,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Carina Sarkkinen"
         },
         {
@@ -663,7 +663,7 @@
         },
         {
           "Id": "21c2c294-595e-443b-a20f-ca8404385619",
-          "Stemmer": 169,
+          "Stemmer": 168,
           "Stemmeseddelnavn": "Leif Lahn Jensen"
         },
         {
@@ -689,7 +689,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 189,
+      "Partistemmer": 190,
       "Stemmer": 427,
       "StemmerDifferenceFraForrigeValg": null
     }
