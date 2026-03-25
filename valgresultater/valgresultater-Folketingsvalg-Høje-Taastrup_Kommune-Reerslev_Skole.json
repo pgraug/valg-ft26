@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
   "BlankeUgyldigeFremmødteStemmer": 6,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:04:22",
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:09:53",
   "GyldigeStemmer": 626,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -358,7 +358,7 @@
       "Kandidater": [
         {
           "Id": "e06b9799-cfed-42ee-b293-db0a50ee606a",
-          "Stemmer": 3,
+          "Stemmer": 2,
           "Stemmeseddelnavn": "Charlotte Munch"
         },
         {
@@ -374,7 +374,7 @@
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 14,
+      "Partistemmer": 15,
       "Stemmer": 17,
       "StemmerDifferenceFraForrigeValg": null
     },
