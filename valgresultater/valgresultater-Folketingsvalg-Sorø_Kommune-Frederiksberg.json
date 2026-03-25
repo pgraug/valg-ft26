@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 3658,
+  "AfgivneStemmer": 3659,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Frederiksberg",
   "AfstemningsområdeDagiId": 711410,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 20,
-  "FrigivelsesTidspunktUTC": "25-03-2026 12:21:57",
-  "GyldigeStemmer": 3635,
+  "FrigivelsesTidspunktUTC": "25-03-2026 15:27:45",
+  "GyldigeStemmer": 3636,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -323,7 +323,7 @@
         },
         {
           "Id": "bc4db054-f7b0-4c6f-b3a5-7cbfba7ff12e",
-          "Stemmer": 15,
+          "Stemmer": 16,
           "Stemmeseddelnavn": "Sascha Faxe"
         },
         {
@@ -335,7 +335,7 @@
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
       "Partistemmer": 78,
-      "Stemmer": 141,
+      "Stemmer": 142,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
