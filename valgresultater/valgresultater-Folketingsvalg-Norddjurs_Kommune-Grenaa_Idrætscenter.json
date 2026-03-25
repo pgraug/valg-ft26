@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 3,
   "BlankeUgyldigeFremmødteStemmer": 44,
-  "FrigivelsesTidspunktUTC": "25-03-2026 10:08:46",
-  "GyldigeStemmer": 3906,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:26:08",
+  "GyldigeStemmer": 3908,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -169,8 +169,8 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 115,
-      "Stemmer": 345,
+      "Partistemmer": 116,
+      "Stemmer": 346,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -299,8 +299,8 @@
       ],
       "PartiId": "2e08413e-1c5b-4029-8bce-eac0ebff6527",
       "PartiNavn": "Det Konservative Folkeparti",
-      "Partistemmer": 55,
-      "Stemmer": 166,
+      "Partistemmer": 56,
+      "Stemmer": 167,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -844,19 +844,13 @@
       "Paragraf": "16"
     },
     {
-      "Antal": 4,
-      "Id": 11,
-      "Navn": "AndetMærkeEndKrydsForudenKryds",
-      "Paragraf": "14"
-    },
-    {
       "Antal": 2,
       "Id": 8,
       "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
       "Paragraf": "11"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
@@ -866,10 +860,16 @@
       "Id": 5,
       "Navn": "KrydsIflerePartifelter",
       "Paragraf": "8"
+    },
+    {
+      "Antal": 3,
+      "Id": 11,
+      "Navn": "AndetMærkeEndKrydsForudenKryds",
+      "Paragraf": "14"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 18,
+  "UgyldigeStemmerUdoverBlanke": 16,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
