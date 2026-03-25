@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 4,
   "BlankeUgyldigeFremmødteStemmer": 14,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:38:26",
-  "GyldigeStemmer": 2143,
+  "FrigivelsesTidspunktUTC": "25-03-2026 10:25:30",
+  "GyldigeStemmer": 2142,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -74,8 +74,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 256,
-      "Stemmer": 438,
+      "Partistemmer": 255,
+      "Stemmer": 437,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -138,7 +138,7 @@
         },
         {
           "Id": "a64387cc-5365-42ae-95fc-ae1bf35d54ce",
-          "Stemmer": 2,
+          "Stemmer": 3,
           "Stemmeseddelnavn": "Kim Pagels"
         },
         {
@@ -149,7 +149,7 @@
       ],
       "PartiId": "93a1aa01-2897-474b-8604-a1326c9b3948",
       "PartiNavn": "Radikale Venstre",
-      "Partistemmer": 26,
+      "Partistemmer": 25,
       "Stemmer": 37,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -178,13 +178,13 @@
         },
         {
           "Id": "3993934b-54a8-45a6-8453-10c751317691",
-          "Stemmer": 13,
+          "Stemmer": 12,
           "Stemmeseddelnavn": "Michelle Sundahl"
         }
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 105,
+      "Partistemmer": 106,
       "Stemmer": 138,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -198,7 +198,7 @@
         },
         {
           "Id": "a98dd01e-544b-4602-a69c-317ef6458949",
-          "Stemmer": 95,
+          "Stemmer": 91,
           "Stemmeseddelnavn": "Signe Munk"
         },
         {
@@ -224,7 +224,7 @@
       ],
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": 66,
+      "Partistemmer": 70,
       "Stemmer": 173,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -263,7 +263,7 @@
         },
         {
           "Id": "dfb1182c-f363-4f99-9190-9fd1366285b8",
-          "Stemmer": 21,
+          "Stemmer": 22,
           "Stemmeseddelnavn": "Helle Jensen"
         },
         {
@@ -314,7 +314,7 @@
       ],
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
-      "Partistemmer": 170,
+      "Partistemmer": 169,
       "Stemmer": 214,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -488,12 +488,12 @@
         },
         {
           "Id": "5a320bc6-5e84-4ed4-baf5-4a8edf1daee8",
-          "Stemmer": 40,
+          "Stemmer": 38,
           "Stemmeseddelnavn": "Mads Fuglede"
         },
         {
           "Id": "983f20f5-d4ef-458b-ac5a-14e0a939409f",
-          "Stemmer": 51,
+          "Stemmer": 52,
           "Stemmeseddelnavn": "Dennis Flydtkjær"
         },
         {
@@ -503,18 +503,18 @@
         },
         {
           "Id": "54539d96-13fe-491c-9dc1-0015e0689595",
-          "Stemmer": 8,
+          "Stemmer": 9,
           "Stemmeseddelnavn": "Betina Kastbjerg"
         },
         {
           "Id": "6c381713-81de-4333-a98f-db149c6356e3",
-          "Stemmer": 4,
+          "Stemmer": 3,
           "Stemmeseddelnavn": "Vivi Altenburg"
         }
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 362,
+      "Partistemmer": 363,
       "Stemmer": 502,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -533,7 +533,7 @@
         },
         {
           "Id": "bf90719a-07e3-4649-b5cc-bdd0d08e7dfc",
-          "Stemmer": 32,
+          "Stemmer": 33,
           "Stemmeseddelnavn": "Frederik Houmann Thuesen"
         },
         {
@@ -579,7 +579,7 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 81,
+      "Partistemmer": 80,
       "Stemmer": 227,
       "StemmerDifferenceFraForrigeValg": null
     }
@@ -728,7 +728,7 @@
       "Paragraf": "13"
     },
     {
-      "Antal": 4,
+      "Antal": 5,
       "Id": 5,
       "Navn": "KrydsIflerePartifelter",
       "Paragraf": "8"
@@ -759,7 +759,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 8,
+  "UgyldigeStemmerUdoverBlanke": 9,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }

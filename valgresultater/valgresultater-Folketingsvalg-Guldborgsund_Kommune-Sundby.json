@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 17,
-  "FrigivelsesTidspunktUTC": "25-03-2026 10:07:16",
+  "FrigivelsesTidspunktUTC": "25-03-2026 10:25:15",
   "GyldigeStemmer": 2400,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -518,7 +518,7 @@
       "Kandidater": [
         {
           "Id": "1fd93cd3-e6c9-4c94-9166-ac30eb075ee1",
-          "Stemmer": 117,
+          "Stemmer": 121,
           "Stemmeseddelnavn": "Lars Løkke Rasmussen"
         },
         {
@@ -559,7 +559,7 @@
       ],
       "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
       "PartiNavn": "Moderaterne",
-      "Partistemmer": 58,
+      "Partistemmer": 54,
       "Stemmer": 196,
       "StemmerDifferenceFraForrigeValg": null
     },
