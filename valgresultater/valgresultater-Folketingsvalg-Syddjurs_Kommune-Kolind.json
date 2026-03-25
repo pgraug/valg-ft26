@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 2126,
+  "AfgivneStemmer": 2127,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Kolind",
   "AfstemningsområdeDagiId": 711940,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 19,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:08:01",
-  "GyldigeStemmer": 2102,
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:23:31",
+  "GyldigeStemmer": 2103,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -138,7 +138,7 @@
         },
         {
           "Id": "5048b339-f206-4705-94f8-97277fb54c50",
-          "Stemmer": 41,
+          "Stemmer": 40,
           "Stemmeseddelnavn": "Kirsten Normann Andersen"
         },
         {
@@ -174,7 +174,7 @@
       ],
       "PartiId": "fae32292-ff8f-4f27-8218-a9874603e759",
       "PartiNavn": "SF - Socialistisk Folkeparti",
-      "Partistemmer": 145,
+      "Partistemmer": 146,
       "Stemmer": 230,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -313,7 +313,7 @@
         },
         {
           "Id": "767e84b8-7c7a-48a3-80d2-d8b2ade10986",
-          "Stemmer": 114,
+          "Stemmer": 115,
           "Stemmeseddelnavn": "Troels Lund Poulsen"
         },
         {
@@ -330,7 +330,7 @@
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
       "Partistemmer": 92,
-      "Stemmer": 245,
+      "Stemmer": 246,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -522,9 +522,9 @@
       "Bogstavbetegnelse": "Å",
       "Kandidater": [
         {
-          "Id": "853b9789-cd33-4349-8326-7600a0cbf1f7",
-          "Stemmer": 12,
-          "Stemmeseddelnavn": "Torsten Gejl"
+          "Id": "63110ad4-bbc4-4f7f-b3af-dead6d0cbfd5",
+          "Stemmer": 2,
+          "Stemmeseddelnavn": "Nikoline Erbs Hillers-Bendtsen"
         },
         {
           "Id": "ac7b4f70-149c-441c-807b-5374ea6b02b6",
@@ -547,9 +547,14 @@
           "Stemmeseddelnavn": "Thomas Quist Mortensen"
         },
         {
-          "Id": "fca0af69-5750-40b6-8f31-6625a545f207",
+          "Id": "cac06c06-29a7-4ba5-b1c2-69a11c32554f",
           "Stemmer": 0,
-          "Stemmeseddelnavn": "Karina Konrad"
+          "Stemmeseddelnavn": "Tenna Duch Schaldemose"
+        },
+        {
+          "Id": "b09c272b-b691-4832-aba2-9ca9287b292a",
+          "Stemmer": 0,
+          "Stemmeseddelnavn": "Thor Clasen Jonasen"
         },
         {
           "Id": "97b3cb21-837a-443d-823c-65eab0339d82",
@@ -592,14 +597,14 @@
           "Stemmeseddelnavn": "Anna Calero"
         },
         {
-          "Id": "cac06c06-29a7-4ba5-b1c2-69a11c32554f",
-          "Stemmer": 0,
-          "Stemmeseddelnavn": "Tenna Duch Schaldemose"
+          "Id": "853b9789-cd33-4349-8326-7600a0cbf1f7",
+          "Stemmer": 13,
+          "Stemmeseddelnavn": "Torsten Gejl"
         },
         {
-          "Id": "b09c272b-b691-4832-aba2-9ca9287b292a",
+          "Id": "fca0af69-5750-40b6-8f31-6625a545f207",
           "Stemmer": 0,
-          "Stemmeseddelnavn": "Thor Clasen Jonasen"
+          "Stemmeseddelnavn": "Karina Konrad"
         },
         {
           "Id": "16eae56d-a60e-4421-8ab2-a0ec424dfe27",
@@ -615,16 +620,11 @@
           "Id": "94da0aa5-7b90-4ecd-a723-079daae8e71e",
           "Stemmer": 1,
           "Stemmeseddelnavn": "Kim Sørensen"
-        },
-        {
-          "Id": "63110ad4-bbc4-4f7f-b3af-dead6d0cbfd5",
-          "Stemmer": 2,
-          "Stemmeseddelnavn": "Nikoline Erbs Hillers-Bendtsen"
         }
       ],
       "PartiId": "c01e1c81-e8eb-4f3d-ac55-de9279740a0e",
       "PartiNavn": "Alternativet",
-      "Partistemmer": 38,
+      "Partistemmer": 37,
       "Stemmer": 57,
       "StemmerDifferenceFraForrigeValg": null
     },
