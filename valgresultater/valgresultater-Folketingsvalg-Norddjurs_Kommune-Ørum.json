@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 13,
-  "FrigivelsesTidspunktUTC": "25-03-2026 08:51:20",
-  "GyldigeStemmer": 1249,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:24:53",
+  "GyldigeStemmer": 1250,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -389,8 +389,8 @@
       ],
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
-      "Partistemmer": 22,
-      "Stemmer": 139,
+      "Partistemmer": 23,
+      "Stemmer": 140,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -716,12 +716,6 @@
       "Paragraf": "19"
     },
     {
-      "Antal": 1,
-      "Id": 26,
-      "Navn": "ModstridBogstavPartiNavn",
-      "Paragraf": "24,25"
-    },
-    {
       "Antal": 0,
       "Id": 23,
       "Navn": "KunUofficelBogstavPåEtBogstav",
@@ -780,6 +774,12 @@
       "Id": 22,
       "Navn": "KunNavnUofficielBogstav",
       "Paragraf": "20"
+    },
+    {
+      "Antal": 0,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
@@ -869,7 +869,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 4,
+  "UgyldigeStemmerUdoverBlanke": 3,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }

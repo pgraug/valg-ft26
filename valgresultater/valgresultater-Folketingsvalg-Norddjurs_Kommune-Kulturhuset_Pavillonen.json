@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 5,
   "BlankeUgyldigeFremmødteStemmer": 52,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:38:11",
-  "GyldigeStemmer": 5786,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:24:08",
+  "GyldigeStemmer": 5789,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -287,11 +287,6 @@
           "Stemmeseddelnavn": "Dorthe Hindborg"
         },
         {
-          "Id": "21c2c294-595e-443b-a20f-ca8404385619",
-          "Stemmer": 1136,
-          "Stemmeseddelnavn": "Leif Lahn Jensen"
-        },
-        {
           "Id": "2238f249-24ce-4bfe-b235-c01e2668b5bb",
           "Stemmer": 2,
           "Stemmeseddelnavn": "Erik Særkjær"
@@ -335,12 +330,17 @@
           "Id": "39dc98e7-ab24-4cf8-979a-f1a8c9291ed9",
           "Stemmer": 60,
           "Stemmeseddelnavn": "Nicolai Wammen"
+        },
+        {
+          "Id": "21c2c294-595e-443b-a20f-ca8404385619",
+          "Stemmer": 1137,
+          "Stemmeseddelnavn": "Leif Lahn Jensen"
         }
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
       "Partistemmer": 589,
-      "Stemmer": 1848,
+      "Stemmer": 1849,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -374,8 +374,8 @@
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 413,
-      "Stemmer": 485,
+      "Partistemmer": 414,
+      "Stemmer": 486,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -419,8 +419,8 @@
       ],
       "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
       "PartiNavn": "Moderaterne",
-      "Partistemmer": 231,
-      "Stemmer": 297,
+      "Partistemmer": 232,
+      "Stemmer": 298,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -716,12 +716,6 @@
       "Paragraf": "19"
     },
     {
-      "Antal": 1,
-      "Id": 22,
-      "Navn": "KunNavnUofficielBogstav",
-      "Paragraf": "20"
-    },
-    {
       "Antal": 2,
       "Id": 23,
       "Navn": "KunUofficelBogstavPåEtBogstav",
@@ -780,6 +774,12 @@
       "Id": 28,
       "Navn": "AndetEllerMereEndEnStemmeseddel",
       "Paragraf": "27"
+    },
+    {
+      "Antal": 0,
+      "Id": 22,
+      "Navn": "KunNavnUofficielBogstav",
+      "Paragraf": "20"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
@@ -862,14 +862,14 @@
       "Paragraf": "11"
     },
     {
-      "Antal": 2,
+      "Antal": 0,
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 17,
+  "UgyldigeStemmerUdoverBlanke": 14,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
