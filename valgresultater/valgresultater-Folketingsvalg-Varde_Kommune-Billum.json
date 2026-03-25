@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 8,
-  "FrigivelsesTidspunktUTC": "25-03-2026 07:58:00",
-  "GyldigeStemmer": 525,
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:33:25",
+  "GyldigeStemmer": 526,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -319,8 +319,8 @@
       ],
       "PartiId": "ffacb8b3-7f7b-4158-a1ee-c0be84a344c6",
       "PartiNavn": "Danmarksdemokraterne - Inger Støjberg",
-      "Partistemmer": 46,
-      "Stemmer": 63,
+      "Partistemmer": 47,
+      "Stemmer": 64,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -760,7 +760,7 @@
       "Paragraf": "19"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 22,
       "Navn": "KunNavnUofficielBogstav",
       "Paragraf": "20"
@@ -883,7 +883,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 1,
+  "UgyldigeStemmerUdoverBlanke": 0,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
