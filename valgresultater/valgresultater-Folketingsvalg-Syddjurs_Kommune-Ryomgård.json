@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 28,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:08:31",
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:01:45",
   "GyldigeStemmer": 3020,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -17,14 +17,14 @@
       "Bogstavbetegnelse": "O",
       "Kandidater": [
         {
+          "Id": "f642b976-a10d-4a46-ad9e-726db2eb8ae3",
+          "Stemmer": 67,
+          "Stemmeseddelnavn": "Nick Zimmermann"
+        },
+        {
           "Id": "772e0692-3976-479c-9a9b-c587820eb73c",
           "Stemmer": 11,
           "Stemmeseddelnavn": "Nana Harring"
-        },
-        {
-          "Id": "f642b976-a10d-4a46-ad9e-726db2eb8ae3",
-          "Stemmer": 66,
-          "Stemmeseddelnavn": "Nick Zimmermann"
         },
         {
           "Id": "78903b71-f46c-4273-95b9-6a61a071263c",
@@ -44,7 +44,7 @@
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 183,
+      "Partistemmer": 182,
       "Stemmer": 272,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -413,13 +413,13 @@
         },
         {
           "Id": "ab875ad0-5be5-42ea-a7d9-41654bcd6da1",
-          "Stemmer": 12,
+          "Stemmer": 13,
           "Stemmeseddelnavn": "Christina Egelund"
         }
       ],
       "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
       "PartiNavn": "Moderaterne",
-      "Partistemmer": 131,
+      "Partistemmer": 130,
       "Stemmer": 162,
       "StemmerDifferenceFraForrigeValg": null
     },
