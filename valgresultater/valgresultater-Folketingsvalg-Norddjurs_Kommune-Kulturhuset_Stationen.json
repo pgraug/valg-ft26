@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
   "BlankeUgyldigeFremmødteStemmer": 17,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:38:56",
-  "GyldigeStemmer": 1509,
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:30:09",
+  "GyldigeStemmer": 1510,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -603,7 +603,7 @@
         },
         {
           "Id": "767e84b8-7c7a-48a3-80d2-d8b2ade10986",
-          "Stemmer": 66,
+          "Stemmer": 67,
           "Stemmeseddelnavn": "Troels Lund Poulsen"
         },
         {
@@ -630,7 +630,7 @@
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
       "Partistemmer": 49,
-      "Stemmer": 147,
+      "Stemmer": 148,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -862,14 +862,14 @@
       "Paragraf": "4"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 2,
       "Navn": "AndetMærkeEndKryds",
       "Paragraf": "5"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 4,
+  "UgyldigeStemmerUdoverBlanke": 3,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
