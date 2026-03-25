@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 647,
+  "AfgivneStemmer": 646,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Hundelev",
   "AfstemningsområdeDagiId": 710482,
@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 8,
-  "FrigivelsesTidspunktUTC": "24-03-2026 20:15:32",
+  "FrigivelsesTidspunktUTC": "25-03-2026 07:20:55",
   "GyldigeStemmer": 637,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -207,12 +207,6 @@
   "UgyldigeFremmødteStemmerÅrsager": [
     {
       "Antal": 1,
-      "Id": 14,
-      "Navn": "AfmærketMedForskelligeFarverOgAndet",
-      "Paragraf": "17"
-    },
-    {
-      "Antal": 1,
       "Id": 9,
       "Navn": "AndreGrunde",
       "Paragraf": "12"
@@ -288,10 +282,16 @@
       "Id": 6,
       "Navn": "KrydsRækkerIndIflerePartifelter",
       "Paragraf": "9"
+    },
+    {
+      "Antal": 0,
+      "Id": 14,
+      "Navn": "AfmærketMedForskelligeFarverOgAndet",
+      "Paragraf": "17"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 2,
+  "UgyldigeStemmerUdoverBlanke": 1,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
