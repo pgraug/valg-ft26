@@ -8,9 +8,9 @@
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
-  "BlankeUgyldigeFremmødteStemmer": 11,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:51:00",
-  "GyldigeStemmer": 1139,
+  "BlankeUgyldigeFremmødteStemmer": 10,
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:27:32",
+  "GyldigeStemmer": 1140,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -104,8 +104,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 153,
-      "Stemmer": 232,
+      "Partistemmer": 154,
+      "Stemmer": 233,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -113,7 +113,7 @@
       "Kandidater": [
         {
           "Id": "fce7117e-5a83-489d-b401-a03d6d878e52",
-          "Stemmer": 0,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Christian Juhl"
         },
         {
@@ -159,7 +159,7 @@
       ],
       "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
       "PartiNavn": "Enhedslisten - De Rød-Grønne",
-      "Partistemmer": 12,
+      "Partistemmer": 11,
       "Stemmer": 14,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -248,7 +248,7 @@
         },
         {
           "Id": "bf90719a-07e3-4649-b5cc-bdd0d08e7dfc",
-          "Stemmer": 4,
+          "Stemmer": 5,
           "Stemmeseddelnavn": "Frederik Houmann Thuesen"
         },
         {
@@ -269,8 +269,8 @@
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 37,
-      "Stemmer": 225,
+      "Partistemmer": 35,
+      "Stemmer": 224,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -518,7 +518,7 @@
         },
         {
           "Id": "1c32f6d0-1258-47ab-8859-7e00ed9f5fde",
-          "Stemmer": 10,
+          "Stemmer": 11,
           "Stemmeseddelnavn": "Carsten Bach"
         },
         {
@@ -555,7 +555,7 @@
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
       "Partistemmer": 85,
-      "Stemmer": 130,
+      "Stemmer": 131,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -599,12 +599,6 @@
     }
   ],
   "UgyldigeBrevstemmerÅrsager": [
-    {
-      "Antal": 1,
-      "Id": 26,
-      "Navn": "ModstridBogstavPartiNavn",
-      "Paragraf": "24,25"
-    },
     {
       "Antal": 1,
       "Id": 21,
@@ -670,15 +664,15 @@
       "Id": 27,
       "Navn": "AndreGrunde",
       "Paragraf": "26"
+    },
+    {
+      "Antal": 0,
+      "Id": 26,
+      "Navn": "ModstridBogstavPartiNavn",
+      "Paragraf": "24,25"
     }
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
-    {
-      "Antal": 11,
-      "Id": 1,
-      "Navn": "Blanke",
-      "Paragraf": "4"
-    },
     {
       "Antal": 0,
       "Id": 3,
@@ -717,12 +711,6 @@
     },
     {
       "Antal": 0,
-      "Id": 5,
-      "Navn": "KrydsIflerePartifelter",
-      "Paragraf": "8"
-    },
-    {
-      "Antal": 0,
       "Id": 7,
       "Navn": "KrydsUdForUdenForPartierne",
       "Paragraf": "10"
@@ -756,6 +744,18 @@
       "Id": 9,
       "Navn": "AndreGrunde",
       "Paragraf": "12"
+    },
+    {
+      "Antal": 10,
+      "Id": 1,
+      "Navn": "Blanke",
+      "Paragraf": "4"
+    },
+    {
+      "Antal": 1,
+      "Id": 5,
+      "Navn": "KrydsIflerePartifelter",
+      "Paragraf": "8"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
