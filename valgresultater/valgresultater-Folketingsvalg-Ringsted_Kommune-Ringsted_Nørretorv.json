@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 9,
   "BlankeUgyldigeFremmødteStemmer": 91,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:49:09",
-  "GyldigeStemmer": 6941,
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:46:00",
+  "GyldigeStemmer": 6942,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -79,8 +79,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 1035,
-      "Stemmer": 1491,
+      "Partistemmer": 1036,
+      "Stemmer": 1492,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -956,14 +956,14 @@
       "Paragraf": "13"
     },
     {
-      "Antal": 1,
+      "Antal": 0,
       "Id": 11,
       "Navn": "AndetMærkeEndKrydsForudenKryds",
       "Paragraf": "14"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 24,
+  "UgyldigeStemmerUdoverBlanke": 23,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
