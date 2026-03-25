@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 9,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:07:45",
+  "FrigivelsesTidspunktUTC": "25-03-2026 08:07:01",
   "GyldigeStemmer": 1341,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -138,7 +138,7 @@
         },
         {
           "Id": "634af822-59e8-43f4-a5e7-1f5286146f48",
-          "Stemmer": 65,
+          "Stemmer": 63,
           "Stemmeseddelnavn": "Alex Vanopslagh"
         },
         {
@@ -148,7 +148,7 @@
         },
         {
           "Id": "4174cf88-4ba1-4a5c-9603-a7df5b7a56b2",
-          "Stemmer": 17,
+          "Stemmer": 18,
           "Stemmeseddelnavn": "Jens Meilvang"
         },
         {
@@ -169,7 +169,7 @@
       ],
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
-      "Partistemmer": 18,
+      "Partistemmer": 19,
       "Stemmer": 101,
       "StemmerDifferenceFraForrigeValg": null
     },
