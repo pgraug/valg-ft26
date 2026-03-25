@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 28,
-  "FrigivelsesTidspunktUTC": "25-03-2026 08:38:18",
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:08:08",
   "GyldigeStemmer": 3909,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -584,7 +584,7 @@
   "UdenforParti": [],
   "UgyldigeBrevstemmerÅrsager": [
     {
-      "Antal": 5,
+      "Antal": 2,
       "Id": 26,
       "Navn": "ModstridBogstavPartiNavn",
       "Paragraf": "24,25"
@@ -614,7 +614,7 @@
       "Paragraf": "23"
     },
     {
-      "Antal": 0,
+      "Antal": 1,
       "Id": 23,
       "Navn": "KunUofficelBogstavPåEtBogstav",
       "Paragraf": "21"
@@ -650,7 +650,7 @@
       "Paragraf": "26"
     },
     {
-      "Antal": 0,
+      "Antal": 2,
       "Id": 22,
       "Navn": "KunNavnUofficielBogstav",
       "Paragraf": "20"
