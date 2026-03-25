@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 3562,
+  "AfgivneStemmer": 3560,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Stenlille",
   "AfstemningsområdeDagiId": 710022,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 5,
   "BlankeUgyldigeFremmødteStemmer": 49,
-  "FrigivelsesTidspunktUTC": "25-03-2026 12:26:31",
-  "GyldigeStemmer": 3497,
+  "FrigivelsesTidspunktUTC": "25-03-2026 15:02:46",
+  "GyldigeStemmer": 3495,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -368,7 +368,7 @@
         },
         {
           "Id": "7852d970-e5c2-4caa-8f2d-395c39c6cf0d",
-          "Stemmer": 5,
+          "Stemmer": 3,
           "Stemmeseddelnavn": "Jan Herskov"
         },
         {
@@ -390,7 +390,7 @@
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
       "Partistemmer": 180,
-      "Stemmer": 704,
+      "Stemmer": 702,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
