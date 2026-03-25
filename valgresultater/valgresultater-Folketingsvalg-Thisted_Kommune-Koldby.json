@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 1,
   "BlankeUgyldigeFremmødteStemmer": 4,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:43:11",
+  "FrigivelsesTidspunktUTC": "25-03-2026 10:19:15",
   "GyldigeStemmer": 1335,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -278,7 +278,7 @@
         },
         {
           "Id": "b5c7ab7e-81a8-4b8a-ae5a-a722b7645411",
-          "Stemmer": 52,
+          "Stemmer": 56,
           "Stemmeseddelnavn": "Mette Frederiksen"
         },
         {
@@ -304,7 +304,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 74,
+      "Partistemmer": 70,
       "Stemmer": 340,
       "StemmerDifferenceFraForrigeValg": null
     },
