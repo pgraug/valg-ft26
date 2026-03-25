@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 3656,
+  "AfgivneStemmer": 3658,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Frederiksberg",
   "AfstemningsområdeDagiId": 711410,
@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 0,
   "BlankeUgyldigeFremmødteStemmer": 20,
-  "FrigivelsesTidspunktUTC": "25-03-2026 11:15:20",
-  "GyldigeStemmer": 3633,
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:21:57",
+  "GyldigeStemmer": 3635,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -469,8 +469,8 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 528,
-      "Stemmer": 807,
+      "Partistemmer": 530,
+      "Stemmer": 809,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
