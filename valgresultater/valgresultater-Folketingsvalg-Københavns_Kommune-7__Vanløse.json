@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 14,
   "BlankeUgyldigeFremmødteStemmer": 60,
-  "FrigivelsesTidspunktUTC": "25-03-2026 14:16:36",
+  "FrigivelsesTidspunktUTC": "25-03-2026 14:21:22",
   "GyldigeStemmer": 8253,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -608,7 +608,7 @@
         },
         {
           "Id": "6aade19b-74c4-430d-87db-d2e92e7bedf3",
-          "Stemmer": 31,
+          "Stemmer": 32,
           "Stemmeseddelnavn": "Merete Dea Larsen"
         },
         {
@@ -619,7 +619,7 @@
       ],
       "PartiId": "1df39501-e08d-42e9-9804-eccf7b1f564a",
       "PartiNavn": "Dansk Folkeparti",
-      "Partistemmer": 433,
+      "Partistemmer": 432,
       "Stemmer": 513,
       "StemmerDifferenceFraForrigeValg": null
     },
