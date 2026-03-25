@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 3,
   "BlankeUgyldigeFremmødteStemmer": 39,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:09:16",
+  "FrigivelsesTidspunktUTC": "25-03-2026 07:51:47",
   "GyldigeStemmer": 5206,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -323,7 +323,7 @@
         },
         {
           "Id": "e4172ee9-61b8-4509-8cbe-28e7b5947589",
-          "Stemmer": 221,
+          "Stemmer": 222,
           "Stemmeseddelnavn": "Mona Juul"
         },
         {
@@ -333,7 +333,7 @@
         },
         {
           "Id": "c43d96c5-fd06-43ba-b840-ec6ca9f41ad9",
-          "Stemmer": 25,
+          "Stemmer": 24,
           "Stemmeseddelnavn": "Bjørn Jensen"
         },
         {
@@ -538,7 +538,7 @@
         },
         {
           "Id": "21c2c294-595e-443b-a20f-ca8404385619",
-          "Stemmer": 306,
+          "Stemmer": 307,
           "Stemmeseddelnavn": "Leif Lahn Jensen"
         },
         {
@@ -563,7 +563,7 @@
         },
         {
           "Id": "39dc98e7-ab24-4cf8-979a-f1a8c9291ed9",
-          "Stemmer": 185,
+          "Stemmer": 187,
           "Stemmeseddelnavn": "Nicolai Wammen"
         },
         {
@@ -589,7 +589,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 707,
+      "Partistemmer": 704,
       "Stemmer": 1349,
       "StemmerDifferenceFraForrigeValg": null
     },

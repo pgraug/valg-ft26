@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 6270,
+  "AfgivneStemmer": 6269,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Ebeltoft",
   "AfstemningsområdeDagiId": 701596,
@@ -7,9 +7,9 @@
   "AntalStemmeberettigedeVælgere": 7306,
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
-  "BlankeUgyldigeBrevstemmer": 3,
+  "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 37,
-  "FrigivelsesTidspunktUTC": "24-03-2026 22:07:30",
+  "FrigivelsesTidspunktUTC": "25-03-2026 07:51:32",
   "GyldigeStemmer": 6204,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -668,7 +668,7 @@
         },
         {
           "Id": "21c2c294-595e-443b-a20f-ca8404385619",
-          "Stemmer": 416,
+          "Stemmer": 441,
           "Stemmeseddelnavn": "Leif Lahn Jensen"
         },
         {
@@ -689,7 +689,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 840,
+      "Partistemmer": 815,
       "Stemmer": 1534,
       "StemmerDifferenceFraForrigeValg": null
     }
@@ -716,7 +716,7 @@
       "Paragraf": "20"
     },
     {
-      "Antal": 3,
+      "Antal": 2,
       "Id": 21,
       "Navn": "Blanke",
       "Paragraf": "19"
