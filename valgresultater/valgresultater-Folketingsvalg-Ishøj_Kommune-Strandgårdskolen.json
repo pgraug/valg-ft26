@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 5,
   "BlankeUgyldigeFremmødteStemmer": 20,
-  "FrigivelsesTidspunktUTC": "25-03-2026 08:48:50",
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:03:52",
   "GyldigeStemmer": 1900,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -373,12 +373,12 @@
         },
         {
           "Id": "2abcebb5-1bc4-445a-a82d-72d06c4255f7",
-          "Stemmer": 5,
+          "Stemmer": 7,
           "Stemmeseddelnavn": "Emil Viskum"
         },
         {
           "Id": "361ae7ef-a8bf-4d97-8ce7-52ce794c9ce0",
-          "Stemmer": 6,
+          "Stemmer": 4,
           "Stemmeseddelnavn": "Caroline Lochow"
         },
         {
