@@ -1,5 +1,5 @@
 {
-  "AfgivneStemmer": 2966,
+  "AfgivneStemmer": 2967,
   "AfgivneStemmerDifferenceFraForrigeValg": null,
   "Afstemningsområde": "Præstø",
   "AfstemningsområdeDagiId": 706306,
@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 25,
-  "FrigivelsesTidspunktUTC": "25-03-2026 12:42:16",
+  "FrigivelsesTidspunktUTC": "25-03-2026 12:46:45",
   "GyldigeStemmer": 2931,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -890,7 +890,7 @@
       "Paragraf": "17"
     },
     {
-      "Antal": 1,
+      "Antal": 2,
       "Id": 5,
       "Navn": "KrydsIflerePartifelter",
       "Paragraf": "8"
@@ -963,7 +963,7 @@
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 8,
+  "UgyldigeStemmerUdoverBlanke": 9,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
