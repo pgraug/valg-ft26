@@ -9,7 +9,7 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 28,
-  "FrigivelsesTidspunktUTC": "25-03-2026 09:08:08",
+  "FrigivelsesTidspunktUTC": "25-03-2026 10:40:01",
   "GyldigeStemmer": 3909,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -658,7 +658,7 @@
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
     {
-      "Antal": 4,
+      "Antal": 5,
       "Id": 13,
       "Navn": "StemmeseddelMedTegningPåskrift",
       "Paragraf": "16"
@@ -686,12 +686,6 @@
       "Id": 9,
       "Navn": "AndreGrunde",
       "Paragraf": "12"
-    },
-    {
-      "Antal": 1,
-      "Id": 10,
-      "Navn": "StemmeseddelIkkeFraAfstemningssted",
-      "Paragraf": "13"
     },
     {
       "Antal": 0,
@@ -740,6 +734,12 @@
       "Id": 14,
       "Navn": "AfmærketMedForskelligeFarverOgAndet",
       "Paragraf": "17"
+    },
+    {
+      "Antal": 0,
+      "Id": 10,
+      "Navn": "StemmeseddelIkkeFraAfstemningssted",
+      "Paragraf": "13"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
