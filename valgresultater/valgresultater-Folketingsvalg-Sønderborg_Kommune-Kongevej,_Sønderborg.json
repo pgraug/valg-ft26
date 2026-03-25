@@ -9,8 +9,8 @@
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
   "BlankeUgyldigeFremmødteStemmer": 51,
-  "FrigivelsesTidspunktUTC": "25-03-2026 08:50:20",
-  "GyldigeStemmer": 4400,
+  "FrigivelsesTidspunktUTC": "25-03-2026 11:16:50",
+  "GyldigeStemmer": 4402,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
     {
@@ -233,7 +233,7 @@
         },
         {
           "Id": "929b9b3c-bc5e-4771-b6ba-6a3030020a3f",
-          "Stemmer": 96,
+          "Stemmer": 97,
           "Stemmeseddelnavn": "Frederik Klakk"
         },
         {
@@ -275,7 +275,7 @@
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
       "Partistemmer": 331,
-      "Stemmer": 507,
+      "Stemmer": 508,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -638,7 +638,7 @@
         },
         {
           "Id": "03662025-f626-4730-a09b-66983bc3fcd7",
-          "Stemmer": 421,
+          "Stemmer": 422,
           "Stemmeseddelnavn": "Benny Engelbrecht"
         },
         {
@@ -675,7 +675,7 @@
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
       "Partistemmer": 547,
-      "Stemmer": 1059,
+      "Stemmer": 1060,
       "StemmerDifferenceFraForrigeValg": null
     },
     {
@@ -804,12 +804,6 @@
       "Paragraf": "4"
     },
     {
-      "Antal": 1,
-      "Id": 8,
-      "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
-      "Paragraf": "11"
-    },
-    {
       "Antal": 0,
       "Id": 9,
       "Navn": "AndreGrunde",
@@ -865,12 +859,6 @@
     },
     {
       "Antal": 1,
-      "Id": 2,
-      "Navn": "AndetMærkeEndKryds",
-      "Paragraf": "5"
-    },
-    {
-      "Antal": 1,
       "Id": 6,
       "Navn": "KrydsRækkerIndIflerePartifelter",
       "Paragraf": "9"
@@ -880,10 +868,22 @@
       "Id": 4,
       "Navn": "KrydsUdenForPartifelterne",
       "Paragraf": "7"
+    },
+    {
+      "Antal": 0,
+      "Id": 2,
+      "Navn": "AndetMærkeEndKryds",
+      "Paragraf": "5"
+    },
+    {
+      "Antal": 0,
+      "Id": 8,
+      "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
+      "Paragraf": "11"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 13,
+  "UgyldigeStemmerUdoverBlanke": 11,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
