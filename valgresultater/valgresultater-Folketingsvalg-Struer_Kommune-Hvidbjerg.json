@@ -8,8 +8,8 @@
   "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
   "BlankeStemmerDifferenceFraForrigeValg": null,
   "BlankeUgyldigeBrevstemmer": 2,
-  "BlankeUgyldigeFremmødteStemmer": 27,
-  "FrigivelsesTidspunktUTC": "24-03-2026 21:51:45",
+  "BlankeUgyldigeFremmødteStemmer": 26,
+  "FrigivelsesTidspunktUTC": "25-03-2026 09:04:22",
   "GyldigeStemmer": 1850,
   "GyldigeStemmerDifferenceFraForrigeValg": null,
   "IndenforParti": [
@@ -58,7 +58,7 @@
         },
         {
           "Id": "256b328e-0814-417d-ad1f-c489093f5455",
-          "Stemmer": 38,
+          "Stemmer": 39,
           "Stemmeseddelnavn": "Thorbjørn Jacobsen"
         },
         {
@@ -74,7 +74,7 @@
       ],
       "PartiId": "4d676beb-025b-4d42-ac5d-533d5130a6f3",
       "PartiNavn": "Liberal Alliance",
-      "Partistemmer": 113,
+      "Partistemmer": 112,
       "Stemmer": 169,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -93,7 +93,7 @@
         },
         {
           "Id": "a63fa5f8-339b-4221-9094-1beef337ee54",
-          "Stemmer": 10,
+          "Stemmer": 11,
           "Stemmeseddelnavn": "Morten E.G. Brautsch"
         },
         {
@@ -104,7 +104,7 @@
       ],
       "PartiId": "30375f1d-ff52-4b0d-9964-7147844cd5e7",
       "PartiNavn": "Moderaterne",
-      "Partistemmer": 52,
+      "Partistemmer": 51,
       "Stemmer": 65,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -308,12 +308,12 @@
         },
         {
           "Id": "23693ef6-b15b-4a44-837d-ade87e2d1f14",
-          "Stemmer": 24,
+          "Stemmer": 26,
           "Stemmeseddelnavn": "Anders Andreasen"
         },
         {
           "Id": "7ca6cb0e-bbd5-493a-bfd1-b918bfa4690e",
-          "Stemmer": 8,
+          "Stemmer": 9,
           "Stemmeseddelnavn": "Vinnie Borbjerg"
         },
         {
@@ -354,7 +354,7 @@
       ],
       "PartiId": "2f487db9-0663-429f-a4ec-081ae701723d",
       "PartiNavn": "Socialdemokratiet",
-      "Partistemmer": 280,
+      "Partistemmer": 277,
       "Stemmer": 380,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -508,13 +508,13 @@
         },
         {
           "Id": "75eb4592-a4fc-473e-8eca-df3d2b340ea7",
-          "Stemmer": 0,
+          "Stemmer": 1,
           "Stemmeseddelnavn": "Damian Hartvig Mathiesen"
         }
       ],
       "PartiId": "8bb64864-5728-41db-af00-6234795cf340",
       "PartiNavn": "Enhedslisten - De Rød-Grønne",
-      "Partistemmer": 27,
+      "Partistemmer": 26,
       "Stemmer": 30,
       "StemmerDifferenceFraForrigeValg": null
     },
@@ -573,13 +573,13 @@
         },
         {
           "Id": "273731fd-a5be-44fb-9620-eaa64e269629",
-          "Stemmer": 184,
+          "Stemmer": 183,
           "Stemmeseddelnavn": "Erik Flyvholm"
         }
       ],
       "PartiId": "914ae6fd-98a6-4ed6-afd1-60ab809678ed",
       "PartiNavn": "Venstre, Danmarks Liberale Parti",
-      "Partistemmer": 58,
+      "Partistemmer": 59,
       "Stemmer": 357,
       "StemmerDifferenceFraForrigeValg": null
     }
@@ -674,7 +674,7 @@
   ],
   "UgyldigeFremmødteStemmerÅrsager": [
     {
-      "Antal": 27,
+      "Antal": 26,
       "Id": 1,
       "Navn": "Blanke",
       "Paragraf": "4"
@@ -723,12 +723,6 @@
     },
     {
       "Antal": 0,
-      "Id": 13,
-      "Navn": "StemmeseddelMedTegningPåskrift",
-      "Paragraf": "16"
-    },
-    {
-      "Antal": 0,
       "Id": 12,
       "Navn": "AnførtFlereEndTreKryds",
       "Paragraf": "15"
@@ -756,10 +750,16 @@
       "Id": 14,
       "Navn": "AfmærketMedForskelligeFarverOgAndet",
       "Paragraf": "17"
+    },
+    {
+      "Antal": 1,
+      "Id": 13,
+      "Navn": "StemmeseddelMedTegningPåskrift",
+      "Paragraf": "16"
     }
   ],
   "UgyldigeStemmerDifferenceFraForrigeValg": null,
-  "UgyldigeStemmerUdoverBlanke": 1,
+  "UgyldigeStemmerUdoverBlanke": 2,
   "Valgart": "Folketingsvalg",
   "Valgdag": "24-03-2026"
 }
